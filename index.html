@@ -80,6 +80,16 @@
   .tension-side-a { background: #0f0f2a; padding: 0.7rem 1rem; font-size: 0.78rem; color: #93c5fd; border-right: 1px solid #2a2a4a; }
   .tension-side-b { background: #0f0f2a; padding: 0.7rem 1rem; font-size: 0.78rem; color: #f9a8d4; }
 
+  /* Disciplinary Questions */
+  .dq-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-bottom: 4rem; }
+  .dq-card {
+    background: #0e0e25; border: 1px solid #2a2a4a; border-radius: 10px; padding: 1.2rem;
+    border-top: 3px solid var(--accent);
+  }
+  .dq-icon { font-size: 1.4rem; margin-bottom: 0.5rem; }
+  .dq-question { font-size: 0.95rem; color: #e0e0f0; line-height: 1.6; margin-bottom: 0.6rem; }
+  .dq-sources { font-size: 0.72rem; color: #5a5a9a; font-family: monospace; }
+
   /* Argument */
   .argument {
     background: linear-gradient(135deg, #111128, #1a1040);
@@ -112,6 +122,9 @@
     <strong>power as it operates through information systems, archives, interfaces, and designed objects</strong> —
     and with the communities who resist, reroute, or reimagine those systems.
   </div>
+
+  <p class="section-title">// Key Disciplinary Questions Right Now</p>
+  <div class="dq-grid" id="dq-grid"></div>
 
   <p class="section-title">// Six Thematic Clusters</p>
   <div class="clusters" id="clusters"></div>
@@ -203,6 +216,68 @@ new p5(function(p) {
   };
 
   p.windowResized = function() { p.resizeCanvas(p.windowWidth, 420); };
+});
+
+// ── Disciplinary Questions ────────────────────────────────────
+const dqs = [
+  {
+    accent: '#f87171', icon: '⚖️',
+    q: 'How do algorithms automate, hide, and scale discrimination?',
+    sources: 'Noble · Eubanks · R. Benjamin · Chun · Mullaney et al.'
+  },
+  {
+    accent: '#818cf8', icon: '✊',
+    q: 'What does it mean to design for justice rather than just efficiency?',
+    sources: 'Costanza-Chock · Walton et al. · D\'Ignazio & Klein · Gonzales · Tham'
+  },
+  {
+    accent: '#34d399', icon: '🖤',
+    q: 'How do Black, Indigenous, and queer communities build culture through and against hostile digital infrastructure?',
+    sources: 'Brock · Bailey · Steele · Gray · McKinney · Nakamura · Jackson et al.'
+  },
+  {
+    accent: '#fbbf24', icon: '🌍',
+    q: 'Whose knowledge gets digitized, archived, and counted — and whose is erased?',
+    sources: 'Risam · Miron · De Kosnik · Cohen & Rosenzweig · Manovich vs. D\'Ignazio & Klein'
+  },
+  {
+    accent: '#c084fc', icon: '🧬',
+    q: 'What gets lost when human experience is abstracted into data?',
+    sources: 'Hayles · Haraway · Losh & Wernimont · Ahmed · D\'Ignazio & Klein'
+  },
+  {
+    accent: '#38bdf8', icon: '💻',
+    q: 'Is coding a literacy — and if so, who is being taught to read and write it, and on whose terms?',
+    sources: 'Vee · Bogost · Montfort · Eubanks · Walton et al.'
+  },
+  {
+    accent: '#f472b6', icon: '📡',
+    q: 'Can hashtag activism create structural change, or does it commodify dissent?',
+    sources: 'Jackson, Bailey & Welles · Bailey · Steele · Chun'
+  },
+  {
+    accent: '#a3e635', icon: '🏛️',
+    q: 'Is digital humanities reproducing colonial power structures under a new name?',
+    sources: 'Risam · Miron · Mullaney et al. · Gold & Klein · Said → Haraway → Hayles'
+  },
+  {
+    accent: '#fb923c', icon: '🔧',
+    q: 'Should we reform or abolish the systems that cause harm?',
+    sources: 'R. Benjamin (abolition) vs. Costanza-Chock · Walton et al. (redesign from within)'
+  }
+];
+
+const dqEl = document.getElementById('dq-grid');
+dqs.forEach(d => {
+  const card = document.createElement('div');
+  card.className = 'dq-card';
+  card.style.setProperty('--accent', d.accent);
+  card.innerHTML = `
+    <div class="dq-icon">${d.icon}</div>
+    <div class="dq-question">${d.q}</div>
+    <div class="dq-sources">${d.sources}</div>
+  `;
+  dqEl.appendChild(card);
 });
 
 // ── Data ──────────────────────────────────────────────────────
