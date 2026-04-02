@@ -81,14 +81,52 @@
   .tension-side-b { background: #0f0f2a; padding: 0.7rem 1rem; font-size: 0.78rem; color: #f9a8d4; }
 
   /* Disciplinary Questions */
-  .dq-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-bottom: 4rem; }
+  .dq-intro { font-size: 0.88rem; color: #7c7ca0; line-height: 1.7; margin-bottom: 1.5rem; border-left: 3px solid #2a2a4a; padding-left: 1rem; }
+  .dq-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
   .dq-card {
     background: #0e0e25; border: 1px solid #2a2a4a; border-radius: 10px; padding: 1.2rem;
     border-top: 3px solid var(--accent);
+    transition: transform 0.15s, box-shadow 0.15s;
+    cursor: default;
   }
+  .dq-card:hover { transform: translateY(-2px); box-shadow: 0 4px 24px rgba(99,102,241,0.12); }
   .dq-icon { font-size: 1.4rem; margin-bottom: 0.5rem; }
   .dq-question { font-size: 0.95rem; color: #e0e0f0; line-height: 1.6; margin-bottom: 0.6rem; }
   .dq-sources { font-size: 0.72rem; color: #5a5a9a; font-family: monospace; }
+
+  /* Emerging signal */
+  .emerging {
+    background: #0f1a0f; border: 1px solid #2a4a2a; border-left: 4px solid #4ade80;
+    border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 4rem; font-size: 0.87rem; color: #86efac; line-height: 1.7;
+  }
+  .emerging strong { color: #4ade80; }
+
+  /* Potential Core List */
+  .pcl-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+  .pcl-filter {
+    background: #111128; border: 1px solid #2a2a4a; border-radius: 20px;
+    padding: 0.3rem 0.9rem; font-size: 0.72rem; color: #7c7ca0; cursor: pointer;
+    font-family: monospace; letter-spacing: 0.08em; transition: all 0.15s;
+  }
+  .pcl-filter:hover, .pcl-filter.active { background: #1e1e40; border-color: #6366f1; color: #c4b5fd; }
+  .pcl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; margin-bottom: 4rem; }
+  .pcl-card {
+    background: #111128; border: 1px solid #2a2a4a; border-radius: 10px;
+    padding: 1.1rem; cursor: pointer; transition: border-color 0.2s;
+  }
+  .pcl-card:hover { border-color: #4a4a8a; }
+  .pcl-card.open { border-color: #a78bfa; }
+  .pcl-card[hidden] { display: none; }
+  .pcl-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 0.5rem; }
+  .pcl-num { font-size: 0.6rem; color: #4a4a8a; font-family: monospace; white-space: nowrap; padding-top: 0.15rem; }
+  .pcl-title-block { flex: 1; }
+  .pcl-author { font-size: 0.72rem; color: #6366f1; font-family: monospace; margin-bottom: 0.2rem; }
+  .pcl-booktitle { font-size: 0.9rem; color: #e0e0f0; font-style: italic; }
+  .pcl-tag {
+    font-size: 0.6rem; padding: 0.15rem 0.5rem; border-radius: 10px; white-space: nowrap;
+    border: 1px solid; font-family: monospace;
+  }
+  .pcl-body { display: none; margin-top: 0.8rem; padding-top: 0.8rem; border-top: 1px solid #1a1a3a; font-size: 0.82rem; line-height: 1.7; color: #a0a0c0; }
 
   /* Argument */
   .argument {
@@ -124,7 +162,16 @@
   </div>
 
   <p class="section-title">// Key Disciplinary Questions Right Now</p>
+  <p class="dq-intro">Derived by cross-referencing the 55-text candidacy list with the <em>Potential Core List</em> (30 texts). Where both lists independently return to the same authors and problems, that convergence signals what the field is genuinely asking right now.</p>
   <div class="dq-grid" id="dq-grid"></div>
+  <div class="emerging">
+    <strong>Emerging signal — Ahmed, <em>What's the Use?</em></strong><br>
+    A newer addition not in the core 55 but prominent in the potential list. Ahmed asks who gets to define what counts as "useful" — and for whom. This represents the field's push toward interrogating the foundational assumptions behind tool-building itself, not just critiquing existing tools. Watch for this to become a standard theoretical anchor alongside Noble and Eubanks.
+  </div>
+
+  <p class="section-title">// Potential Core List — 30 Texts</p>
+  <div class="pcl-filters" id="pcl-filters"></div>
+  <div class="pcl-grid" id="pcl-grid"></div>
 
   <p class="section-title">// Six Thematic Clusters</p>
   <div class="clusters" id="clusters"></div>
@@ -278,6 +325,140 @@ dqs.forEach(d => {
     <div class="dq-sources">${d.sources}</div>
   `;
   dqEl.appendChild(card);
+});
+
+// ── Potential Core List (30 texts) ───────────────────────────
+const tagStyles = {
+  'Data & Algorithms': { color: '#f87171', bg: '#1a0a0a' },
+  'Black Digital Studies': { color: '#34d399', bg: '#0a1a12' },
+  'Feminist Theory': { color: '#f472b6', bg: '#1a0a14' },
+  'Design Justice': { color: '#818cf8', bg: '#0e0e1a' },
+  'DH Methods': { color: '#fbbf24', bg: '#1a1400' },
+  'Postcolonial DH': { color: '#a78bfa', bg: '#120a1a' },
+  'Tech Comm': { color: '#38bdf8', bg: '#0a1520' },
+  'Media Theory': { color: '#fb923c', bg: '#1a0e08' },
+};
+
+const pclBooks = [
+  { num:'01', author:"D'Ignazio & Klein", title:"Data Feminism", tag:"Data & Algorithms",
+    summary:"Argues data and statistics reflect whose voices have power. Provides seven feminist principles for equitable data science — examining power structures and remembering data comes from real people's lives. A practical guide for making data work serve justice instead of reinforcing existing inequalities." },
+  { num:'02', author:"Ruha Benjamin", title:"Race After Technology", tag:"Data & Algorithms",
+    summary:"Shows how supposedly neutral technologies like facial recognition and AI often make racism worse. Provides concrete examples of how tech discriminates in criminal justice, healthcare, and employment, even when designers claim to be 'colorblind.' Calls for 'abolitionist tools' — technologies intentionally designed to dismantle inequality." },
+  { num:'03', author:"Costanza-Chock", title:"Design Justice", tag:"Design Justice",
+    summary:"Argues that the people most impacted by technology should lead the design process, not just be consulted afterward. Provides a framework for participatory design that centers marginalized communities. Shows how design decisions are political and offers practical principles for making technology that serves everyone equitably." },
+  { num:'04', author:"Eubanks", title:"Automating Inequality", tag:"Data & Algorithms",
+    summary:"Investigates how government agencies use automated systems to decide who gets welfare, housing, and services. Demonstrates these systems often punish poor people while appearing objective. Reveals how high-tech tools can automate discrimination and make inequality harder to see and challenge." },
+  { num:'05', author:"Noble", title:"Algorithms of Oppression", tag:"Data & Algorithms",
+    summary:"Exposes how search engines like Google return racist and sexist results, particularly about Black women and girls. Explains that algorithms reflect the biases of their creators and the profit motives of tech companies. Argues we need to hold platforms accountable for real-world harm their results cause to marginalized communities." },
+  { num:'06', author:"Haraway", title:"Simians, Cyborgs and Women", tag:"Feminist Theory",
+    summary:"Argues that the boundaries between humans, animals, and machines are blurrier than we think, and feminists should embrace this. Her 'Cyborg Manifesto' suggests we're all already part-machine through technology, and can use this hybridity to challenge oppressive categories. Technology and nature are always entangled together." },
+  { num:'07', author:"Latour", title:"Reassembling the Social", tag:"Media Theory",
+    summary:"Argues society isn't just made of people — it's made of people AND things all interacting together. Introduces 'Actor-Network Theory,' treating objects, technologies, and even animals as having agency in shaping social life. Provides tools for understanding how everything from door mechanisms to computer networks shapes our world." },
+  { num:'08', author:"Foucault", title:"The Order of Things", tag:"Media Theory",
+    summary:"Traces how Western culture has organized knowledge into categories over centuries, showing these systems aren't natural. Examines how we've classified living things, languages, and economies — demonstrating each era's system seems obvious to people living in it. Our ways of categorizing knowledge are always historically specific and political, not universal truths." },
+  { num:'09', author:"Chun", title:"Updating to Remain the Same", tag:"Media Theory",
+    summary:"Examines how new media constantly promises revolutionary change but actually works to maintain existing power structures. Shows how technologies like social media create 'habits' that make us feel we're always getting something new while reinforcing old patterns of inequality. Innovation often makes oppression harder to see rather than eliminating it." },
+  { num:'10', author:"Walton, Moore & Jones", title:"Technical Communication After the Social Justice Turn", tag:"Tech Comm",
+    summary:"Argues that technical writing — creating user manuals, designing websites, writing documentation — is an inherently political act. Shows how technical communicators can either reproduce or challenge inequality. Provides practical frameworks for doing technical communication that actively promotes equity and builds coalitions for change." },
+  { num:'11', author:"Losh & Wernimont (eds.)", title:"Bodies of Information", tag:"Feminist Theory",
+    summary:"Examines how digital technologies shape and are shaped by actual human bodies, especially women's and marginalized people's bodies. Essays explore how fitness trackers measure bodies to how databases categorize gender and race. Data and information systems aren't abstract — they have concrete physical effects on real embodied people." },
+  { num:'12', author:"Bailey", title:"Misogynoir Transformed", tag:"Black Digital Studies",
+    summary:"Bailey coined 'misogynoir' to describe the specific combination of misogyny and anti-Blackness that Black women face. Documents how Black women use digital media — hashtags, videos, blogs, online communities — to resist and transform misogynoir. Black women's digital resistance is creating new forms of feminism and social justice activism." },
+  { num:'13', author:"Steele", title:"Digital Black Feminism", tag:"Black Digital Studies",
+    summary:"Demonstrates that Black women aren't just users of internet technology — they're innovators who shape platform cultures and online conversations. Examines how Black women have created distinctive digital spaces, from Black Twitter to blogs. Understanding Black women's digital practices is essential to understanding contemporary internet culture as a whole." },
+  { num:'14', author:"Brock", title:"Distributed Blackness", tag:"Black Digital Studies",
+    summary:"Argues that Black people have fundamentally shaped internet culture in ways that are often unrecognized or appropriated. Shows how Black digital practices and communication styles get adopted by everyone else while Black creators remain marginalized. 'Black internet culture' isn't a subset of internet culture — it's central to how the internet works." },
+  { num:'15', author:"Nakamura", title:"Digitizing Race", tag:"Black Digital Studies",
+    summary:"Analyzes how race gets represented and constructed visually on the internet, from website aesthetics to digital avatars. Demonstrates that the internet isn't a post-racial space — race gets encoded in new digital forms. Examines how visual internet culture reinforces racial stereotypes while claiming to be 'just entertainment' or neutral design." },
+  { num:'16', author:"Gray", title:"Intersectional Tech", tag:"Black Digital Studies",
+    summary:"Studies how Black gamers, especially Black women, experience intersecting racism and sexism in video games and gaming communities. Uses intersectionality theory to show that gaming isn't neutral entertainment but a space where social inequality actively plays out. We need to understand gamers' full, complex identities rather than treating gaming as separate from race and gender politics." },
+  { num:'17', author:"McKinney", title:"Information Activism", tag:"Black Digital Studies",
+    summary:"Documents how lesbian feminists in the 1970s–1990s created their own media technologies — newsletters, radio shows, computer networks — to share information and build community. Shows how these DIY media projects were acts of resistance against mainstream media that erased lesbians. LGBTQ+ people have always been technology innovators, not just passive consumers." },
+  { num:'18', author:"Jackson, Bailey & Welles", title:"#HashtagActivism", tag:"Black Digital Studies",
+    summary:"Analyzes how hashtags like #BlackLivesMatter, #MeToo, and #SayHerName create networks of activists fighting for racial and gender justice. Shows that hashtags function as organizational tools that help people coordinate protests and amplify marginalized voices. Examines both the power and limitations of hashtag activism in creating real-world social change." },
+  { num:'19', author:"Hayles", title:"How We Became Posthuman", tag:"Feminist Theory",
+    summary:"Explores how cybernetics and information technology have changed fundamental understandings of what it means to be human. Traces how scientists began conceptualizing humans as information-processing systems similar to computers. Critically examines what we lose (embodiment, materiality) and what we might gain when we think of humans as data processors." },
+  { num:'20', author:"Ahmed", title:"What's the Use?", tag:"Feminist Theory",
+    summary:"Investigates the concept of 'use' and 'usefulness' — examining who gets to decide what counts as useful and for whom. Shows how things, ideas, and even people get labeled as useful or useless based on existing power structures. Particularly relevant for technology: whose needs and desires define what makes a tool or feature 'useful'?" },
+  { num:'21', author:"Drucker", title:"The Digital Humanities Coursebook", tag:"DH Methods",
+    summary:"Provides a comprehensive guide to digital humanities methods, from data visualization to text analysis to spatial mapping. Emphasizes that digital tools aren't neutral instruments but embody particular assumptions about knowledge. Teaches both the practical 'how-to' of digital methods and the critical 'why' of thinking about their limitations and biases." },
+  { num:'22', author:"Rose", title:"Visual Methodologies", tag:"DH Methods",
+    summary:"Explains different approaches to analyzing images and visual materials, from traditional art to photographs to data visualizations. Provides multiple frameworks for understanding how images create meaning and shape perception. Essentially a toolkit for 'reading' visual culture with the same critical attention you'd bring to written texts." },
+  { num:'23', author:"Manovich", title:"Cultural Analytics", tag:"DH Methods",
+    summary:"Argues that computational power now allows us to analyze culture on massive scales — studying millions of images, texts, and artifacts simultaneously. Demonstrates how data science methods can reveal patterns in art and media that would be invisible to traditional close reading. Explores what we can learn through 'big data' approaches while questioning what these methods might miss or distort." },
+  { num:'24', author:"Gonzales", title:"Designing Multilingual Experiences in Technical Communication", tag:"Tech Comm",
+    summary:"Examines how technical communicators can create better experiences for multilingual users and communities. Argues that multilingualism should be seen as a resource that enriches communication rather than a problem to solve. Provides practical strategies for designing technical documents, websites, and interfaces that authentically work for linguistically diverse audiences." },
+  { num:'25', author:"Tham", title:"Design Thinking in Technical Communication", tag:"Tech Comm",
+    summary:"Explains 'design thinking' — a problem-solving approach emphasizing empathy, prototyping, and iteration — and how technical communicators can apply it. Shows how to move from simply 'writing documentation' to actively 'solving user problems through creative collaboration.' About adopting a more experimental, user-centered, and creative approach to technical communication work." },
+  { num:'26', author:"Mullaney et al. (eds.)", title:"Your Computer Is on Fire", tag:"Data & Algorithms",
+    summary:"Argues that we're facing a technology crisis where computers are causing serious societal harm — from spreading misinformation to enabling mass surveillance to displacing workers. These problems aren't bugs to patch but are built into how technology is designed under capitalism. Calls for urgent, fundamental changes to how technology works rather than minor reforms." },
+  { num:'27', author:"Gold & Klein (eds.)", title:"Debates in the Digital Humanities 2023", tag:"DH Methods",
+    summary:"Collects current debates and conversations happening in digital humanities — the field that uses computational methods to study culture, history, literature, and society. Covers ongoing controversies, emerging methods, ethical questions, and future directions. A snapshot of what digital humanities scholars are arguing about and thinking through right now." },
+  { num:'28', author:"Vee", title:"Coding Literacy", tag:"Tech Comm",
+    summary:"Argues that learning to code is becoming as fundamental as traditional literacy, though it shouldn't be treated exactly the same. Traces the history of how programming became understood as a literacy and examines who gets access to coding education and who doesn't. If coding is essential, how do we teach it in ways that promote social justice rather than just tech industry needs?" },
+  { num:'29', author:"Risam", title:"New Digital Worlds", tag:"Postcolonial DH",
+    summary:"Applies postcolonial theory to digital humanities, asking whose knowledge gets digitized, archived, and studied — and whose doesn't. Demonstrates how digital projects and archives often unconsciously reproduce colonial power structures by prioritizing Western knowledge and English-language materials. Argues for a digital humanities practice that actively centers perspectives from the Global South." },
+  { num:'30', author:"Ong", title:"Orality and Literacy", tag:"Media Theory",
+    summary:"Explores how human consciousness and culture fundamentally transformed when societies shifted from oral to literate communication. Argues that literacy isn't a neutral tool for recording speech — it actually restructures how people think, remember, and organize knowledge. Communication technologies don't just transmit existing thoughts; they reshape human cognition and social organization." },
+];
+
+const allTags = [...new Set(pclBooks.map(b => b.tag))];
+let activeTag = null;
+
+const pclFiltersEl = document.getElementById('pcl-filters');
+const pclGridEl = document.getElementById('pcl-grid');
+
+// Render filter buttons
+const allBtn = document.createElement('button');
+allBtn.className = 'pcl-filter active';
+allBtn.textContent = 'All';
+allBtn.addEventListener('click', () => {
+  activeTag = null;
+  document.querySelectorAll('.pcl-filter').forEach(b => b.classList.remove('active'));
+  allBtn.classList.add('active');
+  document.querySelectorAll('.pcl-card').forEach(c => c.hidden = false);
+});
+pclFiltersEl.appendChild(allBtn);
+
+allTags.forEach(tag => {
+  const btn = document.createElement('button');
+  btn.className = 'pcl-filter';
+  btn.textContent = tag;
+  const s = tagStyles[tag] || {};
+  btn.style.cssText = `color:${s.color||'#c4b5fd'};border-color:${s.color||'#4a4a8a'}30;`;
+  btn.addEventListener('click', () => {
+    activeTag = tag;
+    document.querySelectorAll('.pcl-filter').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.pcl-card').forEach(c => {
+      c.hidden = c.dataset.tag !== tag;
+    });
+  });
+  pclFiltersEl.appendChild(btn);
+});
+
+// Render book cards
+pclBooks.forEach(b => {
+  const s = tagStyles[b.tag] || { color: '#c4b5fd', bg: '#111128' };
+  const card = document.createElement('div');
+  card.className = 'pcl-card';
+  card.dataset.tag = b.tag;
+  card.innerHTML = `
+    <div class="pcl-top">
+      <div class="pcl-title-block">
+        <div class="pcl-author">${b.author}</div>
+        <div class="pcl-booktitle">${b.title}</div>
+      </div>
+      <span class="pcl-tag" style="color:${s.color};border-color:${s.color}50;background:${s.bg}">${b.tag}</span>
+    </div>
+    <div class="pcl-body">${b.summary}</div>
+  `;
+  card.addEventListener('click', () => {
+    card.classList.toggle('open');
+    card.querySelector('.pcl-body').style.display = card.classList.contains('open') ? 'block' : 'none';
+  });
+  card.querySelector('.pcl-body').style.display = 'none';
+  pclGridEl.appendChild(card);
 });
 
 // ── Data ──────────────────────────────────────────────────────
