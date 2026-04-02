@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ph.D. Reading List Analysis 2025–2027</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0a0a1a; color: #e0e0f0; font-family: 'Georgia', serif; }
+
+  #hero { position: relative; width: 100%; height: 420px; overflow: hidden; }
+  #hero canvas { display: block; }
+  #hero-text {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    text-align: center; pointer-events: none;
+  }
+  #hero-text h1 {
+    font-size: 2.4rem; letter-spacing: 0.08em; color: #fff;
+    text-shadow: 0 0 30px #a78bfa, 0 0 60px #6366f1;
+    margin-bottom: 0.5rem;
+  }
+  #hero-text p {
+    font-size: 1rem; color: #c4b5fd; letter-spacing: 0.15em;
+    text-transform: uppercase; font-family: 'Courier New', monospace;
+  }
+
+  main { max-width: 1100px; margin: 0 auto; padding: 3rem 1.5rem; }
+
+  .section-title {
+    font-size: 0.75rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #6366f1; margin-bottom: 2rem; font-family: 'Courier New', monospace;
+  }
+
+  /* Overview */
+  .overview {
+    border-left: 3px solid #6366f1; padding-left: 1.5rem;
+    margin-bottom: 4rem; font-size: 1.05rem; line-height: 1.8; color: #c4b5fd;
+  }
+  .overview strong { color: #fff; }
+
+  /* Clusters */
+  .clusters { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.2rem; margin-bottom: 4rem; }
+  .cluster-card {
+    background: #111128; border: 1px solid #2a2a4a; border-radius: 10px;
+    padding: 1.2rem; cursor: pointer; transition: border-color 0.2s, background 0.2s;
+  }
+  .cluster-card:hover { border-color: #6366f1; background: #16163a; }
+  .cluster-card.open { border-color: #a78bfa; background: #16163a; }
+  .cluster-header { display: flex; justify-content: space-between; align-items: flex-start; }
+  .cluster-num { font-size: 0.65rem; color: #6366f1; font-family: monospace; letter-spacing: 0.15em; }
+  .cluster-title { font-size: 1rem; color: #e0e0f0; margin: 0.3rem 0 0.6rem; }
+  .cluster-authors { font-size: 0.78rem; color: #7c7ca0; font-style: italic; }
+  .cluster-arrow { color: #6366f1; font-size: 0.9rem; transition: transform 0.2s; }
+  .cluster-card.open .cluster-arrow { transform: rotate(180deg); }
+  .cluster-body { display: none; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #2a2a4a; font-size: 0.87rem; line-height: 1.7; color: #b0b0d0; }
+  .cluster-card.open .cluster-body { display: block; }
+
+  /* Genealogies */
+  .genealogies { margin-bottom: 4rem; }
+  .genealogy { margin-bottom: 1.2rem; }
+  .genealogy-label { font-size: 0.72rem; color: #a78bfa; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 0.5rem; font-family: monospace; }
+  .genealogy-chain {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem;
+    background: #111128; border: 1px solid #2a2a4a; border-radius: 8px; padding: 0.8rem 1rem;
+  }
+  .gene-node {
+    background: #1e1e40; border: 1px solid #4a4a8a; border-radius: 5px;
+    padding: 0.25rem 0.6rem; font-size: 0.78rem; color: #c4b5fd; white-space: nowrap;
+  }
+  .gene-arrow { color: #4a4a8a; font-size: 0.8rem; }
+
+  /* Tensions */
+  .tensions { margin-bottom: 4rem; }
+  .tension-row {
+    display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; margin-bottom: 0.7rem;
+    border: 1px solid #2a2a4a; border-radius: 8px; overflow: hidden;
+  }
+  .tension-label { background: #111128; padding: 0.7rem 1rem; font-size: 0.8rem; color: #c4b5fd; font-style: italic; border-right: 1px solid #2a2a4a; }
+  .tension-side-a { background: #0f0f2a; padding: 0.7rem 1rem; font-size: 0.78rem; color: #93c5fd; border-right: 1px solid #2a2a4a; }
+  .tension-side-b { background: #0f0f2a; padding: 0.7rem 1rem; font-size: 0.78rem; color: #f9a8d4; }
+
+  /* Argument */
+  .argument {
+    background: linear-gradient(135deg, #111128, #1a1040);
+    border: 1px solid #4a4a8a; border-radius: 12px;
+    padding: 2rem; line-height: 1.9; font-size: 0.95rem; color: #c4b5fd;
+    margin-bottom: 4rem;
+  }
+  .argument strong { color: #fff; }
+
+  footer { text-align: center; padding: 2rem; font-size: 0.7rem; color: #3a3a6a; font-family: monospace; border-top: 1px solid #1a1a3a; }
+</style>
+</head>
+<body>
+
+<div id="hero">
+  <div id="p5-canvas"></div>
+  <div id="hero-text">
+    <h1>Core Ph.D. Candidacy Reading List</h1>
+    <p>Thematic Analysis &nbsp;·&nbsp; 55 Texts &nbsp;·&nbsp; 2025–2027</p>
+  </div>
+</div>
+
+<main>
+
+  <p class="section-title">// Overview</p>
+  <div class="overview">
+    This reading list sits at the intersection of <strong>digital humanities</strong>, <strong>critical race and feminist theory</strong>,
+    <strong>media and technology studies</strong>, and <strong>rhetoric/technical communication</strong>.
+    Spanning roughly 1936–2024, it reveals a coherent scholarly project concerned above all with
+    <strong>power as it operates through information systems, archives, interfaces, and designed objects</strong> —
+    and with the communities who resist, reroute, or reimagine those systems.
+  </div>
+
+  <p class="section-title">// Six Thematic Clusters</p>
+  <div class="clusters" id="clusters"></div>
+
+  <p class="section-title">// Intellectual Genealogies</p>
+  <div class="genealogies" id="genealogies"></div>
+
+  <p class="section-title">// Key Theoretical Tensions</p>
+  <div class="tensions" id="tensions"></div>
+
+  <p class="section-title">// The List as an Argument</p>
+  <div class="argument">
+    Read as a whole, this list makes a coherent argument: <strong>digital technologies do not exist outside of history, power, and embodiment</strong>,
+    and the work of digital humanities must be accountable to the communities most affected by the systems it studies and builds.
+    <br><br>
+    It begins with foundational media theorists who established that meaning and representation are always political. It moves through
+    postcolonial and feminist extensions, grounds those moves in empirical cases of algorithmic harm, and studies of Black, Indigenous,
+    queer, and feminist digital practice as resistance. It culminates in questions of method and practice: how do we do digital humanities
+    and design in ways accountable to justice?
+    <br><br>
+    The presence of Kuhn and Latour asks a meta-question: are we in a paradigm shift in how we understand technology and human life?
+    The weight of evidence across these 55 texts suggests yes — and that <strong>equity, embodiment, and power are not add-ons to digital humanities but its constitutive concerns</strong>.
+  </div>
+
+</main>
+
+<footer>Ph.D. Candidacy Reading List Analysis 2025–2027 &nbsp;·&nbsp; 55 texts &nbsp;·&nbsp; 6 clusters &nbsp;·&nbsp; 5 genealogies</footer>
+
+<script>
+// ── P5.js Space Animation ─────────────────────────────────────
+new p5(function(p) {
+  let stars = [], nebulae = [], shootingStars = [];
+
+  p.setup = function() {
+    let canvas = p.createCanvas(p.windowWidth, 420);
+    canvas.parent('p5-canvas');
+    p.colorMode(p.HSB, 360, 100, 100, 100);
+
+    for (let i = 0; i < 320; i++) {
+      stars.push({
+        x: p.random(p.width), y: p.random(p.height),
+        s: p.random(0.5, 2.8), twinkle: p.random(p.TWO_PI),
+        speed: p.random(0.003, 0.015)
+      });
+    }
+    for (let i = 0; i < 5; i++) {
+      nebulae.push({
+        x: p.random(p.width), y: p.random(p.height),
+        hue: p.random([260, 280, 200, 320, 240]),
+        r: p.random(120, 240), alpha: p.random(8, 18)
+      });
+    }
+  };
+
+  p.draw = function() {
+    p.background(240, 60, 8);
+
+    // Nebulae
+    p.noStroke();
+    for (let n of nebulae) {
+      for (let r = n.r; r > 0; r -= 8) {
+        p.fill(n.hue, 70, 60, n.alpha * (r / n.r));
+        p.ellipse(n.x, n.y, r * 1.6, r);
+      }
+    }
+
+    // Stars
+    for (let s of stars) {
+      s.twinkle += s.speed;
+      let brightness = p.map(p.sin(s.twinkle), -1, 1, 60, 100);
+      let alpha = p.map(p.sin(s.twinkle), -1, 1, 50, 100);
+      p.fill(220, 20, brightness, alpha);
+      p.ellipse(s.x, s.y, s.s);
+    }
+
+    // Shooting stars
+    if (p.random() < 0.012) {
+      shootingStars.push({ x: p.random(p.width), y: p.random(p.height * 0.6), len: p.random(60, 140), speed: p.random(8, 16), alpha: 100 });
+    }
+    for (let i = shootingStars.length - 1; i >= 0; i--) {
+      let ss = shootingStars[i];
+      p.stroke(200, 30, 100, ss.alpha);
+      p.strokeWeight(1);
+      p.line(ss.x, ss.y, ss.x + ss.len, ss.y + ss.len * 0.3);
+      ss.x += ss.speed; ss.y += ss.speed * 0.3; ss.alpha -= 3;
+      if (ss.alpha <= 0) shootingStars.splice(i, 1);
+    }
+    p.noStroke();
+  };
+
+  p.windowResized = function() { p.resizeCanvas(p.windowWidth, 420); };
+});
+
+// ── Data ──────────────────────────────────────────────────────
+const clusters = [
+  {
+    num: "CLUSTER 01", title: "Theoretical Foundations of Media, Meaning & Representation",
+    authors: "Barthes · Benjamin W. · Hall · Baudrillard · Ong · Foucault · Said · Kuhn",
+    body: "The epistemological bedrock of the list — texts that established the intellectual grammar (sign, simulation, discourse, paradigm, encoding) that virtually every other text inherits, critiques, or deconstructs. Hall's encoding/decoding model is the direct theoretical ancestor of the critical race/digital studies cluster."
+  },
+  {
+    num: "CLUSTER 02", title: "Media, Technology & Cultural Form",
+    authors: "Hayles · Haraway · Bolter · Manovich · Chun · Bogost · Vee · Wardrip-Fruin & Montfort",
+    body: "Haraway's Cyborg Manifesto refuses the nature/culture divide and anchors feminist technology critique. Hayles asks what gets lost when we abstract to information — the master question of the list. Bolter's remediation connects Ong to Vee. Bogost's procedural rhetoric frames games as arguments through rules."
+  },
+  {
+    num: "CLUSTER 03", title: "Critical Race, Feminist & Queer Digital Studies",
+    authors: "Noble · R. Benjamin · Eubanks · Brock · Nakamura · Bailey · Steele · Gray · McKinney · D'Ignazio & Klein · Costanza-Chock",
+    body: "The intellectual center of gravity. Noble and Eubanks provide empirical foundation for Ruha Benjamin's 'New Jim Code' thesis. Brock develops CTDA to study Black digital abundance, not just victimization. Bailey introduces misogynoir. Steele articulates Black digital feminism. McKinney extends the lens to queer media history."
+  },
+  {
+    num: "CLUSTER 04", title: "Archives, Memory & Difficult History",
+    authors: "De Kosnik · Miron · Lehrer et al. · Rose & Holloway · Cohen & Rosenzweig · Crymble · Milligan · Headrick · Misa",
+    body: "De Kosnik on rogue archives and McKinney on queer media connect to community-controlled preservation. Miron argues Indigenous digital archiving is a form of sovereignty. The digital history sub-cluster examines how digital abundance changes historical methodology."
+  },
+  {
+    num: "CLUSTER 05", title: "Rhetoric, Technical Communication & Design Justice",
+    authors: "Walton, Moore & Jones · Gonzales · Tham · Mueller · Martinez · Vee · Raign · Costanza-Chock",
+    body: "Walton et al. argue for a 'social justice turn' in technical communication. Gonzales extends this into language diversity — language is never neutral. Vee on coding literacy is the hinge between rhetoric and DH. Mueller uses visualization to study rhetoric reflexively."
+  },
+  {
+    num: "CLUSTER 06", title: "Digital Humanities as a Field (Meta-Texts)",
+    authors: "Gold & Klein · Drucker · Risam · Losh & Wernimont · Mullaney et al.",
+    body: "The Debates in DH series is the most important ongoing meta-conversation in the field. Risam argues for decolonizing DH infrastructure. Mullaney et al. show that computing infrastructure carries the history of choices that encoded specific power relations. Drucker offers a productive formalist counterpoint."
+  }
+];
+
+const genealogies = [
+  { label: "Genealogy 1 — Hall to Black Digital Studies", chain: ["Hall (22)", "Nakamura (42)", "Brock (9)", "Bailey (2)", "Steele (50, 51)"] },
+  { label: "Genealogy 2 — Foucault/Said to Decolonial DH", chain: ["Foucault (18)", "Said (49)", "Haraway (23)", "Hayles (24)", "Risam (46)", "Miron (37)"] },
+  { label: "Genealogy 3 — Semiotics to Data Critique", chain: ["Barthes (3)", "Hall (22)", "Baudrillard (4)", "Hayles (24)", "Manovich (33)", "D'Ignazio & Klein (14)", "Noble (43)"] },
+  { label: "Genealogy 4 — Orality/Literacy to Coding Literacy", chain: ["Ong (44)", "Bolter (8)", "Vee (53)", "Montfort (39)", "Bogost (7)"] },
+  { label: "Genealogy 5 — Feminist Theory to Design Justice", chain: ["Haraway (23)", "D'Ignazio & Klein (14)", "Costanza-Chock (12)", "Walton et al. (54)", "Gonzales (20)", "Tham (52)"] }
+];
+
+const tensions = [
+  { label: "Critique vs. Construction", a: "Noble, Eubanks, R. Benjamin (abolition)", b: "Costanza-Chock, Walton et al. (redesign from within)" },
+  { label: "Representation vs. Infrastructure", a: "Hall, Nakamura, Barthes", b: "Noble, Eubanks, Chun, Mullaney et al." },
+  { label: "Quantitative Scale vs. Feminist Particularity", a: "Manovich, Crymble, Milligan", b: "D'Ignazio & Klein, Drucker" },
+  { label: "Technological Determinism vs. Social Construction", a: "Ong, Hayles, Chun", b: "Latour (ANT), most critical race texts" },
+  { label: "Digital Optimism vs. Digital Harm", a: "Cohen & Rosenzweig, Headrick, De Kosnik", b: "Noble, Eubanks, Benjamin R." }
+];
+
+// ── Render Clusters ───────────────────────────────────────────
+const clusterEl = document.getElementById('clusters');
+clusters.forEach((c, i) => {
+  const card = document.createElement('div');
+  card.className = 'cluster-card';
+  card.innerHTML = `
+    <div class="cluster-header">
+      <div>
+        <div class="cluster-num">${c.num}</div>
+        <div class="cluster-title">${c.title}</div>
+        <div class="cluster-authors">${c.authors}</div>
+      </div>
+      <span class="cluster-arrow">▼</span>
+    </div>
+    <div class="cluster-body">${c.body}</div>
+  `;
+  card.addEventListener('click', () => card.classList.toggle('open'));
+  clusterEl.appendChild(card);
+});
+
+// ── Render Genealogies ────────────────────────────────────────
+const geneEl = document.getElementById('genealogies');
+genealogies.forEach(g => {
+  const div = document.createElement('div');
+  div.className = 'genealogy';
+  const chain = g.chain.map((node, i) =>
+    `<span class="gene-node">${node}</span>${i < g.chain.length - 1 ? '<span class="gene-arrow">→</span>' : ''}`
+  ).join('');
+  div.innerHTML = `<div class="genealogy-label">${g.label}</div><div class="genealogy-chain">${chain}</div>`;
+  geneEl.appendChild(div);
+});
+
+// ── Render Tensions ───────────────────────────────────────────
+const tensionEl = document.getElementById('tensions');
+tensions.forEach(t => {
+  const row = document.createElement('div');
+  row.className = 'tension-row';
+  row.innerHTML = `
+    <div class="tension-label">${t.label}</div>
+    <div class="tension-side-a">${t.a}</div>
+    <div class="tension-side-b">${t.b}</div>
+  `;
+  tensionEl.appendChild(row);
+});
+</script>
+</body>
+</html>
