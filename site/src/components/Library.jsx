@@ -67,7 +67,7 @@ export default function Library() {
             <div className="card" style={{
               height: '100%', padding: 0, overflow: 'hidden',
               display: 'flex', flexDirection: 'row',
-              background: '#e8dcc8', border: 'none', borderRadius: '10px',
+              background: '#b3c5a7', border: 'none', borderRadius: '10px',
               minHeight: '280px',
             }}>
               {/* Left half: metadata */}
