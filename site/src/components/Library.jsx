@@ -83,7 +83,7 @@ export default function Library() {
                 </h3>
                 <p style={{
                   fontFamily: 'var(--font-heading)', fontSize: '20px',
-                  color: '#3d4d3d', marginBottom: '0.5rem',
+                  color: '#3d4d3d', fontWeight: 700, marginBottom: '0.5rem',
                 }}>
                   {(book.author || []).join(', ') || 'Unknown author'}
                 </p>
