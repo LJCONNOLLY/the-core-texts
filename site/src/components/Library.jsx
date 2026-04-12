@@ -78,13 +78,13 @@ export default function Library() {
                 </span>
               </div>
               <p style={{
-                fontSize: '1.15rem', marginBottom: '0.5rem',
+                fontFamily: 'var(--font-heading)', fontSize: '1.15rem', marginBottom: '0.5rem',
               }}>
                 <span style={{ background: '#fff9c4', padding: '0.15rem 0.35rem', borderRadius: '3px' }}>
                   {(book.author || []).join(', ') || 'Unknown author'}
                 </span>
               </p>
-              <p style={{ fontSize: '1.05rem' }}>
+              <p style={{ fontFamily: 'var(--font-heading)', fontSize: '1.05rem' }}>
                 <span style={{ background: '#c8e6c9', padding: '0.15rem 0.35rem', borderRadius: '3px' }}>
                   {book.year || 'n.d.'}
                 </span>
