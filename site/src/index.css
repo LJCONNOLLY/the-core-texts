@@ -120,8 +120,9 @@ input, textarea, select { font-family: var(--font-body); }
 .main-content {
   flex: 1;
   margin-left: var(--sidebar-width);
-  padding: 2rem 3rem;
+  padding: 2.5rem 3rem;
   min-height: 100vh;
+  max-width: none;
 }
 
 /* Mobile nav */

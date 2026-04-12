@@ -64,20 +64,20 @@ export default function Library() {
       }}>
         {books.map(book => (
           <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none' }}>
-            <div className="card" style={{ height: '100%', padding: '1.5rem' }}>
+            <div className="card" style={{ height: '100%', padding: '1.75rem' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.75rem' }}>
-                <h3 style={{ fontFamily: 'var(--font-heading)', fontSize: '1.15rem', flex: 1, marginRight: '0.5rem', lineHeight: 1.3 }}>
+                <h3 style={{ fontFamily: 'var(--font-heading)', fontSize: '1.3rem', flex: 1, marginRight: '0.5rem', lineHeight: 1.3 }}>
                   {book.title}
                 </h3>
                 <span className={`format-badge ${book.format}`}>{book.format}</span>
               </div>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', marginBottom: '0.35rem' }}>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '1.05rem', marginBottom: '0.35rem' }}>
                 {(book.author || []).join(', ') || 'Unknown author'}
               </p>
-              <p style={{ color: 'var(--text-muted)', fontSize: '0.875rem', marginBottom: '0.75rem' }}>
+              <p style={{ color: 'var(--text-muted)', fontSize: '0.95rem', marginBottom: '0.75rem' }}>
                 {book.year || 'n.d.'}{book.publisher ? ` • ${book.publisher}` : ''}
               </p>
-              <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', fontSize: '0.8rem', color: 'var(--text-muted)' }}>
+              <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', fontSize: '0.9rem', color: 'var(--text-muted)' }}>
                 <span>{book.page_count} {book.format === 'epub' || book.format === 'mobi' || book.format === 'azw3' ? 'sections' : 'pages'}</span>
                 <span>•</span>
                 <span>{(book.word_count || 0).toLocaleString()} words</span>
