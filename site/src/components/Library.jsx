@@ -38,19 +38,19 @@ export default function Library() {
         <p>{index.books.length} texts in the archive</p>
       </div>
 
-      <div style={{ display: 'flex', gap: '1rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
+      <div style={{ display: 'flex', gap: '1.5rem', marginBottom: '2.25rem', flexWrap: 'wrap' }}>
         <input
           className="input"
-          style={{ maxWidth: '300px' }}
+          style={{ maxWidth: '450px', fontSize: '1.35rem', padding: '0.9rem 1.5rem' }}
           placeholder="Filter by title or author..."
           value={filter}
           onChange={e => setFilter(e.target.value)}
         />
-        <select className="input" style={{ maxWidth: '140px' }} value={formatFilter} onChange={e => setFormatFilter(e.target.value)}>
+        <select className="input" style={{ maxWidth: '210px', fontSize: '1.35rem', padding: '0.9rem 1.5rem' }} value={formatFilter} onChange={e => setFormatFilter(e.target.value)}>
           <option value="all">All formats</option>
           {formats.map(f => <option key={f} value={f}>{f.toUpperCase()}</option>)}
         </select>
-        <select className="input" style={{ maxWidth: '140px' }} value={sortBy} onChange={e => setSortBy(e.target.value)}>
+        <select className="input" style={{ maxWidth: '210px', fontSize: '1.35rem', padding: '0.9rem 1.5rem' }} value={sortBy} onChange={e => setSortBy(e.target.value)}>
           <option value="title">Sort: Title</option>
           <option value="year">Sort: Year</option>
           <option value="author">Sort: Author</option>
