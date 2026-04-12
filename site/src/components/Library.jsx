@@ -67,7 +67,7 @@ export default function Library() {
             <div className="card" style={{ height: '100%', padding: '2rem' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '1rem' }}>
                 <h3 style={{
-                  fontFamily: 'var(--font-heading)', fontSize: '1.4rem', flex: 1, marginRight: '0.75rem', lineHeight: 1.35,
+                  fontFamily: 'var(--font-heading)', fontSize: '32px', flex: 1, marginRight: '0.75rem', lineHeight: 1.35,
                   background: '#fce4ec', padding: '0.2rem 0.4rem', borderRadius: '4px', display: 'inline',
                   boxDecorationBreak: 'clone', WebkitBoxDecorationBreak: 'clone',
                 }}>
@@ -78,13 +78,13 @@ export default function Library() {
                 </span>
               </div>
               <p style={{
-                fontFamily: 'var(--font-heading)', fontSize: '1.15rem', marginBottom: '0.5rem',
+                fontFamily: 'var(--font-heading)', fontSize: '26px', marginBottom: '0.5rem',
               }}>
                 <span style={{ background: '#fff9c4', padding: '0.15rem 0.35rem', borderRadius: '3px' }}>
                   {(book.author || []).join(', ') || 'Unknown author'}
                 </span>
               </p>
-              <p style={{ fontFamily: 'var(--font-heading)', fontSize: '1.05rem' }}>
+              <p style={{ fontFamily: 'var(--font-heading)', fontSize: '26px' }}>
                 <span style={{ background: '#c8e6c9', padding: '0.15rem 0.35rem', borderRadius: '3px' }}>
                   {book.year || 'n.d.'}
                 </span>
