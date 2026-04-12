@@ -63,8 +63,8 @@ export default function BookProfile() {
               {(meta.author || []).join(', ')}
             </p>
             <p style={{ fontSize: '0.95rem', color: 'var(--text-muted)' }}>
-              {meta.year || 'n.d.'}{meta.publisher ? <>{' \u2022 '}{meta.publisher}</> : ''}
-              {meta.isbn ? <>{' \u2022 '}ISBN {meta.isbn}</> : ''}
+              {meta.year || 'n.d.'}{meta.publisher ? ` • ${meta.publisher}` : ''}
+              {meta.isbn ? ` • ISBN ${meta.isbn}` : ''}
             </p>
           </div>
           <span className={`format-badge ${meta.format}`} style={{ fontSize: '0.8rem', padding: '0.2rem 0.6rem' }}>
@@ -73,7 +73,7 @@ export default function BookProfile() {
         </div>
         <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)', marginTop: '0.5rem' }}>
           {meta.page_count} {meta.format === 'epub' || meta.format === 'mobi' || meta.format === 'azw3' ? 'sections' : 'pages'}
-          {' \u2022 '}{(meta.word_count || 0).toLocaleString()} words
+          {' • '}{(meta.word_count || 0).toLocaleString()} words
         </p>
       </div>
 

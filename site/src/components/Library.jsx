@@ -59,9 +59,8 @@ export default function Library() {
 
       <div style={{
         display: 'grid',
-        gridTemplateColumns: 'repeat(auto-fill, minmax(340px, 1fr))',
+        gridTemplateColumns: 'repeat(3, 1fr)',
         gap: '1.25rem',
-        maxWidth: '1400px'
       }}>
         {books.map(book => (
           <Link key={book.id} to={`/book/${book.id}`} style={{ textDecoration: 'none' }}>
@@ -76,15 +75,15 @@ export default function Library() {
                 {(book.author || []).join(', ') || 'Unknown author'}
               </p>
               <p style={{ color: 'var(--text-muted)', fontSize: '0.875rem', marginBottom: '0.75rem' }}>
-                {book.year || 'n.d.'} {book.publisher ? <>{' \u2022 '}{book.publisher}</> : ''}
+                {book.year || 'n.d.'}{book.publisher ? ` • ${book.publisher}` : ''}
               </p>
               <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', fontSize: '0.8rem', color: 'var(--text-muted)' }}>
                 <span>{book.page_count} {book.format === 'epub' || book.format === 'mobi' || book.format === 'azw3' ? 'sections' : 'pages'}</span>
-                <span>{'\u2022'}</span>
+                <span>•</span>
                 <span>{(book.word_count || 0).toLocaleString()} words</span>
                 {(book.definitions?.text?.length > 0 || book.definitions?.technology?.length > 0) && (
                   <>
-                    <span>{'\u2022'}</span>
+                    <span>•</span>
                     <span className="tag tag-gold">definitions</span>
                   </>
                 )}
