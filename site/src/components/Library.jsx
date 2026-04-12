@@ -89,14 +89,14 @@ export default function Library() {
                 </p>
                 <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center', marginTop: '0.25rem' }}>
                   <span style={{
-                    fontFamily: 'var(--font-heading)', fontSize: '18px',
+                    fontFamily: 'var(--font-heading)', fontSize: '20px',
                     background: '#c17a5a', padding: '0.2rem 0.5rem', borderRadius: '4px',
                     color: '#fff',
                   }}>
                     {book.year || 'n.d.'}
                   </span>
                   <span style={{
-                    fontSize: '13px', color: '#556b55', fontWeight: 500,
+                    fontSize: '20px', color: '#556b55', fontWeight: 500,
                     textTransform: 'uppercase', letterSpacing: '0.08em',
                   }}>
                     {book.format}
@@ -157,7 +157,7 @@ function BookCover({ bookId, title }) {
   return (
     <div style={{
       width: '100%', height: '100%', display: 'flex', alignItems: 'center',
-      justifyContent: 'center', color: '#8a9a8a', fontSize: '14px',
+      justifyContent: 'center', color: '#8a9a8a', fontSize: '20px',
       fontFamily: 'var(--font-heading)', fontStyle: 'italic', padding: '1rem',
       textAlign: 'center',
     }}>

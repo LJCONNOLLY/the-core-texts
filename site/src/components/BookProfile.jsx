@@ -156,7 +156,7 @@ export default function BookProfile() {
               const snippet = p.text.slice(start, end);
               return (
                 <div key={p.locator} style={{ marginBottom: '1rem', paddingBottom: '1rem', borderBottom: '1px solid var(--border)' }}>
-                  <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+                  <span style={{ fontSize: '1rem', color: 'var(--text-muted)' }}>
                     {p.locator_type} {p.locator}
                   </span>
                   <p style={{ fontSize: '0.85rem', marginTop: '0.25rem' }}>
@@ -164,7 +164,7 @@ export default function BookProfile() {
                   </p>
                   <button
                     className="btn btn-secondary"
-                    style={{ marginTop: '0.5rem', fontSize: '0.75rem', padding: '0.25rem 0.5rem' }}
+                    style={{ marginTop: '0.5rem', fontSize: '1rem', padding: '0.25rem 0.5rem' }}
                     onClick={() => { setLocalSearch(''); setPage(pages.indexOf(p)); }}
                   >
                     Go to {p.locator_type} {p.locator}
@@ -215,7 +215,7 @@ export default function BookProfile() {
           onChange={handleNotesChange}
           style={{ resize: 'vertical' }}
         />
-        <p style={{ fontSize: '0.7rem', color: 'var(--text-muted)', marginTop: '0.25rem' }}>
+        <p style={{ fontSize: '1rem', color: 'var(--text-muted)', marginTop: '0.25rem' }}>
           Saved to your browser's local storage.
         </p>
       </div>

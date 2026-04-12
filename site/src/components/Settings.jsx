@@ -35,7 +35,7 @@ export default function Settings({ open, onClose }) {
             onChange={e => setKey(e.target.value)}
             placeholder="sk-ant-..."
           />
-          <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '0.5rem' }}>
+          <p style={{ fontSize: '1rem', color: 'var(--text-muted)', marginTop: '0.5rem' }}>
             Stored locally in your browser. Never transmitted except directly to the Anthropic API.
             Required for AI-generated content (key arguments, glossary, synthesis).
           </p>

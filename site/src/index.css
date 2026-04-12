@@ -24,7 +24,7 @@
   padding: 0;
 }
 
-html { font-size: 17px; -webkit-font-smoothing: antialiased; }
+html { font-size: 20px; -webkit-font-smoothing: antialiased; }
 
 body {
   font-family: var(--font-body);
@@ -184,7 +184,7 @@ input, textarea, select { font-family: var(--font-body); }
   background: var(--cream);
   color: var(--text-secondary);
   border-radius: 4px;
-  font-size: 0.75rem;
+  font-size: 1rem;
   font-weight: 500;
 }
 
@@ -231,7 +231,7 @@ input, textarea, select { font-family: var(--font-body); }
   display: inline-block;
   padding: 0.1rem 0.4rem;
   border-radius: 3px;
-  font-size: 0.65rem;
+  font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
