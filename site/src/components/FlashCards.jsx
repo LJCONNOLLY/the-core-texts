@@ -208,7 +208,7 @@ export default function FlashCards() {
               <CoverImage bookId={currentBookId} base={base} />
               <h2 style={{
                 fontFamily: 'var(--font-heading)',
-                fontSize: '47px', textAlign: 'center',
+                fontSize: '38px', textAlign: 'center',
                 color: '#907040', marginTop: '1.5rem',
                 lineHeight: 1.3,
               }}>
@@ -231,14 +231,14 @@ export default function FlashCards() {
             }}>
               <p style={{
                 fontFamily: 'var(--font-heading)',
-                fontSize: '36px', color: '#907040',
+                fontSize: '32px', color: '#907040',
                 marginBottom: '0.5rem', fontWeight: 700,
               }}>
                 {(book?.author || []).join(', ')} ({book?.year || 'n.d.'})
               </p>
 
               <p style={{
-                fontSize: '31px', lineHeight: 1.7,
+                fontSize: '27px', lineHeight: 1.7,
                 color: '#3d3d3d', marginBottom: '1.25rem',
                 fontFamily: 'Georgia, serif',
               }}>
@@ -248,7 +248,7 @@ export default function FlashCards() {
               {data?.coinages && data.coinages.length > 0 && (
                 <div style={{ borderTop: '2px solid #ecdfa8', paddingTop: '1rem' }}>
                   <h4 style={{
-                    fontSize: '29px', color: '#907040',
+                    fontSize: '26px', color: '#907040',
                     marginBottom: '0.5rem', fontWeight: 700,
                     textTransform: 'uppercase', letterSpacing: '0.05em',
                   }}>
@@ -257,7 +257,7 @@ export default function FlashCards() {
                   <ul style={{ listStyle: 'none', padding: 0 }}>
                     {data.coinages.map((c, i) => (
                       <li key={i} style={{
-                        fontSize: '27px', color: '#555',
+                        fontSize: '24px', color: '#555',
                         marginBottom: '0.4rem',
                         paddingLeft: '0.75rem',
                         borderLeft: '3px solid #ecdfa8',
@@ -330,7 +330,7 @@ function CoverImage({ bookId, base }) {
       width: '340px', height: '442px', borderRadius: '8px',
       background: '#2d3a2d', display: 'flex', alignItems: 'center',
       justifyContent: 'center', color: '#f0ebe2', fontFamily: 'var(--font-heading)',
-      fontSize: '34px', textAlign: 'center', padding: '1.5rem',
+      fontSize: '29px', textAlign: 'center', padding: '1.5rem',
     }}>
       No cover
     </div>;
