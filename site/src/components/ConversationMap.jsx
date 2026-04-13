@@ -97,9 +97,9 @@ export default function ConversationMap() {
             <svg ref={svgRef} style={{ width: '100%', height: '1000px', display: 'block' }} />
           </div>
           <div style={{ display: 'flex', gap: '2rem', marginTop: '1rem', fontSize: '1rem', color: 'var(--text-muted)', flexWrap: 'wrap' }}>
-            <span><span style={{ display: 'inline-block', width: 16, height: 16, borderRadius: '50%', background: '#c9a84c', marginRight: 6, verticalAlign: 'middle' }} />Book in corpus</span>
-            <span><span style={{ display: 'inline-block', width: 16, height: 16, borderRadius: '50%', background: '#9aad8a', marginRight: 6, verticalAlign: 'middle' }} />Cited scholar</span>
-            <span><span style={{ display: 'inline-block', width: 16, height: 16, borderRadius: '50%', background: '#c17a5a', marginRight: 6, verticalAlign: 'middle' }} />Hub scholar (4+ citations)</span>
+            <span><span style={{ display: 'inline-block', width: 16, height: 16, borderRadius: '50%', background: '#e6c833', marginRight: 6, verticalAlign: 'middle' }} />Book in corpus</span>
+            <span><span style={{ display: 'inline-block', width: 16, height: 16, borderRadius: '50%', background: '#4a8c5c', marginRight: 6, verticalAlign: 'middle' }} />Scholar in collection</span>
+            <span><span style={{ display: 'inline-block', width: 16, height: 16, borderRadius: '50%', background: '#c0392b', marginRight: 6, verticalAlign: 'middle' }} />Scholar outside collection</span>
             <span style={{ marginLeft: 'auto' }}>Drag nodes. Scroll to zoom. Click for details.</span>
           </div>
         </div>
@@ -311,9 +311,9 @@ function renderGraph(svgEl, nodes, links, onSelect) {
     .join('circle')
     .attr('r', d => d.radius)
     .attr('fill', d => {
-      if (d.type === 'book') return '#c9a84c';
-      if (d.isHub) return '#c17a5a';
-      return '#9aad8a';
+      if (d.type === 'book') return '#e6c833';
+      if (d.bookId) return '#4a8c5c';  // scholar in collection
+      return '#c0392b';  // scholar outside collection
     })
     .attr('stroke', '#fff')
     .attr('stroke-width', 2)
@@ -370,9 +370,13 @@ function renderGraph(svgEl, nodes, links, onSelect) {
       return d.label.length > maxLen ? d.label.slice(0, maxLen) + '...' : d.label;
     })
     .attr('font-size', d => d.type === 'book' ? '24px' : '22px')
-    .attr('font-weight', d => d.isHub ? 700 : d.type === 'book' ? 600 : 400)
+    .attr('font-weight', 700)
     .attr('font-family', 'Inter, sans-serif')
-    .attr('fill', '#2d3a2d')
+    .attr('fill', d => {
+      if (d.type === 'book') return '#b5a010';
+      if (d.bookId) return '#3a7a4a';
+      return '#a02020';
+    })
     .attr('text-anchor', 'middle')
     .attr('dy', d => d.radius + 20)
     .attr('pointer-events', 'none');
