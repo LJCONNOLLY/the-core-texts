@@ -248,15 +248,16 @@ export default function FlashCards() {
               {data?.coinages && data.coinages.length > 0 && (
                 <div style={{ borderTop: '2px solid #ecdfa8', paddingTop: '1rem' }}>
                   <h4 style={{
+                    fontFamily: 'var(--font-heading)',
                     fontSize: '32px', color: '#907040',
                     marginBottom: '0.5rem', fontWeight: 700,
-                    textTransform: 'uppercase', letterSpacing: '0.05em',
                   }}>
                     Original Coinages
                   </h4>
                   <ul style={{ listStyle: 'none', padding: 0 }}>
                     {data.coinages.map((c, i) => (
                       <li key={i} style={{
+                        fontFamily: 'Georgia, serif',
                         fontSize: '27px', color: '#555',
                         marginBottom: '0.4rem',
                         paddingLeft: '0.75rem',
