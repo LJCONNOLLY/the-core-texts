@@ -181,7 +181,7 @@ export default function FlashCards() {
         <div
           onClick={() => setFlipped(f => !f)}
           style={{
-            width: '420px', height: '540px',
+            width: '714px', height: '918px',
             perspective: '1200px',
             cursor: 'pointer',
           }}
@@ -208,7 +208,7 @@ export default function FlashCards() {
               <CoverImage bookId={currentBookId} base={base} />
               <h2 style={{
                 fontFamily: 'var(--font-heading)',
-                fontSize: '24px', textAlign: 'center',
+                fontSize: '36px', textAlign: 'center',
                 color: '#907040', marginTop: '1.5rem',
                 lineHeight: 1.3,
               }}>
@@ -231,14 +231,14 @@ export default function FlashCards() {
             }}>
               <p style={{
                 fontFamily: 'var(--font-heading)',
-                fontSize: '20px', color: '#907040',
+                fontSize: '28px', color: '#907040',
                 marginBottom: '0.5rem', fontWeight: 700,
               }}>
                 {(book?.author || []).join(', ')} ({book?.year || 'n.d.'})
               </p>
 
               <p style={{
-                fontSize: '17px', lineHeight: 1.7,
+                fontSize: '24px', lineHeight: 1.7,
                 color: '#3d3d3d', marginBottom: '1.25rem',
                 fontFamily: 'Georgia, serif',
               }}>
@@ -248,7 +248,7 @@ export default function FlashCards() {
               {data?.coinages && data.coinages.length > 0 && (
                 <div style={{ borderTop: '2px solid #ecdfa8', paddingTop: '1rem' }}>
                   <h4 style={{
-                    fontSize: '16px', color: '#907040',
+                    fontSize: '22px', color: '#907040',
                     marginBottom: '0.5rem', fontWeight: 700,
                     textTransform: 'uppercase', letterSpacing: '0.05em',
                   }}>
@@ -257,7 +257,7 @@ export default function FlashCards() {
                   <ul style={{ listStyle: 'none', padding: 0 }}>
                     {data.coinages.map((c, i) => (
                       <li key={i} style={{
-                        fontSize: '15px', color: '#555',
+                        fontSize: '21px', color: '#555',
                         marginBottom: '0.4rem',
                         paddingLeft: '0.75rem',
                         borderLeft: '3px solid #ecdfa8',
@@ -327,17 +327,17 @@ function CoverImage({ bookId, base }) {
 
   if (failed || !src) {
     return <div style={{
-      width: '200px', height: '260px', borderRadius: '8px',
+      width: '340px', height: '442px', borderRadius: '8px',
       background: '#2d3a2d', display: 'flex', alignItems: 'center',
       justifyContent: 'center', color: '#f0ebe2', fontFamily: 'var(--font-heading)',
-      fontSize: '18px', textAlign: 'center', padding: '1rem',
+      fontSize: '26px', textAlign: 'center', padding: '1.5rem',
     }}>
       No cover
     </div>;
   }
 
   return <img src={src} alt="" style={{
-    width: '200px', height: '260px', objectFit: 'cover', borderRadius: '8px',
+    width: '340px', height: '442px', objectFit: 'cover', borderRadius: '8px',
     boxShadow: '0 4px 12px rgba(0,0,0,0.2)',
   }} />;
 }
