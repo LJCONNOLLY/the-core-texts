@@ -276,19 +276,37 @@ function isFrontMatter(text) {
   return metaLineCount / lines.length > 0.5;
 }
 
+const HEADING_RE = /^(Acknowledgments?|Contents|Table of Contents|Introduction|Conclusion|Preface|Prologue|Epilogue|Afterword|Foreword|Bibliography|References|Notes|Appendix|Glossary|Index|Abstract|Summary|Dedication|Epigraph|Chapter|Part|Section)\b/i;
+
+function isHeadingLine(line) {
+  const t = line.trim();
+  if (!t || t.length > 150) return false;
+  if (t.endsWith('.') || t.endsWith(',')) return false;
+  if (/^\d+\s+[A-Z]/.test(t) && t.length < 120) return true;
+  if (HEADING_RE.test(t)) return true;
+  if (t === t.toUpperCase() && /[A-Z]/.test(t) && t.length < 80 && t.length > 2) return true;
+  return false;
+}
+
 function FormattedText({ text }) {
-  // First, check if there are double newlines (real paragraph breaks)
   const hasDoubleNewlines = /\n\s*\n/.test(text);
 
   let paragraphs;
 
   if (hasDoubleNewlines) {
-    // Double newlines are real paragraph breaks — use them
-    paragraphs = text.split(/\n\s*\n/).map(p => p.replace(/\n/g, ' ').trim()).filter(Boolean);
+    // Split on double newlines, but check for headings joined to body
+    paragraphs = [];
+    for (const block of text.split(/\n\s*\n/)) {
+      const lines = block.split(/\n/).map(l => l.trim()).filter(Boolean);
+      if (lines.length > 1 && isHeadingLine(lines[0])) {
+        paragraphs.push(lines[0]);
+        paragraphs.push(lines.slice(1).join(' '));
+      } else {
+        paragraphs.push(lines.join(' '));
+      }
+    }
+    paragraphs = paragraphs.filter(Boolean);
   } else {
-    // Single newlines only — need to intelligently join lines
-    // Join lines that are continuations (don't end with sentence punctuation,
-    // or next line starts lowercase / with a comma)
     const lines = text.split(/\n/);
     const joined = [];
     let current = '';
@@ -296,35 +314,30 @@ function FormattedText({ text }) {
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i].trim();
       if (!line) {
-        // Empty line = paragraph break
         if (current) { joined.push(current); current = ''; }
         continue;
       }
 
-      if (!current) {
-        current = line;
+      if (isHeadingLine(line)) {
+        if (current) { joined.push(current); current = ''; }
+        joined.push(line);
         continue;
       }
 
-      // Decide whether this line starts a new paragraph or continues the current one
+      if (!current) { current = line; continue; }
+
       const prevEndsWithPunctuation = /[.!?:;")\u201d]\s*$/.test(current);
       const lineStartsWithUpper = /^[A-Z\u201c"(]/.test(line);
       const lineIsShort = line.length < 40;
       const currentIsShort = current.length < 40;
       const lineStartsWithLower = /^[a-z,;]/.test(line);
 
-      // Continue the same paragraph if:
-      // - Line starts with lowercase (mid-sentence wrap)
-      // - Previous line doesn't end with sentence punctuation
-      // - Both are short fragments that belong together
       if (lineStartsWithLower || (!prevEndsWithPunctuation && !lineIsShort)) {
         current += ' ' + line;
       } else if (prevEndsWithPunctuation && lineStartsWithUpper && !currentIsShort) {
-        // Likely a new paragraph
         joined.push(current);
         current = line;
       } else {
-        // Default: join to be safe
         current += ' ' + line;
       }
     }
@@ -332,7 +345,6 @@ function FormattedText({ text }) {
     paragraphs = joined;
   }
 
-  // Last resort: if still one big block, split on sentences
   if (paragraphs.length <= 1 && text.length > 500) {
     const sentences = text.replace(/\n/g, ' ').match(/[^.!?]+[.!?]+\s*/g) || [text];
     const grouped = [];
@@ -348,23 +360,16 @@ function FormattedText({ text }) {
         const trimmed = para.trim();
         if (!trimmed) return null;
 
-        // Detect chapter/section headings: short lines, often numbered or all caps
-        const isHeading = (
-          trimmed.length < 120 &&
-          (/^\d+\s+[A-Z]/.test(trimmed) || /^(Chapter|Part|Section|Introduction|Conclusion|Preface|Prologue|Epilogue|Afterword|Foreword)\b/i.test(trimmed)) &&
-          !trimmed.endsWith('.')
-        );
-
-        if (isHeading) {
+        if (isHeadingLine(trimmed)) {
           return (
             <h3 key={i} style={{
               fontFamily: 'var(--font-heading)',
-              fontSize: '24px',
+              fontSize: '28px',
               fontWeight: 700,
               marginTop: i === 0 ? 0 : '2.5rem',
-              marginBottom: '1.5rem',
+              marginBottom: '1rem',
               lineHeight: 1.3,
-              textAlign: 'left',
+              textAlign: 'center',
               color: '#1a1a1a',
             }}>
               {trimmed}
@@ -372,8 +377,7 @@ function FormattedText({ text }) {
           );
         }
 
-        // Detect footnote/list lines
-        const isFootnote = /^\d{1,3}\.\s/.test(trimmed) || /^\d{1,3}\s+[A-Z]/.test(trimmed) && trimmed.length < 200;
+        const isFootnote = /^\d{1,3}\.\s/.test(trimmed);
 
         if (isFootnote) {
           return (
@@ -388,9 +392,11 @@ function FormattedText({ text }) {
           );
         }
 
+        const prevIsHeading = i > 0 && isHeadingLine(paragraphs[i - 1]?.trim());
+
         return (
           <p key={i} style={{
-            textIndent: i === 0 || paragraphs[i - 1]?.trim().length < 120 ? 0 : '2em',
+            textIndent: prevIsHeading || i === 0 ? 0 : '2em',
             marginBottom: '0.15rem',
           }}>
             {trimmed}
