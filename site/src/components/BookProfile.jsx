@@ -277,19 +277,67 @@ function isFrontMatter(text) {
 }
 
 function FormattedText({ text }) {
-  // Try double newlines first; if that gives only 1 block, split on single newlines
-  let paragraphs = text.split(/\n\s*\n/).filter(p => p.trim());
+  // First, check if there are double newlines (real paragraph breaks)
+  const hasDoubleNewlines = /\n\s*\n/.test(text);
 
-  if (paragraphs.length <= 1) {
-    paragraphs = text.split(/\n/).filter(p => p.trim());
+  let paragraphs;
+
+  if (hasDoubleNewlines) {
+    // Double newlines are real paragraph breaks — use them
+    paragraphs = text.split(/\n\s*\n/).map(p => p.replace(/\n/g, ' ').trim()).filter(Boolean);
+  } else {
+    // Single newlines only — need to intelligently join lines
+    // Join lines that are continuations (don't end with sentence punctuation,
+    // or next line starts lowercase / with a comma)
+    const lines = text.split(/\n/);
+    const joined = [];
+    let current = '';
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line) {
+        // Empty line = paragraph break
+        if (current) { joined.push(current); current = ''; }
+        continue;
+      }
+
+      if (!current) {
+        current = line;
+        continue;
+      }
+
+      // Decide whether this line starts a new paragraph or continues the current one
+      const prevEndsWithPunctuation = /[.!?:;")\u201d]\s*$/.test(current);
+      const lineStartsWithUpper = /^[A-Z\u201c"(]/.test(line);
+      const lineIsShort = line.length < 40;
+      const currentIsShort = current.length < 40;
+      const lineStartsWithLower = /^[a-z,;]/.test(line);
+
+      // Continue the same paragraph if:
+      // - Line starts with lowercase (mid-sentence wrap)
+      // - Previous line doesn't end with sentence punctuation
+      // - Both are short fragments that belong together
+      if (lineStartsWithLower || (!prevEndsWithPunctuation && !lineIsShort)) {
+        current += ' ' + line;
+      } else if (prevEndsWithPunctuation && lineStartsWithUpper && !currentIsShort) {
+        // Likely a new paragraph
+        joined.push(current);
+        current = line;
+      } else {
+        // Default: join to be safe
+        current += ' ' + line;
+      }
+    }
+    if (current) joined.push(current);
+    paragraphs = joined;
   }
 
-  // If still one block, split on sentence boundaries
+  // Last resort: if still one big block, split on sentences
   if (paragraphs.length <= 1 && text.length > 500) {
-    paragraphs = text.match(/[^.!?]+[.!?]+\s*/g) || [text];
+    const sentences = text.replace(/\n/g, ' ').match(/[^.!?]+[.!?]+\s*/g) || [text];
     const grouped = [];
-    for (let i = 0; i < paragraphs.length; i += 3) {
-      grouped.push(paragraphs.slice(i, i + 3).join(''));
+    for (let i = 0; i < sentences.length; i += 4) {
+      grouped.push(sentences.slice(i, i + 4).join(''));
     }
     paragraphs = grouped;
   }
