@@ -254,19 +254,39 @@ export default function FlashCards() {
                   }}>
                     Original Coinages
                   </h4>
-                  <ul style={{ listStyle: 'none', padding: 0 }}>
-                    {data.coinages.map((c, i) => (
-                      <li key={i} style={{
-                        fontFamily: 'Georgia, serif',
-                        fontSize: '27px', color: '#555',
-                        marginBottom: '0.4rem',
-                        paddingLeft: '0.75rem',
-                        borderLeft: '3px solid #ecdfa8',
-                        lineHeight: 1.5,
-                      }}>
-                        {c}
-                      </li>
-                    ))}
+                  <ul style={{ listStyle: 'disc', paddingLeft: '1.5rem' }}>
+                    {data.coinages.map((c, i) => {
+                      // Bold and highlight the term (before the em dash)
+                      const dashIdx = c.indexOf(' — ');
+                      if (dashIdx > 0) {
+                        const term = c.slice(0, dashIdx);
+                        const desc = c.slice(dashIdx);
+                        return (
+                          <li key={i} style={{
+                            fontFamily: 'Georgia, serif',
+                            fontSize: '27px', color: '#555',
+                            marginBottom: '0.6rem',
+                            lineHeight: 1.5,
+                          }}>
+                            <span style={{
+                              fontWeight: 700, color: '#907040',
+                              background: '#ecdfa8', padding: '0.05rem 0.3rem',
+                              borderRadius: '3px',
+                            }}>{term}</span>{desc}
+                          </li>
+                        );
+                      }
+                      return (
+                        <li key={i} style={{
+                          fontFamily: 'Georgia, serif',
+                          fontSize: '27px', color: '#555',
+                          marginBottom: '0.6rem',
+                          lineHeight: 1.5,
+                        }}>
+                          {c}
+                        </li>
+                      );
+                    })}
                   </ul>
                 </div>
               )}
