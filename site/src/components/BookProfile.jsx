@@ -193,7 +193,7 @@ export default function BookProfile() {
             <div style={{
               maxHeight: '800px',
               overflowY: 'auto',
-              background: 'var(--cream)',
+              background: '#fff',
               borderRadius: '6px',
               display: 'flex',
               justifyContent: 'center',
@@ -201,10 +201,14 @@ export default function BookProfile() {
               <div style={{
                 maxWidth: '680px',
                 width: '100%',
-                padding: '32px',
-                fontSize: '20px',
-                lineHeight: '1.9',
-                color: 'var(--text-primary)',
+                padding: '48px 40px',
+                fontSize: '18px',
+                lineHeight: '1.75',
+                color: '#1a1a1a',
+                fontFamily: 'Georgia, "Times New Roman", serif',
+                textAlign: 'justify',
+                hyphens: 'auto',
+                WebkitHyphens: 'auto',
               }}>
                 <FormattedText text={currentPage.text} />
               </div>
@@ -273,15 +277,13 @@ function FormattedText({ text }) {
   // Try double newlines first; if that gives only 1 block, split on single newlines
   let paragraphs = text.split(/\n\s*\n/).filter(p => p.trim());
 
-  // If the text is one big block, try splitting on single newlines
   if (paragraphs.length <= 1) {
     paragraphs = text.split(/\n/).filter(p => p.trim());
   }
 
-  // If still one block (no newlines at all), split on sentence boundaries for long text
+  // If still one block, split on sentence boundaries
   if (paragraphs.length <= 1 && text.length > 500) {
     paragraphs = text.match(/[^.!?]+[.!?]+\s*/g) || [text];
-    // Group sentences into ~3-sentence paragraphs
     const grouped = [];
     for (let i = 0; i < paragraphs.length; i += 3) {
       grouped.push(paragraphs.slice(i, i + 3).join(''));
@@ -295,17 +297,40 @@ function FormattedText({ text }) {
         const trimmed = para.trim();
         if (!trimmed) return null;
 
-        // Detect footnote/list lines: starts with number + space
-        const isFootnote = /^\d{1,3}\s+[A-Z]/.test(trimmed);
+        // Detect chapter/section headings: short lines, often numbered or all caps
+        const isHeading = (
+          trimmed.length < 120 &&
+          (/^\d+\s+[A-Z]/.test(trimmed) || /^(Chapter|Part|Section|Introduction|Conclusion|Preface|Prologue|Epilogue|Afterword|Foreword)\b/i.test(trimmed)) &&
+          !trimmed.endsWith('.')
+        );
+
+        if (isHeading) {
+          return (
+            <h3 key={i} style={{
+              fontFamily: 'var(--font-heading)',
+              fontSize: '24px',
+              fontWeight: 700,
+              marginTop: i === 0 ? 0 : '2.5rem',
+              marginBottom: '1.5rem',
+              lineHeight: 1.3,
+              textAlign: 'left',
+              color: '#1a1a1a',
+            }}>
+              {trimmed}
+            </h3>
+          );
+        }
+
+        // Detect footnote/list lines
+        const isFootnote = /^\d{1,3}\.\s/.test(trimmed) || /^\d{1,3}\s+[A-Z]/.test(trimmed) && trimmed.length < 200;
 
         if (isFootnote) {
           return (
             <p key={i} style={{
-              marginBottom: '0.75rem',
+              marginBottom: '0.4rem',
               fontSize: '15px',
-              color: 'var(--text-muted)',
-              paddingLeft: '1rem',
-              borderLeft: '2px solid var(--border)',
+              color: '#666',
+              textIndent: 0,
             }}>
               {trimmed}
             </p>
@@ -313,7 +338,10 @@ function FormattedText({ text }) {
         }
 
         return (
-          <p key={i} style={{ marginBottom: '1.2rem' }}>
+          <p key={i} style={{
+            textIndent: i === 0 || paragraphs[i - 1]?.trim().length < 120 ? 0 : '2em',
+            marginBottom: '0.15rem',
+          }}>
             {trimmed}
           </p>
         );
