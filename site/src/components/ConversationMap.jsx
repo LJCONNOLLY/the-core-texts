@@ -203,18 +203,24 @@ function buildGraphData(index) {
 
     // Check if this book's author is cited by others
     let citedCount = 0;
+    let isAlsoCitedScholar = false;
     for (const author of (book.author || [])) {
       const key = author.toLowerCase();
-      if (scholarCounts[key]) citedCount = Math.max(citedCount, scholarCounts[key].count);
+      if (scholarCounts[key]) {
+        citedCount = Math.max(citedCount, scholarCounts[key].count);
+        isAlsoCitedScholar = true;
+      }
     }
 
     nodes.push({
       id: bookId,
       label: book.title,
       type: 'book',
+      isAlsoCitedScholar,
       author: (book.author || []).join(', '),
       year: book.year,
       citedScholars: scholars,
+      citedByCount: citedCount,
       radius: Math.max(24, 24 + citedCount * 3),
     });
   }
@@ -311,9 +317,9 @@ function renderGraph(svgEl, nodes, links, onSelect) {
     .join('circle')
     .attr('r', d => d.radius)
     .attr('fill', d => {
-      if (d.type === 'book') return '#e6c833';
-      if (d.bookId) return '#4a8c5c';  // scholar in collection
-      return '#c0392b';  // scholar outside collection
+      if (d.type === 'book' && d.isAlsoCitedScholar) return '#4a8c5c';  // book + cited scholar = green
+      if (d.type === 'book') return '#e6c833';  // book only = yellow
+      return '#c0392b';  // scholar outside collection = red
     })
     .attr('stroke', '#fff')
     .attr('stroke-width', 2)
@@ -373,8 +379,8 @@ function renderGraph(svgEl, nodes, links, onSelect) {
     .attr('font-weight', 700)
     .attr('font-family', 'Inter, sans-serif')
     .attr('fill', d => {
+      if (d.type === 'book' && d.isAlsoCitedScholar) return '#3a7a4a';
       if (d.type === 'book') return '#b5a010';
-      if (d.bookId) return '#3a7a4a';
       return '#a02020';
     })
     .attr('text-anchor', 'middle')
