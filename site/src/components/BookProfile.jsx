@@ -1,7 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { loadIndex, loadBook, getNotes, setNotes, getApiKey } from '../utils/data';
-import { generateBookArguments } from '../utils/api';
+import { loadIndex, loadBook, getNotes, setNotes } from '../utils/data';
 
 export default function BookProfile() {
   const { id } = useParams();
@@ -9,9 +8,7 @@ export default function BookProfile() {
   const [book, setBook] = useState(null);
   const [page, setPage] = useState(0);
   const [notes, setLocalNotes] = useState('');
-  const [args, setArgs] = useState(null);
-  const [argsLoading, setArgsLoading] = useState(false);
-  const [argsError, setArgsError] = useState('');
+  const [keyArgs, setKeyArgs] = useState('');
   const [localSearch, setLocalSearch] = useState('');
 
   useEffect(() => {
@@ -21,6 +18,7 @@ export default function BookProfile() {
     });
     loadBook(id).then(setBook).catch(() => {});
     setLocalNotes(getNotes(id));
+    setKeyArgs(localStorage.getItem(`coretexts-keyargs-${id}`) || '');
   }, [id]);
 
   const handleNotesChange = useCallback((e) => {
@@ -29,18 +27,11 @@ export default function BookProfile() {
     setNotes(id, val);
   }, [id]);
 
-  const handleGenerateArgs = async () => {
-    if (!getApiKey()) { setArgsError('Set your API key in Settings first.'); return; }
-    setArgsLoading(true);
-    setArgsError('');
-    try {
-      const result = await generateBookArguments(meta, book);
-      setArgs(result);
-    } catch (e) {
-      setArgsError(e.message);
-    }
-    setArgsLoading(false);
-  };
+  const handleKeyArgsChange = useCallback((e) => {
+    const val = e.target.value;
+    setKeyArgs(val);
+    localStorage.setItem(`coretexts-keyargs-${id}`, val);
+  }, [id]);
 
   if (!meta) return <div className="loading">Loading...</div>;
 
@@ -80,63 +71,6 @@ export default function BookProfile() {
           {' • '}{(meta.word_count || 0).toLocaleString()} words
         </p>
       </div>
-
-      {/* Key Arguments */}
-      <div className="card" style={{ marginBottom: '1.5rem' }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
-          <h2 style={{ fontSize: '1.2rem' }}>Key Arguments</h2>
-          <button className="btn btn-secondary" onClick={handleGenerateArgs} disabled={argsLoading}>
-            {argsLoading ? 'Generating...' : (args ? 'Regenerate' : 'Generate with AI')}
-          </button>
-        </div>
-        {argsError && !argsError.includes('API key') && <p style={{ color: '#c0392b', fontSize: '0.85rem' }}>{argsError}</p>}
-        {args ? (
-          <ul style={{ listStyle: 'none', padding: 0 }}>
-            {args.map((arg, i) => (
-              <li key={i} style={{ marginBottom: '1rem', paddingLeft: '1rem', borderLeft: '3px solid var(--gold)' }}>
-                <p style={{ fontWeight: 600, marginBottom: '0.25rem' }}>{arg.summary}</p>
-                <p style={{ fontSize: '0.875rem', color: 'var(--text-secondary)' }}>{arg.elaboration}</p>
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p style={{ color: 'var(--text-muted)', fontSize: '1rem' }}>
-            Click "Generate with AI" to produce key arguments using Claude.
-            {!getApiKey() && <span style={{ display: 'block', marginTop: '0.25rem' }}>
-              (Requires an Anthropic API key — set it in Settings)
-            </span>}
-          </p>
-        )}
-      </div>
-
-      {/* Definitions */}
-      {meta.definitions && (meta.definitions.text?.length > 0 || meta.definitions.technology?.length > 0) && (
-        <div className="card" style={{ marginBottom: '1.5rem', borderLeft: '3px solid var(--gold)' }}>
-          <h2 style={{ fontSize: '1.1rem', marginBottom: '0.75rem' }}>Definitions Found</h2>
-          {meta.definitions.text?.map((d, i) => (
-            <div key={`t${i}`} style={{ marginBottom: '0.75rem' }}>
-              <span className="tag tag-gold" style={{ marginRight: '0.5rem' }}>text</span>
-              <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-                {d.locator_type} {d.locator}
-              </span>
-              <p style={{ fontSize: '0.85rem', marginTop: '0.25rem', fontStyle: 'italic' }}>
-                "{d.excerpt.slice(0, 300)}{d.excerpt.length > 300 ? '...' : ''}"
-              </p>
-            </div>
-          ))}
-          {meta.definitions.technology?.map((d, i) => (
-            <div key={`k${i}`} style={{ marginBottom: '0.75rem' }}>
-              <span className="tag" style={{ background: '#e3f2fd', color: '#1565c0', marginRight: '0.5rem' }}>technology</span>
-              <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-                {d.locator_type} {d.locator}
-              </span>
-              <p style={{ fontSize: '0.85rem', marginTop: '0.25rem', fontStyle: 'italic' }}>
-                "{d.excerpt.slice(0, 300)}{d.excerpt.length > 300 ? '...' : ''}"
-              </p>
-            </div>
-          ))}
-        </div>
-      )}
 
       {/* Full Text */}
       <div className="card" style={{ marginBottom: '1.5rem' }}>
@@ -220,6 +154,51 @@ export default function BookProfile() {
         ) : (
           <p style={{ color: 'var(--text-muted)' }}>Loading text...</p>
         )}
+      </div>
+
+      {/* Definitions */}
+      {meta.definitions && (meta.definitions.text?.length > 0 || meta.definitions.technology?.length > 0) && (
+        <div className="card" style={{ marginBottom: '1.5rem', borderLeft: '3px solid var(--coral, #c17a5a)' }}>
+          <h2 style={{ fontSize: '1.2rem', marginBottom: '0.75rem' }}>Definitions Found</h2>
+          {meta.definitions.text?.map((d, i) => (
+            <div key={`t${i}`} style={{ marginBottom: '0.75rem' }}>
+              <span className="tag tag-gold" style={{ marginRight: '0.5rem' }}>text</span>
+              <span style={{ fontSize: '1rem', color: 'var(--text-muted)' }}>
+                {d.locator_type} {d.locator}
+              </span>
+              <p style={{ fontSize: '1rem', marginTop: '0.25rem', fontStyle: 'italic' }}>
+                "{d.excerpt.slice(0, 300)}{d.excerpt.length > 300 ? '...' : ''}"
+              </p>
+            </div>
+          ))}
+          {meta.definitions.technology?.map((d, i) => (
+            <div key={`k${i}`} style={{ marginBottom: '0.75rem' }}>
+              <span className="tag" style={{ background: '#e3f2fd', color: '#1565c0', marginRight: '0.5rem' }}>technology</span>
+              <span style={{ fontSize: '1rem', color: 'var(--text-muted)' }}>
+                {d.locator_type} {d.locator}
+              </span>
+              <p style={{ fontSize: '1rem', marginTop: '0.25rem', fontStyle: 'italic' }}>
+                "{d.excerpt.slice(0, 300)}{d.excerpt.length > 300 ? '...' : ''}"
+              </p>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* My Key Arguments */}
+      <div className="card" style={{ marginBottom: '1.5rem' }}>
+        <h2 style={{ fontSize: '1.2rem', marginBottom: '0.75rem' }}>My Key Arguments</h2>
+        <textarea
+          className="input"
+          rows={6}
+          placeholder="Write your key arguments for this text..."
+          value={keyArgs}
+          onChange={handleKeyArgsChange}
+          style={{ resize: 'vertical' }}
+        />
+        <p style={{ fontSize: '1rem', color: 'var(--text-muted)', marginTop: '0.25rem' }}>
+          Saved to your browser's local storage.
+        </p>
       </div>
 
       {/* Notes */}
