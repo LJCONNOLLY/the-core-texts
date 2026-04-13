@@ -79,27 +79,46 @@ MANUAL_METADATA = {
 
 # ─── Definitional language patterns ─────────────────────────────────────────
 
-DEFINITION_PATTERNS_TEXT = [
-    re.compile(r'\btext\s+(is|are|was|were|refers?\s+to|can\s+be\s+defined\s+as|means?|denotes?|signif\w*)', re.IGNORECASE),
-    re.compile(r'\bdefin\w+\s+(?:of\s+)?(?:the\s+)?(?:term\s+)?["\']?text["\']?', re.IGNORECASE),
-    re.compile(r'\bby\s+["\']?text["\']?\s*[,]?\s*(?:I\s+mean|we\s+mean|is\s+meant)', re.IGNORECASE),
-    re.compile(r'\btext\s+(?:here|in\s+this)\s+(?:refers?|means?|denotes?)', re.IGNORECASE),
-    re.compile(r'\bwhat\s+(?:is|do\w*\s+we\s+mean\s+by)\s+(?:a\s+)?["\']?text["\']?', re.IGNORECASE),
-    re.compile(r'\btext\s+as\s+(?:a\s+)?(?:concept|term|category|framework|practice)', re.IGNORECASE),
-    re.compile(r'\bconcept\s+of\s+(?:the\s+)?text\b', re.IGNORECASE),
-    re.compile(r'\bunderstand(?:ing)?\s+(?:of\s+)?text\s+as\b', re.IGNORECASE),
-]
+# Load glossary terms to flag definitions for all of them
+def load_glossary_terms():
+    """Load term names from glossary.json."""
+    glossary_path = ROOT_DIR / "glossary.json"
+    if glossary_path.exists():
+        with open(glossary_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        # Extract the primary word(s) for each term
+        terms = []
+        for entry in data.get("terms", []):
+            term = entry.get("term", entry.get("id", ""))
+            # Handle "Visibility / Invisibility" -> search for both
+            for part in re.split(r'\s*/\s*', term):
+                part = part.strip()
+                if part and len(part) > 2:
+                    terms.append(part.lower())
+        return terms
+    return ["text", "technology"]
 
-DEFINITION_PATTERNS_TECHNOLOGY = [
-    re.compile(r'\btechnology\s+(is|are|was|were|refers?\s+to|can\s+be\s+defined\s+as|means?|denotes?|signif\w*)', re.IGNORECASE),
-    re.compile(r'\bdefin\w+\s+(?:of\s+)?(?:the\s+)?(?:term\s+)?["\']?technology["\']?', re.IGNORECASE),
-    re.compile(r'\bby\s+["\']?technology["\']?\s*[,]?\s*(?:I\s+mean|we\s+mean|is\s+meant)', re.IGNORECASE),
-    re.compile(r'\btechnology\s+(?:here|in\s+this)\s+(?:refers?|means?|denotes?)', re.IGNORECASE),
-    re.compile(r'\bwhat\s+(?:is|do\w*\s+we\s+mean\s+by)\s+(?:a\s+)?["\']?technology["\']?', re.IGNORECASE),
-    re.compile(r'\btechnology\s+as\s+(?:a\s+)?(?:concept|term|category|framework|practice)', re.IGNORECASE),
-    re.compile(r'\bconcept\s+of\s+technology\b', re.IGNORECASE),
-    re.compile(r'\bunderstand(?:ing)?\s+(?:of\s+)?technology\s+as\b', re.IGNORECASE),
-]
+GLOSSARY_TERMS = load_glossary_terms()
+
+
+def build_definition_patterns(term):
+    """Build regex patterns to detect definitional language for a given term."""
+    # Escape the term for regex
+    t = re.escape(term)
+    return [
+        re.compile(rf'\b{t}\s+(is|are|was|were|refers?\s+to|can\s+be\s+defined\s+as|means?|denotes?|signif\w*)', re.IGNORECASE),
+        re.compile(rf'\bdefin\w+\s+(?:of\s+)?(?:the\s+)?(?:term\s+)?["\']?{t}["\']?', re.IGNORECASE),
+        re.compile(rf'\bby\s+["\']?{t}["\']?\s*[,]?\s*(?:I\s+mean|we\s+mean|is\s+meant)', re.IGNORECASE),
+        re.compile(rf'\b{t}\s+(?:here|in\s+this)\s+(?:refers?|means?|denotes?)', re.IGNORECASE),
+        re.compile(rf'\bwhat\s+(?:is|do\w*\s+we\s+mean\s+by)\s+(?:a\s+)?["\']?{t}["\']?', re.IGNORECASE),
+        re.compile(rf'\b{t}\s+as\s+(?:a\s+)?(?:concept|term|category|framework|practice)', re.IGNORECASE),
+        re.compile(rf'\bconcept\s+of\s+(?:the\s+)?{t}\b', re.IGNORECASE),
+        re.compile(rf'\bunderstand(?:ing)?\s+(?:of\s+)?{t}\s+as\b', re.IGNORECASE),
+    ]
+
+
+# Pre-build patterns for all glossary terms
+TERM_PATTERNS = {term: build_definition_patterns(term) for term in GLOSSARY_TERMS}
 
 # ─── Filename parser ────────────────────────────────────────────────────────
 
@@ -539,33 +558,25 @@ def extract_sentence(text, match_start, match_end):
 
 
 def flag_definitions(pages):
-    """Scan pages/sections for definitional language about 'text' and 'technology'."""
-    definitions = {"text": [], "technology": []}
+    """Scan pages/sections for definitional language about all glossary terms."""
+    definitions = {term: [] for term in GLOSSARY_TERMS}
 
     for page in pages:
         text = page["text"]
 
-        for pattern in DEFINITION_PATTERNS_TEXT:
-            for match in pattern.finditer(text):
-                excerpt = extract_sentence(text, match.start(), match.end())
-                if len(excerpt) > 30:
-                    definitions["text"].append({
-                        "locator": page["locator"],
-                        "locator_type": page["locator_type"],
-                        "excerpt": excerpt[:1000],
-                    })
+        for term, patterns in TERM_PATTERNS.items():
+            for pattern in patterns:
+                for match in pattern.finditer(text):
+                    excerpt = extract_sentence(text, match.start(), match.end())
+                    if len(excerpt) > 30:
+                        definitions[term].append({
+                            "locator": page["locator"],
+                            "locator_type": page["locator_type"],
+                            "excerpt": excerpt[:1000],
+                        })
 
-        for pattern in DEFINITION_PATTERNS_TECHNOLOGY:
-            for match in pattern.finditer(text):
-                excerpt = extract_sentence(text, match.start(), match.end())
-                if len(excerpt) > 30:
-                    definitions["technology"].append({
-                        "locator": page["locator"],
-                        "locator_type": page["locator_type"],
-                        "excerpt": excerpt[:1000],
-                    })
-
-    # Deduplicate by excerpt similarity
+    # Deduplicate by excerpt similarity and remove empty terms
+    result = {}
     for key in definitions:
         seen = set()
         unique = []
@@ -574,9 +585,10 @@ def flag_definitions(pages):
             if norm not in seen:
                 seen.add(norm)
                 unique.append(d)
-        definitions[key] = unique
+        if unique:
+            result[key] = unique
 
-    return definitions
+    return result
 
 
 # ─── Main pipeline ───────────────────────────────────────────────────────────
@@ -682,7 +694,7 @@ def main():
     books = []
     errors = []
     format_counts = {"pdf": 0, "epub": 0, "mobi": 0, "azw3": 0, "zip": 0}
-    definition_counts = {"text": 0, "technology": 0}
+    definition_counts = {}  # term -> count
 
     for i, filepath in enumerate(files, 1):
         filename = os.path.basename(filepath)
@@ -712,15 +724,15 @@ def main():
         books.append(index_entry)
 
         format_counts[book_data["format"]] = format_counts.get(book_data["format"], 0) + 1
-        definition_counts["text"] += len(book_data["definitions"]["text"])
-        definition_counts["technology"] += len(book_data["definitions"]["technology"])
+        for term, defs in book_data["definitions"].items():
+            definition_counts[term] = definition_counts.get(term, 0) + len(defs)
 
         print(f"  ✓ {book_data['title']}")
         print(f"    Author: {', '.join(book_data['author']) if book_data['author'] else 'Unknown'}")
+        total_book_defs = sum(len(v) for v in book_data['definitions'].values())
         print(f"    {book_data['page_count']} {book_data['pages'][0]['locator_type'] + 's' if book_data.get('pages') else 'pages'}, "
               f"{book_data['word_count']:,} words, "
-              f"{len(book_data['definitions']['text'])} text defs, "
-              f"{len(book_data['definitions']['technology'])} tech defs")
+              f"{total_book_defs} definitions flagged")
 
     # Write index.json
     index = {
@@ -748,9 +760,12 @@ def main():
         if count > 0:
             print(f"    {fmt.upper():6s}: {count}")
     print()
-    print("  Definitions flagged:")
-    print(f"    'text':       {definition_counts['text']} passages")
-    print(f"    'technology': {definition_counts['technology']} passages")
+    total_defs = sum(definition_counts.values())
+    print(f"  Definitions flagged: {total_defs} total across {len(definition_counts)} terms")
+    for term, count in sorted(definition_counts.items(), key=lambda x: -x[1])[:15]:
+        print(f"    '{term}': {count} passages")
+    if len(definition_counts) > 15:
+        print(f"    ... and {len(definition_counts) - 15} more terms")
     print()
 
     if errors:

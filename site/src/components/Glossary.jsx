@@ -24,24 +24,32 @@ export default function Glossary() {
     const termText = selectedTerm.term.toLowerCase().replace(/\s*\/\s*.*/,'');
     const passages = [];
     for (const book of index.books) {
-      for (const key of ['text', 'technology']) {
-        if (book.definitions?.[key]) {
-          for (const def of book.definitions[key]) {
-            if (def.excerpt.toLowerCase().includes(termText)) {
-              passages.push({
-                book: book.title,
-                bookId: book.id,
-                author: (book.author || []).join(', '),
-                locator: def.locator,
-                locatorType: def.locator_type,
-                excerpt: def.excerpt,
-              });
-            }
+      // Search all definition keys (text, technology, health, race, etc.)
+      for (const [key, defs] of Object.entries(book.definitions || {})) {
+        for (const def of defs) {
+          if (def.excerpt.toLowerCase().includes(termText)) {
+            passages.push({
+              book: book.title,
+              bookId: book.id,
+              author: (book.author || []).join(', '),
+              locator: def.locator,
+              locatorType: def.locator_type,
+              excerpt: def.excerpt,
+              matchedTerm: key,
+            });
           }
         }
       }
     }
-    setBookPassages(passages);
+    // Deduplicate by excerpt
+    const seen = new Set();
+    const unique = passages.filter(p => {
+      const k = p.excerpt.slice(0, 100);
+      if (seen.has(k)) return false;
+      seen.add(k);
+      return true;
+    });
+    setBookPassages(unique);
   }, [selectedId, index, selectedTerm]);
 
   if (!index) return <div className="loading">Loading...</div>;
