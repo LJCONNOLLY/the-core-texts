@@ -1,17 +1,17 @@
 :root {
-  --forest: #2d3a2d;
-  --forest-light: #3d4d3d;
-  --sage: #b5c4a8;
-  --sage-light: #c8d4bc;
-  --sage-dark: #9aad8a;
-  --coral: #c17a5a;
-  --coral-light: #d49478;
-  --cream: #f0ebe2;
-  --cream-dark: #e2ddd2;
-  --text-primary: #2d3a2d;
-  --text-secondary: #556b55;
-  --text-muted: #8a9a8a;
-  --border: #c8d4bc;
+  --forest: #1a2b4d;
+  --forest-light: #2c4570;
+  --sage: #a9d0ee;
+  --sage-light: #cddff0;
+  --sage-dark: #6fa8d9;
+  --coral: #3f7fc4;
+  --coral-light: #6aa3da;
+  --cream: #eef5fb;
+  --cream-dark: #dbe9f5;
+  --text-primary: #1a2b4d;
+  --text-secondary: #3d5470;
+  --text-muted: #7891a8;
+  --border: #cddff0;
   --white: #ffffff;
   --sidebar-width: 384px;
   --font-heading: 'Playfair Display', Georgia, serif;
@@ -61,7 +61,7 @@ input, textarea, select { font-family: var(--font-body); }
 
 .sidebar-brand {
   padding: 2.5rem 2rem 2rem;
-  border-bottom: 1px solid #9aad8a;
+  border-bottom: 1px solid var(--sage-dark);
 }
 
 .sidebar-brand h1 {
@@ -94,10 +94,10 @@ input, textarea, select { font-family: var(--font-body); }
   border-left: 4px solid transparent;
 }
 
-.sidebar-nav a:hover { background: #9aad8a; color: var(--forest); }
+.sidebar-nav a:hover { background: var(--sage-dark); color: var(--forest); }
 
 .sidebar-nav a.active {
-  background: #9aad8a;
+  background: var(--sage-dark);
   color: var(--forest);
   border-left-color: var(--coral);
   font-weight: 700;
@@ -105,22 +105,22 @@ input, textarea, select { font-family: var(--font-body); }
 
 .sidebar-footer {
   padding: 1.5rem 2rem;
-  border-top: 1px solid #9aad8a;
+  border-top: 1px solid var(--sage-dark);
 }
 
 .sidebar-footer button {
   width: 100%;
   padding: 0.8rem;
-  background: #9aad8a;
+  background: var(--sage-dark);
   color: var(--forest);
-  border: 1px solid #8a9d7a;
+  border: 1px solid #5a95d1;
   border-radius: 6px;
   font-family: var(--font-heading);
   font-size: 1.28rem;
   transition: all 0.15s ease;
 }
 
-.sidebar-footer button:hover { background: #8a9d7a; color: var(--forest); }
+.sidebar-footer button:hover { background: #5a95d1; color: var(--forest); }
 
 .main-content {
   flex: 1;
@@ -135,7 +135,7 @@ input, textarea, select { font-family: var(--font-body); }
   display: none;
   position: fixed;
   top: 0; left: 0; right: 0;
-  background: #b8b0a0;
+  background: #9fc3e3;
   padding: 0.75rem 1rem;
   z-index: 200;
   align-items: center;
@@ -188,7 +188,7 @@ input, textarea, select { font-family: var(--font-body); }
   font-weight: 500;
 }
 
-.tag-gold { background: rgba(193, 122, 90, 0.15); color: var(--coral); }
+.tag-gold { background: rgba(63, 127, 196, 0.15); color: var(--coral); }
 
 /* Buttons */
 .btn {
@@ -223,7 +223,7 @@ input, textarea, select { font-family: var(--font-body); }
 .input:focus {
   outline: none;
   border-color: var(--coral);
-  box-shadow: 0 0 0 3px rgba(193, 122, 90, 0.15);
+  box-shadow: 0 0 0 3px rgba(63, 127, 196, 0.15);
 }
 
 /* Format badges */
@@ -247,7 +247,7 @@ input, textarea, select { font-family: var(--font-body); }
 .empty-state { text-align: center; padding: 3rem; color: var(--text-secondary); }
 
 mark, .highlight {
-  background: rgba(193, 122, 90, 0.2);
+  background: rgba(63, 127, 196, 0.2);
   padding: 0.1rem 0.2rem;
   border-radius: 2px;
 }

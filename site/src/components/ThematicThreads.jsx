@@ -218,7 +218,7 @@ export default function ThematicThreads() {
                 fontFamily: 'var(--font-heading)',
                 fontSize: '1.15rem',
                 borderRadius: '4px',
-                borderLeft: selectedId === thread.id ? '3px solid var(--coral, #c17a5a)' : '3px solid transparent',
+                borderLeft: selectedId === thread.id ? '3px solid var(--coral, #3f7fc4)' : '3px solid transparent',
                 cursor: 'pointer',
                 marginBottom: '0.25rem',
               }}
@@ -265,7 +265,7 @@ export default function ThematicThreads() {
                     <div key={i} style={{
                       marginBottom: '0.75rem',
                       paddingLeft: '1rem',
-                      borderLeft: '3px solid var(--coral, #c17a5a)',
+                      borderLeft: '3px solid var(--coral, #3f7fc4)',
                     }}>
                       {p.locator_type && (
                         <span style={{
@@ -310,7 +310,7 @@ function highlightTerms(text, terms) {
   const segments = text.split(regex);
   return segments.map((seg, i) =>
     regex.test(seg)
-      ? <mark key={i} style={{ background: '#fff176', padding: '0.05rem 0.15rem', borderRadius: '2px' }}>{seg}</mark>
+      ? <mark key={i} style={{ background: 'rgba(63, 127, 196, 0.25)', padding: '0.05rem 0.15rem', borderRadius: '2px' }}>{seg}</mark>
       : seg
   );
 }

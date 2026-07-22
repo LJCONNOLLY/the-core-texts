@@ -106,10 +106,10 @@ export default function BookProfile() {
                       padding: 0,
                       fontFamily: 'var(--font-heading)',
                       fontSize: '1.1rem',
-                      color: targetIdx >= 0 ? '#2d5a2d' : 'var(--text-muted)',
+                      color: targetIdx >= 0 ? '#1a2b4d' : 'var(--text-muted)',
                       cursor: targetIdx >= 0 ? 'pointer' : 'default',
                       textDecoration: targetIdx >= 0 ? 'underline' : 'none',
-                      textDecorationColor: '#9aad8a',
+                      textDecorationColor: '#6fa8d9',
                       textUnderlineOffset: '3px',
                       textAlign: 'left',
                     }}
@@ -210,7 +210,7 @@ export default function BookProfile() {
 
       {/* Definitions */}
       {meta.definitions && (meta.definitions.text?.length > 0 || meta.definitions.technology?.length > 0) && (
-        <div className="card" style={{ marginBottom: '1.5rem', borderLeft: '3px solid var(--coral, #c17a5a)' }}>
+        <div className="card" style={{ marginBottom: '1.5rem', borderLeft: '3px solid var(--coral, #3f7fc4)' }}>
           <h2 style={{ fontSize: '1.2rem', marginBottom: '0.75rem' }}>Definitions Found</h2>
           {meta.definitions.text?.map((d, i) => (
             <div key={`t${i}`} style={{ marginBottom: '0.75rem' }}>
@@ -428,10 +428,10 @@ function FormattedText({ text, pages, onNavigate }) {
                 marginBottom: '1rem',
                 lineHeight: 1.3,
                 textAlign: 'center',
-                color: isClickable ? '#2d5a2d' : '#1a1a1a',
+                color: isClickable ? '#1a2b4d' : '#1a1a1a',
                 cursor: isClickable ? 'pointer' : 'default',
                 textDecoration: isClickable ? 'underline' : 'none',
-                textDecorationColor: isClickable ? '#9aad8a' : 'transparent',
+                textDecorationColor: isClickable ? '#6fa8d9' : 'transparent',
                 textUnderlineOffset: '4px',
               }}>
               {trimmed}

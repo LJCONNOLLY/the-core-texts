@@ -131,7 +131,7 @@ export default function ConversationMap() {
       }
       // Highlight matching nodes
       d3.select(svgRef.current).selectAll('circle')
-        .attr('stroke', d => matches.some(m => m.id === d.id) ? '#e6c833' : '#fff')
+        .attr('stroke', d => matches.some(m => m.id === d.id) ? '#3f7fc4' : '#fff')
         .attr('stroke-width', d => matches.some(m => m.id === d.id) ? 4 : 2);
     }
   }, [searchQuery, graphData]);
@@ -288,7 +288,7 @@ export default function ConversationMap() {
                   {selectedNode.citedBy?.map(b => (
                     <Link key={b.id} to={`/book/${b.id}`} style={{
                       display: 'block', fontSize: '0.9rem', marginBottom: '0.35rem',
-                      color: '#2d5a2d', textDecoration: 'underline',
+                      color: '#1a2b4d', textDecoration: 'underline',
                     }}>
                       {b.title}
                     </Link>
@@ -395,7 +395,7 @@ function renderGraph(svgEl, { nodes, links }, opts) {
   const tooltip = d3.select('body').selectAll('.graph-tooltip').data([0]).join('div')
     .attr('class', 'graph-tooltip')
     .style('position', 'fixed').style('pointer-events', 'none')
-    .style('background', '#2d3a2d').style('color', '#f0ebe2')
+    .style('background', '#1a2b4d').style('color', '#eef5fb')
     .style('padding', '8px 14px').style('border-radius', '6px')
     .style('font-size', '14px').style('font-family', 'Inter, sans-serif')
     .style('max-width', '300px').style('opacity', 0).style('z-index', 9999);
@@ -413,7 +413,7 @@ function renderGraph(svgEl, { nodes, links }, opts) {
   const clusterGroup = g.append('g').attr('class', 'clusters');
 
   const link = g.append('g').selectAll('line').data(links).join('line')
-    .attr('stroke', d => d.type === 'cites_author' ? '#c9a84c' : '#9aad8a')
+    .attr('stroke', d => d.type === 'cites_author' ? '#c9a84c' : '#6fa8d9')
     .attr('stroke-width', d => d.type === 'cites_author' ? 2 : 1.2)
     .style('opacity', 0.4).style('transition', 'opacity 200ms');
 
@@ -433,7 +433,7 @@ function renderGraph(svgEl, { nodes, links }, opts) {
       opts.onSelect(d, { x: e.clientX - rect.left, y: e.clientY - rect.top });
     })
     .on('mouseover', function (e, d) {
-      d3.select(this).attr('stroke', '#e6c833').attr('stroke-width', 4);
+      d3.select(this).attr('stroke', '#3f7fc4').attr('stroke-width', 4);
       tooltip.style('opacity', 1)
         .html(d.type === 'book'
           ? `<strong>${d.label}</strong><br/>${d.author}<br/>${d.year || ''}`

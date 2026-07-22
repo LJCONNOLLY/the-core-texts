@@ -198,7 +198,7 @@ export default function FlashCards() {
               position: 'absolute', inset: 0,
               backfaceVisibility: 'hidden',
               WebkitBackfaceVisibility: 'hidden',
-              background: '#e8dcc8',
+              background: '#ffffff',
               borderRadius: '14px',
               display: 'flex', flexDirection: 'column',
               alignItems: 'center', justifyContent: 'center',
@@ -209,7 +209,7 @@ export default function FlashCards() {
               <h2 style={{
                 fontFamily: 'var(--font-heading)',
                 fontSize: '38px', textAlign: 'center',
-                color: '#907040', marginTop: '1.5rem',
+                color: '#1a2b4d', marginTop: '1.5rem',
                 lineHeight: 1.3,
               }}>
                 {book?.title}
@@ -222,7 +222,7 @@ export default function FlashCards() {
               backfaceVisibility: 'hidden',
               WebkitBackfaceVisibility: 'hidden',
               transform: 'rotateY(180deg)',
-              background: '#f5f0e8',
+              background: '#eef5fb',
               borderRadius: '14px',
               padding: '2rem',
               boxShadow: '0 8px 30px rgba(0,0,0,0.15)',
@@ -231,7 +231,7 @@ export default function FlashCards() {
             }}>
               <p style={{
                 fontFamily: 'var(--font-heading)',
-                fontSize: '32px', color: '#907040',
+                fontSize: '32px', color: '#1a2b4d',
                 marginBottom: '0.5rem', fontWeight: 700,
               }}>
                 {(book?.author || []).join(', ')} ({book?.year || 'n.d.'})
@@ -239,17 +239,17 @@ export default function FlashCards() {
 
               <p style={{
                 fontSize: '27px', lineHeight: 1.7,
-                color: '#3d3d3d', marginBottom: '1.25rem',
+                color: '#1a2b4d', marginBottom: '1.25rem',
                 fontFamily: 'Georgia, serif',
               }}>
                 {data?.summary}
               </p>
 
               {data?.coinages && data.coinages.length > 0 && (
-                <div style={{ borderTop: '2px solid #ecdfa8', paddingTop: '1rem' }}>
+                <div style={{ borderTop: '2px solid #cddff0', paddingTop: '1rem' }}>
                   <h4 style={{
                     fontFamily: 'var(--font-heading)',
-                    fontSize: '32px', color: '#907040',
+                    fontSize: '32px', color: '#1a2b4d',
                     marginBottom: '0.5rem', fontWeight: 700,
                   }}>
                     Original Coinages
@@ -264,13 +264,13 @@ export default function FlashCards() {
                         return (
                           <li key={i} style={{
                             fontFamily: 'Georgia, serif',
-                            fontSize: '27px', color: '#555',
+                            fontSize: '27px', color: '#3d5470',
                             marginBottom: '0.6rem',
                             lineHeight: 1.5,
                           }}>
                             <span style={{
-                              fontWeight: 700, color: '#907040',
-                              background: '#ecdfa8', padding: '0.05rem 0.3rem',
+                              fontWeight: 700, color: '#1a2b4d',
+                              background: '#cddff0', padding: '0.05rem 0.3rem',
                               borderRadius: '3px',
                             }}>{term}</span>{desc}
                           </li>
@@ -279,7 +279,7 @@ export default function FlashCards() {
                       return (
                         <li key={i} style={{
                           fontFamily: 'Georgia, serif',
-                          fontSize: '27px', color: '#555',
+                          fontSize: '27px', color: '#3d5470',
                           marginBottom: '0.6rem',
                           lineHeight: 1.5,
                         }}>
@@ -349,8 +349,8 @@ function CoverImage({ bookId, base }) {
   if (failed || !src) {
     return <div style={{
       width: '340px', height: '442px', borderRadius: '8px',
-      background: '#2d3a2d', display: 'flex', alignItems: 'center',
-      justifyContent: 'center', color: '#f0ebe2', fontFamily: 'var(--font-heading)',
+      background: '#1a2b4d', display: 'flex', alignItems: 'center',
+      justifyContent: 'center', color: '#eef5fb', fontFamily: 'var(--font-heading)',
       fontSize: '29px', textAlign: 'center', padding: '1.5rem',
     }}>
       No cover

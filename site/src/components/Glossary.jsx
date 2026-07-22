@@ -82,7 +82,7 @@ export default function Glossary() {
                 fontFamily: 'var(--font-heading)',
                 fontSize: '1.1rem',
                 borderRadius: '4px',
-                borderLeft: selectedId === t.id ? '3px solid var(--coral, #c17a5a)' : '3px solid transparent',
+                borderLeft: selectedId === t.id ? '3px solid var(--coral, #3f7fc4)' : '3px solid transparent',
                 cursor: 'pointer',
                 marginBottom: '0.15rem',
               }}
@@ -147,7 +147,7 @@ function highlightTerm(text, term) {
   const segments = text.split(regex);
   return segments.map((seg, i) =>
     regex.test(seg)
-      ? <mark key={i} style={{ background: '#fff176', padding: '0.05rem 0.15rem', borderRadius: '2px' }}>{seg}</mark>
+      ? <mark key={i} style={{ background: 'rgba(63, 127, 196, 0.25)', padding: '0.05rem 0.15rem', borderRadius: '2px' }}>{seg}</mark>
       : seg
   );
 }
