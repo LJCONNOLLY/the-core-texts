@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "copy-data": "mkdir -p public/data && cp ../data/index.json public/data/ && cp -r ../data/books public/data/ && cp ../glossary.json public/glossary.json",
+    "copy-data": "mkdir -p public/data && cp ../data/index.json public/data/ && cp -r ../data/books public/data/ && cp -r ../data/search public/data/ && cp ../glossary.json public/glossary.json",
     "dev": "npm run copy-data && vite",
     "build": "npm run copy-data && vite build",
     "lint": "eslint .",

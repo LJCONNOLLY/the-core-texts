@@ -18,6 +18,18 @@ export async function loadBook(id) {
   return fetchJSON(`books/${id}.json`);
 }
 
+export async function loadSearchManifest() {
+  return fetchJSON('search/manifest.json');
+}
+
+export async function loadChunkIndex() {
+  return fetchJSON('search/chunk-index.json');
+}
+
+export async function loadPostingsShard(shardIdx) {
+  return fetchJSON(`search/postings/${shardIdx}.json`);
+}
+
 export async function loadGlossaryConfig() {
   const res = await fetch(import.meta.env.BASE_URL + '../glossary.json');
   if (!res.ok) return { terms: [] };

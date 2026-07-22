@@ -1,7 +1,9 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import lunr from 'lunr';
-import { loadIndex, loadBook } from '../utils/data';
+import { loadIndex } from '../utils/data';
+import { search as searchIndex, tokenize } from '../utils/search';
+import { highlightText } from '../utils/text';
 
 export default function Search() {
   const [index, setIndex] = useState(null);
@@ -11,7 +13,6 @@ export default function Search() {
   const [exactPhrase, setExactPhrase] = useState(false);
   const [loading, setLoading] = useState(true);
   const [searching, setSearching] = useState(false);
-  const booksCache = useRef({});
   const debounceRef = useRef(null);
 
   useEffect(() => {
@@ -19,8 +20,7 @@ export default function Search() {
       const idx = await loadIndex();
       setIndex(idx);
 
-      // Build Lunr index from book metadata for quick search
-      // Full text search loads books on demand
+      // Build Lunr index from book metadata for quick title/author search
       const lunrIndex = lunr(function () {
         this.ref('id');
         this.field('title', { boost: 10 });
@@ -45,49 +45,23 @@ export default function Search() {
     if (!q.trim() || !index) { setResults([]); return; }
     setSearching(true);
 
-    const searchResults = [];
-    const queryLower = q.toLowerCase();
+    const booksById = Object.fromEntries(index.books.map(b => [b.id, b]));
 
-    // Search through all books' full text
-    for (const book of index.books) {
-      try {
-        if (!booksCache.current[book.id]) {
-          booksCache.current[book.id] = await loadBook(book.id);
-        }
-        const bookData = booksCache.current[book.id];
-
-        for (const page of bookData.pages) {
-          const textLower = page.text.toLowerCase();
-          let matchIndex;
-
-          if (exactPhrase) {
-            matchIndex = textLower.indexOf(queryLower);
-          } else {
-            const words = queryLower.split(/\s+/);
-            matchIndex = words.every(w => textLower.includes(w))
-              ? textLower.indexOf(words[0]) : -1;
-          }
-
-          if (matchIndex !== -1) {
-            const start = Math.max(0, matchIndex - 80);
-            const end = Math.min(page.text.length, matchIndex + q.length + 80);
-            searchResults.push({
-              bookId: book.id,
-              title: book.title,
-              author: (book.author || []).join(', '),
-              locator: page.locator,
-              locatorType: page.locator_type,
-              excerpt: page.text.slice(start, end),
-              matchIndex: matchIndex - start,
-            });
-          }
-
-          if (searchResults.length >= 100) break;
-        }
-      } catch {
-        // Skip books that fail to load
-      }
-      if (searchResults.length >= 100) break;
+    let searchResults = [];
+    try {
+      const hits = await searchIndex(q, { exactPhrase });
+      searchResults = hits
+        .filter(h => booksById[h.bookId])
+        .map(h => ({
+          bookId: h.bookId,
+          title: booksById[h.bookId].title,
+          author: (booksById[h.bookId].author || []).join(', '),
+          locator: h.locator,
+          locatorType: h.locatorType,
+          excerpt: h.snippet,
+        }));
+    } catch {
+      // Search index unavailable — fail closed to no results
     }
 
     setResults(searchResults);
@@ -144,10 +118,14 @@ export default function Search() {
       {!searching && results.length > 0 && (
         <div>
           <p style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginBottom: '1rem' }}>
-            {results.length}{results.length >= 100 ? '+' : ''} results
+            {results.length} result{results.length === 1 ? '' : 's'}, ranked by relevance
           </p>
           {results.map((r, i) => (
-            <Link key={i} to={`/book/${r.bookId}`} style={{ textDecoration: 'none', display: 'block' }}>
+            <Link
+              key={i}
+              to={`/book/${r.bookId}?locator=${r.locator}`}
+              style={{ textDecoration: 'none', display: 'block' }}
+            >
               <div className="card" style={{ marginBottom: '0.75rem' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
                   <div>
@@ -157,7 +135,7 @@ export default function Search() {
                   <span className="tag">{r.locatorType} {r.locator}</span>
                 </div>
                 <p style={{ fontSize: '0.95rem', marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
-                  ...{highlightText(r.excerpt, query)}...
+                  ...{highlightText(r.excerpt, exactPhrase ? query : tokenize(query))}...
                 </p>
               </div>
             </Link>
@@ -171,16 +149,5 @@ export default function Search() {
         </div>
       )}
     </div>
-  );
-}
-
-function highlightText(text, query) {
-  if (!query) return text;
-  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const parts = text.split(new RegExp(`(${escaped})`, 'gi'));
-  return parts.map((part, i) =>
-    part.toLowerCase() === query.toLowerCase()
-      ? <mark key={i}>{part}</mark>
-      : part
   );
 }

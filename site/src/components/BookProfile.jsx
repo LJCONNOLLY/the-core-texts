@@ -1,9 +1,12 @@
 import { useState, useEffect, useCallback } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, useSearchParams, Link } from 'react-router-dom';
 import { loadIndex, loadBook, getNotes, setNotes } from '../utils/data';
+import { highlightText } from '../utils/text';
 
 export default function BookProfile() {
   const { id } = useParams();
+  const [searchParams] = useSearchParams();
+  const locatorParam = searchParams.get('locator');
   const [meta, setMeta] = useState(null);
   const [book, setBook] = useState(null);
   const [page, setPage] = useState(0);
@@ -21,6 +24,14 @@ export default function BookProfile() {
     setKeyArgs(localStorage.getItem(`coretexts-keyargs-${id}`) || '');
   }, [id]);
 
+  // Deep link from search results: jump straight to the matched page/section.
+  useEffect(() => {
+    if (!book || !locatorParam) return;
+    const target = Number(locatorParam);
+    const idx = (book.pages || []).findIndex(p => p.locator === target);
+    if (idx >= 0) setPage(idx);
+  }, [book, locatorParam]);
+
   const handleNotesChange = useCallback((e) => {
     const val = e.target.value;
     setLocalNotes(val);
@@ -37,10 +48,12 @@ export default function BookProfile() {
 
   const allPages = book?.pages || [];
 
-  // Find the first section that starts with Introduction or a numbered chapter
+  // Find the first section that starts with Introduction or a numbered chapter.
+  // Skipped when arriving via a search deep link — the match may be in front
+  // matter (dedication, epigraph, acknowledgments) that this trim would hide.
   const INTRO_RE = /^(Introduction|Chapter\s+1|Part\s+(One|1|I)\b|1\s+[A-Z])/im;
   const introIdx = allPages.findIndex(p => INTRO_RE.test(p.text.trim().slice(0, 200)));
-  const pages = introIdx > 0 ? allPages.slice(introIdx) : allPages;
+  const pages = locatorParam ? allPages : (introIdx > 0 ? allPages.slice(introIdx) : allPages);
   const currentPage = pages[page];
 
   const filteredPages = localSearch
@@ -256,16 +269,6 @@ export default function BookProfile() {
         </p>
       </div>
     </div>
-  );
-}
-
-function highlightText(text, query) {
-  if (!query) return text;
-  const parts = text.split(new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi'));
-  return parts.map((part, i) =>
-    part.toLowerCase() === query.toLowerCase()
-      ? <mark key={i}>{part}</mark>
-      : part
   );
 }
 

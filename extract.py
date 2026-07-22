@@ -591,6 +591,125 @@ def flag_definitions(pages):
     return result
 
 
+# ─── Search index building ──────────────────────────────────────────────────
+#
+# Builds a prebuilt full-text search index alongside the per-book JSON:
+#   - data/search/manifest.json      generated_at, chunk_count, avgdl, shard_count, book_ids
+#   - data/search/chunk-index.json   [bookIdx, locator, tokenCount, wordStart, wordEnd] per chunk
+#   - data/search/postings/{n}.json  term -> [[chunkId, tf], ...], hash-sharded
+#
+# Chunk text itself is NOT duplicated here — the client reconstructs a chunk's
+# text from the already-fetched data/books/{id}.json using wordStart/wordEnd.
+
+SEARCH_DIR = DATA_DIR / "search"
+POSTINGS_DIR = SEARCH_DIR / "postings"
+SHARD_COUNT = 16
+CHUNK_WINDOW = 220
+CHUNK_MIN_TRAILING = 80
+
+TOKEN_RE = re.compile(r'[a-z0-9]+')
+
+STOPWORDS = {
+    "a", "about", "after", "all", "also", "am", "an", "and", "any", "are",
+    "as", "at", "be", "because", "been", "being", "but", "by", "can",
+    "could", "did", "do", "does", "each", "for", "from", "had", "has",
+    "have", "he", "her", "his", "how", "if", "in", "into", "is", "it",
+    "its", "just", "may", "might", "more", "most", "must", "no", "not",
+    "of", "on", "onto", "or", "other", "our", "own", "shall", "she",
+    "should", "so", "some", "such", "than", "that", "the", "their",
+    "them", "then", "there", "these", "they", "this", "those", "through",
+    "to", "up", "was", "we", "were", "what", "when", "where", "which",
+    "who", "whom", "why", "will", "with", "would", "you", "your",
+}
+
+
+def tokenize(text):
+    """Lowercase alnum tokens, length >= 2, stopwords removed.
+    MUST match the tokenizer in site/src/utils/search.js exactly, since
+    postings are looked up by these exact token strings at query time."""
+    return [t for t in TOKEN_RE.findall(text.lower()) if len(t) >= 2 and t not in STOPWORDS]
+
+
+def fnv1a32(s):
+    """Deterministic 32-bit FNV-1a hash, ASCII-only.
+    MUST match fnv1a32() in site/src/utils/search.js exactly — shard
+    assignment has to agree between build time (here) and query time (JS).
+    Do NOT use Python's built-in hash() (randomized per process)."""
+    h = 0x811c9dc5
+    for b in s.encode('ascii'):
+        h ^= b
+        h = (h * 0x01000193) & 0xFFFFFFFF
+    return h
+
+
+def chunk_bounds(n_words):
+    """Split n_words into (start, end) windows of ~CHUNK_WINDOW words,
+    merging a short trailing remainder into the previous chunk instead of
+    leaving an orphaned tiny chunk."""
+    if n_words == 0:
+        return []
+    if n_words <= CHUNK_WINDOW + CHUNK_MIN_TRAILING:
+        return [(0, n_words)]
+    bounds = []
+    i = 0
+    while n_words - i > CHUNK_WINDOW + CHUNK_MIN_TRAILING:
+        bounds.append((i, i + CHUNK_WINDOW))
+        i += CHUNK_WINDOW
+    bounds.append((i, n_words))
+    return bounds
+
+
+def index_book_for_search(pages, book_idx, chunk_index, postings):
+    """Chunk a book's pages and accumulate postings/chunk-index entries in place."""
+    for page in pages:
+        words = page["text"].split()
+        for start, end in chunk_bounds(len(words)):
+            chunk_id = len(chunk_index)
+            chunk_text = " ".join(words[start:end])
+            tokens = tokenize(chunk_text)
+
+            tf_counts = {}
+            for tok in tokens:
+                tf_counts[tok] = tf_counts.get(tok, 0) + 1
+            for tok, tf in tf_counts.items():
+                postings.setdefault(tok, {})[chunk_id] = tf
+
+            chunk_index.append([book_idx, page["locator"], len(tokens), start, end])
+
+
+def write_search_index(chunk_index, postings, book_ids):
+    """Write manifest.json, chunk-index.json, and hash-sharded postings/*.json."""
+    SEARCH_DIR.mkdir(exist_ok=True)
+    POSTINGS_DIR.mkdir(exist_ok=True)
+
+    chunk_count = len(chunk_index)
+    avgdl = (sum(c[2] for c in chunk_index) / chunk_count) if chunk_count else 0.0
+
+    manifest = {
+        "generated_at": datetime.now().isoformat(),
+        "chunk_count": chunk_count,
+        "avgdl": avgdl,
+        "shard_count": SHARD_COUNT,
+        "book_ids": book_ids,
+    }
+    with open(SEARCH_DIR / "manifest.json", 'w', encoding='utf-8') as f:
+        json.dump(manifest, f, ensure_ascii=False)
+
+    with open(SEARCH_DIR / "chunk-index.json", 'w', encoding='utf-8') as f:
+        json.dump(chunk_index, f, ensure_ascii=False)
+
+    shards = [{} for _ in range(SHARD_COUNT)]
+    for term, tf_by_chunk in postings.items():
+        shard = shards[fnv1a32(term) % SHARD_COUNT]
+        shard[term] = sorted(tf_by_chunk.items())
+
+    for i, shard in enumerate(shards):
+        with open(POSTINGS_DIR / f"{i}.json", 'w', encoding='utf-8') as f:
+            json.dump(shard, f, ensure_ascii=False)
+
+    return manifest
+
+
 # ─── Main pipeline ───────────────────────────────────────────────────────────
 
 def find_ebook_files(root_dir):
@@ -696,6 +815,11 @@ def main():
     format_counts = {"pdf": 0, "epub": 0, "mobi": 0, "azw3": 0, "zip": 0}
     definition_counts = {}  # term -> count
 
+    # Search index accumulators (see "Search index building" section above)
+    search_book_ids = []
+    search_chunk_index = []
+    search_postings = {}
+
     for i, filepath in enumerate(files, 1):
         filename = os.path.basename(filepath)
         ext = Path(filename).suffix.lower()[1:]
@@ -718,6 +842,11 @@ def main():
                 "toc": book_data.get("toc", []),
                 "pages": book_data["pages"],
             }, f, ensure_ascii=False, indent=2)
+
+        # Chunk + index this book's text for search before its pages leave memory
+        book_idx = len(search_book_ids)
+        search_book_ids.append(book_data["id"])
+        index_book_for_search(book_data["pages"], book_idx, search_chunk_index, search_postings)
 
         # Remove full text from index entry (keep only metadata)
         index_entry = {k: v for k, v in book_data.items() if k != "pages"}
@@ -745,6 +874,9 @@ def main():
     index_path = DATA_DIR / "index.json"
     with open(index_path, 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
+
+    # Write search index
+    search_manifest = write_search_index(search_chunk_index, search_postings, search_book_ids)
 
     # Print summary
     print()
@@ -774,8 +906,13 @@ def main():
             print(f"    ✗ {err['file']}: {err['error']}")
         print()
 
+    print(f"  Search index: {search_manifest['chunk_count']:,} chunks, "
+          f"{len(search_postings):,} terms, {SHARD_COUNT} shards, avgdl={search_manifest['avgdl']:.1f}")
+    print()
+
     print(f"  Output: {index_path}")
     print(f"  Books:  {BOOKS_DIR}/")
+    print(f"  Search: {SEARCH_DIR}/")
     print("=" * 60)
 
 
