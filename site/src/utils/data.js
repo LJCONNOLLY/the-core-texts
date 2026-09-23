@@ -70,3 +70,7 @@ export function getNotes(bookId) {
 export function setNotes(bookId, text) {
   localStorage.setItem(`coretexts-notes-${bookId}`, text);
 }
+
+export async function loadTalking() {
+  return fetchJSON('talking.json');
+}

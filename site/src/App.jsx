@@ -11,6 +11,7 @@ import FlashCards from './components/FlashCards';
 import ThematicThreads from './components/ThematicThreads';
 import FrameworkTracker from './components/FrameworkTracker';
 import TextsTechnology from './components/TextsTechnology';
+import TalkingToEachOther from './components/TalkingToEachOther';
 
 export default function App() {
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -29,6 +30,7 @@ export default function App() {
           <Route path="threads" element={<ThematicThreads />} />
           <Route path="frameworks" element={<FrameworkTracker />} />
           <Route path="definitions" element={<TextsTechnology />} />
+          <Route path="talking" element={<TalkingToEachOther />} />
         </Route>
       </Routes>
     </HashRouter>

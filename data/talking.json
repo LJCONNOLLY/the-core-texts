@@ -1,0 +1,1284 @@
+{
+ "sources": {
+  "dignazio-data-feminism-strong-ideas": {
+   "title": "Data Feminism (Strong Ideas)",
+   "authors": [
+    "Catherine D'Ignazio",
+    "Lauren F. Klein"
+   ],
+   "mentions": [
+    {
+     "bookId": "vee-coding-literacy-how-computer-programming",
+     "author": "Annette Vee",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "As we said when we posted the draft, we believe that their direct and critical words were tokens of generosity and votes of confidence in our ability to hear and be transformed by our readers.",
+     "sentence": "Among these readers were Alexandrina Agloro, Kecia Ali, Jessica Bellamy, Ruha Benjamin, Rahul Bhargava, Rena Bivens, Alison Booth, Carol Chiodo, Patricio Davila, Michelle Doerr, Jordan Ellenberg, Jack Gieseking, Ben Green, Ksenia Gueletina, Oliver Haimson, Jaron Heard, Anna Lauren Hoffman, Hannah House, Pratyusha Kalluri, Os Keyes, David Kim, Heather Krause, Nick Lally, Christopher Linzy, Liz Losh, Momin Malik, Laura Mandell, Surya Mattu, Elijah Meeks, Rebecca Michelson, Susana Morris, Ron Morrison, Maria Munir, Bethany Nowviskie, Yoehan Oh, Thomas Padilla, Jonas Parnow, Margaret Pearce, Firaz Peer, Tawana Petty, Anne Pollock, Miriam Posner, Zara Rahman, Gabriela Rodriguez Beron, James Scott-Brown, Nicole Siggins, Erik Simpson, Nikki Stevens, Zach Van Stanley, Annette Vee, Fernanda Viégas, Lee Vinsel, Maya Wagoner, Jacque Wernimont, and Sarah Yerima.",
+     "after": "We hope that the revised version of this book has demonstrated how much we have valued and learned from your thoughts.",
+     "highlights": [
+      "Annette Vee"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Elizabeth Losh",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "As we said when we posted the draft, we believe that their direct and critical words were tokens of generosity and votes of confidence in our ability to hear and be transformed by our readers.",
+     "sentence": "Among these readers were Alexandrina Agloro, Kecia Ali, Jessica Bellamy, Ruha Benjamin, Rahul Bhargava, Rena Bivens, Alison Booth, Carol Chiodo, Patricio Davila, Michelle Doerr, Jordan Ellenberg, Jack Gieseking, Ben Green, Ksenia Gueletina, Oliver Haimson, Jaron Heard, Anna Lauren Hoffman, Hannah House, Pratyusha Kalluri, Os Keyes, David Kim, Heather Krause, Nick Lally, Christopher Linzy, Liz Losh, Momin Malik, Laura Mandell, Surya Mattu, Elijah Meeks, Rebecca Michelson, Susana Morris, Ron Morrison, Maria Munir, Bethany Nowviskie, Yoehan Oh, Thomas Padilla, Jonas Parnow, Margaret Pearce, Firaz Peer, Tawana Petty, Anne Pollock, Miriam Posner, Zara Rahman, Gabriela Rodriguez Beron, James Scott-Brown, Nicole Siggins, Erik Simpson, Nikki Stevens, Zach Van Stanley, Annette Vee, Fernanda Viégas, Lee Vinsel, Maya Wagoner, Jacque Wernimont, and Sarah Yerima.",
+     "after": "We hope that the revised version of this book has demonstrated how much we have valued and learned from your thoughts.",
+     "highlights": [
+      "Liz Losh"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "As we said when we posted the draft, we believe that their direct and critical words were tokens of generosity and votes of confidence in our ability to hear and be transformed by our readers.",
+     "sentence": "Among these readers were Alexandrina Agloro, Kecia Ali, Jessica Bellamy, Ruha Benjamin, Rahul Bhargava, Rena Bivens, Alison Booth, Carol Chiodo, Patricio Davila, Michelle Doerr, Jordan Ellenberg, Jack Gieseking, Ben Green, Ksenia Gueletina, Oliver Haimson, Jaron Heard, Anna Lauren Hoffman, Hannah House, Pratyusha Kalluri, Os Keyes, David Kim, Heather Krause, Nick Lally, Christopher Linzy, Liz Losh, Momin Malik, Laura Mandell, Surya Mattu, Elijah Meeks, Rebecca Michelson, Susana Morris, Ron Morrison, Maria Munir, Bethany Nowviskie, Yoehan Oh, Thomas Padilla, Jonas Parnow, Margaret Pearce, Firaz Peer, Tawana Petty, Anne Pollock, Miriam Posner, Zara Rahman, Gabriela Rodriguez Beron, James Scott-Brown, Nicole Siggins, Erik Simpson, Nikki Stevens, Zach Van Stanley, Annette Vee, Fernanda Viégas, Lee Vinsel, Maya Wagoner, Jacque Wernimont, and Sarah Yerima.",
+     "after": "We hope that the revised version of this book has demonstrated how much we have valued and learned from your thoughts.",
+     "highlights": [
+      "Jacque Wernimont"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "As we said when we posted the draft, we believe that their direct and critical words were tokens of generosity and votes of confidence in our ability to hear and be transformed by our readers.",
+     "sentence": "Among these readers were Alexandrina Agloro, Kecia Ali, Jessica Bellamy, Ruha Benjamin, Rahul Bhargava, Rena Bivens, Alison Booth, Carol Chiodo, Patricio Davila, Michelle Doerr, Jordan Ellenberg, Jack Gieseking, Ben Green, Ksenia Gueletina, Oliver Haimson, Jaron Heard, Anna Lauren Hoffman, Hannah House, Pratyusha Kalluri, Os Keyes, David Kim, Heather Krause, Nick Lally, Christopher Linzy, Liz Losh, Momin Malik, Laura Mandell, Surya Mattu, Elijah Meeks, Rebecca Michelson, Susana Morris, Ron Morrison, Maria Munir, Bethany Nowviskie, Yoehan Oh, Thomas Padilla, Jonas Parnow, Margaret Pearce, Firaz Peer, Tawana Petty, Anne Pollock, Miriam Posner, Zara Rahman, Gabriela Rodriguez Beron, James Scott-Brown, Nicole Siggins, Erik Simpson, Nikki Stevens, Zach Van Stanley, Annette Vee, Fernanda Viégas, Lee Vinsel, Maya Wagoner, Jacque Wernimont, and Sarah Yerima.",
+     "after": "We hope that the revised version of this book has demonstrated how much we have valued and learned from your thoughts.",
+     "highlights": [
+      "Ruha Benjamin"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "They demonstrated the best of academic generosity in their willingness to join our experimental review process and make their impressively comprehensive comments in full public view.",
+     "sentence": "We would also like to thank Sasha Costanza-Chock, Alexis Lothian, Zara Rahman, and the other anonymous peer reviewers of our book proposal and manuscript draft.",
+     "after": "Your generous and generative comments pushed us to clarify each and every one of the ideas we express in these pages.",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Elizabeth Losh",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "Mandy Keifetz created the detailed index that concludes the volume.",
+     "sentence": "We would also like to thank David Weinberger, who first solicited the project, enthusiastically backed it from the first iteration, and reviewed multiple drafts of our book proposal; Mushon Zer-Aviv, who believed in and supported this work in its earliest and most nascent stages, and even used his own invited talk at Data & Society to uplift this work; Alison Booth and Liz Losh, whose early endorsement of the project enabled it to receive crucial external funding; and our contacts, colleagues, and friends who have read and commented on portions of this manuscript: Mariel García-Montes, Regina Larrea, Sarah Blackwood, Nihad Farooq, Matthew K. Gold, Yanni Loukissas, Miriam Posner, Kyla Schuller, Karen Weingarten, and Jacqueline Wernimont.",
+     "after": "In addition, we would like to thank those who have directly aided us to have the courage to do the hard, uncomfortable, and urgent work of accounting for how structural forces manifest themselves in our own identities and everyday experiences, especially Kimberly Seals Allers, Jenn Roberts of Versed Education, and Chris Miller, as well as our interlocutors in our scholarly communities and online.",
+     "highlights": [
+      "Liz Losh"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "Mandy Keifetz created the detailed index that concludes the volume.",
+     "sentence": "We would also like to thank David Weinberger, who first solicited the project, enthusiastically backed it from the first iteration, and reviewed multiple drafts of our book proposal; Mushon Zer-Aviv, who believed in and supported this work in its earliest and most nascent stages, and even used his own invited talk at Data & Society to uplift this work; Alison Booth and Liz Losh, whose early endorsement of the project enabled it to receive crucial external funding; and our contacts, colleagues, and friends who have read and commented on portions of this manuscript: Mariel García-Montes, Regina Larrea, Sarah Blackwood, Nihad Farooq, Matthew K. Gold, Yanni Loukissas, Miriam Posner, Kyla Schuller, Karen Weingarten, and Jacqueline Wernimont.",
+     "after": "In addition, we would like to thank those who have directly aided us to have the courage to do the hard, uncomfortable, and urgent work of accounting for how structural forces manifest themselves in our own identities and everyday experiences, especially Kimberly Seals Allers, Jenn Roberts of Versed Education, and Chris Miller, as well as our interlocutors in our scholarly communities and online.",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "author": "Matthew K. Gold",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "Mandy Keifetz created the detailed index that concludes the volume.",
+     "sentence": "We would also like to thank David Weinberger, who first solicited the project, enthusiastically backed it from the first iteration, and reviewed multiple drafts of our book proposal; Mushon Zer-Aviv, who believed in and supported this work in its earliest and most nascent stages, and even used his own invited talk at Data & Society to uplift this work; Alison Booth and Liz Losh, whose early endorsement of the project enabled it to receive crucial external funding; and our contacts, colleagues, and friends who have read and commented on portions of this manuscript: Mariel García-Montes, Regina Larrea, Sarah Blackwood, Nihad Farooq, Matthew K. Gold, Yanni Loukissas, Miriam Posner, Kyla Schuller, Karen Weingarten, and Jacqueline Wernimont.",
+     "after": "In addition, we would like to thank those who have directly aided us to have the courage to do the hard, uncomfortable, and urgent work of accounting for how structural forces manifest themselves in our own identities and everyday experiences, especially Kimberly Seals Allers, Jenn Roberts of Versed Education, and Chris Miller, as well as our interlocutors in our scholarly communities and online.",
+     "highlights": [
+      "Matthew K. Gold"
+     ]
+    },
+    {
+     "bookId": "jr-distributed-blackness-african-american-c",
+     "author": "André Brock Jr.",
+     "in_notes": false,
+     "section": "Acknowledgments",
+     "locator": 4,
+     "before": "But when we began this project, Catherine worked in the Journalism Department at Emerson College and Lauren worked in the School of Literature, Media, and Communication at Georgia Tech.",
+     "sentence": "We will remain forever appreciative of the support provided by our colleagues at our first institutional homes: Miranda Banks, André Brock, Betsy DiSalvo, Carl DiSalvo, Nihad Farooq, Lina Maria Giraldo, Eric Gordon, Narin Hassan, Janet Kolodzy, Chris Le Dantec, Todd Michney, Paul Mihailidis, Susana Morris, Janet Murray, Brad Rittenhouse, Jacqueline Jones Royster, Richard Utz, Lauren Wilcox, Joycelyn Wilson, and Greg Zinman.",
+     "after": "Emerson students in the Data Visualization classes and Women in Journalism class taught by Diane Mermigas offered excellent feedback on chapter drafts.",
+     "highlights": [
+      "André Brock"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Introduction: Why Data Science Needs Feminism",
+     "locator": 5,
+     "before": "Each of the following chapters takes up one of these principles, drawing upon examples from the field of data science, expansively defined, to show how that principle can be put into action.",
+     "sentence": "Along the way, we introduce key feminist concepts like the matrix of domination (Patricia Hill Collins; see chapter 1), situated knowledge (Donna Haraway; see chapter 3), and emotional labor (Arlie Hochschild; see chapter 8), as well as some of our own ideas about what data feminism looks like in theory and practice.",
+     "after": "To this end, we introduce you to people at the cutting edge of data and justice.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "Ultimately, Amazon had to cancel the project.",
+     "sentence": "This example reinforces the work of Safiya Umoja Noble, whose book, Algorithms of Oppression, has shown how both gender and racial biases are encoded into some of the most pervasive data-driven systems—including Google search, which boasts over five billion unique web searches per day.",
+     "after": "Noble describes how, as recently as 2016, comparable searches for “three Black teenagers” and “three white teenagers” turned up wildly different representations of those teens.",
+     "highlights": [
+      "Safiya Umoja Noble"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "This example reinforces the work of Safiya Umoja Noble, whose book, Algorithms of Oppression, has shown how both gender and racial biases are encoded into some of the most pervasive data-driven systems—including Google search, which boasts over five billion unique web searches per day.",
+     "sentence": "Noble describes how, as recently as 2016, comparable searches for “three Black teenagers” and “three white teenagers” turned up wildly different representations of those teens.",
+     "after": "The former returned mugshots, while the latter returned wholesome stock photography.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "Face harvesting is happening in the US as well.",
+     "sentence": "Researchers Os Keyes, Nikki Stevens and Jacqueline Wernimont have shown how immigrants, abused children, and dead people are some of the groups whose faces have been used to train software—without their consent.",
+     "after": "So is a diverse database of faces really a good idea?",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "This results in women, people of color, and poor people, among others, being overrepresented in the data that these systems are premised upon.",
+     "sentence": "In Automating Inequality, for example, Virginia Eubanks tells the story of the Allegheny County Office of Children, Youth, and Families in western Pennsylvania, which employs an algorithmic model to predict the risk of child abuse in any particular home.",
+     "after": "The goal of the model is to remove children from potentially abusive households before it happens; this would appear to be a very worthy goal.",
+     "highlights": [
+      "Virginia Eubanks"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "The goal of the model is to remove children from potentially abusive households before it happens; this would appear to be a very worthy goal.",
+     "sentence": "As Eubanks shows, however, inequities result.",
+     "after": "For wealthier parents, who can more easily access private health care and mental health services, there is simply not that much data to pull into the model.",
+     "highlights": [
+      "Eubanks"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "Because there are far more data about poor parents, they are oversampled in the model, and so their children are overtargeted as being at risk for child abuse—a risk that results in children being removed from their families and homes.",
+     "sentence": "Eubanks argues that the model “confuse[s] parenting while poor with poor parenting.”",
+     "after": "This model, like many, was designed under two flawed assumptions: (1) that more data is always better and (2) that the data are a neutral input.",
+     "highlights": [
+      "Eubanks"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": false,
+     "section": "Chapter 1: The Power Chapter",
+     "locator": 6,
+     "before": "Viewed from the perspective of the state, there were simply not enough employees to handle all of the potential child abuse cases, so it needed a mechanism for efficiently deploying limited staff—or so the reasoning goes.",
+     "sentence": "This is what Eubanks has described as a scarcity bias: the idea that there are not enough resources for everyone so we should think small and allow technology to fill the gaps.",
+     "after": "Such thinking, and the technological “solutions” that result, often meet the goals of their creators—in this case, the Allegheny County Office of Children, Youth, and Families—but not the goals of the children and families that it purports to serve.",
+     "highlights": [
+      "Eubanks"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "Courtesy of Julia Angwin, Jeff Larson, Surya Mattu, and Lauren Kirchner for ProPublica, 2016.",
+     "sentence": "Sociologist Ruha Benjamin has a term for these situations: the New Jim Code —where software code and a false sense of objectivity come together to contain and control the lives of Black people, and of other people of color.",
+     "after": "In this regard, the redlining map and the Equivant risk assessment algorithm share some additional similarities.",
+     "highlights": [
+      "Ruha Benjamin"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "Envision Equity, Imagine Co-liberation As the examples discussed thus far in this book clearly demonstrate, one of the most dangerous outcomes of the tools of data and data science being consolidated in the hands of dominant groups is that these groups are able to obscure their politics and their goals behind their technologies.",
+     "sentence": "Benjamin, whose book Race after Technology: Abolitionist Tools for the New Jim Code (mentioned earlier), describes this phenomenon as the “imagined objectivity of data and technology” because data-driven systems like redlining and risk assessment algorithms are not really objective at all.",
+     "after": "Her concept of imagined objectivity emphasizes the role that cultural assumptions and personal preconceptions play in upholding this false belief: one imagines (wrongly) that datasets and algorithms are less partial and less discriminatory than people and thus more “objective.”",
+     "highlights": [
+      "Benjamin"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "This is a promising development, especially for technical fields that have not historically foregrounded ethical issues, and as funding mechanisms for research on data and ethics proliferate.",
+     "sentence": "However, as Benjamin’s concept of imagined objectivity helps to show, addressing bias in a dataset is a tiny technological Band-Aid for a much larger problem.",
+     "after": "Even the values mentioned here, which seek to address instances of bias in data-driven systems, are themselves non-neutral, as they locate the source of the bias in individual people and specific design decisions.",
+     "highlights": [
+      "Benjamin"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "In contrast, the concepts on the right start from the basic feminist belief that oppression is real, historic, ongoing, and worth dismantling.",
+     "sentence": "Media theorist and designer Sasha Costanza-Chock proposes a restorative approach to data justice.",
+     "after": "Drawing from theories of restorative justice—meaning that decisions should be made in ways that recognize and rectify any harms of the past—Costanza-Chock asserts that any notion of algorithmic fairness must also acknowledge the systematic nature of the unfairness that has long been perpetrated by certain groups on others.",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "Media theorist and designer Sasha Costanza-Chock proposes a restorative approach to data justice.",
+     "sentence": "Drawing from theories of restorative justice—meaning that decisions should be made in ways that recognize and rectify any harms of the past—Costanza-Chock asserts that any notion of algorithmic fairness must also acknowledge the systematic nature of the unfairness that has long been perpetrated by certain groups on others.",
+     "after": "They give the example of college admissions—a topic that always seems to be in the news, not the least because it’s a major mechanism of protecting privilege.",
+     "highlights": [
+      "Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "If you are a Black woman or a Muslim man or a transgender service member and you live in the United States today, your being in the world is political, whether or not you want it to be.",
+     "sentence": "So rather than design algorithms that purport to be “color-blind” (since color-blindness is of course a myth), Costanza-Chock explains that we should be designing algorithms that are just.",
+     "after": "This means shifting from the ahistorical notion of fairness to a model of equity.",
+     "highlights": [
+      "Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "This difficulty also underscores the point that bias (in individuals, in datasets, in statistical models, or in algorithms) is not a strong enough concept in which to anchor ideas about equity and justice.",
+     "sentence": "In writing about the creation of New York’s Welfare Management System in the early 1970s, for example, Virginia Eubanks describes: “These early big data systems were built on a specific understanding of what constitutes discrimination: personal bias.”",
+     "after": "The solution at the time was to remove the humans from the loop, and it remains so today: without potentially bad—in this case, racist—apples, there would be less discrimination.",
+     "highlights": [
+      "Virginia Eubanks"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "But this line of thinking illustrates what whiteness studies scholar Robin DiAngelo would call the new racism: the belief that racism is due to individual bad actors, rather than structures or systems.",
+     "sentence": "In relation to welfare management, Eubanks emphasizes that this often meant replacing social workers, who were often women of color, and who had empathy and flexibility and listening skills, with an automated system that applies a set of rigid criteria, no matter what the circumstances.",
+     "after": "While bias remains a serious problem, it should not be viewed as something that can be fixed after the fact.",
+     "highlights": [
+      "Eubanks"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "locator": 7,
+     "before": "There is no such thing as mastery of feminism because those who hold positions of privilege—like those in data science, like the Local Lotto course designers, and like us, the authors of this book—are constantly learning how to be better allies and accomplices across difference.",
+     "sentence": "In this process, what becomes most important is to “stay with the trouble,” as feminist philosopher Donna Haraway would say.",
+     "after": "Staying with the trouble means persisting in your work, especially when it becomes uncomfortable, unclear, or outright upsetting.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "At a data visualization master class in 2013, workshop leaders from the Guardian newspaper held up spreadsheet data—spreadsheet data!—as an ideal for the communication of quantitative data, calling it: “Clarity without persuasion.”",
+     "sentence": "But persuasion is everywhere, even in spreadsheets, and—as feminist philosopher Donna Haraway would likely argue—especially in spreadsheets.",
+     "after": "In the 1980s, Haraway was among the first to connect the seeming neutrality and objectivity of data and their visual display to the ideas about distance that we’ve just discussed.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "But persuasion is everywhere, even in spreadsheets, and—as feminist philosopher Donna Haraway would likely argue—especially in spreadsheets.",
+     "sentence": "In the 1980s, Haraway was among the first to connect the seeming neutrality and objectivity of data and their visual display to the ideas about distance that we’ve just discussed.",
+     "after": "She described data visualization, in particular, as “the god trick of seeing everything from nowhere.”",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "It’s also the most ethically complicated to navigate for the ways in which it masks the people, the methods, the questions, and the messiness that lies behind clean lines and geometric shapes.",
+     "sentence": "Haraway calls it the god trick: it’s a trick because it makes the viewer believe that they can see everything, all at once, from an imaginary and impossible standpoint.",
+     "after": "But it’s also a trick because what appears to be everything, and what appears to be neutral, is always what she terms a partial perspective.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "(We discuss this more in chapter 4.)",
+     "sentence": "For now, the important thing to note is how false binaries work to benefit a single one of Haraway’s partial perspectives: that of the group already at the top—elite white men.",
+     "after": "How can we let go of this binary logic?",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "Rather than valorizing the neutrality ideal and trying to expunge all human traces from a data product because of their bias, feminist philosophers have proposed a goal of more complete knowledge.",
+     "sentence": "Donna Haraway’s idea of the god trick comes from a larger argument about the importance of developing feminist objectivity.",
+     "after": "It’s not just data visualization but all forms of knowledge that are situated, she explains, meaning that they are produced by specific people in specific circumstances—cultural, historical, and geographic.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "Feminist objectivity is a tool that can account for the situated nature of knowledge and can bring together multiple—what she terms partial —perspectives.",
+     "sentence": "Sandra Harding, who developed her ideas alongside Haraway, proposes a concept of strong objectivity.",
+     "after": "This form of objectivity works toward more inclusive knowledge production by centering the perspectives—or standpoints —of groups that are otherwise excluded from knowledge-making processes.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "locator": 8,
+     "before": "The key to fixing this problem is to acknowledge that all science, and indeed all work in the world, is undertaken by individuals.",
+     "sentence": "Each person occupies a particular perspective, as Haraway might say; a particular standpoint, as Harding might say; or a particular set of positionalities, as Alcott might say.",
+     "after": "And all would agree that research by only men and about only men cannot be universalized to make knowledge claims about all other people in the world.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Chapter 4: “What Gets Counted Counts”",
+     "locator": 9,
+     "before": "Or, consider another person with a history of bad experiences at the (literal) hands of the TSA.",
+     "sentence": "Sasha Costanza-Chock is nonbinary, like Maria Munir.",
+     "after": "They are also a design professor at MIT, so they have a lot of experience both living with and thinking through oppressive classification systems.",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Chapter 4: “What Gets Counted Counts”",
+     "locator": 9,
+     "before": "(And while we’re going down that path, how about we imagine a future without a state agency that systematically pathologizes Black women and trans people and Cub Scouts in the first place?)",
+     "sentence": "So when we say that what gets counted counts, it’s folks like Sasha Costanza-Chock or Mikey Hicks or Maria Munir that we’re thinking about.",
+     "after": "Because flawed classification systems—like the one that underlies the airport scanner’s risk-detection algorithm or the one that determines which names end up on terrorist watch lists or simply (simply!) the gender binary—are not only significant problems in themselves, but also symptoms of a more global condition of inequality.",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars",
+     "locator": 10,
+     "before": "This goal reflects a key tenet of feminist thinking, which is the recognition that a multiplicity of voices, rather than one single loud or technical or magical one, results in a more complete picture of the issue at hand.",
+     "sentence": "Feminist philosophers like Donna Haraway, who we introduced in chapter 3, prompted a wave of thinkers who have continued to develop the idea that all knowledge is partial, meaning no single person or group can claim an objective view of the capital-T Truth.",
+     "after": "But embracing pluralism, as this concept is often described today, does not mean that everything is relative, nor does it mean that all truth claims have equal weight.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": false,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "locator": 11,
+     "before": "And this lack of context becomes even more of a liability when accompanied by the kind of marketing hype we see in GDELT and other Big Dick Data projects.",
+     "sentence": "In fact, the 1980s version of these claims is what led Donna Haraway to propose the concept of situated knowledge in the first place.",
+     "after": "Subsequent feminist work has drawn on the concept of situated knowledge to elaborate ideas about ethics and responsibility in relation to knowledge-making.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": false,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "locator": 11,
+     "before": "But what happens when the number of links is also highly correlated with sexist, racist, and pornographic results?",
+     "sentence": "The influence of racism, sexism, and colonialism is precisely what we see described in Algorithms of Oppression, information studies scholar Safiya Umoja Noble’s study of the harmful stereotypes about Black and Latinx women perpetuated by search algorithms such as Google’s.",
+     "after": "As discussed in chapter 1, Noble demonstrates that Google Search results do not simply correlate with our racist, sexist, and colonialist society; that society causes the racist and sexist results.",
+     "highlights": [
+      "Safiya Umoja Noble"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": false,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "locator": 11,
+     "before": "The influence of racism, sexism, and colonialism is precisely what we see described in Algorithms of Oppression, information studies scholar Safiya Umoja Noble’s study of the harmful stereotypes about Black and Latinx women perpetuated by search algorithms such as Google’s.",
+     "sentence": "As discussed in chapter 1, Noble demonstrates that Google Search results do not simply correlate with our racist, sexist, and colonialist society; that society causes the racist and sexist results.",
+     "after": "More than that, Google Search reinforces these oppressive views by ranking results according to how many other sites link to them.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": false,
+     "section": "Chapter 7: Show Your Work",
+     "locator": 12,
+     "before": "Crediting Data Work The emphasis on giving formal credit for a broad range of work derives from feminist practices of citation.",
+     "sentence": "Feminist theorist Sara Ahmed describes this practice as a way of resisting how certain types of people—usually cis and white and male—“take up spaces by screening out others.”",
+     "after": "When those other people are screened out, they become invisible, and their contributions go unrecognized.",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": false,
+     "section": "Chapter 7: Show Your Work",
+     "locator": 12,
+     "before": "When those other people are screened out, they become invisible, and their contributions go unrecognized.",
+     "sentence": "The screening techniques that lead to their erasure, as Ahmed terms them, are not always intentional, but they are, unfortunately, self-perpetuating.",
+     "after": "Ahmed gives the example of sinking into a leather armchair that is comfortable because it’s molded to the shape of your body over time.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": false,
+     "section": "Chapter 7: Show Your Work",
+     "locator": 12,
+     "before": "The screening techniques that lead to their erasure, as Ahmed terms them, are not always intentional, but they are, unfortunately, self-perpetuating.",
+     "sentence": "Ahmed gives the example of sinking into a leather armchair that is comfortable because it’s molded to the shape of your body over time.",
+     "after": "You probably wouldn’t notice how the chair would be uncomfortable for those who haven’t spent time sitting in it—those with different bodies or with different demands on their time.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": false,
+     "section": "Chapter 7: Show Your Work",
+     "locator": 12,
+     "before": "But in more instances than you might think, the labor associated with data work can be surfaced through the data themselves.",
+     "sentence": "For instance, historian Benjamin Schmidt, whose research centers on the role of government agencies in shaping public knowledge, decided to visualize the metadata associated with the digital catalog of the US Library of Congress, the largest library in the world (figure 7.7).",
+     "after": "Schmidt’s initial goal was to understand the collection and the classification system that structured the catalog.",
+     "highlights": [
+      "Benjamin"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Mar Hicks",
+     "in_notes": false,
+     "section": "Conclusion: Now Let’s Multiply",
+     "locator": 13,
+     "before": "Although the Google Walkout for Real Change, as the protest was formally known, was framed in the media as a milestone for big tech, there are clear precedents for white-collar tech organizing.",
+     "sentence": "Historian Mar Hicks has connected the Google walkout to a strike among computer workers—then a workforce that was comprised mainly of women—that took place in the United Kingdom in the 1970s.",
+     "after": "The strike took down twenty-six government computer centers and disrupted the work of nine others.",
+     "highlights": [
+      "Mar Hicks"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Mar Hicks",
+     "in_notes": false,
+     "section": "Conclusion: Now Let’s Multiply",
+     "locator": 13,
+     "before": "The government was required to pay attention.",
+     "sentence": "Writes Hicks, “Even though many of these workers were women, and limited in their pay, promotion, and work opportunities due to sexism, their proximity to the literal machinery of government gave them a great deal of power.”",
+     "after": "The organizers of the Google walkout recognized their proximity to another source of power: Google itself.",
+     "highlights": [
+      "Hicks"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": false,
+     "section": "Conclusion: Now Let’s Multiply",
+     "locator": 13,
+     "before": "Some groups are using movement-building strategies to effect change across entire industries.",
+     "sentence": "For example, Una Lee, Wesley Taylor, Victoria Barnett, Ebony Dumas, Carlos (L05) Garcia, and Sasha Costanza-Chock are coordinating a networked community of practice called design justice.",
+     "after": "The idea for design justice emerged from a workshop at the Allied Media Conference in Detroit in 2015, where thirty people assembled to challenge the idea of “design for good.”",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Mar Hicks",
+     "in_notes": true,
+     "section": "Introduction: Why Data Science Needs Feminism",
+     "note": 2,
+     "locator": 18,
+     "before": "Darden does not appear in the film of the same name.",
+     "sentence": "For additional scholarship on the history of women in computing, see Jennifer Light, “When Computers Were Women,” Technology and Culture 40, no. 3 (1999): 455–483; Nathan Ensmenger, The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise (Cambridge, MA: MIT Press, 2010); and Mar Hicks, Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing (Cambridge, MA: MIT Press, 2017).",
+     "after": "",
+     "highlights": [
+      "Mar Hicks"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": true,
+     "section": "Introduction: Why Data Science Needs Feminism",
+     "note": 27,
+     "locator": 18,
+     "before": "",
+     "sentence": "On death tables, see Jacqueline Wernimont, Numbered Lives: Life and Death in Quantum Media (Cambridge, MA: MIT Press, 2018); on colonial counting, see Molly Farrell, Counting Bodies: Population in Colonial American Writing (Oxford: Oxford University Press, 2016); for a survey of how European nations have collected statistics on minoritized ethnicities, see Patrick Simon, “Collecting Ethnic Statistics in Europe: A Review,” Ethnic and Racial Studies 35, no. 9 (2012): 1366–1391; and for an in-depth analysis of the politics of the US Census, see Margo J. Anderson, The American Census: A Social History (New Haven, CT: Yale University Press, 1988).",
+     "after": "",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": true,
+     "section": "Introduction: Why Data Science Needs Feminism",
+     "note": 31,
+     "locator": 18,
+     "before": "",
+     "sentence": "On segregation, see Ruha Benjamin, Race after Technology: Abolitionist Tools for the New Jim Code (New York: Wiley, 2019).",
+     "after": "On overpolicing, see Cathy O’Neil, Weapons of Math Destruction (New York: Broadway Books, 2016).",
+     "highlights": [
+      "Ruha Benjamin"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": true,
+     "section": "Introduction: Why Data Science Needs Feminism",
+     "note": 31,
+     "locator": 18,
+     "before": "On overpolicing, see Cathy O’Neil, Weapons of Math Destruction (New York: Broadway Books, 2016).",
+     "sentence": "On social services, see Virginia Eubanks, Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor (New York: St. Martin’s Press, 2018).",
+     "after": "For an exploration of how civic “data dashboards” package these data up for the public, see Shannon Mattern, “Mission Control: A History of the Urban Dashboard,” Places Journal, March 2015, https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/.",
+     "highlights": [
+      "Virginia Eubanks"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": true,
+     "section": "Introduction: Why Data Science Needs Feminism",
+     "note": 34,
+     "locator": 18,
+     "before": "For more information on PredPol, see https://www.predpol.com/technology/.",
+     "sentence": "On the racist history of policing, see Browne, Dark Matters; Benjamin, Race after Technology; and O’Neil, Weapons of Math Destruction.",
+     "after": "",
+     "highlights": [
+      "Benjamin"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 20,
+     "locator": 18,
+     "before": "",
+     "sentence": "This role often entails what Sara Ahmed has described as being a “feminist killjoy.”",
+     "after": "As she writes in the first post on her blog, you might be a feminist killjoy if you “have ruined the atmosphere by turning up or speaking up” or “have a body that reminds people of histories they find disturbing” or “are angry because that’s a sensible response to what is wrong.”",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 20,
+     "locator": 18,
+     "before": "For the record, Catherine is not grumpy, feels confident in her sexuality, and is working on the killjoy skills of making more feminist problems for people.",
+     "sentence": "Read more about how to navigate being or becoming a feminist killjoy at feministkilljoys.com, or see Sara Ahmed, Living a Feminist Life (Durham, NC: Duke University Press, 2017).",
+     "after": "",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 28,
+     "locator": 18,
+     "before": "",
+     "sentence": "Safiya Umoja Noble, Algorithms of Oppression: How Search Engines Reinforce Racism (New York: NYU Press, 2018), 80–81.",
+     "after": "",
+     "highlights": [
+      "Safiya Umoja Noble"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 44,
+     "locator": 18,
+     "before": "",
+     "sentence": "See Os Keyes, Nikki Stevens, and Jacqueline Wernimont, “The Government Is Using the Most Vulnerable People to Test Facial Recognition Software,” Slate, March 17, 2019, https://slate.com/technology/2019/03/facial-recognition-nist-verification-testing-data-sets-children-immigrants-consent.html.",
+     "after": "",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Elizabeth Losh",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 63,
+     "locator": 18,
+     "before": "Mara Miranda (@MaraMiranda25), “#SiMeMatan es porque me gustaba salir de noche y tomar mucha cerveza...,” Twitter, May 5, 2017, 11:17 a.m., https://twitter.com/MaraMiranda25/status/860559096285720581.",
+     "sentence": "For an in-depth study of the hashtag and its use in social and political organizing, see Elizabeth Losh, Hashtag (New York: Bloomsbury, 2019).",
+     "after": "",
+     "highlights": [
+      "Elizabeth Losh"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 66,
+     "locator": 18,
+     "before": "",
+     "sentence": "Virginia Eubanks, Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor (New York: St. Martin’s Press, 2018).",
+     "after": "",
+     "highlights": [
+      "Virginia Eubanks"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": true,
+     "section": "Chapter 1: The Power Chapter",
+     "note": 77,
+     "locator": 18,
+     "before": "See James Vincent, “Transgender YouTubers Had Their Videos Grabbed to Train Facial Recognition Software,” Verge, August 22, 2017, https://www.theverge.com/2017/8/22/16180080/transgender-youtubers-ai-facial-recognition-dataset.",
+     "sentence": "For an example from the government sector with even more severe ethical implications, see Keyes, Stevens, and Wernimont, “The Government Is Using the Most Vulnerable People.”",
+     "after": "",
+     "highlights": [
+      "Wernimont"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 7,
+     "locator": 18,
+     "before": "Cheryl I. Harris, “Whiteness as Property,” Harvard Law Review 106, no. 8 (1993): 1758.",
+     "sentence": "Along similar lines, transgender activist and writer Dean Spade and computational biologist Rori Rohlfs, following Michel Foucault, theorize these effects in terms of “life chances.”",
+     "after": "Sorting techniques like redlining distribute life changes differently for different populations, they explain.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 8,
+     "locator": 18,
+     "before": "See Russell Brandom, “Facebook Has Been Charged with Housing Discrimination by the US Government,” Verge, March 28, 2019, https://www.theverge.com/2019/3/28/18285178/facebook-hud-lawsuit-fair-housing-discrimination.",
+     "sentence": "Scholars have also proposed the concepts of technological redlining, to describe the ways that technology reinforces oppression and engages in racial profiling (see Safiya Umoja Noble in Algorithms of Oppression: How Search Engines Reinforce Racism [New York: New York University Press, 2018]); digital redlining, to refer to the unequal distribution of digital services across different geographies, such as the lack of Pokémon Go stops in neighborhoods of color (see Allana Akhtar, “Is Pokémon Go Racist?",
+     "after": "How the App May Be Redlining Communities of Color,” USA Today, August 9, 2016); and discursive redlining, in which online characterizations of physical places, such as Yelp reviews, directly contribute to gentrification processes (see S. Zukin, S. Lindeman, and L. Hurson, “The Omnivore’s Neighborhood?",
+     "highlights": [
+      "Safiya Umoja Noble"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 17,
+     "locator": 18,
+     "before": "",
+     "sentence": "Ruha Benjamin, Race after Technology: Abolitionist Tools for the New Jim Code (Medford, MA: Polity, 2019).",
+     "after": "",
+     "highlights": [
+      "Ruha Benjamin"
+     ]
+    },
+    {
+     "bookId": "benjamin-race-after-technology",
+     "author": "Ruha Benjamin",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 34,
+     "locator": 18,
+     "before": "",
+     "sentence": "Ruha Benjamin, Twitter post, March 19, 2018, https://twitter.com/ruha9/status/975722518773403648.",
+     "after": "",
+     "highlights": [
+      "Ruha Benjamin"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 40,
+     "locator": 18,
+     "before": "",
+     "sentence": "Sasha Costanza-Chock, “In Defense of Data Discrimination,” keynote at Data Justice 2018, Cardiff University, May 2018.",
+     "after": "A video of the talk can be found here: https://cardiff.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d132281d-8bbc-4980-8013-a8e8007c788d.",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 42,
+     "locator": 18,
+     "before": "",
+     "sentence": "From Sasha Costanza-Chock’s keynote at the Data Justice 2018 conference at Cardiff University.",
+     "after": "We do not delve into restorative justice in depth in this chapter, but interested readers may wish to consult Margaret Urban Walker, “Restorative Justice and Reparations,” Journal of Social Philosophy 37, no. 3 (Fall 2006): 377–395.",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 47,
+     "locator": 18,
+     "before": "",
+     "sentence": "Scholars like Costanza-Chock are thinking about what it might take to create models and metrics for equity.",
+     "after": "Their Intersectional Media Equity Index ( https://cmsw.mit.edu/media-communication-intersectional-analysis/), for example, is a speculative metric that would quantify “media ownership (who owns the media), employment in media firms (who works in the media), content production (who makes the media), standing (who gets to speak in the media), and attention (who gets listened to).”",
+     "highlights": [
+      "Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+     "author": "Virginia Eubanks",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 48,
+     "locator": 18,
+     "before": "",
+     "sentence": "Seeta Pena Gangadharan, Virginia Eubanks, and Solon Barocas, Data and Discrimination: Collected Essays (Washington, DC: Open Technology, 2014).",
+     "after": "",
+     "highlights": [
+      "Virginia Eubanks"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 2: Collect, Analyze, Imagine, Teach",
+     "note": 74,
+     "locator": 18,
+     "before": "",
+     "sentence": "Donna J. Haraway, Staying with the Trouble: Making Kin in the Chthulucene (Durham, NC: Duke University Press, 2016).",
+     "after": "",
+     "highlights": [
+      "Donna J. Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "note": 6,
+     "locator": 18,
+     "before": "",
+     "sentence": "Haraway goes so far as to link the god trick of visualization with vision itself.",
+     "after": "She writes, “The eyes have been used to signify a perverse capacity—honed to perfection in the history of science tied to militarism, capitalism, colonialism, and male supremacy—to distance the knowing subject from everybody and everything in the interests of unfettered power.”",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "note": 6,
+     "locator": 18,
+     "before": "The redlining map in chapter 2 is a perfect example of such unfettered power: the pretense of distance and omniscience in the service of gender and race oppression.",
+     "sentence": "Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14, no. 3 (1988): 575–599.",
+     "after": "",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints",
+     "note": 19,
+     "locator": 18,
+     "before": "",
+     "sentence": "Haraway, “Situated Knowledges.”",
+     "after": "",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": true,
+     "section": "Chapter 4: “What Gets Counted Counts”",
+     "note": 32,
+     "locator": 18,
+     "before": "",
+     "sentence": "Sasha Costanza-Chock, “Design Justice, A.I., and Escape from the Matrix of Domination,” Journal of Design and Science, last updated July 26, 2018, https://jods.mitpress.mit.edu/pub/costanza-chock.",
+     "after": "",
+     "highlights": [
+      "Sasha Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "in_notes": true,
+     "section": "Chapter 4: “What Gets Counted Counts”",
+     "note": 34,
+     "locator": 18,
+     "before": "",
+     "sentence": "The philosopher Michel Foucault has described this state of affairs as “the power to make live and let die.”",
+     "after": "Foucault is also responsible for the concept of biopower, also known as the distribution of life chances, which we reference in chapter 2 in our analysis of redlining maps.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "in_notes": true,
+     "section": "Chapter 4: “What Gets Counted Counts”",
+     "note": 34,
+     "locator": 18,
+     "before": "The philosopher Michel Foucault has described this state of affairs as “the power to make live and let die.”",
+     "sentence": "Foucault is also responsible for the concept of biopower, also known as the distribution of life chances, which we reference in chapter 2 in our analysis of redlining maps.",
+     "after": "",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "in_notes": true,
+     "section": "Chapter 4: “What Gets Counted Counts”",
+     "note": 43,
+     "locator": 18,
+     "before": "In the United States, in particular, we must remain aware of how categories of gender and sexuality were once deployed on behalf of European colonial powers to subjugate and dispossess the Indigenous populations they encountered and whose land and resources they sought; and we might view the Trump administration’s attack on the rights of transgender people as an extension of this originary attempt to consolidate power and control.",
+     "sentence": "See Ann Laura Stoler, Race and the Education of Desire: Foucault’s History of Sexuality and the Colonial Order of Things (Durham, NC: Duke University Press; 1995); Deborah Miranda, “Extermination of the Joyas: Gendercide in Spanish California,” in The Transgender Studies Reader 2, ed. Susan Stryker and Aren Z. Aizura (New York: Routledge, 2013), 347–360; and Susan Stryker and Paisley Currah, “Introduction,” TSQ: Transgender Studies Quarterly 1, no. 1–2 (May 2014): 1–18.",
+     "after": "",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "in_notes": true,
+     "section": "Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars",
+     "note": 19,
+     "locator": 18,
+     "before": "See David M. Perry, “Our Long, Troubling History of Sterilizing the Incarcerated,” The Marshall Project (blog), July 26, 2017, https://www.themarshallproject.org/2017/07/26/our-long-troubling-history-of-sterilizing-the-incarcerated.",
+     "sentence": "For a data-based project that attempts to reckon with this history’s roots, see Jacqueline Wernimont and Alexandra Minna Stern, “The Eugenic Rubicon: California’s Sterilization Stories” (2017), accessed August 6, 2019, http://scalar.usc.edu/works/eugenic-rubicon-/index.",
+     "after": "",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "author": "Wendy Hui Kyong Chun",
+     "in_notes": true,
+     "section": "Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars",
+     "note": 20,
+     "locator": 18,
+     "before": "That being said, a point about the inherent racism of certain statistical techniques could be made.",
+     "sentence": "For a detailed critique along these lines, see Wendy H. K. Chun, “On Patterns and Proxies, or the Perils of Reconstructing the Unknown,” Accumulation, September 25, 2018, https://www.e-flux.com/architecture/accumulation/212275/on-patterns-and-proxies/.",
+     "after": "",
+     "highlights": [
+      "Wendy H. K. Chun"
+     ]
+    },
+    {
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "author": "Matthew K. Gold",
+     "in_notes": true,
+     "section": "Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars",
+     "note": 21,
+     "locator": 18,
+     "before": "",
+     "sentence": "Katie Rawson and Trevor Muñoz, “Against Cleaning,” in Debates in the Digital Humanities 2019, ed. Matthew K. Gold and Lauren F. Klein (Minneapolis: University of Minnesota Press, 2019), 290.",
+     "after": "",
+     "highlights": [
+      "Matthew K. Gold"
+     ]
+    },
+    {
+     "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+     "author": "Johanna Drucker",
+     "in_notes": true,
+     "section": "Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars",
+     "note": 32,
+     "locator": 18,
+     "before": "",
+     "sentence": "As information studies professor Johanna Drucker has stated, “Knowledge is partial...",
+     "after": "Knowledge is situated...",
+     "highlights": [
+      "Johanna Drucker"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars",
+     "note": 58,
+     "locator": 18,
+     "before": "",
+     "sentence": "Here we draw from discussions of feminist empiricism as theorized by Maitree Wickramasinghe and Donna Haraway, among others.",
+     "after": "As researcher Ambika Tandon helpfully summarizes, “Feminist empiricism is cognizant of the multiplicity of local knowledges, as well as their ‘unequal translation and exchange’ with dominant knowledge.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "note": 9,
+     "locator": 18,
+     "before": "",
+     "sentence": "Haraway uses the phrase “unlocatable, and so irresponsible, knowledge claims.”",
+     "after": "Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14, no. 3 (Autumn 1988): 575–599, https://doi.org/10.2307/3178066.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "in_notes": true,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "note": 9,
+     "locator": 18,
+     "before": "Haraway uses the phrase “unlocatable, and so irresponsible, knowledge claims.”",
+     "sentence": "Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14, no. 3 (Autumn 1988): 575–599, https://doi.org/10.2307/3178066.",
+     "after": "",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": true,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "note": 21,
+     "locator": 18,
+     "before": "",
+     "sentence": "Safiya Umoja Noble, Algorithms of Oppression: How Search Engines Reinforce Racism (New York: NYU Press, 2018), 80–81.",
+     "after": "",
+     "highlights": [
+      "Safiya Umoja Noble"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": true,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "note": 29,
+     "locator": 18,
+     "before": "",
+     "sentence": "Sara Ahmed has written powerfully on the violent effects of this silencing of assault victims.",
+     "after": "“Silence enables the reproduction of the culture of harassment and abuse.",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": true,
+     "section": "Chapter 6: The Numbers Don’t Speak for Themselves",
+     "note": 29,
+     "locator": 18,
+     "before": "Silence about violence is violence,” she explains.",
+     "sentence": "Ahmed, “Speaking Out,” Feministkilljoys (blog), June 2, 2016, https://feministkilljoys.com/2016/06/02/speaking-out/.",
+     "after": "",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 31,
+     "locator": 18,
+     "before": "Scholars have uncovered many examples of “hidden figures” in the history of data work that have not yet (but probably should) become major motion pictures.",
+     "sentence": "For example, Lisa Nakamura has recently exposed the below-minimum-wage pay of the Navajo women who, in the early days of digital computing, were tapped to assemble integrated circuits for the largest electronics supplier in the country, Fairchild Semiconductor.",
+     "after": "Or consider the female line workers, called “little old ladies” by their colleagues in engineering, who were employed by the US military defense contractor Raytheon to weave the delicate core rope memory that was used on the computers that accompanied the Apollo astronauts to the moon—a contribution that Daniela Rosner and her team have explored.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 31,
+     "locator": 18,
+     "before": "Or consider the female line workers, called “little old ladies” by their colleagues in engineering, who were employed by the US military defense contractor Raytheon to weave the delicate core rope memory that was used on the computers that accompanied the Apollo astronauts to the moon—a contribution that Daniela Rosner and her team have explored.",
+     "sentence": "See Lisa Nakamura, “Indigenous Circuits: Navajo Women and the Radicalization of Early Electronic Manufacture,” American Quarterly 66, no. 4.",
+     "after": "(2014): 919–941; and Daniela K. Rosner, Samantha Shorey, Brock R. Craft, and Helen Remick, “Making Core Memory: Design Inquiry into Gendered Legacies of Engineering and Craftwork,” in CHI 2018 (New York: ACM, 2018), 1–13.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "author": "Matthew K. Gold",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 43,
+     "locator": 18,
+     "before": "The narratives in the popular press that focus on the toxicity of these sites often overlook the ingenuity of those who work there.",
+     "sentence": "For scholarship on Ghana in particular, see Stephen J. Jackson, “Rethinking Repair,” in Media Technologies: Essays on Communication, Materiality and Society, ed. Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot (Cambridge, MA: MIT Press, 2014), 221–239; for other geographic contexts, see Cuban artist Ernesto Orozo’s concept of the “architecture of necessity,” as elaborated in Alex Gil, “Interview with Ernesto Oroza,” in Debates in the Digital Humanities 2016, ed. Matthew K. Gold and Lauren F. Klein (Minneapolis: University of Minnesota Press, 2016), 184–193; or Daniela Rosner’s concept of “critical fabulations,” in Critical Fabulations: Reworking the Methods and Margins of Design (Cambridge, MA: MIT Press, 2018).",
+     "after": "",
+     "highlights": [
+      "Matthew K. Gold"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 44,
+     "locator": 18,
+     "before": "",
+     "sentence": "Safiya Umoja Noble and Robert Mejia, among others, have demonstrated these links in their essays in The Intersectional Internet: Race, Sex, Class, and Culture Online, ed. Safiya Umoja Noble and Brendesha M. Tynes (New York: Peter Lang International Academic Publishers, 2016).",
+     "after": "",
+     "highlights": [
+      "Safiya Umoja Noble",
+      "Safiya Umoja Noble"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 48,
+     "locator": 18,
+     "before": "",
+     "sentence": "Sara Ahmed, “Making Feminist Points,” Feministkilljoys (blog), September 11, 2013, https://feministkilljoys.com/2013/09/11/making-feminist-points/.",
+     "after": "",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 58,
+     "locator": 18,
+     "before": "An increasing amount of scholarship exists on this phenomenon.",
+     "sentence": "See, for instance, Sara Ahmed, On Being Included: Racism and Diversity in Institutional Life (Durham, NC: Duke University Press, 2012).",
+     "after": "",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "author": "Matthew K. Gold",
+     "in_notes": true,
+     "section": "Chapter 7: Show Your Work",
+     "note": 67,
+     "locator": 18,
+     "before": "",
+     "sentence": "See, for example, Andrew L. Russell and Lee Vinsel, “Make Maintainers: Engineering Education and an Ethics of Care,” in Does America Need More Innovators?, ed Matthew Wisnioski, Eric S. Hintz, and Marie Stettler Kleine (Cambridge, MA: MIT Press, 2019), 249–272; and Bethany Nowviskie, “Capacity through Care,” in Debates in the Digital Humanities 2019, ed. Matthew K. Gold and Lauren F. Klein (Minneapolis: University of Minnesota Press, 2019), 424–426.",
+     "after": "",
+     "highlights": [
+      "Matthew K. Gold"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Mar Hicks",
+     "in_notes": true,
+     "section": "Conclusion: Now Let’s Multiply",
+     "note": 7,
+     "locator": 18,
+     "before": "",
+     "sentence": "Mar Hicks, “The Long History Behind the Google Walkout: Tech Companies Ignore Labor History at Their Own Peril,” Verge, November 9, 2018, https://www.theverge.com/2018/11/9/18078664/google-walkout-history-tech-strikes-labor-organizing.",
+     "after": "",
+     "highlights": [
+      "Mar Hicks"
+     ]
+    },
+    {
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "author": "Sasha Costanza-Chock",
+     "in_notes": true,
+     "section": "Conclusion: Now Let’s Multiply",
+     "note": 16,
+     "locator": 18,
+     "before": "Una Lee, “Generating Shared Principles for Design Justice,” And Also Too, July 13, 2016.",
+     "sentence": "Costanza-Chock is writing a longer book-length work called Design Justice (Cambridge, MA: MIT Press, 2020).",
+     "after": "",
+     "highlights": [
+      "Costanza-Chock"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Kavita Philip",
+     "in_notes": true,
+     "section": "Conclusion: Now Let’s Multiply",
+     "note": 29,
+     "locator": 18,
+     "before": "",
+     "sentence": "Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, and Rebecca E. Grinter, “Postcolonial Computing: A Lens on Design and Development,” in Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (New York: ACM, 2010), 1311–1320.",
+     "after": "Mustafa Ali, “Towards a Decolonial Computing,” in Ambiguous Technologies: Philosophical Issues, Practical Solutions, Human Nature (Lisbon: International Society of Ethics and Information Technology, 2014), 28–35.",
+     "highlights": [
+      "Kavita Philip"
+     ]
+    }
+   ]
+  }
+ }
+}

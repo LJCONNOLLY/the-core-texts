@@ -10,6 +10,7 @@ const NAV_ITEMS = [
   { path: '/threads', label: 'Thematic Threads', icon: '\u{1F9F5}' },
   { path: '/frameworks', label: 'Framework Tracker', icon: '\u{1F9E9}' },
   { path: '/definitions', label: 'Texts & Technology', icon: '\u{2696}' },
+  { path: '/talking', label: 'Talking to Each Other', icon: '\u{1F4AC}' },
 ];
 
 export default function Layout({ onSettingsOpen }) {
