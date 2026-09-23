@@ -55,7 +55,7 @@ export default function TalkingToEachOther() {
       </div>
 
       <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
-        <div style={{ width: '300px', flexShrink: 0 }}>
+        <div style={{ width: '300px', flexShrink: 0, maxHeight: '80vh', overflowY: 'auto' }}>
           <h3 style={{ fontSize: '1rem', color: 'var(--text-muted)', marginBottom: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
             Books
           </h3>
@@ -140,7 +140,7 @@ export default function TalkingToEachOther() {
                             style={{ fontSize: '0.85rem', color: 'var(--text-muted)', display: 'block', marginBottom: '0.25rem' }}
                           >
                             {m.in_notes
-                              ? <><span className="tag tag-gold">In the notes</span> {m.section}, note {m.note}</>
+                              ? <><span className="tag tag-gold">In the notes</span> {[m.section, m.note && `note ${m.note}`].filter(Boolean).join(', ')}</>
                               : m.section}
                           </Link>
                           <p style={{ fontSize: '1rem', lineHeight: 1.7, color: 'var(--text-secondary)', borderLeft: '3px solid var(--coral)', paddingLeft: '1rem' }}>
@@ -157,7 +157,9 @@ export default function TalkingToEachOther() {
 
               {grouped.length === 0 && (
                 <div className="empty-state">
-                  <p>No mentions of other core authors here.</p>
+                  <p>{source.mentions.length
+                    ? 'No mentions with this filter.'
+                    : 'This book doesn’t name any other author on the core list.'}</p>
                 </div>
               )}
             </div>
