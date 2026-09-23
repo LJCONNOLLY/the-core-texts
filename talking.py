@@ -27,7 +27,7 @@ OVERRIDES = {
     "dignazio-data-feminism-strong-ideas": {"notes": [18, 19], "skip": [17, 20, 21]},
     "hayles-how-we-became-posthuman-virtual-bodies-i": {"notes": list(range(57, 68)), "skip": list(range(68, 90))},
     # Latour's endnotes are one EPUB section per note.
-    "latour-reassembling-the-social-an-introduction": {"notes": list(range(24, 373)), "notes_label": False},
+    "latour-reassembling-the-social-an-introduction": {"notes": list(range(24, 373)), "note_per_section": True},
     "eubanks-automating-inequality-how-high-tech-tool": {"notes": list(range(14, 20)), "skip": list(range(20, 27))},
     "manovich-cultural-analytics": {"skip": [20]},
     "foucault-order-of-things-an-archaeology-of-human": {"skip": [18]},
@@ -38,7 +38,8 @@ OVERRIDES = {
 }
 
 # Core-list authors. `given` lists the first names / initials that may precede
-# the surname in a full-name mention.
+# the surname in a full-name mention, including misspellings the books use
+# ("Michael Foucault", "Kristin Moore").
 CORE_AUTHORS = [
     ("jr-distributed-blackness-african-american-c", "André Brock Jr.", "Brock", ["André", "Andre", "André L.", "Andre L."]),
     ("vee-coding-literacy-how-computer-programming", "Annette Vee", "Vee", ["Annette"]),
@@ -52,27 +53,27 @@ CORE_AUTHORS = [
     ("losh-bodies-of-information", "Jacqueline Wernimont", "Wernimont", ["Jacqueline", "Jacque"]),
     ("rose-visual-methodologies-an-introduction-to", "Gillian Rose", "Rose", ["Gillian"]),
     ("tham-design-thinking-in-technical-communicati", "Jason Chew Kit Tham", "Tham", ["Jason", "Jason Chew Kit", "Kit"]),
-    ("drucker-the-digital-humanities-coursebook-an-int", "Johanna Drucker", "Drucker", ["Johanna"]),
+    ("drucker-the-digital-humanities-coursebook-an-int", "Johanna Drucker", "Drucker", ["Johanna", "Johannah"]),
     ("gray-intersectional-tech-black-users-in-digit", "Kishonna L. Gray", "Gray", ["Kishonna", "Kishonna L."]),
     ("gonzales-designing-multilingual-experiences-in-te", "Laura Gonzales", "Gonzales", ["Laura"]),
-    ("gold-debates-in-the-digital-humanities-2023", "Matthew K. Gold", "Gold", ["Matthew", "Matthew K."]),
+    ("gold-debates-in-the-digital-humanities-2023", "Matthew K. Gold", "Gold", ["Matthew", "Matthew K.", "Mathew", "Matt"]),
     ("manovich-cultural-analytics", "Lev Manovich", "Manovich", ["Lev"]),
     ("nakamura-digitizing-race-visual-cultures-of-the-i", "Lisa Nakamura", "Nakamura", ["Lisa"]),
-    ("foucault-order-of-things-an-archaeology-of-human", "Michel Foucault", "Foucault", ["Michel"]),
+    ("foucault-order-of-things-an-archaeology-of-human", "Michel Foucault", "Foucault", ["Michel", "Michael", "Mickel"]),
     ("bailey-misogynoir-transformed-black-womens-digi", "Moya Bailey", "Bailey", ["Moya"]),
     ("hayles-how-we-became-posthuman-virtual-bodies-i", "N. Katherine Hayles", "Hayles", ["N.", "Katherine", "N. Katherine"]),
     ("walton-technical-communication-after-the-social", "Rebecca Walton", "Walton", ["Rebecca"]),
-    ("walton-technical-communication-after-the-social", "Kristen Moore", "Moore", ["Kristen", "Kristen R."]),
+    ("walton-technical-communication-after-the-social", "Kristen Moore", "Moore", ["Kristen", "Kristen R.", "Kristin"]),
     ("walton-technical-communication-after-the-social", "Natasha Jones", "Jones", ["Natasha", "Natasha N."]),
     ("risam-new-digital-worlds-postcolonial-digital", "Roopika Risam", "Risam", ["Roopika"]),
     ("benjamin-race-after-technology", "Ruha Benjamin", "Benjamin", ["Ruha"]),
-    ("noble-algorithms-of-oppression", "Safiya Umoja Noble", "Noble", ["Safiya", "Safiya Umoja", "Umoja"]),
-    ("ahmed-whats-the-use-on-the-uses-of-use", "Sara Ahmed", "Ahmed", ["Sara"]),
+    ("noble-algorithms-of-oppression", "Safiya Umoja Noble", "Noble", ["Safiya", "Safiya Umoja", "Umoja", "Safya"]),
+    ("ahmed-whats-the-use-on-the-uses-of-use", "Sara Ahmed", "Ahmed", ["Sara", "Sarah"]),
     ("jackson-hashtagactivism-networks-of-race-and-gen", "Sarah J. Jackson", "Jackson", ["Sarah", "Sarah J."]),
-    ("jackson-hashtagactivism-networks-of-race-and-gen", "Brooke Foucault Welles", "Welles", ["Brooke", "Brooke Foucault", "Foucault"]),
+    ("jackson-hashtagactivism-networks-of-race-and-gen", "Brooke Foucault Welles", "Welles", ["Brooke", "Brooke Foucault", "Foucault", "Foucalt", "Brooke Foucalt"]),
     ("costanzachock-design-justice-community-led-practices-t", "Sasha Costanza-Chock", "Costanza[-–]Chock", ["Sasha"]),
     ("mullaney-your-computer-is-on-fire", "Thomas S. Mullaney", "Mullaney", ["Thomas", "Thomas S.", "Tom"]),
-    ("mullaney-your-computer-is-on-fire", "Benjamin Peters", "Peters", ["Benjamin"]),
+    ("mullaney-your-computer-is-on-fire", "Benjamin Peters", "Peters", ["Benjamin", "Ben"]),
     ("mullaney-your-computer-is-on-fire", "Mar Hicks", "Hicks", ["Mar"]),
     ("mullaney-your-computer-is-on-fire", "Kavita Philip", "Philip", ["Kavita"]),
     ("eubanks-automating-inequality-how-high-tech-tool", "Virginia Eubanks", "Eubanks", ["Virginia"]),
@@ -102,7 +103,7 @@ ABBREVIATIONS = {
     "U.S", "Ph.D", "Mt", "Fig", "fig", "ch", "Prof", "rev", "Ed", "Eds", "chap",
 }
 
-SENT_END = re.compile(r"[.!?][’”\"')\]]*\s+(?=(?:\x00L\d+\x00)?[“‘\"'(\[]?[A-Z0-9])")
+SENT_END = re.compile(r"[.!?][’”\"')\]]*\s+(?=(?:\x00L\d+\x00\s*)?[“‘\"'(\[]?[A-Z0-9])")
 
 
 def split_sentences(text):
@@ -225,6 +226,57 @@ def strip_running_heads(pages):
             kept.append(l)
         out.append({**p, "text": "\n".join(kept)})
     return out
+
+
+def printed_pages(pages):
+    """Map PDF page locators to the page numbers printed in their heads/feet.
+
+    Candidate numbers come from each page's first and last lines; the offset
+    between printed and PDF numbering that most pages agree on is trusted, and
+    pages without a readable number borrow the offset of the nearest page that
+    has one (offsets shift where unnumbered plates are bound in).
+    """
+    confirmed = {}
+    cands = {}
+    for p in pages:
+        lines = [l for l in p["text"].split("\n") if l.strip()]
+        nums = set()
+        for l in lines[:3] + lines[-2:]:
+            nums |= {int(n) for n in re.findall(r"(?<![\d.,:–-])\b(\d{1,3})\b(?![\d.,:–-]\d)", l)}
+        cands[p["locator"]] = nums
+    offsets = {}
+    for loc, nums in cands.items():
+        for n in nums:
+            offsets[n - loc] = offsets.get(n - loc, 0) + 1
+    good = {o for o, c in offsets.items() if c >= 10}
+    for loc, nums in cands.items():
+        hits = [n for n in nums if n - loc in good]
+        if len(hits) == 1:
+            confirmed[loc] = hits[0]
+    # Keep a reading only if nearby pages agree on the offset (OCR noise and
+    # stray numbers in the text don't), and give up on books with few readings.
+    offset = {loc: n - loc for loc, n in confirmed.items()}
+
+    def local_majority(loc):
+        window = [offset[l] for l in range(loc - 10, loc + 11) if l in offset]
+        return max(set(window), key=window.count)
+
+    confirmed = {loc: n for loc, n in confirmed.items()
+                 if offset[loc] == local_majority(loc)
+                 and sum(offset.get(loc + d) == offset[loc] for d in range(-5, 6) if d) >= 2}
+    if len(confirmed) < len(pages) * 0.3:
+        return {}
+    known = sorted(confirmed)
+    out = {}
+    for p in pages:
+        loc = p["locator"]
+        if loc in confirmed:
+            out[loc] = confirmed[loc]
+            continue
+        near = min(known, key=lambda k: abs(k - loc))
+        if abs(near - loc) <= 3:
+            out[loc] = confirmed[near] + (loc - near)
+    return {k: v for k, v in out.items() if v > 0}
 
 
 def byline_pattern():
@@ -433,10 +485,12 @@ MULTI_AUTHOR_BOOKS = {a[0] for a in CORE_AUTHORS if sum(b[0] == a[0] for b in CO
 
 
 class Attestation:
-    """Which core authors a book cites by full name, and in which years."""
+    """Which core authors a book cites by full name, and in which years; and
+    whether anyone else in the book shares their surname."""
 
-    def __init__(self, full_text):
+    def __init__(self, full_text, chapters=None):
         self.text = full_text
+        self.chapters = chapters or {}  # EPUB section locator -> raw text
         self.cache = {}
 
     def check(self, author):
@@ -458,15 +512,64 @@ class Attestation:
         self.cache[full] = (named, years, others)
         return self.cache[full]
 
+    def in_chapter(self, author, chapter):
+        """Does this chapter's own works-cited list include the author?"""
+        _, full, surname, given = author
+        text = self.chapters.get(chapter)
+        if not text:
+            return False
+        firsts = "|".join(re.escape(g.split()[0]) for g in given)
+        return bool(re.search(rf"(?<![-–’'\w]){surname},\s+(?:{firsts})\b", text))
 
-def find_mentions(text, author, last_named, attest):
+    def ambiguous(self, author):
+        _, full, surname, given = author
+        key = "ambiguous " + full
+        if key not in self.cache:
+            firsts = {g.split()[0] for g in given}
+            names = set(re.findall(rf"\b([A-Z][a-z]+)\s+(?:[A-Z]\.\s+)?{surname}\b", self.text))
+            # "Brooke Foucault Welles" doesn't make Michel Foucault ambiguous.
+            inside = {n for n in names for a in CORE_AUTHORS for g in a[3] if g.endswith(f"{n} {surname}")}
+            others = names - firsts - NON_NAMES - inside
+            self.cache[key] = bool(others or self.check(author)[2])
+        return self.cache[key]
+
+
+# Co-authors whose surnames, cited alongside, confirm which author is meant.
+COAUTHORS = {
+    "Sarah J. Jackson": ["Bailey", "Welles"],
+    "Moya Bailey": ["Jackson", "Welles"],
+    "Brooke Foucault Welles": ["Jackson", "Bailey"],
+    "Kishonna L. Gray": ["Sarkeesian"],
+    "Elizabeth Losh": ["Wernimont"],
+    "Jacqueline Wernimont": ["Losh"],
+    "Rebecca Walton": ["Moore", "Jones"],
+    "Kristen Moore": ["Walton", "Jones"],
+    "Natasha Jones": ["Walton", "Moore"],
+    "Catherine D'Ignazio": ["Klein"],
+    "Lauren F. Klein": ["D[’']Ignazio", "Gold"],
+    "Matthew K. Gold": ["Klein"],
+    "Thomas S. Mullaney": ["Peters", "Hicks", "Philip"],
+    "Benjamin Peters": ["Mullaney", "Hicks", "Philip"],
+    "Mar Hicks": ["Mullaney", "Peters", "Philip"],
+    "Kavita Philip": ["Mullaney", "Peters", "Hicks"],
+}
+
+# How far a full-name mention carries a later bare surname on a PDF book.
+PAGE_WINDOW = 40
+
+
+def find_mentions(text, author, last_named, attest, scope):
     """Yield (start, end) spans of genuine mentions of `author` in `text`.
 
     A mention counts when the surname is preceded by one of the author's given
     names; or it stands alone and the most recent full-name use of that surname
-    in the book was this author (so "Jonathan Gray" doesn't count as Kishonna
-    Gray); or it's an author–date citation like "(Noble 2018)" and the book
-    cites this author, and no one else with that surname in that year.
+    was this author (so "Jonathan Gray" doesn't count as Kishonna Gray) — and,
+    if the book names anyone else with that surname, that use was in the same
+    chapter or within PAGE_WINDOW pages; or it's an author–date citation like
+    "(Noble 2018)" and the book cites this author, and no one else with that
+    surname in that year.
+
+    `scope` is (chapter id, page); `last_named` maps surname -> (who, scope).
     """
     book_id, full, surname, given = author
     # Not a first name ("Benjamin Crump") or a reference-list entry ("Noble, Safiya").
@@ -483,11 +586,13 @@ def find_mentions(text, author, last_named, attest):
         if tokens:
             joined = " ".join(tokens)
             match = next((g for g in given if joined == g or joined.endswith(" " + g)), None)
+            if not match and tokens[-1][0] == given[0][0] and coauthor_nearby(full, text, m):
+                match = tokens[-1]  # "D’Ignazio and Laura Klein"
             if match:
-                last_named[key] = full
+                last_named[key] = (full, scope)
                 yield m.start(2) - len(match) - 1, m.end(2)
             else:
-                last_named[key] = joined
+                last_named[key] = (joined, scope)
             continue
         cite = YEAR_CITE.match(text, m.end(2))
         if ET_AL.match(text, m.end(2)) and book_id not in MULTI_AUTHOR_BOOKS and not cite:
@@ -497,11 +602,32 @@ def find_mentions(text, author, last_named, attest):
             year = re.search(r"(?:19|20)\d\d", cite.group(0))
             year = year.group(0) if year else None
             if named and (not others or (year in years and year not in others)):
-                last_named[key] = full
+                last_named[key] = (full, scope)
                 yield m.start(2), m.end(2)
                 continue
-        if last_named.get(key) == full:
+            if year in others and year not in years:
+                continue  # a dated citation to someone else with this surname
+        who, where = last_named.get(key, (None, None))
+        if who == full and (not attest.ambiguous(author) or nearby(where, scope)
+                            or attest.in_chapter(author, scope[0])):
             yield m.start(2), m.end(2)
+        elif coauthor_nearby(full, text, m):
+            # "Jackson, Bailey, and Foucault Welles"; "Gray and Sarkeesian"
+            last_named[key] = (full, scope)
+            yield m.start(2), m.end(2)
+
+
+def coauthor_nearby(full, text, m):
+    names = COAUTHORS.get(full)
+    window = text[max(0, m.start(2) - 50):m.end(2) + 50]
+    return bool(names) and bool(re.search(r"\b(?:" + "|".join(names) + r")\b", window))
+
+
+def nearby(earlier, now):
+    chapter, page = earlier
+    if chapter == now[0]:
+        return True
+    return page is not None and now[1] is not None and 0 <= now[1] - page <= PAGE_WINDOW
 
 
 # A reference-list entry that slipped into the prose: "Gold, Matthew K., and ..."
@@ -537,15 +663,18 @@ def build_source(meta):
     book = json.loads((BOOKS_DIR / f"{book_id}.json").read_text())
     paged = book["pages"][0]["locator_type"] == "page"
     titles = {p["locator"]: section_title(p) for p in book["pages"]}
+    printed = printed_pages(book["pages"]) if paged else {}
     targets = book_targets(book_id, " ".join(meta.get("author") or []))
-    attest = Attestation("\n".join(p["text"] for p in book["pages"]))
+    attest = Attestation("\n".join(p["text"] for p in book["pages"]),
+                         None if paged else {p["locator"]: p["text"] for p in book["pages"]})
     surnames = re.compile(r"\b(?:" + "|".join(a[2] for a in targets) + r")\b")
 
     # Merge consecutive pieces of the same kind into runs, marking page starts.
     runs = []
     for kind, loc, text in regions(book, cfg):
-        piece = f"{MARK}L{loc}{MARK}" + text
-        if runs and runs[-1][0] == kind and (paged or kind == "notes" or runs[-1][1] == loc):
+        piece = f"{MARK}L{loc}{MARK}\n" + text  # own line, so line-start patterns still match
+        merge_notes = kind == "notes" and not cfg.get("note_per_section")
+        if runs and runs[-1][0] == kind and (paged or merge_notes or runs[-1][1] == loc):
             runs[-1][2].append(piece)
         else:
             runs.append([kind, loc, [piece]])
@@ -557,10 +686,15 @@ def build_source(meta):
             label = None if paged else titles[loc]
             units.append(({"in_notes": False, "section": label}, loc, split_sentences(flatten(text))))
         elif kind == "notes":
-            heading = None if paged or cfg.get("notes_label") is False else titles[loc]
-            if heading and NOTES_H.fullmatch(heading):
-                heading = None
-            for n in split_notes(text, heading):
+            if cfg.get("note_per_section"):
+                num = re.match(r"\s*(?:\x00L\d+\x00)?\s*(\d{1,3})\n", text)
+                notes = [{"chapter": None, "number": num and int(num.group(1)), "text": text}]
+            else:
+                heading = None if paged else titles[loc]
+                if heading and NOTES_H.fullmatch(heading):
+                    heading = None
+                notes = split_notes(text, heading)
+            for n in notes:
                 units.append(({"in_notes": True, "section": n["chapter"], "note": n["number"]}, loc,
                               split_sentences(flatten(n["text"]))))
 
@@ -571,7 +705,8 @@ def build_source(meta):
             if not surnames.search(s) or is_bib_entry(s):
                 continue
             for author in targets:
-                hits = list(find_mentions(s, author, last_named, attest))
+                scope = (None if paged else run_loc, page if paged else None)
+                hits = list(find_mentions(s, author, last_named, attest, scope))
                 if not hits or (author[1], s) in seen:
                     continue
                 seen.add((author[1], s))
@@ -579,7 +714,8 @@ def build_source(meta):
                     "bookId": author[0],
                     "author": author[1],
                     **loc,
-                    "section": loc["section"] or (f"Page {page}" if page and paged else None),
+                    "section": loc["section"] or page_label(page, printed) if paged else loc["section"],
+                    "page": page_label(page, printed) if paged else None,
                     "locator": page,
                     "before": sents[i - 1][0] if i > 0 else "",
                     "sentence": s,
@@ -587,6 +723,12 @@ def build_source(meta):
                     "highlights": [s[a:b] for a, b in hits],
                 })
     return {"title": meta["title"], "authors": meta.get("author") or [], "mentions": mentions}
+
+
+def page_label(page, printed):
+    if page in printed:
+        return f"p. {printed[page]}"
+    return f"PDF page {page}" if page else None
 
 
 def main():
