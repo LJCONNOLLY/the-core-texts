@@ -233,8 +233,8 @@ function Mention({ m }) {
         style={{ fontSize: '0.85rem', color: 'var(--text-muted)', display: 'block', marginBottom: '0.25rem' }}
       >
         {m.in_notes
-          ? <><span className="tag tag-gold">In the notes</span> {[m.section, m.note && `note ${m.note}`, m.page !== m.section && m.page].filter(Boolean).join(', ')}</>
-          : m.section}
+          ? <><span className="tag tag-gold">In the notes</span> {[m.section, m.note && `note ${m.note}`, m.page].filter(Boolean).join(', ')}</>
+          : [m.section, m.page].filter(Boolean).join(' \u2022 ')}
       </Link>
       <p style={{ fontSize: '1rem', lineHeight: 1.7, color: 'var(--text-secondary)', borderLeft: '3px solid var(--coral)', paddingLeft: '1rem' }}>
         {m.before && <span style={{ color: 'var(--text-muted)' }}>{m.before} </span>}

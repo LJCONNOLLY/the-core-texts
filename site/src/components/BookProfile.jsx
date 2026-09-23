@@ -174,6 +174,7 @@ export default function BookProfile() {
               </button>
               <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
                 {currentPage.locator_type} {currentPage.locator} of {pages.length}
+                {currentPage.print_pages && ` \u2022 print ${printLabel(currentPage.print_pages)}`}
               </span>
               <button className="btn btn-secondary" onClick={() => setPage(Math.min(pages.length - 1, page + 1))} disabled={page >= pages.length - 1}>
                 Next &rarr;
@@ -467,4 +468,9 @@ function FormattedText({ text, pages, onNavigate }) {
       })}
     </>
   );
+}
+
+// The print edition's page(s) a PDF page covers: "p. 47" / "pp. 47–48"
+function printLabel([first, last]) {
+  return first === last ? `p. ${first}` : `pp. ${first}\u2013${last}`;
 }

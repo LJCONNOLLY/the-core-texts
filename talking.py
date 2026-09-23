@@ -22,19 +22,11 @@ OUT_PATH = DATA_DIR / "talking.json"
 # Every book in data/index.json is scanned. The engine works out where the
 # notes, bibliographies and indexes are from their headings; these overrides
 # cover books whose layout it can't infer. `notes` / `skip` / `body` force a
-# locator into that region.
+# PDF page into that region.
 OVERRIDES = {
-    "dignazio-data-feminism-strong-ideas": {"notes": [18, 19], "skip": [17, 20, 21]},
-    "hayles-how-we-became-posthuman-virtual-bodies-i": {"notes": list(range(57, 68)), "skip": list(range(68, 90))},
-    # Latour's endnotes are one EPUB section per note.
-    "latour-reassembling-the-social-an-introduction": {"notes": list(range(24, 373)), "note_per_section": True},
-    "eubanks-automating-inequality-how-high-tech-tool": {"notes": list(range(14, 20)), "skip": list(range(20, 27))},
-    "manovich-cultural-analytics": {"skip": [20]},
-    "foucault-order-of-things-an-archaeology-of-human": {"skip": [18]},
+    # Notes set as bare lines ("Toye 2016.") under "Notes to pages 5-11" heads
     "benjamin-race-after-technology": {"notes": list(range(214, 251))},
     "haraway-simians-cyborgs-and-women-the-reinventio": {"notes": list(range(257, 281))},
-    # The scanned references and index at the back are unreadable OCR.
-    "rose-visual-methodologies-an-introduction-to": {"skip": list(range(282, 305))},
 }
 
 # Core-list authors. `given` lists the first names / initials that may precede
@@ -92,6 +84,7 @@ def flatten(text):
     text = text.replace("\xad", "")
     text = re.sub(r"(\w)-\n(?=[a-z])", r"\1", text)  # PDF hyphenation
     text = re.sub(r"\n\d{1,3}\n", "\n", text)        # superscript note refs
+    text = re.sub(r"([.!?”’\")])\d{1,3}(?=\s)", r"\1", text)  # ...as in "primary.97 N. Katherine"
     text = re.sub(r"\s*\n\s*", " ", text)
     text = re.sub(r"\s+([,.;:?!’”)])", r"\1", text)   # space left before punctuation
     return re.sub(r"[ \t  \xa0]{2,}", " ", text).strip()
@@ -160,7 +153,7 @@ def chapter_label(heading):
 
 # ─── Book layout ────────────────────────────────────────────────────────────
 
-NOTES_H = re.compile(r"(?i)(end)?notes|notes to (the )?(chapters?|text)")
+NOTES_H = re.compile(r"(?i)(end|foot)?notes|notes to (the )?(chapters?|text)")
 SKIP_H = re.compile(
     r"(?i)(selected |select )?(references|bibliography|works cited|bibliographic essay)"
     r"|(name |subject |general )?index|(about the |notes on |list of )?contributors"
@@ -228,57 +221,6 @@ def strip_running_heads(pages):
     return out
 
 
-def printed_pages(pages):
-    """Map PDF page locators to the page numbers printed in their heads/feet.
-
-    Candidate numbers come from each page's first and last lines; the offset
-    between printed and PDF numbering that most pages agree on is trusted, and
-    pages without a readable number borrow the offset of the nearest page that
-    has one (offsets shift where unnumbered plates are bound in).
-    """
-    confirmed = {}
-    cands = {}
-    for p in pages:
-        lines = [l for l in p["text"].split("\n") if l.strip()]
-        nums = set()
-        for l in lines[:3] + lines[-2:]:
-            nums |= {int(n) for n in re.findall(r"(?<![\d.,:–-])\b(\d{1,3})\b(?![\d.,:–-]\d)", l)}
-        cands[p["locator"]] = nums
-    offsets = {}
-    for loc, nums in cands.items():
-        for n in nums:
-            offsets[n - loc] = offsets.get(n - loc, 0) + 1
-    good = {o for o, c in offsets.items() if c >= 10}
-    for loc, nums in cands.items():
-        hits = [n for n in nums if n - loc in good]
-        if len(hits) == 1:
-            confirmed[loc] = hits[0]
-    # Keep a reading only if nearby pages agree on the offset (OCR noise and
-    # stray numbers in the text don't), and give up on books with few readings.
-    offset = {loc: n - loc for loc, n in confirmed.items()}
-
-    def local_majority(loc):
-        window = [offset[l] for l in range(loc - 10, loc + 11) if l in offset]
-        return max(set(window), key=window.count)
-
-    confirmed = {loc: n for loc, n in confirmed.items()
-                 if offset[loc] == local_majority(loc)
-                 and sum(offset.get(loc + d) == offset[loc] for d in range(-5, 6) if d) >= 2}
-    if len(confirmed) < len(pages) * 0.3:
-        return {}
-    known = sorted(confirmed)
-    out = {}
-    for p in pages:
-        loc = p["locator"]
-        if loc in confirmed:
-            out[loc] = confirmed[loc]
-            continue
-        near = min(known, key=lambda k: abs(k - loc))
-        if abs(near - loc) <= 3:
-            out[loc] = confirmed[near] + (loc - near)
-    return {k: v for k, v in out.items() if v > 0}
-
-
 def byline_pattern():
     names = []
     for _, full, surname, given in CORE_AUTHORS:
@@ -307,13 +249,11 @@ def regions(book, cfg):
     """Walk the book in order and yield (kind, locator, text) pieces.
 
     kind is "body", "notes" or "skip". Headings like "Notes" or "Bibliography"
-    switch the region; EPUB sections start fresh, while PDF pages carry the
-    region forward until a page stops looking like a list of citations.
+    switch the region, which carries forward page to page until a page stops
+    looking like a list of citations.
     """
-    pages = book["pages"]
-    paged = pages and pages[0]["locator_type"] == "page"
-    if paged:
-        pages = strip_running_heads(pages)
+    pages = strip_running_heads(book["pages"])
+    bookmarked = bookmarked_regions(book)
 
     # Front matter: everything up to the table of contents (and its overflow).
     front_end = -1
@@ -343,9 +283,10 @@ def regions(book, cfg):
         if loc in cfg.get("body", []):
             yield "body", loc, text
             continue
-        if not paged:
-            state = "body"
-        elif state != "body" and not locked and not still_in_back_matter(text, state):
+        if loc in bookmarked:
+            yield bookmarked[loc], loc, text
+            continue
+        if state != "body" and not locked and not still_in_back_matter(text, state):
             state = "body"
         buf = []
         for line in text.split("\n"):
@@ -357,7 +298,7 @@ def regions(book, cfg):
                 new = None  # a lone title line inside a note, e.g. "Contributors"
             if seen < total * 0.03:
                 new = None  # a table of contents listing "Notes", "Index", ...
-            if new == "skip" and paged and i > len(pages) * 0.85 and "index" in line.lower():
+            if new == "skip" and i > len(pages) * 0.85 and "index" in line.lower():
                 locked = True  # the closing index runs to the end of the book
             if locked:
                 new = "skip"
@@ -371,6 +312,22 @@ def regions(book, cfg):
             buf.append(line)
         if buf:
             yield state, loc, "\n".join(buf)
+
+
+def bookmarked_regions(book):
+    """PDF page -> "notes" or "skip" for pages under a top-level bookmark named
+    like "Notes" or "Bibliography" (the PDF's own map of its back matter)."""
+    marks = sorted((e["section"], e["title"]) for e in book.get("toc", [])
+                   if e.get("level", 0) == 0 and e.get("section"))
+    out = {}
+    for (start, title), (end, _) in zip(marks, marks[1:] + [(10 ** 6, None)]):
+        kind = ("notes" if is_heading(title, NOTES_H) else
+                "skip" if is_heading(title, SKIP_H) else None)
+        if kind:
+            for p in book["pages"]:
+                if start <= p["locator"] < end:
+                    out[p["locator"]] = kind
+    return out
 
 
 NOTE_START = re.compile(
@@ -458,10 +415,6 @@ def split_notes(text, heading=None):
     return notes
 
 
-def section_title(page):
-    first = next((l for l in page["text"].split("\n") if l.strip()), "")
-    return chapter_label(first)
-
 # ─── Mention detection ──────────────────────────────────────────────────────
 
 NAME_TOKEN = r"(?:[A-Z][a-zé’'-]+|[A-Z]\.)"
@@ -490,7 +443,7 @@ class Attestation:
 
     def __init__(self, full_text, chapters=None):
         self.text = full_text
-        self.chapters = chapters or {}  # EPUB section locator -> raw text
+        self.chapters = chapters or {}  # chapter title -> its pages' raw text
         self.cache = {}
 
     def check(self, author):
@@ -507,7 +460,7 @@ class Attestation:
             if who.rstrip(".") in firsts or (len(who.rstrip(".")) == 1 and who[0] in initials):
                 named = True
                 years |= ys
-            else:
+            elif who not in NON_NAMES and who not in {"A", "An"}:  # not "Foucault, The Order of Things"
                 others |= ys
         self.cache[full] = (named, years, others)
         return self.cache[full]
@@ -526,13 +479,25 @@ class Attestation:
         key = "ambiguous " + full
         if key not in self.cache:
             firsts = {g.split()[0] for g in given}
-            names = set(re.findall(rf"\b([A-Z][a-z]+)\s+(?:[A-Z]\.\s+)?{surname}\b", self.text))
+            # A different first name counts once it recurs ("Jonathan Gray" in
+            # Data Feminism); a one-off is more likely a title ("Beyond Foucault").
+            counts = {}
+            for n in re.findall(rf"\b([A-Z][a-z]+)\s+(?:[A-Z]\.\s+)?{surname}\b", self.text):
+                counts[n] = counts.get(n, 0) + 1
+            names = {n for n, c in counts.items() if c >= 2}
             # "Brooke Foucault Welles" doesn't make Michel Foucault ambiguous.
             inside = {n for n in names for a in CORE_AUTHORS for g in a[3] if g.endswith(f"{n} {surname}")}
             others = names - firsts - NON_NAMES - inside
             self.cache[key] = bool(others or self.check(author)[2])
         return self.cache[key]
 
+
+# Lowercase roles that introduce someone other than a scholar by surname alone.
+ROLE_WORDS = {
+    "instructor", "teacher", "director", "manager", "supervisor", "officer", "attorney",
+    "judge", "senator", "representative", "detective", "sergeant", "captain", "coach",
+    "principal", "nurse", "caseworker", "worker", "mayor", "governor", "commissioner",
+}
 
 # Co-authors whose surnames, cited alongside, confirm which author is meant.
 COAUTHORS = {
@@ -594,6 +559,9 @@ def find_mentions(text, author, last_named, attest, scope):
             else:
                 last_named[key] = (joined, scope)
             continue
+        before = text[:m.start(2)].split()
+        if before and before[-1] in ROLE_WORDS:
+            continue  # "the instructor Ahmed": someone known by role and surname
         cite = YEAR_CITE.match(text, m.end(2))
         if ET_AL.match(text, m.end(2)) and book_id not in MULTI_AUTHOR_BOOKS and not cite:
             continue  # "Ahmed et al." is rarely the single author named earlier
@@ -605,7 +573,7 @@ def find_mentions(text, author, last_named, attest, scope):
                 last_named[key] = (full, scope)
                 yield m.start(2), m.end(2)
                 continue
-            if year in others and year not in years:
+            if year in others and year not in years and not coauthor_nearby(full, text, m):
                 continue  # a dated citation to someone else with this surname
         who, where = last_named.get(key, (None, None))
         if who == full and (not attest.ambiguous(author) or nearby(where, scope)
@@ -625,7 +593,7 @@ def coauthor_nearby(full, text, m):
 
 def nearby(earlier, now):
     chapter, page = earlier
-    if chapter == now[0]:
+    if chapter is not None and chapter == now[0]:
         return True
     return page is not None and now[1] is not None and 0 <= now[1] - page <= PAGE_WINDOW
 
@@ -657,45 +625,64 @@ def book_targets(book_id, authors_str):
     return out
 
 
+def chapter_of_page(book):
+    """PDF page -> the chapter it falls in, from the PDF's bookmarks.
+
+    Chapters are the top two bookmark levels, minus "Part I"-style dividers and
+    bookmarks that are only identifiers (McKinney's "9781478009337-ix").
+    """
+    marks = sorted((e["section"], e["title"]) for e in book.get("toc", [])
+                   if e.get("level", 0) <= 1 and e.get("section")
+                   and not re.match(r"(?i)part\b", e["title"])
+                   and re.search(r"[A-Za-z]{3}", e["title"]))
+    out, current, i = {}, None, 0
+    for p in book["pages"]:
+        while i < len(marks) and marks[i][0] <= p["locator"]:
+            current = chapter_label(marks[i][1])
+            i += 1
+        out[p["locator"]] = current
+    return out
+
+
+def print_label(page):
+    """The print edition's page(s) a PDF page covers: "p. 47" / "pp. 47–48"."""
+    first, last = (page or {}).get("print_pages") or (None, None)
+    if not first:
+        return None
+    return f"p. {first}" if first == last else f"pp. {first}–{last}"
+
+
 def build_source(meta):
     book_id = meta["id"]
     cfg = OVERRIDES.get(book_id, {})
     book = json.loads((BOOKS_DIR / f"{book_id}.json").read_text())
-    paged = book["pages"][0]["locator_type"] == "page"
-    titles = {p["locator"]: section_title(p) for p in book["pages"]}
-    printed = printed_pages(book["pages"]) if paged else {}
+    pages = {p["locator"]: p for p in book["pages"]}
+    chapter = chapter_of_page(book)
+    chapter_text = {}
+    for p in book["pages"]:
+        if chapter[p["locator"]]:
+            chapter_text[chapter[p["locator"]]] = chapter_text.get(chapter[p["locator"]], "") + "\n" + p["text"]
     targets = book_targets(book_id, " ".join(meta.get("author") or []))
-    attest = Attestation("\n".join(p["text"] for p in book["pages"]),
-                         None if paged else {p["locator"]: p["text"] for p in book["pages"]})
+    attest = Attestation("\n".join(p["text"] for p in book["pages"]), chapter_text)
     surnames = re.compile(r"\b(?:" + "|".join(a[2] for a in targets) + r")\b")
 
     # Merge consecutive pieces of the same kind into runs, marking page starts.
     runs = []
     for kind, loc, text in regions(book, cfg):
         piece = f"{MARK}L{loc}{MARK}\n" + text  # own line, so line-start patterns still match
-        merge_notes = kind == "notes" and not cfg.get("note_per_section")
-        if runs and runs[-1][0] == kind and (paged or merge_notes or runs[-1][1] == loc):
+        if runs and runs[-1][0] == kind:
             runs[-1][2].append(piece)
         else:
             runs.append([kind, loc, [piece]])
 
-    units = []  # (location template, run locator, [(sentence, locator)])
+    units = []  # (location template, run's first page, [(sentence, page)])
     for kind, loc, pieces in runs:
         text = "\n".join(pieces)
         if kind == "body":
-            label = None if paged else titles[loc]
-            units.append(({"in_notes": False, "section": label}, loc, split_sentences(flatten(text))))
+            units.append(({"in_notes": False}, loc, split_sentences(flatten(text))))
         elif kind == "notes":
-            if cfg.get("note_per_section"):
-                num = re.match(r"\s*(?:\x00L\d+\x00)?\s*(\d{1,3})\n", text)
-                notes = [{"chapter": None, "number": num and int(num.group(1)), "text": text}]
-            else:
-                heading = None if paged else titles[loc]
-                if heading and NOTES_H.fullmatch(heading):
-                    heading = None
-                notes = split_notes(text, heading)
-            for n in notes:
-                units.append(({"in_notes": True, "section": n["chapter"], "note": n["number"]}, loc,
+            for n in split_notes(text):
+                units.append(({"in_notes": True, "note_chapter": n["chapter"], "note": n["number"]}, loc,
                               split_sentences(flatten(n["text"]))))
 
     mentions, last_named, seen = [], {}, set()
@@ -705,17 +692,19 @@ def build_source(meta):
             if not surnames.search(s) or is_bib_entry(s):
                 continue
             for author in targets:
-                scope = (None if paged else run_loc, page if paged else None)
-                hits = list(find_mentions(s, author, last_named, attest, scope))
+                hits = list(find_mentions(s, author, last_named, attest, (chapter.get(page), page)))
                 if not hits or (author[1], s) in seen:
                     continue
                 seen.add((author[1], s))
+                # Notes are labelled by the chapter they annotate, not the "Notes" chapter.
+                section = loc.get("note_chapter") if loc["in_notes"] else chapter.get(page)
                 mentions.append({
                     "bookId": author[0],
                     "author": author[1],
-                    **loc,
-                    "section": loc["section"] or page_label(page, printed) if paged else loc["section"],
-                    "page": page_label(page, printed) if paged else None,
+                    "in_notes": loc["in_notes"],
+                    "note": loc.get("note"),
+                    "section": section,
+                    "page": print_label(pages.get(page)) or f"PDF page {page}",
                     "locator": page,
                     "before": sents[i - 1][0] if i > 0 else "",
                     "sentence": s,
@@ -723,12 +712,6 @@ def build_source(meta):
                     "highlights": [s[a:b] for a, b in hits],
                 })
     return {"title": meta["title"], "authors": meta.get("author") or [], "mentions": mentions}
-
-
-def page_label(page, printed):
-    if page in printed:
-        return f"p. {printed[page]}"
-    return f"PDF page {page}" if page else None
 
 
 def main():
