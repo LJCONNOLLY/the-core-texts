@@ -51,8 +51,19 @@ export default function BookProfile() {
   // Find the first section that starts with Introduction or a numbered chapter.
   // Skipped when arriving via a search deep link — the match may be in front
   // matter (dedication, epigraph, acknowledgments) that this trim would hide.
+  // The PDF's bookmarks say where that is; otherwise look for it in the text,
+  // passing over the table of contents, which lists "Introduction" too.
   const INTRO_RE = /^(Introduction|Chapter\s+1|Part\s+(One|1|I)\b|1\s+[A-Z])/im;
-  const introIdx = allPages.findIndex(p => INTRO_RE.test(p.text.trim().slice(0, 200)));
+  const INTRO_TITLE_RE = /^(Introduction|Chapter\s+(1|One)\b|Part\s+(One|1|I)\b|1[\s.:])/i;
+  const CONTENTS_RE = /^\s*(table of )?contents\b/im;
+  const tocStart = (book?.toc || []).find(e => INTRO_TITLE_RE.test(e.title.trim()))?.section;
+  let introIdx = tocStart ? allPages.findIndex(p => p.locator >= tocStart) : -1;
+  if (introIdx < 0) {
+    introIdx = allPages.findIndex(p => {
+      const head = p.text.trim().slice(0, 200);
+      return INTRO_RE.test(head) && !CONTENTS_RE.test(head) && !looksLikeContents(p.text);
+    });
+  }
   const pages = locatorParam ? allPages : (introIdx > 0 ? allPages.slice(introIdx) : allPages);
   const currentPage = pages[page];
 
@@ -473,4 +484,11 @@ function FormattedText({ text, pages, onNavigate }) {
 // The print edition's page(s) a PDF page covers: "p. 47" / "pp. 47–48"
 function printLabel([first, last]) {
   return first === last ? `p. ${first}` : `pp. ${first}\u2013${last}`;
+}
+
+// A contents page without its heading: several of its first lines end in a
+// page number ("Introduction A Useful Archive  1", "Acknowledgments vii").
+function looksLikeContents(text) {
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean).slice(0, 8);
+  return lines.filter(l => /\s(\d{1,3}|[ivxlc]+)$/.test(l)).length >= 2;
 }

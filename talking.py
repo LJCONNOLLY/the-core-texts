@@ -4,8 +4,8 @@ talking.py — builds the "Talking to Each Other" cross-reference data.
 
 For every book on the core list, finds every place another author on
 the core list is named and pulls the sentence containing the mention plus the
-sentence before and after it. Mentions inside the book's endnotes are kept
-too, but flagged as being in the notes.
+sentence before and after it. Only the main text counts: endnotes, front
+matter, acknowledgments, bibliographies and indexes are left out.
 
 Output: data/talking.json
 """
@@ -27,6 +27,8 @@ OVERRIDES = {
     # Notes set as bare lines ("Toye 2016.") under "Notes to pages 5-11" heads
     "benjamin-race-after-technology": {"notes": list(range(214, 251))},
     "haraway-simians-cyborgs-and-women-the-reinventio": {"notes": list(range(257, 281))},
+    # Acknowledgments whose heading didn't survive into the PDF's text
+    "nakamura-digitizing-race-visual-cultures-of-the-i": {"skip": [8, 9, 10]},
 }
 
 # Core-list authors. `given` lists the first names / initials that may precede
@@ -162,6 +164,12 @@ SKIP_H = re.compile(
     r"|(recommended|suggested|further) readings?"
 )
 CONTENTS_H = re.compile(r"(?i)(table of )?contents")
+ACK_H = re.compile(r"(?i)acknowledge?ments?")
+# Headings that end an acknowledgments section
+CHAPTER_H = re.compile(
+    r"(?i)(introduction|preface|foreword|prologue|contents|conclusion|epilogue|afterword)\b.{0,80}"
+    r"|(chapter|part)\s+\w+.{0,80}|\d{1,2}\.?\s+[A-Z“\"].{0,80}"
+)
 
 CITE_LINE = re.compile(
     r"^\s*\[?\d{1,3}\]?[.\t)]?\s|^[A-Z][^\s,]+(?:\s[A-Z][^\s,]+)?,\s+[A-Z]"
@@ -171,9 +179,11 @@ CITE_LINE = re.compile(
 
 def normalize_heading(line):
     """"R E F E R E N C E S" / "References      177" -> "References"."""
-    line = re.sub(r"[\d\[\]|\u2003\u2004\t]+", " ", line)
-    if re.fullmatch(r"\s*(?:\S\s+){3,}\S\s*", line):  # letter-spaced caps
-        line = re.sub(r"(?<=\S) (?=\S)", "", line)
+    line = re.sub(r"[\d\[\]|\u2003\u2004\t]+", " ", line.replace("\xad", ""))
+    words = line.split()
+    # Letter-spaced caps, even unevenly ("AC K N OW L E D G M E N T S")
+    if len(words) >= 4 and all(len(w) <= 3 for w in words):
+        line = "".join(words)
     return re.sub(r"\s+", " ", line).strip().strip(":").strip()
 
 
@@ -212,7 +222,7 @@ def strip_running_heads(pages):
         edge = set(idx[:3] + idx[-2:])
         kept = []
         for i, l in enumerate(lines):
-            if i in edge and not is_heading(l, NOTES_H) and not is_heading(l, SKIP_H):
+            if i in edge and not any(is_heading(l, h) for h in (NOTES_H, SKIP_H, ACK_H)):
                 k = key(l)
                 if not k or (counts.get(k, 0) >= 3 and len(k) < 90):
                     continue
@@ -250,7 +260,8 @@ def regions(book, cfg):
 
     kind is "body", "notes" or "skip". Headings like "Notes" or "Bibliography"
     switch the region, which carries forward page to page until a page stops
-    looking like a list of citations.
+    looking like a list of citations. An "Acknowledgments" heading starts an
+    "ack" region that lasts until the next chapter-level heading.
     """
     pages = strip_running_heads(book["pages"])
     bookmarked = bookmarked_regions(book)
@@ -286,17 +297,20 @@ def regions(book, cfg):
         if loc in bookmarked:
             yield bookmarked[loc], loc, text
             continue
-        if state != "body" and not locked and not still_in_back_matter(text, state):
+        if state not in ("body", "ack") and not locked and not still_in_back_matter(text, state):
             state = "body"
         buf = []
         for line in text.split("\n"):
             seen += len(line) + 1
             new = ("notes" if is_heading(line, NOTES_H) else
-                   "skip" if is_heading(line, SKIP_H) else None)
+                   "skip" if is_heading(line, SKIP_H) else
+                   "ack" if is_heading(line, ACK_H) else
+                   "body" if state == "ack" and (CHAPTER_H.fullmatch(line.strip())
+                                                 or is_heading(line, CHAPTER_H)) else None)
             if new == "skip" and state == "notes" and not re.search(
                     r"(?i)references|bibliography|works cited|index", line):
                 new = None  # a lone title line inside a note, e.g. "Contributors"
-            if seen < total * 0.03:
+            if seen < total * 0.03 and new in ("notes", "skip"):
                 new = None  # a table of contents listing "Notes", "Index", ...
             if new == "skip" and i > len(pages) * 0.85 and "index" in line.lower():
                 locked = True  # the closing index runs to the end of the book
@@ -315,14 +329,16 @@ def regions(book, cfg):
 
 
 def bookmarked_regions(book):
-    """PDF page -> "notes" or "skip" for pages under a top-level bookmark named
-    like "Notes" or "Bibliography" (the PDF's own map of its back matter)."""
+    """PDF page -> "notes", "skip" or "ack" for pages under a top-level bookmark
+    named like "Notes", "Bibliography" or "Acknowledgments" (the PDF's own map
+    of its front and back matter)."""
     marks = sorted((e["section"], e["title"]) for e in book.get("toc", [])
                    if e.get("level", 0) == 0 and e.get("section"))
     out = {}
     for (start, title), (end, _) in zip(marks, marks[1:] + [(10 ** 6, None)]):
         kind = ("notes" if is_heading(title, NOTES_H) else
-                "skip" if is_heading(title, SKIP_H) else None)
+                "skip" if is_heading(title, SKIP_H) else
+                "ack" if re.match(r"(?i)acknowledge?ments?\b", title.strip()) else None)
         if kind:
             for p in book["pages"]:
                 if start <= p["locator"] < end:
@@ -333,86 +349,6 @@ def bookmarked_regions(book):
 NOTE_START = re.compile(
     r"(?m)^[ \t]*\[?(\d{1,3})\]?[ \t]*(?:\n[ \t]*)?(?:[.)](?=\s)|\t|(?=\n)|(?=[ ]+[A-Z“\"‘'\[(]))"
 )
-
-
-def looks_like_chapter_heading(line):
-    line = line.strip()
-    line = re.sub(r"^\d{1,2}\.?\s+", "", line)
-    if not line or len(line) > 150 or line[-1] in ".,;:)" or not (line[0].isalpha() or line[0] in "“\"#"):
-        return False
-    if re.match(r"(?i)(chapter|notes to|introduction|conclusion|epilogue|prologue|preface|part|afterword|coda)\b", line):
-        return True
-    words = [w for w in re.findall(r"[A-Za-z’']+", line) if len(w) > 3]
-    return bool(words) and sum(w[0].isupper() for w in words) / len(words) >= 0.6
-
-
-def trailing_heading(lines):
-    """The chapter heading (possibly wrapped over several lines) ending `lines`."""
-    out = []
-    for line in reversed(lines[-5:]):
-        l = MARK_RE.sub("", line).strip()
-        if not l:
-            continue
-        caps = l.upper() == l and (len(l) >= 3 or re.fullmatch(r"\d+\.?", l))
-        if caps or (not out and looks_like_chapter_heading(l)):
-            out.insert(0, l)
-        else:
-            break
-    joined = " ".join(out)
-    if joined and (looks_like_chapter_heading(joined) or re.match(r"(?i)chapter\b", joined)):
-        return joined
-    return None
-
-
-def split_notes(text, heading=None):
-    """Split a run of endnotes (with page markers) into numbered notes."""
-    notes = []
-    if "Return to note reference." in text:
-        for n, chunk in enumerate(text.split("Return to note reference."), 1):
-            if chunk.strip():
-                notes.append({"chapter": heading, "number": n, "text": chunk})
-        return notes
-    starts, expected = [], 1
-    cands = list(NOTE_START.finditer(text))
-    for j, m in enumerate(cands):
-        num = int(m.group(1))
-        # "1. Historical Narratives" right before "1. Samantha Blackmon" is a chapter heading.
-        if num == 1 and j + 1 < len(cands) and int(cands[j + 1].group(1)) == 1 \
-                and cands[j + 1].start() - m.start() < 300:
-            continue
-        # The first note may continue a count from an earlier page.
-        if num == expected or (num == 1 and starts) or (not starts and m.start() < 200):
-            starts.append((m.start(), m.end(), num))
-            expected = num + 1
-    if not starts:
-        return [{"chapter": heading, "number": None, "text": text}]
-    chapter = heading
-    lead = trailing_heading(text[:starts[0][0]].split("\n"))
-    if lead:
-        chapter = lead
-    for k, (s, e, num) in enumerate(starts):
-        end = starts[k + 1][0] if k + 1 < len(starts) else len(text)
-        body = text[e:end]
-        next_chapter = None
-        if k + 1 < len(starts) and starts[k + 1][2] == 1:
-            lines = body.rstrip().split("\n")
-            next_chapter = trailing_heading(lines[1:])
-            if next_chapter:
-                # Drop the heading lines from the end of this note.
-                n = len(next_chapter.split())
-                while lines and n > 0:
-                    n -= len(MARK_RE.sub("", lines.pop()).split())
-                body = "\n".join(lines)
-        # Keep the page marker that precedes the note so it maps to a page.
-        marks = MARK_RE.findall(text[:e])
-        prefix = f"{MARK}L{marks[-1]}{MARK}" if marks else ""
-        label = chapter and chapter_label(chapter)
-        if label and NOTES_H.fullmatch(label):
-            label = None
-        notes.append({"chapter": label, "number": num, "text": prefix + body})
-        if next_chapter:
-            chapter = next_chapter
-    return notes
 
 
 # ─── Mention detection ──────────────────────────────────────────────────────
@@ -675,35 +611,25 @@ def build_source(meta):
         else:
             runs.append([kind, loc, [piece]])
 
-    units = []  # (location template, run's first page, [(sentence, page)])
-    for kind, loc, pieces in runs:
-        text = "\n".join(pieces)
-        if kind == "body":
-            units.append(({"in_notes": False}, loc, split_sentences(flatten(text))))
-        elif kind == "notes":
-            for n in split_notes(text):
-                units.append(({"in_notes": True, "note_chapter": n["chapter"], "note": n["number"]}, loc,
-                              split_sentences(flatten(n["text"]))))
+    # Only the main text: notes, acknowledgments and the rest are left out.
+    units = [(loc, split_sentences(flatten("\n".join(pieces))))
+             for kind, loc, pieces in runs if kind == "body"]
 
     mentions, last_named, seen = [], {}, set()
-    for loc, run_loc, sents in units:
+    for run_loc, sents in units:
         for i, (s, page) in enumerate(sents):
             page = page or run_loc
-            if not surnames.search(s) or is_bib_entry(s):
+            if not surnames.search(s) or is_bib_entry(s) or ACK_H.match(chapter.get(page) or ""):
                 continue
             for author in targets:
                 hits = list(find_mentions(s, author, last_named, attest, (chapter.get(page), page)))
                 if not hits or (author[1], s) in seen:
                     continue
                 seen.add((author[1], s))
-                # Notes are labelled by the chapter they annotate, not the "Notes" chapter.
-                section = loc.get("note_chapter") if loc["in_notes"] else chapter.get(page)
                 mentions.append({
                     "bookId": author[0],
                     "author": author[1],
-                    "in_notes": loc["in_notes"],
-                    "note": loc.get("note"),
-                    "section": section,
+                    "section": chapter.get(page),
                     "page": print_label(pages.get(page)) or f"PDF page {page}",
                     "locator": page,
                     "before": sents[i - 1][0] if i > 0 else "",
@@ -716,13 +642,14 @@ def build_source(meta):
 
 def main():
     index = json.loads((DATA_DIR / "index.json").read_text())
-    books = sorted(index["books"], key=lambda b: b["title"].lstrip("#").lower())
+    # Oldest first, so the list reads as the conversation unfolding
+    books = sorted(index["books"], key=lambda b: (b.get("year") or 9999, b["title"].lstrip("#").lower()))
     out = {"sources": {}}
     for meta in books:
         src = build_source(meta)
+        src["year"] = meta.get("year")
         out["sources"][meta["id"]] = src
-        notes = sum(m["in_notes"] for m in src["mentions"])
-        print(f"{meta['id']}: {len(src['mentions'])} mentions ({notes} in notes)")
+        print(f"{meta.get('year')} {meta['id']}: {len(src['mentions'])} mentions")
     OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=1))
 
 

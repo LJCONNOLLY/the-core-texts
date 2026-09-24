@@ -93,16 +93,6 @@
   ],
   "pages": [
     {
-      "locator": 2,
-      "locator_type": "page",
-      "text": "1"
-    },
-    {
-      "locator": 3,
-      "locator_type": "page",
-      "text": "2"
-    },
-    {
       "locator": 4,
       "locator_type": "page",
       "text": "Misogynoir Transformed",

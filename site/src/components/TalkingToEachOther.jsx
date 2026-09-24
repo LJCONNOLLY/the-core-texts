@@ -3,12 +3,6 @@ import { Link } from 'react-router-dom';
 import { loadIndex, loadTalking } from '../utils/data';
 import { highlightText } from '../utils/text';
 
-const FILTERS = [
-  { id: 'all', label: 'Everywhere' },
-  { id: 'body', label: 'In the text' },
-  { id: 'notes', label: 'In the notes' },
-];
-
 const MODES = [
   { id: 'book', label: 'Who each book talks to' },
   { id: 'author', label: 'Who talks about each author' },
@@ -23,14 +17,13 @@ export default function TalkingToEachOther() {
   const [mode, setMode] = useState('book');
   const [sourceId, setSourceId] = useState(null);
   const [authorName, setAuthorName] = useState(null);
-  const [filter, setFilter] = useState('all');
 
   useEffect(() => {
     Promise.all([loadIndex(), loadTalking()])
       .then(([idx, t]) => {
         setIndex(idx);
         setTalking(t);
-        setSourceId(Object.keys(t.sources)[0] || null);
+        setSourceId(booksByYear(t)[0]?.[0] || null);
       })
       .catch(e => setError(e.message));
   }, []);
@@ -41,8 +34,7 @@ export default function TalkingToEachOther() {
   const bookLookup = {};
   for (const book of index.books) bookLookup[book.id] = book;
   const titleOf = id => shortTitle(bookLookup[id]?.title || talking.sources[id]?.title || id);
-
-  const keep = m => filter === 'all' || (filter === 'notes' ? m.in_notes : !m.in_notes);
+  const yearOf = id => talking.sources[id]?.year;
 
   // Every mention, tagged with the book it appears in
   const all = [];
@@ -62,9 +54,8 @@ export default function TalkingToEachOther() {
 
   let heading, subheading, groups, total, emptyText, sideItems;
   if (mode === 'book') {
-    const source = talking.sources[sourceId];
-    const mentions = all.filter(m => m.sourceId === sourceId && keep(m));
-    groups = groupBy(mentions, m => m.author, m => ({
+    const mentions = all.filter(m => m.sourceId === sourceId);
+    groups = groupBy(mentions, m => m.author, byCount, m => ({
       key: m.author,
       title: m.author,
       subtitle: bookLookup[m.bookId]?.title,
@@ -73,28 +64,27 @@ export default function TalkingToEachOther() {
     heading = `Who ${titleOf(sourceId)} talks to`;
     subheading = `${groups.length} core author${groups.length !== 1 ? 's' : ''}`;
     total = mentions.length;
-    emptyText = source?.mentions.length
-      ? 'No mentions with this filter.'
-      : 'This book doesn’t name any other author on the core list.';
-    sideItems = Object.entries(talking.sources).map(([id, src]) => ({
+    emptyText = 'This book doesn’t name any other author on the core list.';
+    sideItems = booksByYear(talking).map(([id, src]) => ({
       id,
       title: titleOf(id),
-      detail: `${src.authors.join(' & ')} • ${src.mentions.length} mentions`,
+      detail: `${src.year || 'n.d.'} • ${src.authors.join(' & ')} • ${src.mentions.length} mentions`,
       selected: id === sourceId,
       onClick: () => setSourceId(id),
     }));
   } else {
-    const mentions = all.filter(m => m.author === selectedAuthor && keep(m));
-    groups = groupBy(mentions, m => m.sourceId, m => ({
+    const mentions = all.filter(m => m.author === selectedAuthor);
+    groups = groupBy(mentions, m => m.sourceId, byYear, m => ({
       key: m.sourceId,
       title: titleOf(m.sourceId),
       titleLink: `/book/${m.sourceId}`,
-      subtitle: talking.sources[m.sourceId].authors.join(' & '),
+      subtitle: `${talking.sources[m.sourceId].authors.join(' & ')} (${yearOf(m.sourceId) || 'n.d.'})`,
+      year: yearOf(m.sourceId),
     }));
     heading = `Who talks about ${selectedAuthor}`;
     subheading = `${groups.length} book${groups.length !== 1 ? 's' : ''}`;
     total = mentions.length;
-    emptyText = 'No mentions with this filter.';
+    emptyText = '';
     sideItems = authors.map(a => ({
       id: a.name,
       title: a.name,
@@ -108,7 +98,7 @@ export default function TalkingToEachOther() {
     <div>
       <div className="page-header">
         <h1>Talking to Each Other</h1>
-        <p>Every place a book names another author on the core list, with the sentence before and after.</p>
+        <p>Every place a book’s main text names another author on the core list, with the sentence before and after.</p>
       </div>
 
       <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
@@ -165,21 +155,9 @@ export default function TalkingToEachOther() {
           <h2 style={{ fontSize: '1.8rem', marginBottom: '0.5rem', fontFamily: 'var(--font-heading)' }}>
             {heading}
           </h2>
-          <p style={{ fontSize: '1rem', color: 'var(--text-muted)', marginBottom: '1rem' }}>
+          <p style={{ fontSize: '1rem', color: 'var(--text-muted)', marginBottom: '1.5rem' }}>
             {subheading} {'•'} {total} mention{total !== 1 ? 's' : ''}
           </p>
-
-          <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
-            {FILTERS.map(f => (
-              <button
-                key={f.id}
-                className={`btn ${filter === f.id ? 'btn-primary' : 'btn-secondary'}`}
-                onClick={() => setFilter(f.id)}
-              >
-                {f.label}
-              </button>
-            ))}
-          </div>
 
           {groups.map(group => (
             <div key={group.key} className="card" style={{ marginBottom: '1.25rem' }}>
@@ -212,17 +190,25 @@ export default function TalkingToEachOther() {
   );
 }
 
-// Group mentions by key, largest group first
-function groupBy(mentions, keyOf, describe) {
+// Books oldest first, as [id, source] pairs
+function booksByYear(talking) {
+  return Object.entries(talking.sources).sort(([, a], [, b]) =>
+    (a.year || 9999) - (b.year || 9999) || a.title.localeCompare(b.title)
+  );
+}
+
+const byCount = (a, b) => b.mentions.length - a.mentions.length || a.title.localeCompare(b.title);
+const byYear = (a, b) => (a.year || 9999) - (b.year || 9999) || a.title.localeCompare(b.title);
+
+// Group mentions by key, ordered by `order`
+function groupBy(mentions, keyOf, order, describe) {
   const groups = {};
   for (const m of mentions) {
     const k = keyOf(m);
     if (!groups[k]) groups[k] = { ...describe(m), mentions: [] };
     groups[k].mentions.push(m);
   }
-  return Object.values(groups).sort((a, b) =>
-    b.mentions.length - a.mentions.length || a.title.localeCompare(b.title)
-  );
+  return Object.values(groups).sort(order);
 }
 
 function Mention({ m }) {
@@ -232,9 +218,7 @@ function Mention({ m }) {
         to={`/book/${m.sourceId}?locator=${m.locator}`}
         style={{ fontSize: '0.85rem', color: 'var(--text-muted)', display: 'block', marginBottom: '0.25rem' }}
       >
-        {m.in_notes
-          ? <><span className="tag tag-gold">In the notes</span> {[m.section, m.note && `note ${m.note}`, m.page].filter(Boolean).join(', ')}</>
-          : [m.section, m.page].filter(Boolean).join(' \u2022 ')}
+        {[m.section, m.page].filter(Boolean).join(' \u2022 ')}
       </Link>
       <p style={{ fontSize: '1rem', lineHeight: 1.7, color: 'var(--text-secondary)', borderLeft: '3px solid var(--coral)', paddingLeft: '1rem' }}>
         {m.before && <span style={{ color: 'var(--text-muted)' }}>{m.before} </span>}

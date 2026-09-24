@@ -2,7 +2,8 @@
   "id": "gold-debates-in-the-digital-humanities-2023",
   "title": "Debates in the Digital Humanities 2023",
   "author": [
-    "Lauren F. Klein Matthew K. Gold"
+    "Matthew K. Gold",
+    "Lauren F. Klein"
   ],
   "toc": [
     {
@@ -207,11 +208,6 @@
     }
   ],
   "pages": [
-    {
-      "locator": 2,
-      "locator_type": "page",
-      "text": "1"
-    },
     {
       "locator": 3,
       "locator_type": "page",

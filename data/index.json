@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:51:51.946333",
+  "generated_at": "2026-09-24T16:20:33.759725",
   "book_count": 30,
   "books": [
     {
@@ -437,8 +437,8 @@
           "level": 0
         }
       ],
-      "word_count": 90071,
-      "page_count": 156
+      "word_count": 90067,
+      "page_count": 152
     },
     {
       "id": "vee-coding-literacy-how-computer-programming",
@@ -795,8 +795,8 @@
           "level": 0
         }
       ],
-      "word_count": 133076,
-      "page_count": 233
+      "word_count": 133075,
+      "page_count": 232
     },
     {
       "id": "latour-reassembling-the-social-an-introduction",
@@ -1026,8 +1026,8 @@
           "level": 0
         }
       ],
-      "word_count": 135599,
-      "page_count": 232
+      "word_count": 135594,
+      "page_count": 227
     },
     {
       "id": "mckinney-information-activism-a-queer-history-of",
@@ -1567,8 +1567,8 @@
           "level": 0
         }
       ],
-      "word_count": 109310,
-      "page_count": 254
+      "word_count": 109286,
+      "page_count": 230
     },
     {
       "id": "steele-digital-black-feminism-critical-cultural",
@@ -1779,7 +1779,7 @@
       "filename": "haraway-simians-cyborgs-and-women-the-reinventio.pdf",
       "title": "Simians, cyborgs, and women: the reinvention of nature",
       "author": [
-        "Donna Jeanne. Haraway"
+        "Donna J. Haraway"
       ],
       "year": 1991,
       "publisher": "Routledge, 1991_",
@@ -3385,8 +3385,8 @@
           "level": 0
         }
       ],
-      "word_count": 69121,
-      "page_count": 108
+      "word_count": 69120,
+      "page_count": 107
     },
     {
       "id": "gonzales-designing-multilingual-experiences-in-te",
@@ -3559,575 +3559,6 @@
       "toc": [],
       "word_count": 74781,
       "page_count": 197
-    },
-    {
-      "id": "gold-debates-in-the-digital-humanities-2023",
-      "filename": "gold-debates-in-the-digital-humanities-2023.pdf",
-      "title": "Debates in the Digital Humanities 2023",
-      "author": [
-        "Lauren F. Klein Matthew K. Gold"
-      ],
-      "year": 2023,
-      "publisher": "University of Minnesota Press",
-      "isbn": "9781452969312",
-      "format": "pdf",
-      "source_format": "epub",
-      "frameworks": [],
-      "definitions": {
-        "text": [
-          {
-            "locator": 48,
-            "locator_type": "page",
-            "excerpt": "The text is produced by\nseaborn, a popular code library for data visualization, which relies on matplotlib, the RTL\ndeficiencies of which affect a multitude of tools."
-          },
-          {
-            "locator": 48,
-            "locator_type": "page",
-            "excerpt": "”41\nCompounding the problem of poor implementation of standards for RTL and multidirectional text\nis the fact that it is difficult for users to discover which applications support RTL/bidi and what\nworkarounds exist."
-          },
-          {
-            "locator": 54,
-            "locator_type": "page",
-            "excerpt": "If these are poorly implemented,\nthe text is nearly unreadable."
-          },
-          {
-            "locator": 145,
-            "locator_type": "page",
-            "excerpt": "Notes\nThe ideas in this text were shaped in direct and indirect ways through conversations and\ncollaborations with colleagues over the past several years at the Getty Research Institute and\nbeyond."
-          },
-          {
-            "locator": 205,
-            "locator_type": "page",
-            "excerpt": "Image descriptions and\nalt-text are essential for anyone with vision-related disabilities."
-          }
-        ],
-        "technology": [
-          {
-            "locator": 13,
-            "locator_type": "page",
-            "excerpt": "In 2014,\nAdam Kirsch, in The New Republic, paints a starker—even Manichean—picture: “Here is the\nfuture, we are made to understand: we can either get on board or stand athwart it and get run\nover” (“Technology Is Taking over English Departments”)."
-          },
-          {
-            "locator": 24,
-            "locator_type": "page",
-            "excerpt": "“Technology Is Taking over English Departments."
-          },
-          {
-            "locator": 59,
-            "locator_type": "page",
-            "excerpt": "Every piece of technology is an expression of cultural and social frameworks\nfor understanding and engaging with the world."
-          },
-          {
-            "locator": 104,
-            "locator_type": "page",
-            "excerpt": "We also\nembrace the work of Wendy Hui Kyong Chun (“Race and/as Technology”), who asserts that\nthe question of race and technology is not just about what race is but what relations and\nquestions engender race."
-          },
-          {
-            "locator": 110,
-            "locator_type": "page",
-            "excerpt": "Historians who study pre-twentieth-century history, when moving-image technology was largely\nnonexistent, might think that they will be spared the worst effects of deepfakes, but generative\nadversarial networks (GANs) leave all media vulnerable to digital manipulation."
-          },
-          {
-            "locator": 115,
-            "locator_type": "page",
-            "excerpt": "Although the\npunch card technology was used for processing and tabulating data in census-taking operations\nsince the 1890s, it was innovated on, instrumentalized, and weaponized to execute the race science\nand surveillance agenda of the Third Reich (Pugh)."
-          },
-          {
-            "locator": 137,
-            "locator_type": "page",
-            "excerpt": "Framed in this way, any use of technology is external to art history, brought into\nthe discipline only via digital art history."
-          },
-          {
-            "locator": 138,
-            "locator_type": "page",
-            "excerpt": "Porras,\nlike Reiner and Patkowski, asks not so much whether technology was used but explores how and"
-          },
-          {
-            "locator": 139,
-            "locator_type": "page",
-            "excerpt": "Furthermore, they create a scenario wherein the daily use of technology is invisible while other,\nmore specialized applications are defined only in terms of the presence of technology."
-          },
-          {
-            "locator": 141,
-            "locator_type": "page",
-            "excerpt": "Filtered through Drucker’s conception, rupture-talk around “the digital” and art history creates a\nframework in which technology is understood either to be wholly transformative or entirely\nincidental."
-          },
-          {
-            "locator": 141,
-            "locator_type": "page",
-            "excerpt": "As result, the continuum between these two poles and, moreover, the ways in which\ntechnology is already embedded in our art-historical practice are obscured."
-          },
-          {
-            "locator": 159,
-            "locator_type": "page",
-            "excerpt": "Again, this exemplifies one of our DH project’s purposes—bringing\nvisibility to open-access and technology issues, especially for those from marginalized communities."
-          },
-          {
-            "locator": 234,
-            "locator_type": "page",
-            "excerpt": "KLG: But technology is technology."
-          },
-          {
-            "locator": 234,
-            "locator_type": "page",
-            "excerpt": "AKJG: Technology is technology, right."
-          }
-        ],
-        "discourse": [
-          {
-            "locator": 16,
-            "locator_type": "page",
-            "excerpt": "While the humanities have always engaged in revolutionary discourse about new theories\nand methods—one thinks of the much-ballyhooed “Theory Wars”—DH’s revolutionary discourse\nwas unfortunately paired with economic constriction and often mirrored the rhetoric of Silicon\nValley."
-          },
-          {
-            "locator": 244,
-            "locator_type": "page",
-            "excerpt": "Academic discourse is activism."
-          }
-        ],
-        "categorization": [
-          {
-            "locator": 72,
-            "locator_type": "page",
-            "excerpt": "3 However, that should not be taken to mean that technology or categorization is inherently\nreductive."
-          }
-        ],
-        "infrastructure": [
-          {
-            "locator": 102,
-            "locator_type": "page",
-            "excerpt": "Existing tools, expertise, funding, and infrastructure are the current project’s limits."
-          },
-          {
-            "locator": 133,
-            "locator_type": "page",
-            "excerpt": "Drawing on decades of “participatory research” in the postcolonial world, citizen-science\ninfrastructure is sometimes interwoven with workshops (called “barn raisings” at Public Lab) that\nspecifically invite minoritized and other underprivileged populations to actively design research\nprograms around a community’s specific needs and to collect data according to that program\n(Guldi, “A History of the Participatory Map”)."
-          },
-          {
-            "locator": 143,
-            "locator_type": "page",
-            "excerpt": "The train and its\nrelated infrastructure were so physically imposing and so different from previous modes of\ntransportation that for some travelers in the nineteenth century, their presence threw into stark\nrelief what was being lost versus gained through technological innovation."
-          }
-        ],
-        "race": [
-          {
-            "locator": 68,
-            "locator_type": "page",
-            "excerpt": "The social aspects of this\ncorporeal emergence appear in Miriam Posner’s example of a data model for race, which takes into\naccount how categories of race are experienced and therefore the need to “start understanding\nmarkers like gender and race not as givens but as constructions that are actively created from time\nto time and place to place."
-          },
-          {
-            "locator": 104,
-            "locator_type": "page",
-            "excerpt": "We also\nembrace the work of Wendy Hui Kyong Chun (“Race and/as Technology”), who asserts that\nthe question of race and technology is not just about what race is but what relations and\nquestions engender race."
-          }
-        ],
-        "identity": [
-          {
-            "locator": 155,
-            "locator_type": "page",
-            "excerpt": "As educators and community college professors,\nwe approach digital humanities from a framework that centers everyday ways of knowing and\nbegins with the understanding that categories of identity are always intersecting, in flux, and\ntransforming together across time and space."
-          }
-        ],
-        "algorithms": [
-          {
-            "locator": 77,
-            "locator_type": "page",
-            "excerpt": "Benjamin Schmidt has argued that digital humanists should\nlearn about the transformations that any algorithms they use can bring about, since many\nalgorithms are in and of themselves irrelevant."
-          },
-          {
-            "locator": 116,
-            "locator_type": "page",
-            "excerpt": "Pushing back against the use of existing facial recognition technologies, some digital humanities\nscholars, including Christop Musik and Matthias Zeppelzauer, recommend avoiding existing\ncomputer vision programs and techniques in DH, as the ground truths these algorithms are built on\nare often insufficient for higher-level DH research questions."
-          }
-        ],
-        "embodiment": [
-          {
-            "locator": 65,
-            "locator_type": "page",
-            "excerpt": "Because embodiment is intertwined with subjecthood, attention to positioned bodies provides a\nfoundation for cultural critique."
-          }
-        ],
-        "borders": [
-          {
-            "locator": 154,
-            "locator_type": "page",
-            "excerpt": "Especially in the era of Covid-19, where national borders are more\nvisible and restrictive than ever, nation-states should not be defining elements that shape the\nlegitimacy or resilience of transnational solidarity relationship building."
-          }
-        ],
-        "accountability": [
-          {
-            "locator": 250,
-            "locator_type": "page",
-            "excerpt": "Here, the\nmetaphor is the lifting of the veil, right? Of how we work and how we produce ideas and who our communities of accountability\nare—and who the communities that are concerned about us are also."
-          }
-        ],
-        "rights": [
-          {
-            "locator": 59,
-            "locator_type": "page",
-            "excerpt": "They decide when to\nprotect it and when to share it, where the cultural and intellectual property rights reside and to whom those rights adhere, and how\nthese rights are governed."
-          }
-        ],
-        "queer": [
-          {
-            "locator": 75,
-            "locator_type": "page",
-            "excerpt": "In this formulation, queer is neither a category nor an anti-identity construct; it instead signifies\nthe resonance of a shared culture and its history and memory."
-          },
-          {
-            "locator": 76,
-            "locator_type": "page",
-            "excerpt": "Since queer is by definition contingent and\ndiscursive, researchers would have to articulate the possibility for, say, queering the classification\nboundaries in machine learning, and queer theory is not necessarily amenable to such an\nundertaking."
-          }
-        ],
-        "disability": [
-          {
-            "locator": 198,
-            "locator_type": "page",
-            "excerpt": "What Are Disabilities?\nIn the United States, where the authors are based, disability is legally defined as a physical or\nmental impairment that substantially limits the ability of an individual to perform a “major life\nactivity” as compared to most people in the general population (Department of Justice, “Final\nRegulatory Assessment, Final Rule”)."
-          },
-          {
-            "locator": 206,
-            "locator_type": "page",
-            "excerpt": "Living with a disability is a complicated reality, one that should not be limited by\ndefinitions of legal disability or by expectations that a disability be permanent or visible."
-          }
-        ],
-        "labor": [
-          {
-            "locator": 19,
-            "locator_type": "page",
-            "excerpt": "This newly emerging subaltern\nclass, which Wark theorized as far back as 2004, is the hacker class, comprised of information\nworkers whose labor is unusual perhaps but still serves a ruling class:\nThe hacker class arises out of the transformation of information into property, in the\nform of intellectual property."
-          },
-          {
-            "locator": 19,
-            "locator_type": "page",
-            "excerpt": "Their critical work in identifying and analyzing labor\ninequalities in DH are central for understanding particular labor issues."
-          },
-          {
-            "locator": 26,
-            "locator_type": "page",
-            "excerpt": "Ultimately, we\nargue that digitizers’ invisible labor is the foundation on which DH has been built—and that a more\nrigorous, more just digital humanities should take seriously the labor, and laborers, on which DH\ndepends."
-          },
-          {
-            "locator": 33,
-            "locator_type": "page",
-            "excerpt": "Medieval colophons also give scribes space to comment on how they feel about their work\n—from offering thanks that their labor is done, to complaining about the quality of their tools, to\naddressing future users—telling us how we can repay their labors by remembering their names,\npains, and needs."
-          },
-          {
-            "locator": 164,
-            "locator_type": "page",
-            "excerpt": "Importantly, these kinds of hope labor are unevenly possible—\nthose with generational wealth and without student loans (disproportionately white) and those\nwithout caregiving responsibilities (disproportionately men) are much more able to take such risks,\nperpetuating such people’s overrepresentation in DH."
-          },
-          {
-            "locator": 164,
-            "locator_type": "page",
-            "excerpt": "Though games labor is particularly\nspectacular in its exploitation, the same broader issues of precarity and extreme work conditions\ncan be found in academia and across the platforms of our digital work."
-          },
-          {
-            "locator": 165,
-            "locator_type": "page",
-            "excerpt": "The digital economy’s\ninvisible labor is unevenly distributed, and, as anthropologist Mary L."
-          },
-          {
-            "locator": 188,
-            "locator_type": "page",
-            "excerpt": "This documentary practice can provide a model of self-advocacy for others in the DH\necosystem whose labor is similarly elided or assumed and can help make DH more sustainable,\nequitable, and just for all of its practitioners."
-          },
-          {
-            "locator": 190,
-            "locator_type": "page",
-            "excerpt": "Brian Greenspan argues that digital humanities makes “all too visible the dirty gears that drive\nthe scholarly machine, along with the mechanic’s maintenance bill” and recognizes that student\nlabor is an underfunded element in the DH machine."
-          },
-          {
-            "locator": 190,
-            "locator_type": "page",
-            "excerpt": "There have been a variety of efforts over the past decade to help provide language for, and to\nframe the debate around, the rights of those whose labor is necessary for digital projects."
-          },
-          {
-            "locator": 190,
-            "locator_type": "page",
-            "excerpt": "This continues to be\nimportant since much DH labor is additive and still not universally recognized for tenure and\npromotion."
-          },
-          {
-            "locator": 191,
-            "locator_type": "page",
-            "excerpt": "This labor is necessary for a successful DH project,\nand indeed for the perpetuation of the academy, but it is often illegible within academic\nhierarchies."
-          },
-          {
-            "locator": 191,
-            "locator_type": "page",
-            "excerpt": "The tension between requiring highly specific technical skills and broad domain knowledge\nof fields such as scholarly communication reflects uncertainty around what forms of labor\nconstitute DH labor as well as an acknowledgment that myriad forms of labor are necessary and\ncritical for sustainable DH projects."
-          },
-          {
-            "locator": 192,
-            "locator_type": "page",
-            "excerpt": "DH labor is susceptible to coordinator syndrome: Coordinators\nlack authority, resources, and infrastructure to actually implement a service but at the same time\nare responsible to multiple institutional stakeholders for the success or failure of that service\n(Library Loon; Douglas and Gadsby)."
-          },
-          {
-            "locator": 193,
-            "locator_type": "page",
-            "excerpt": "These forms of labor are often invisible to those with institutional power."
-          },
-          {
-            "locator": 193,
-            "locator_type": "page",
-            "excerpt": "Dominant understandings of DH library labor are very different\nfrom what we perceive as actual DH library labor."
-          },
-          {
-            "locator": 193,
-            "locator_type": "page",
-            "excerpt": "Within academic\nlibraries, these forms of labor are more likely to be performed by staff rather than librarians, and\nthose staff members are more likely to be people of color than librarians (Seale and Mirza, “Empty\nPresence”)."
-          },
-          {
-            "locator": 193,
-            "locator_type": "page",
-            "excerpt": "Regardless of institutional context, the library workers who support DH are thereby seen as\nvaluable within these hierarchies, but that labor is narrowly defined, as Morgan and Williams\nobserved in their analysis of DH librarian job postings."
-          },
-          {
-            "locator": 193,
-            "locator_type": "page",
-            "excerpt": "DH library labor is understood to be\nprimarily technological rather than interpersonal or maintenance work."
-          },
-          {
-            "locator": 194,
-            "locator_type": "page",
-            "excerpt": "However, the danger is that systemic labor issues\nbecome individualized and situated ahistorically in the questioner rather than in the sociotechnical\nsystem itself."
-          },
-          {
-            "locator": 245,
-            "locator_type": "page",
-            "excerpt": "MS: I think this labor is both burdensome and necessary."
-          },
-          {
-            "locator": 248,
-            "locator_type": "page",
-            "excerpt": "One of the things that came out of that was the realization that\nthe best parts of the academy, the best pieces that we wanted to take with us, the pieces that we actually wanted to reproduce,\nwere labor issues: space to write, space to think with archives or documents or texts, space to create, resources to create so that\npeople didn’t feel like they were starving, health care, summers “off”—off, quote unquote—because we’ve seen what this\nsummer has been."
-          }
-        ],
-        "design": [
-          {
-            "locator": 131,
-            "locator_type": "page",
-            "excerpt": "Text mining has also shown the effectiveness of clarity in the writing of\nenvironmental regulation; one text analysis study showed that more readable and precise directives\nabout landfill design were better predictors of efficient waste management than spending (Richter,\nNg, and Fallah)."
-          },
-          {
-            "locator": 219,
-            "locator_type": "page",
-            "excerpt": "Indeed, elements such as\ndata selection and preparation, computational modeling, and interface design are all part of\nresearch and analysis and as such should be valued (and evaluated) as scholarship."
-          }
-        ],
-        "visualization": [
-          {
-            "locator": 149,
-            "locator_type": "page",
-            "excerpt": "This work completed over one hundred years ago is not only foundational to current\npractices in Africana DH, where data visualization is critical in making research findings accessible\nto a broader audience, but to the field of Africana studies, whose development was also closely tied\nto the community."
-          }
-        ]
-      },
-      "toc": [
-        {
-          "title": "Cover",
-          "section": 2,
-          "level": 0
-        },
-        {
-          "title": "Title Page",
-          "section": 4,
-          "level": 0
-        },
-        {
-          "title": "Copyright Page",
-          "section": 5,
-          "level": 0
-        },
-        {
-          "title": "Contents",
-          "section": 6,
-          "level": 0
-        },
-        {
-          "title": "Introduction: The Digital Humanities, Moment to Moment",
-          "section": 8,
-          "level": 0
-        },
-        {
-          "title": "Part I:",
-          "section": 12,
-          "level": 0
-        },
-        {
-          "title": "1. Toward a Political Economy of Digital Humanities",
-          "section": 13,
-          "level": 1
-        },
-        {
-          "title": "2. All the Work You Do Not See: Labor, Digitizers, and the Foundations of Digital Humanities",
-          "section": 26,
-          "level": 1
-        },
-        {
-          "title": "3. Right-to-Left (RTL) Text: Digital Humanists Plus Half a Billion Users",
-          "section": 38,
-          "level": 1
-        },
-        {
-          "title": "4. Relation-Oriented AI: Why Indigenous Protocols Matter for the Digital Humanities",
-          "section": 56,
-          "level": 1
-        },
-        {
-          "title": "5. A U.S. Latinx Digital Humanities Manifesto",
-          "section": 61,
-          "level": 1
-        },
-        {
-          "title": "Part II",
-          "section": 64,
-          "level": 0
-        },
-        {
-          "title": "6. The Body Is Not (Only) a Metaphor: Rethinking Embodiment in DH",
-          "section": 65,
-          "level": 1
-        },
-        {
-          "title": "7. The Queer Gap in Cultural Analytics",
-          "section": 72,
-          "level": 1
-        },
-        {
-          "title": "8. The Feminist Data Manifest-NO: An Introduction and Four Reflections",
-          "section": 81,
-          "level": 1
-        },
-        {
-          "title": "9. Black Is Not the Absence of Light: Restoring Black Visibility and Liberation to Digital Humanities",
-          "section": 91,
-          "level": 1
-        },
-        {
-          "title": "10. Digital Humanities in the Deepfake Era",
-          "section": 108,
-          "level": 1
-        },
-        {
-          "title": "11. Operationalizing Surveillance Studies in the Digital Humanities",
-          "section": 113,
-          "level": 1
-        },
-        {
-          "title": "Part III",
-          "section": 121,
-          "level": 0
-        },
-        {
-          "title": "12. A Voice Interrupts: Digital Humanities as a Tool to Hear Black Life",
-          "section": 122,
-          "level": 1
-        },
-        {
-          "title": "13. Addressing an Emergency: The “Pragmatic Tilt” Required of Scholarship, Data, and Design by the Climate Crisis",
-          "section": 128,
-          "level": 1
-        },
-        {
-          "title": "14. Digital Art History as Disciplinary Practice",
-          "section": 136,
-          "level": 1
-        },
-        {
-          "title": "15. Building and Sustaining Africana Digital Humanities at HBCUs",
-          "section": 149,
-          "level": 1
-        },
-        {
-          "title": "16. A Call to Research Action: Transnational Solidarity for Digital Humanists",
-          "section": 154,
-          "level": 1
-        },
-        {
-          "title": "17. Game Studies, Endgame?",
-          "section": 162,
-          "level": 1
-        },
-        {
-          "title": "Part IV",
-          "section": 169,
-          "level": 0
-        },
-        {
-          "title": "18. The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities",
-          "section": 170,
-          "level": 1
-        },
-        {
-          "title": "19. Language Is Not a Default Setting: Countering DH’s English Problem",
-          "section": 182,
-          "level": 1
-        },
-        {
-          "title": "20. Librarians’ Illegible Labor: Toward a Documentary Practice of Digital Humanities",
-          "section": 188,
-          "level": 1
-        },
-        {
-          "title": "21. Reframing the Conversation: Digital Humanists, Disabilities, and Accessibility",
-          "section": 198,
-          "level": 1
-        },
-        {
-          "title": "22. From Precedents to Collective Action: Realities and Recommendations for Digital Dissertations in History",
-          "section": 210,
-          "level": 1
-        },
-        {
-          "title": "23. Critique Is the Steam: Reorienting Critical Digital Humanities across Disciplines",
-          "section": 224,
-          "level": 1
-        },
-        {
-          "title": "Part V",
-          "section": 232,
-          "level": 0
-        },
-        {
-          "title": "24. Being Undisciplined: Black Womanhood in Digital Spaces",
-          "section": 234,
-          "level": 1
-        },
-        {
-          "title": "25. How This Helps Us Get Free: Telling Black Stories through Technology",
-          "section": 239,
-          "level": 1
-        },
-        {
-          "title": "26. “Blackness” in France: Taking Up Mediatized Space",
-          "section": 243,
-          "level": 1
-        },
-        {
-          "title": "27. The Power to Create: Building Alternative (Digital) Worlds",
-          "section": 247,
-          "level": 1
-        },
-        {
-          "title": "Acknowledgments",
-          "section": 252,
-          "level": 0
-        },
-        {
-          "title": "Figure Descriptions",
-          "section": 253,
-          "level": 0
-        },
-        {
-          "title": "Contributors",
-          "section": 254,
-          "level": 0
-        }
-      ],
-      "word_count": 191935,
-      "page_count": 257
     },
     {
       "id": "manovich-cultural-analytics",
@@ -4869,8 +4300,8 @@
           "level": 0
         }
       ],
-      "word_count": 125975,
-      "page_count": 195
+      "word_count": 125974,
+      "page_count": 194
     },
     {
       "id": "nakamura-digitizing-race-visual-cultures-of-the-i",
@@ -5150,6 +4581,576 @@
       "toc": [],
       "word_count": 102984,
       "page_count": 259
+    },
+    {
+      "id": "gold-debates-in-the-digital-humanities-2023",
+      "filename": "gold-debates-in-the-digital-humanities-2023.pdf",
+      "title": "Debates in the Digital Humanities 2023",
+      "author": [
+        "Matthew K. Gold",
+        "Lauren F. Klein"
+      ],
+      "year": 2023,
+      "publisher": "University of Minnesota Press",
+      "isbn": "9781452969312",
+      "format": "pdf",
+      "source_format": "epub",
+      "frameworks": [],
+      "definitions": {
+        "text": [
+          {
+            "locator": 48,
+            "locator_type": "page",
+            "excerpt": "The text is produced by\nseaborn, a popular code library for data visualization, which relies on matplotlib, the RTL\ndeficiencies of which affect a multitude of tools."
+          },
+          {
+            "locator": 48,
+            "locator_type": "page",
+            "excerpt": "”41\nCompounding the problem of poor implementation of standards for RTL and multidirectional text\nis the fact that it is difficult for users to discover which applications support RTL/bidi and what\nworkarounds exist."
+          },
+          {
+            "locator": 54,
+            "locator_type": "page",
+            "excerpt": "If these are poorly implemented,\nthe text is nearly unreadable."
+          },
+          {
+            "locator": 145,
+            "locator_type": "page",
+            "excerpt": "Notes\nThe ideas in this text were shaped in direct and indirect ways through conversations and\ncollaborations with colleagues over the past several years at the Getty Research Institute and\nbeyond."
+          },
+          {
+            "locator": 205,
+            "locator_type": "page",
+            "excerpt": "Image descriptions and\nalt-text are essential for anyone with vision-related disabilities."
+          }
+        ],
+        "technology": [
+          {
+            "locator": 13,
+            "locator_type": "page",
+            "excerpt": "In 2014,\nAdam Kirsch, in The New Republic, paints a starker—even Manichean—picture: “Here is the\nfuture, we are made to understand: we can either get on board or stand athwart it and get run\nover” (“Technology Is Taking over English Departments”)."
+          },
+          {
+            "locator": 24,
+            "locator_type": "page",
+            "excerpt": "“Technology Is Taking over English Departments."
+          },
+          {
+            "locator": 59,
+            "locator_type": "page",
+            "excerpt": "Every piece of technology is an expression of cultural and social frameworks\nfor understanding and engaging with the world."
+          },
+          {
+            "locator": 104,
+            "locator_type": "page",
+            "excerpt": "We also\nembrace the work of Wendy Hui Kyong Chun (“Race and/as Technology”), who asserts that\nthe question of race and technology is not just about what race is but what relations and\nquestions engender race."
+          },
+          {
+            "locator": 110,
+            "locator_type": "page",
+            "excerpt": "Historians who study pre-twentieth-century history, when moving-image technology was largely\nnonexistent, might think that they will be spared the worst effects of deepfakes, but generative\nadversarial networks (GANs) leave all media vulnerable to digital manipulation."
+          },
+          {
+            "locator": 115,
+            "locator_type": "page",
+            "excerpt": "Although the\npunch card technology was used for processing and tabulating data in census-taking operations\nsince the 1890s, it was innovated on, instrumentalized, and weaponized to execute the race science\nand surveillance agenda of the Third Reich (Pugh)."
+          },
+          {
+            "locator": 137,
+            "locator_type": "page",
+            "excerpt": "Framed in this way, any use of technology is external to art history, brought into\nthe discipline only via digital art history."
+          },
+          {
+            "locator": 138,
+            "locator_type": "page",
+            "excerpt": "Porras,\nlike Reiner and Patkowski, asks not so much whether technology was used but explores how and"
+          },
+          {
+            "locator": 139,
+            "locator_type": "page",
+            "excerpt": "Furthermore, they create a scenario wherein the daily use of technology is invisible while other,\nmore specialized applications are defined only in terms of the presence of technology."
+          },
+          {
+            "locator": 141,
+            "locator_type": "page",
+            "excerpt": "Filtered through Drucker’s conception, rupture-talk around “the digital” and art history creates a\nframework in which technology is understood either to be wholly transformative or entirely\nincidental."
+          },
+          {
+            "locator": 141,
+            "locator_type": "page",
+            "excerpt": "As result, the continuum between these two poles and, moreover, the ways in which\ntechnology is already embedded in our art-historical practice are obscured."
+          },
+          {
+            "locator": 159,
+            "locator_type": "page",
+            "excerpt": "Again, this exemplifies one of our DH project’s purposes—bringing\nvisibility to open-access and technology issues, especially for those from marginalized communities."
+          },
+          {
+            "locator": 234,
+            "locator_type": "page",
+            "excerpt": "KLG: But technology is technology."
+          },
+          {
+            "locator": 234,
+            "locator_type": "page",
+            "excerpt": "AKJG: Technology is technology, right."
+          }
+        ],
+        "discourse": [
+          {
+            "locator": 16,
+            "locator_type": "page",
+            "excerpt": "While the humanities have always engaged in revolutionary discourse about new theories\nand methods—one thinks of the much-ballyhooed “Theory Wars”—DH’s revolutionary discourse\nwas unfortunately paired with economic constriction and often mirrored the rhetoric of Silicon\nValley."
+          },
+          {
+            "locator": 244,
+            "locator_type": "page",
+            "excerpt": "Academic discourse is activism."
+          }
+        ],
+        "categorization": [
+          {
+            "locator": 72,
+            "locator_type": "page",
+            "excerpt": "3 However, that should not be taken to mean that technology or categorization is inherently\nreductive."
+          }
+        ],
+        "infrastructure": [
+          {
+            "locator": 102,
+            "locator_type": "page",
+            "excerpt": "Existing tools, expertise, funding, and infrastructure are the current project’s limits."
+          },
+          {
+            "locator": 133,
+            "locator_type": "page",
+            "excerpt": "Drawing on decades of “participatory research” in the postcolonial world, citizen-science\ninfrastructure is sometimes interwoven with workshops (called “barn raisings” at Public Lab) that\nspecifically invite minoritized and other underprivileged populations to actively design research\nprograms around a community’s specific needs and to collect data according to that program\n(Guldi, “A History of the Participatory Map”)."
+          },
+          {
+            "locator": 143,
+            "locator_type": "page",
+            "excerpt": "The train and its\nrelated infrastructure were so physically imposing and so different from previous modes of\ntransportation that for some travelers in the nineteenth century, their presence threw into stark\nrelief what was being lost versus gained through technological innovation."
+          }
+        ],
+        "race": [
+          {
+            "locator": 68,
+            "locator_type": "page",
+            "excerpt": "The social aspects of this\ncorporeal emergence appear in Miriam Posner’s example of a data model for race, which takes into\naccount how categories of race are experienced and therefore the need to “start understanding\nmarkers like gender and race not as givens but as constructions that are actively created from time\nto time and place to place."
+          },
+          {
+            "locator": 104,
+            "locator_type": "page",
+            "excerpt": "We also\nembrace the work of Wendy Hui Kyong Chun (“Race and/as Technology”), who asserts that\nthe question of race and technology is not just about what race is but what relations and\nquestions engender race."
+          }
+        ],
+        "identity": [
+          {
+            "locator": 155,
+            "locator_type": "page",
+            "excerpt": "As educators and community college professors,\nwe approach digital humanities from a framework that centers everyday ways of knowing and\nbegins with the understanding that categories of identity are always intersecting, in flux, and\ntransforming together across time and space."
+          }
+        ],
+        "algorithms": [
+          {
+            "locator": 77,
+            "locator_type": "page",
+            "excerpt": "Benjamin Schmidt has argued that digital humanists should\nlearn about the transformations that any algorithms they use can bring about, since many\nalgorithms are in and of themselves irrelevant."
+          },
+          {
+            "locator": 116,
+            "locator_type": "page",
+            "excerpt": "Pushing back against the use of existing facial recognition technologies, some digital humanities\nscholars, including Christop Musik and Matthias Zeppelzauer, recommend avoiding existing\ncomputer vision programs and techniques in DH, as the ground truths these algorithms are built on\nare often insufficient for higher-level DH research questions."
+          }
+        ],
+        "embodiment": [
+          {
+            "locator": 65,
+            "locator_type": "page",
+            "excerpt": "Because embodiment is intertwined with subjecthood, attention to positioned bodies provides a\nfoundation for cultural critique."
+          }
+        ],
+        "borders": [
+          {
+            "locator": 154,
+            "locator_type": "page",
+            "excerpt": "Especially in the era of Covid-19, where national borders are more\nvisible and restrictive than ever, nation-states should not be defining elements that shape the\nlegitimacy or resilience of transnational solidarity relationship building."
+          }
+        ],
+        "accountability": [
+          {
+            "locator": 250,
+            "locator_type": "page",
+            "excerpt": "Here, the\nmetaphor is the lifting of the veil, right? Of how we work and how we produce ideas and who our communities of accountability\nare—and who the communities that are concerned about us are also."
+          }
+        ],
+        "rights": [
+          {
+            "locator": 59,
+            "locator_type": "page",
+            "excerpt": "They decide when to\nprotect it and when to share it, where the cultural and intellectual property rights reside and to whom those rights adhere, and how\nthese rights are governed."
+          }
+        ],
+        "queer": [
+          {
+            "locator": 75,
+            "locator_type": "page",
+            "excerpt": "In this formulation, queer is neither a category nor an anti-identity construct; it instead signifies\nthe resonance of a shared culture and its history and memory."
+          },
+          {
+            "locator": 76,
+            "locator_type": "page",
+            "excerpt": "Since queer is by definition contingent and\ndiscursive, researchers would have to articulate the possibility for, say, queering the classification\nboundaries in machine learning, and queer theory is not necessarily amenable to such an\nundertaking."
+          }
+        ],
+        "disability": [
+          {
+            "locator": 198,
+            "locator_type": "page",
+            "excerpt": "What Are Disabilities?\nIn the United States, where the authors are based, disability is legally defined as a physical or\nmental impairment that substantially limits the ability of an individual to perform a “major life\nactivity” as compared to most people in the general population (Department of Justice, “Final\nRegulatory Assessment, Final Rule”)."
+          },
+          {
+            "locator": 206,
+            "locator_type": "page",
+            "excerpt": "Living with a disability is a complicated reality, one that should not be limited by\ndefinitions of legal disability or by expectations that a disability be permanent or visible."
+          }
+        ],
+        "labor": [
+          {
+            "locator": 19,
+            "locator_type": "page",
+            "excerpt": "This newly emerging subaltern\nclass, which Wark theorized as far back as 2004, is the hacker class, comprised of information\nworkers whose labor is unusual perhaps but still serves a ruling class:\nThe hacker class arises out of the transformation of information into property, in the\nform of intellectual property."
+          },
+          {
+            "locator": 19,
+            "locator_type": "page",
+            "excerpt": "Their critical work in identifying and analyzing labor\ninequalities in DH are central for understanding particular labor issues."
+          },
+          {
+            "locator": 26,
+            "locator_type": "page",
+            "excerpt": "Ultimately, we\nargue that digitizers’ invisible labor is the foundation on which DH has been built—and that a more\nrigorous, more just digital humanities should take seriously the labor, and laborers, on which DH\ndepends."
+          },
+          {
+            "locator": 33,
+            "locator_type": "page",
+            "excerpt": "Medieval colophons also give scribes space to comment on how they feel about their work\n—from offering thanks that their labor is done, to complaining about the quality of their tools, to\naddressing future users—telling us how we can repay their labors by remembering their names,\npains, and needs."
+          },
+          {
+            "locator": 164,
+            "locator_type": "page",
+            "excerpt": "Importantly, these kinds of hope labor are unevenly possible—\nthose with generational wealth and without student loans (disproportionately white) and those\nwithout caregiving responsibilities (disproportionately men) are much more able to take such risks,\nperpetuating such people’s overrepresentation in DH."
+          },
+          {
+            "locator": 164,
+            "locator_type": "page",
+            "excerpt": "Though games labor is particularly\nspectacular in its exploitation, the same broader issues of precarity and extreme work conditions\ncan be found in academia and across the platforms of our digital work."
+          },
+          {
+            "locator": 165,
+            "locator_type": "page",
+            "excerpt": "The digital economy’s\ninvisible labor is unevenly distributed, and, as anthropologist Mary L."
+          },
+          {
+            "locator": 188,
+            "locator_type": "page",
+            "excerpt": "This documentary practice can provide a model of self-advocacy for others in the DH\necosystem whose labor is similarly elided or assumed and can help make DH more sustainable,\nequitable, and just for all of its practitioners."
+          },
+          {
+            "locator": 190,
+            "locator_type": "page",
+            "excerpt": "Brian Greenspan argues that digital humanities makes “all too visible the dirty gears that drive\nthe scholarly machine, along with the mechanic’s maintenance bill” and recognizes that student\nlabor is an underfunded element in the DH machine."
+          },
+          {
+            "locator": 190,
+            "locator_type": "page",
+            "excerpt": "There have been a variety of efforts over the past decade to help provide language for, and to\nframe the debate around, the rights of those whose labor is necessary for digital projects."
+          },
+          {
+            "locator": 190,
+            "locator_type": "page",
+            "excerpt": "This continues to be\nimportant since much DH labor is additive and still not universally recognized for tenure and\npromotion."
+          },
+          {
+            "locator": 191,
+            "locator_type": "page",
+            "excerpt": "This labor is necessary for a successful DH project,\nand indeed for the perpetuation of the academy, but it is often illegible within academic\nhierarchies."
+          },
+          {
+            "locator": 191,
+            "locator_type": "page",
+            "excerpt": "The tension between requiring highly specific technical skills and broad domain knowledge\nof fields such as scholarly communication reflects uncertainty around what forms of labor\nconstitute DH labor as well as an acknowledgment that myriad forms of labor are necessary and\ncritical for sustainable DH projects."
+          },
+          {
+            "locator": 192,
+            "locator_type": "page",
+            "excerpt": "DH labor is susceptible to coordinator syndrome: Coordinators\nlack authority, resources, and infrastructure to actually implement a service but at the same time\nare responsible to multiple institutional stakeholders for the success or failure of that service\n(Library Loon; Douglas and Gadsby)."
+          },
+          {
+            "locator": 193,
+            "locator_type": "page",
+            "excerpt": "These forms of labor are often invisible to those with institutional power."
+          },
+          {
+            "locator": 193,
+            "locator_type": "page",
+            "excerpt": "Dominant understandings of DH library labor are very different\nfrom what we perceive as actual DH library labor."
+          },
+          {
+            "locator": 193,
+            "locator_type": "page",
+            "excerpt": "Within academic\nlibraries, these forms of labor are more likely to be performed by staff rather than librarians, and\nthose staff members are more likely to be people of color than librarians (Seale and Mirza, “Empty\nPresence”)."
+          },
+          {
+            "locator": 193,
+            "locator_type": "page",
+            "excerpt": "Regardless of institutional context, the library workers who support DH are thereby seen as\nvaluable within these hierarchies, but that labor is narrowly defined, as Morgan and Williams\nobserved in their analysis of DH librarian job postings."
+          },
+          {
+            "locator": 193,
+            "locator_type": "page",
+            "excerpt": "DH library labor is understood to be\nprimarily technological rather than interpersonal or maintenance work."
+          },
+          {
+            "locator": 194,
+            "locator_type": "page",
+            "excerpt": "However, the danger is that systemic labor issues\nbecome individualized and situated ahistorically in the questioner rather than in the sociotechnical\nsystem itself."
+          },
+          {
+            "locator": 245,
+            "locator_type": "page",
+            "excerpt": "MS: I think this labor is both burdensome and necessary."
+          },
+          {
+            "locator": 248,
+            "locator_type": "page",
+            "excerpt": "One of the things that came out of that was the realization that\nthe best parts of the academy, the best pieces that we wanted to take with us, the pieces that we actually wanted to reproduce,\nwere labor issues: space to write, space to think with archives or documents or texts, space to create, resources to create so that\npeople didn’t feel like they were starving, health care, summers “off”—off, quote unquote—because we’ve seen what this\nsummer has been."
+          }
+        ],
+        "design": [
+          {
+            "locator": 131,
+            "locator_type": "page",
+            "excerpt": "Text mining has also shown the effectiveness of clarity in the writing of\nenvironmental regulation; one text analysis study showed that more readable and precise directives\nabout landfill design were better predictors of efficient waste management than spending (Richter,\nNg, and Fallah)."
+          },
+          {
+            "locator": 219,
+            "locator_type": "page",
+            "excerpt": "Indeed, elements such as\ndata selection and preparation, computational modeling, and interface design are all part of\nresearch and analysis and as such should be valued (and evaluated) as scholarship."
+          }
+        ],
+        "visualization": [
+          {
+            "locator": 149,
+            "locator_type": "page",
+            "excerpt": "This work completed over one hundred years ago is not only foundational to current\npractices in Africana DH, where data visualization is critical in making research findings accessible\nto a broader audience, but to the field of Africana studies, whose development was also closely tied\nto the community."
+          }
+        ]
+      },
+      "toc": [
+        {
+          "title": "Cover",
+          "section": 2,
+          "level": 0
+        },
+        {
+          "title": "Title Page",
+          "section": 4,
+          "level": 0
+        },
+        {
+          "title": "Copyright Page",
+          "section": 5,
+          "level": 0
+        },
+        {
+          "title": "Contents",
+          "section": 6,
+          "level": 0
+        },
+        {
+          "title": "Introduction: The Digital Humanities, Moment to Moment",
+          "section": 8,
+          "level": 0
+        },
+        {
+          "title": "Part I:",
+          "section": 12,
+          "level": 0
+        },
+        {
+          "title": "1. Toward a Political Economy of Digital Humanities",
+          "section": 13,
+          "level": 1
+        },
+        {
+          "title": "2. All the Work You Do Not See: Labor, Digitizers, and the Foundations of Digital Humanities",
+          "section": 26,
+          "level": 1
+        },
+        {
+          "title": "3. Right-to-Left (RTL) Text: Digital Humanists Plus Half a Billion Users",
+          "section": 38,
+          "level": 1
+        },
+        {
+          "title": "4. Relation-Oriented AI: Why Indigenous Protocols Matter for the Digital Humanities",
+          "section": 56,
+          "level": 1
+        },
+        {
+          "title": "5. A U.S. Latinx Digital Humanities Manifesto",
+          "section": 61,
+          "level": 1
+        },
+        {
+          "title": "Part II",
+          "section": 64,
+          "level": 0
+        },
+        {
+          "title": "6. The Body Is Not (Only) a Metaphor: Rethinking Embodiment in DH",
+          "section": 65,
+          "level": 1
+        },
+        {
+          "title": "7. The Queer Gap in Cultural Analytics",
+          "section": 72,
+          "level": 1
+        },
+        {
+          "title": "8. The Feminist Data Manifest-NO: An Introduction and Four Reflections",
+          "section": 81,
+          "level": 1
+        },
+        {
+          "title": "9. Black Is Not the Absence of Light: Restoring Black Visibility and Liberation to Digital Humanities",
+          "section": 91,
+          "level": 1
+        },
+        {
+          "title": "10. Digital Humanities in the Deepfake Era",
+          "section": 108,
+          "level": 1
+        },
+        {
+          "title": "11. Operationalizing Surveillance Studies in the Digital Humanities",
+          "section": 113,
+          "level": 1
+        },
+        {
+          "title": "Part III",
+          "section": 121,
+          "level": 0
+        },
+        {
+          "title": "12. A Voice Interrupts: Digital Humanities as a Tool to Hear Black Life",
+          "section": 122,
+          "level": 1
+        },
+        {
+          "title": "13. Addressing an Emergency: The “Pragmatic Tilt” Required of Scholarship, Data, and Design by the Climate Crisis",
+          "section": 128,
+          "level": 1
+        },
+        {
+          "title": "14. Digital Art History as Disciplinary Practice",
+          "section": 136,
+          "level": 1
+        },
+        {
+          "title": "15. Building and Sustaining Africana Digital Humanities at HBCUs",
+          "section": 149,
+          "level": 1
+        },
+        {
+          "title": "16. A Call to Research Action: Transnational Solidarity for Digital Humanists",
+          "section": 154,
+          "level": 1
+        },
+        {
+          "title": "17. Game Studies, Endgame?",
+          "section": 162,
+          "level": 1
+        },
+        {
+          "title": "Part IV",
+          "section": 169,
+          "level": 0
+        },
+        {
+          "title": "18. The Challenges and Possibilities of Social Media Data: New Directions in Literary Studies and the Digital Humanities",
+          "section": 170,
+          "level": 1
+        },
+        {
+          "title": "19. Language Is Not a Default Setting: Countering DH’s English Problem",
+          "section": 182,
+          "level": 1
+        },
+        {
+          "title": "20. Librarians’ Illegible Labor: Toward a Documentary Practice of Digital Humanities",
+          "section": 188,
+          "level": 1
+        },
+        {
+          "title": "21. Reframing the Conversation: Digital Humanists, Disabilities, and Accessibility",
+          "section": 198,
+          "level": 1
+        },
+        {
+          "title": "22. From Precedents to Collective Action: Realities and Recommendations for Digital Dissertations in History",
+          "section": 210,
+          "level": 1
+        },
+        {
+          "title": "23. Critique Is the Steam: Reorienting Critical Digital Humanities across Disciplines",
+          "section": 224,
+          "level": 1
+        },
+        {
+          "title": "Part V",
+          "section": 232,
+          "level": 0
+        },
+        {
+          "title": "24. Being Undisciplined: Black Womanhood in Digital Spaces",
+          "section": 234,
+          "level": 1
+        },
+        {
+          "title": "25. How This Helps Us Get Free: Telling Black Stories through Technology",
+          "section": 239,
+          "level": 1
+        },
+        {
+          "title": "26. “Blackness” in France: Taking Up Mediatized Space",
+          "section": 243,
+          "level": 1
+        },
+        {
+          "title": "27. The Power to Create: Building Alternative (Digital) Worlds",
+          "section": 247,
+          "level": 1
+        },
+        {
+          "title": "Acknowledgments",
+          "section": 252,
+          "level": 0
+        },
+        {
+          "title": "Figure Descriptions",
+          "section": 253,
+          "level": 0
+        },
+        {
+          "title": "Contributors",
+          "section": 254,
+          "level": 0
+        }
+      ],
+      "word_count": 191934,
+      "page_count": 256
     },
     {
       "id": "foucault-order-of-things-an-archaeology-of-human",
@@ -5750,8 +5751,8 @@
           "level": 2
         }
       ],
-      "word_count": 178615,
-      "page_count": 188
+      "word_count": 178613,
+      "page_count": 186
     },
     {
       "id": "bailey-misogynoir-transformed-black-womens-digi",
@@ -6148,8 +6149,8 @@
           "level": 0
         }
       ],
-      "word_count": 84807,
-      "page_count": 123
+      "word_count": 84805,
+      "page_count": 121
     },
     {
       "id": "hayles-how-we-became-posthuman-virtual-bodies-i",
@@ -6701,8 +6702,8 @@
           "level": 0
         }
       ],
-      "word_count": 148573,
-      "page_count": 271
+      "word_count": 148572,
+      "page_count": 270
     },
     {
       "id": "walton-technical-communication-after-the-social",
@@ -7735,8 +7736,8 @@
           "level": 0
         }
       ],
-      "word_count": 71577,
-      "page_count": 139
+      "word_count": 71576,
+      "page_count": 138
     },
     {
       "id": "ahmed-whats-the-use-on-the-uses-of-use",
@@ -8079,15 +8080,15 @@
           "level": 0
         }
       ],
-      "word_count": 66813,
-      "page_count": 131
+      "word_count": 66811,
+      "page_count": 129
     },
     {
       "id": "costanzachock-design-justice-community-led-practices-t",
       "filename": "costanzachock-design-justice-community-led-practices-t.pdf",
       "title": "Design Justice: Community-Led Practices to Build the Worlds",
       "author": [
-        "Sasha Costanza–chock"
+        "Sasha Costanza-Chock"
       ],
       "year": 2020,
       "publisher": "MIT Press",
@@ -8742,18 +8743,18 @@
           "level": 0
         }
       ],
-      "word_count": 110322,
-      "page_count": 186
+      "word_count": 110320,
+      "page_count": 184
     },
     {
       "id": "mullaney-your-computer-is-on-fire",
       "filename": "mullaney-your-computer-is-on-fire.pdf",
       "title": "Your Computer Is on Fire",
       "author": [
-        "Thomas S_ Mullaney",
+        "Thomas S. Mullaney",
         "Benjamin Peters",
         "Mar Hicks",
-        "Kavita"
+        "Kavita Philip"
       ],
       "year": 2021,
       "publisher": "The MIT Press",

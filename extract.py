@@ -366,6 +366,8 @@ def extract_pdf(filepath, converted=False):
                 if m and abs(int(m.group(1)) - p["locator"]) <= 2:
                     p["text"] = p["text"][:m.start()] + "\n" + p["text"][m.end():]
             p["text"] = p["text"].strip()
+            if re.fullmatch(r"\d{1,4}", p["text"]):
+                p["text"] = ""  # a blank page carrying only its number
             marks = PRINT_MARK.findall(p["text"])
             # A marker in the page's first line means the print page turns right there.
             first_line = p["text"].split("\n", 1)[0]
@@ -376,6 +378,7 @@ def extract_pdf(filepath, converted=False):
                 p["print_pages"] = [start, current or start]
             p["text"] = re.sub(r"[ \t]*\n?[ \t]*" + PRINT_MARK.pattern + r"[ \t]*", " ", p["text"],
                                flags=re.IGNORECASE).strip()
+        pages = [p for p in pages if p["text"]]
     else:
         for loc, printed in printed_pages(pages).items():
             pages[[p["locator"] for p in pages].index(loc)]["print_pages"] = [str(printed), str(printed)]
