@@ -74,3 +74,11 @@ export function setNotes(bookId, text) {
 export async function loadTalking() {
   return fetchJSON('talking.json');
 }
+
+export async function loadTermIndex() {
+  return fetchJSON('terms/index.json');
+}
+
+export async function loadTerm(id) {
+  return fetchJSON(`terms/${id}.json`);
+}

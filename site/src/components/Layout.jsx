@@ -11,6 +11,7 @@ const NAV_ITEMS = [
   { path: '/frameworks', label: 'Framework Tracker', icon: '\u{1F9E9}' },
   { path: '/definitions', label: 'Texts & Technology', icon: '\u{2696}' },
   { path: '/talking', label: 'Talking to Each Other', icon: '\u{1F4AC}' },
+  { path: '/terms', label: 'How Terms Evolved', icon: '\u{23F3}' },
 ];
 
 export default function Layout({ onSettingsOpen }) {

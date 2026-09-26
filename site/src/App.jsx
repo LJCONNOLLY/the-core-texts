@@ -12,6 +12,7 @@ import ThematicThreads from './components/ThematicThreads';
 import FrameworkTracker from './components/FrameworkTracker';
 import TextsTechnology from './components/TextsTechnology';
 import TalkingToEachOther from './components/TalkingToEachOther';
+import TermEvolution from './components/TermEvolution';
 
 export default function App() {
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -31,6 +32,8 @@ export default function App() {
           <Route path="frameworks" element={<FrameworkTracker />} />
           <Route path="definitions" element={<TextsTechnology />} />
           <Route path="talking" element={<TalkingToEachOther />} />
+          <Route path="terms" element={<TermEvolution />} />
+          <Route path="terms/:termId" element={<TermEvolution />} />
         </Route>
       </Routes>
     </HashRouter>

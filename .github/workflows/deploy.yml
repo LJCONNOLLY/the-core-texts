@@ -37,6 +37,8 @@ jobs:
           cp data/talking.json site/public/data/
           cp -r data/books site/public/data/
           cp -r data/search site/public/data/
+          cp -r data/terms site/public/data/
+          cp -r data/reviews site/public/data/
           cp glossary.json site/public/glossary.json
 
       - name: Build site
