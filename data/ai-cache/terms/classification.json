@@ -1,0 +1,272 @@
+{
+ "foucault-order-of-things-an-archaeology-of-human": {
+  "input": "6ab9d443fae2",
+  "locator": 81,
+  "quote": "Classification, as a fundamental and constituent problem of natural history, took up its position historically, and in a necessary fashion, between a theory of the mark and a theory of the organism.",
+  "definition": "Classification is how 17th- and 18th-century natural history ordered living things: sorting them into a table by visible features. Foucault shows this way of knowing gave way when \"life\" itself became the basis of order.",
+  "stance": "defines",
+  "changed": "First on the timeline: classification is a historical way of ordering knowledge, not a timeless method.",
+  "judge": "claude",
+  "year": 1966
+ },
+ "ong-orality-and-literacy-the-technologizing": {
+  "input": "00c438f16044",
+  "locator": 13,
+  "quote": "But abstractly sequential, classificatory, explanatory examination of phenomena or of stated truths is impossible without writing and reading.",
+  "definition": "Abstract classification, sorting things into general categories, is a habit of mind that writing makes possible; oral cultures think in practical situations instead.",
+  "stance": "in passing",
+  "changed": "Ties classification to literacy: sorting by abstract categories is a product of writing.",
+  "judge": "claude",
+  "year": 1982
+ },
+ "haraway-simians-cyborgs-and-women-the-reinventio": {
+  "input": "cb5badc90d98",
+  "locator": 156,
+  "quote": "‘Gender’ is at the heart of constructions and classifications of systems of difference.",
+  "definition": "Classification means building systems of difference, and gender sits at the center of how those systems are built.",
+  "stance": "in passing",
+  "changed": "Links classification to power: systems of difference, like gender, are classifications.",
+  "judge": "claude",
+  "year": 1991
+ },
+ "hayles-how-we-became-posthuman-virtual-bodies-i": {
+  "input": "5ab0efcf305a",
+  "locator": 102,
+  "quote": "Whether such creatures deserve to be called human or are “things” most appropriately classified as androids is a question that resonates throughout Dick’s fictions and essays.",
+  "definition": "Hayles uses \"classified\" in passing, for the question of whether Philip K. Dick's creatures count as human or get sorted as androids.",
+  "stance": "in passing",
+  "changed": "Uses classification to pose the question of who counts as human.",
+  "judge": "claude",
+  "year": 1999
+ },
+ "rose-visual-methodologies-an-introduction-to": {
+  "input": "2bcfa5a543f1",
+  "locator": 197,
+  "quote": "In museums, he notes, objects are always classified according to what are claimed to be ‘scientific’ or ‘objective’ principles, whether they be drawn from notions of historical progress, scientific rationality or anthropological analysis.",
+  "definition": "Classification is a practice institutions like museums use to sort objects. It claims to be scientific or objective, but it shapes what objects mean.",
+  "stance": "critiques",
+  "changed": "Moves classification into institutions (museums, archives, police files), where sorting shapes meaning.",
+  "judge": "claude",
+  "year": 2001
+ },
+ "latour-reassembling-the-social-an-introduction": {
+  "input": "f5100d093b74",
+  "locator": 109,
+  "quote": "For example, the millions of speech acts that make up a dictionary, a grammar, or a language structure in a linguistics department have been extracted from local speech acts, which have been recorded, transcribed, collated, and classified in various ways using many different mediums.",
+  "definition": "Classifying is one practical step, with recording and transcribing, that turns many local events into general knowledge like a dictionary.",
+  "stance": "in passing",
+  "changed": "Treats classification as hands-on work that produces general knowledge, not a habit of mind.",
+  "judge": "claude",
+  "year": 2005
+ },
+ "nakamura-digitizing-race-visual-cultures-of-the-i": {
+  "input": "a4a9ca8e908a",
+  "locator": 38,
+  "quote": "In this book, I trace how the mediation of digital user and object identity as citizens, women, and commodities on the Internet is regulated and conditioned by the types of interfaces used to classify, frame, and link them.",
+  "definition": "Interfaces classify users as citizens, women, or commodities, and this sorting shapes identity online.",
+  "stance": "in passing",
+  "changed": "Finds classification inside interfaces that sort online users' identities.",
+  "judge": "claude",
+  "year": 2008
+ },
+ "chun-updating-to-remain-the-same-habitual-new": {
+  "input": "95715ea1d335",
+  "locator": 134,
+  "quote": "Collaborative filtering algorithms developed by Netflix.com and Amazon.com to recommend purchases and classify users exemplify this, for they analyze and collect data in ways that suspend the difference between the individual and collective statistical body, even as they respect and insist on this difference by providing users with individual logins and pages optimized for them.",
+  "definition": "To classify is what algorithms do to users: recommendation systems sort people into groups while treating them as individuals.",
+  "stance": "in passing",
+  "changed": "Shows algorithms classifying users by blurring the line between individual and group.",
+  "judge": "claude",
+  "year": 2016
+ },
+ "vee-coding-literacy-how-computer-programming": {
+  "input": "9708c075025f",
+  "locator": 128,
+  "quote": "The organizing structures that arose around texts in the medieval era made possible the “classifying, sifting, and encoding” of reality.",
+  "definition": "Classifying is one way written texts organize the world; Vee places it in the long history of writing that leads to code.",
+  "stance": "in passing",
+  "changed": "Places classification in the history of writing technologies that leads to programming.",
+  "judge": "claude",
+  "year": 2017
+ },
+ "noble-algorithms-of-oppression": {
+  "input": "7b8b8551811d",
+  "locator": 90,
+  "quote": "The idea of classification as a social construct is not new.",
+  "definition": "Classification is a social construct: library catalogs and search engines sort information in ways that favor some groups and push others down.",
+  "stance": "critiques",
+  "changed": "Shows search engines inheriting the biases of library classification.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "eubanks-automating-inequality-how-high-tech-tool": {
+  "input": "f4ba498b4d89",
+  "locator": 13,
+  "quote": "In-depth investigation was a mechanism of moral classification and social control.",
+  "definition": "Classification is how welfare systems sort poor people into deserving and undeserving. Eubanks traces this \"moral classification\" from poorhouse investigations to algorithms.",
+  "stance": "critiques",
+  "changed": "Follows the moral classification of the poor from 19th-century charity into automated systems.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "risam-new-digital-worlds-postcolonial-digital": {
+  "input": "3569b9d4abcd",
+  "locator": 68,
+  "quote": "Makers and users of postcolonial digital archives should take care to recognize that there tends to be an amnesia or blindness to the fact . . . that “Systems of classifications (and of standardization) form a juncture of social organization, moral order, and layers of technical integration.",
+  "definition": "Classification systems are part of social order and technical systems at once. Risam, quoting Bowker and Star, warns archive makers not to forget it.",
+  "stance": "in passing",
+  "changed": "Asks postcolonial archive makers to see classification as part of social and moral order.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "losh-bodies-of-information": {
+  "input": "9f251776e9cf",
+  "locator": 186,
+  "quote": "Along with our recovery of individual persons, we want to challenge the standard classification practices in prosopography, as well as those in computational markup language, that work to make certain persons historical nonentities.",
+  "definition": "Standard classification practices in historical data and markup can erase some people, making them \"historical nonentities.\" The book challenges those practices.",
+  "stance": "critiques",
+  "changed": "Shows classification making people disappear from historical data.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "benjamin-race-after-technology": {
+  "input": "b3e4d8982c59",
+  "locator": 163,
+  "quote": "The scene plays with the connection between buzzwords and benevolence, making fun of the do-good sound bites that characterize the revolutionary culture of innovation: “health,” “safety,” “efficiency,” and even “diversity” mask newfangled forms of classification and control, which often take shape under the rubric of customization and individualization.",
+  "definition": "Classification is a tool of control, and tech hides new ways of sorting people behind feel-good words like \"health\" and \"diversity.\"",
+  "stance": "critiques",
+  "changed": "Shows classification hidden behind the friendly language of customization.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "manovich-cultural-analytics": {
+  "input": "4ff20f771e6d",
+  "locator": 99,
+  "quote": "A classification system is a set of boxes (metaphorical or literal) into which things can be put in order to then do some kind of work—bureaucratic or knowledge production.”",
+  "definition": "A classification system is a set of boxes for sorting things so work can be done (quoting Bowker and Star). Manovich argues fixed categories hide the continuous variety computers can reveal.",
+  "stance": "critiques",
+  "changed": "Uses computation to argue for looking past fixed categories to continuous variation.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "dignazio-data-feminism-strong-ideas": {
+  "input": "6f9b1e219a7d",
+  "locator": 96,
+  "quote": "In fact, by the time that information becomes data, it’s already been classified in some way.",
+  "definition": "Classification is sorting information into categories, and it happens before data even exists. These systems, like the gender binary, are human-made and can be questioned.",
+  "stance": "defines",
+  "changed": "Shows every dataset is already classified, and that the categories can be challenged.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "costanzachock-design-justice-community-led-practices-t": {
+  "input": "bb1d6ad358a8",
+  "locator": 126,
+  "quote": "Intersex individuals are persons who, at birth, cannot be classified according to the medical norms of male and female bodies with regard to their chromosomal, gonadal, and/or anatomical sex.",
+  "definition": "Classification sorts bodies by norms, such as male and female; people who do not fit, like intersex people, are left out.",
+  "stance": "in passing",
+  "changed": "Shows classification failing bodies that do not fit medical and machine norms.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "jr-distributed-blackness-african-american-c": {
+  "input": "6e2d6a11388d",
+  "locator": 58,
+  "quote": "Robert Gooding-Williams (1998) offers an alternative take on Black racial identity as a consequence of white American racial classification schema rather than solely “the beliefs and practices which are shared by or distinctive to the people whom that practice designates as black” (p. 21).",
+  "definition": "Brock mentions white America's racial classification as one account of how Black identity is formed.",
+  "stance": "in passing",
+  "changed": "Mentions classification only as racial sorting, one account of Black identity.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "mckinney-information-activism-a-queer-history-of": {
+  "input": "41508743ee19",
+  "locator": 11,
+  "quote": "For example, indexers created their own sets of terms to classify information because existing schema, such as the Library of Congress’s standard subject headings, failed to describe lesbian materials in suffici t detail or in affirmative, subculturally meaningful terms.",
+  "definition": "Classification is how information is sorted with subject terms; lesbian indexers made their own terms because standard library headings failed to describe their materials.",
+  "stance": "critiques",
+  "changed": "Shows a community building its own classification when official systems ignored it.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "gray-intersectional-tech-black-users-in-digit": {
+  "input": "6ab56f05f4a0",
+  "locator": 79,
+  "quote": "As Joy Buolamwini and Timnit Gebru report, facial recognition artificial intelligence was less accurate when classifying the faces of people with darker skin.",
+  "definition": "Gray mentions classification as the sorting of people, both historically and by facial recognition AI that misclassifies darker-skinned faces.",
+  "stance": "in passing",
+  "changed": "Points to AI classification failing darker-skinned faces, in gaming's wider tech context.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "tham-design-thinking-in-technical-communicati": {
+  "input": "73c555cda523",
+  "locator": 52,
+  "quote": "Each of these space classifications has their own unique emphasis.",
+  "definition": "Tham uses \"classifications\" only to sort types of maker spaces.",
+  "stance": "in passing",
+  "changed": "Uses the word only descriptively, with no critical sense.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "steele-digital-black-feminism-critical-cultural": {
+  "input": "0cb3376df5e8",
+  "locator": 97,
+  "quote": "Black feminists use signifyin’ online to resist external classification, produce culturally specific dialogue and discourse, inscribe new modes of categorization and organization, and ultimately create and forge their own identities.",
+  "definition": "Classification is labeling imposed from outside. Digital Black feminists resist it by naming and organizing themselves online.",
+  "stance": "critiques",
+  "changed": "Shows people resisting classification by making their own categories online.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "bailey-misogynoir-transformed-black-womens-digi": {
+  "input": "ab8c001c2b75",
+  "locator": 46,
+  "quote": "It is not easy to classify all the digital alchemy that Black women creators are working to achieve as feminist, but that does not mean that it is not still transformative.",
+  "definition": "Bailey uses \"classify\" in the everyday sense of labeling: whether Black women creators' work counts as feminist.",
+  "stance": "in passing",
+  "changed": "Uses the word only for labeling, questioning whether the \"feminist\" label fits.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "drucker-the-digital-humanities-coursebook-an-int": {
+  "input": "934d719a00d7",
+  "locator": 72,
+  "quote": "Classification systems impose a secondary order of organization into any field of objects such as texts, physical objects, files, images, recordings, etc. We use classification systems to identify and sort, but also to create models of knowledge.",
+  "definition": "Classification systems sort objects and documents into an order, and in doing so they build models of knowledge; where something is placed shapes how it is understood.",
+  "stance": "defines",
+  "changed": "Teaches classification as a basic tool of humanities data work that also builds models of knowledge.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "mullaney-your-computer-is-on-fire": {
+  "input": "7d02c8ac6c0d",
+  "locator": 71,
+  "quote": "Many scholars have begun critiquing big data collection by corporations and governments, as well as exposed issues of racial and gendered bias in how machine-learning algorithms view and classify people of color and others considered nonnormative.",
+  "definition": "Classification is how algorithms sort people and images, and it carries racial and gender bias against people considered nonnormative.",
+  "stance": "critiques",
+  "changed": "Shows human workers and algorithms classifying images together, with bias built in.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "gonzales-designing-multilingual-experiences-in-te": {
+  "input": "576539d7ce4c",
+  "locator": 163,
+  "quote": "While these moments may be classified as “translation moments” (Gonzales 2018) or translation events during the discussion because they required the negotiation of meaning across languages, this negotiation of meaning did not take place through typical interpretation or translation protocols.",
+  "definition": "Gonzales uses \"classified\" only as a research label for moments of translation.",
+  "stance": "in passing",
+  "changed": "Uses the word only as a research label.",
+  "judge": "claude",
+  "year": 2022
+ },
+ "gold-debates-in-the-digital-humanities-2023": {
+  "input": "3eb14555aa35",
+  "locator": 76,
+  "quote": "Since queer is by definition contingent and discursive, researchers would have to articulate the possibility for, say, queering the classification boundaries in machine learning, and queer theory is not necessarily amenable to such an undertaking.",
+  "definition": "Classification is how machine learning sorts data into categories. Chapters debate whether its fixed boundaries can fit with queer theory.",
+  "stance": "critiques",
+  "changed": "Asks whether machine-learning classification can be \"queered\" or is at odds with queer theory.",
+  "judge": "claude",
+  "year": 2023
+ }
+}

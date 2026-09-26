@@ -489,7 +489,7 @@ def join_lines(texts, vocab):
         n = re.match(r"([a-z]\w*)", t)
         if m and n:
             whole = (m.group(1) + n.group(1)).lower()
-            if whole in vocab and f"{m.group(1)}-{n.group(1)}".lower() not in vocab:
+            if (whole in vocab or known_word(whole)) and f"{m.group(1)}-{n.group(1)}".lower() not in vocab:
                 out = out[:-1] + t
                 continue
             out = out + t  # a real hyphen ("ethnicity-based")
@@ -497,6 +497,22 @@ def join_lines(texts, vocab):
         out = out + " " + t
     out = out.replace("\xad", "")
     return PRINT_MARK.sub(lambda m: "{{p. " + m.group(1) + "}}", out)
+
+
+_speller = None
+
+
+def known_word(word):
+    """A dictionary word, for line-break hyphens in words the book never
+    prints whole ("func-tioning")."""
+    global _speller
+    if _speller is None:
+        try:
+            from spellchecker import SpellChecker
+            _speller = SpellChecker()
+        except ImportError:
+            return False
+    return word in _speller
 
 
 def book_vocab(all_lines):

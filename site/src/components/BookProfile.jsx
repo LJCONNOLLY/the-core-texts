@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { useParams, useSearchParams, Link } from 'react-router-dom';
 import { loadIndex, loadBook, getNotes, setNotes } from '../utils/data';
 import { highlightText } from '../utils/text';
@@ -7,6 +7,8 @@ export default function BookProfile() {
   const { id } = useParams();
   const [searchParams] = useSearchParams();
   const locatorParam = searchParams.get('locator');
+  // A quote to highlight on that page (links from the study tabs)
+  const hlParam = searchParams.get('hl');
   const [meta, setMeta] = useState(null);
   const [book, setBook] = useState(null);
   const [page, setPage] = useState(0);
@@ -212,7 +214,10 @@ export default function BookProfile() {
                 WebkitHyphens: 'auto',
               }}>
                 {currentPage.blocks?.length
-                  ? <PageBlocks blocks={currentPage.blocks} />
+                  ? <PageBlocks
+                      blocks={currentPage.blocks}
+                      highlight={hlParam && String(currentPage.locator) === locatorParam ? hlParam : null}
+                    />
                   : <FormattedText text={currentPage.text} pages={pages} onNavigate={setPage} />}
               </div>
             </div>
@@ -485,13 +490,30 @@ function FormattedText({ text, pages, onNavigate }) {
 
 // A page as the layout pass read it: headings, paragraphs, block quotes,
 // small type (notes), centered lines and tables.
-function PageBlocks({ blocks }) {
+function PageBlocks({ blocks, highlight }) {
+  const marked = useRef(null);
+  const spans = highlight ? findQuote(blocks, highlight) : {};
+  useEffect(() => {
+    marked.current?.scrollIntoView({ block: 'center' });
+  }, [highlight, blocks]);
+  const firstMarked = Math.min(...Object.keys(spans).map(Number));
   return (
     <>
       {blocks.map((b, i) => {
         const prev = blocks[i - 1];
         const first = i === 0;
-        const text = <InlineMarks text={b.x} />;
+        let text = <InlineMarks text={b.x} />;
+        if (spans[i]) {
+          const [a, z] = spans[i];
+          const ref = i === firstMarked ? marked : undefined;
+          text = (
+            <>
+              <InlineMarks text={b.x.slice(0, a)} />
+              <mark ref={ref} className="quote-mark"><InlineMarks text={b.x.slice(a, z)} /></mark>
+              <InlineMarks text={b.x.slice(z)} />
+            </>
+          );
+        }
         switch (b.t) {
           case 'h2':
             return (
@@ -556,6 +578,28 @@ function PageBlocks({ blocks }) {
       })}
     </>
   );
+}
+
+// Where a quote sits in a page's blocks: block index -> [start, end]. The
+// quote was saved without print-page tokens or note numbers, so words may
+// have those between them in the block; the match runs from the quote's
+// first words to its last words, or to the end of the block when the
+// sentence carries on to the next page.
+function findQuote(blocks, quote) {
+  const words = quote.replace(/[“”"]/g, ' ').split(/\s+/).filter(Boolean);
+  if (words.length < 3) return {};
+  const gap = '(?:[\\s\\u00ad\\u00b9\\u00b2\\u00b3\\u2070-\\u2079]|\\{\\{p\\. [^}]+\\}\\})+';
+  const pattern = ws => new RegExp(ws.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join(gap));
+  const head = pattern(words.slice(0, Math.min(6, words.length)));
+  const tail = pattern(words.slice(-Math.min(6, words.length)));
+  for (let i = 0; i < blocks.length; i++) {
+    const m = head.exec(blocks[i].x);
+    if (!m) continue;
+    const rest = blocks[i].x.slice(m.index);
+    const t = tail.exec(rest);
+    return { [i]: [m.index, t ? m.index + t.index + t[0].length : blocks[i].x.length] };
+  }
+  return {};
 }
 
 // "{{p. 47}}": where the print edition turns a page, as a small grey marker

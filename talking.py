@@ -643,13 +643,15 @@ def build_source(meta):
 def main():
     index = json.loads((DATA_DIR / "index.json").read_text())
     # Oldest first, so the list reads as the conversation unfolding
-    books = sorted(index["books"], key=lambda b: (b.get("year") or 9999, b["title"].lstrip("#").lower()))
+    books = sorted(index["books"], key=lambda b: (b.get("original_year") or b.get("year") or 9999,
+                                                  b["title"].lstrip("#").lower()))
     out = {"sources": {}}
     for meta in books:
         src = build_source(meta)
-        src["year"] = meta.get("year")
+        # When the work first came out, which orders the timeline
+        src["year"] = meta.get("original_year") or meta.get("year")
         out["sources"][meta["id"]] = src
-        print(f"{meta.get('year')} {meta['id']}: {len(src['mentions'])} mentions")
+        print(f"{src['year']} {meta['id']}: {len(src['mentions'])} mentions")
     OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=1))
 
 

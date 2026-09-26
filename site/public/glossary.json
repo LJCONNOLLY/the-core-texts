@@ -71,6 +71,11 @@
       "definition": "The underlying systems, standards, and protocols that make other things work — roads, databases, classification schemes, legal frameworks. Infrastructure becomes political when we ask who it was built for and who it excludes."
     },
     {
+      "id": "gender",
+      "term": "Gender",
+      "definition": "The social roles, identities, and expectations attached to being a woman, man, or neither. Scholars in this field ask how technologies, data systems, and institutions sort people by gender, and whose genders they leave out."
+    },
+    {
       "id": "race",
       "term": "Race",
       "definition": "A socially constructed system of categorization that assigns meaning and hierarchy to physical and cultural differences. In this field, race is understood as produced and reproduced by data systems, algorithms, and design — not just social attitudes."
