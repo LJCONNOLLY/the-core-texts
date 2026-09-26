@@ -1,0 +1,292 @@
+{
+ "foucault-order-of-things-an-archaeology-of-human": {
+  "input": "f788ae901f6f",
+  "locator": 57,
+  "quote": "If, on the other hand, they follow the uniform order of reflection, they need only indicate the number and gender of substantives by means of an article; position in the analytic ordering of the sentence has a functional value in itself: these are the ‘analogical’ languages[23].",
+  "definition": "Foucault uses \"gender\" only in its grammar sense: whether a noun is masculine or feminine, which some languages mark with an article.",
+  "stance": "in passing",
+  "changed": "The earliest book here, and gender is still just a grammar term, not yet a social identity.",
+  "judge": "claude",
+  "year": 1966
+ },
+ "haraway-simians-cyborgs-and-women-the-reinventio": {
+  "input": "14a539e9a68a",
+  "locator": 157,
+  "quote": "Gender is a concept developed to contest the naturalization of sexual difference in multiple arenas of struggle.",
+  "definition": "Gender is an idea feminists built to challenge the claim that differences between the sexes are simply natural. Haraway traces its history and questions the sex/gender split it relies on.",
+  "stance": "defines",
+  "changed": "First book on the timeline to treat gender as a political concept with its own history.",
+  "judge": "claude",
+  "year": 1991
+ },
+ "hayles-how-we-became-posthuman-virtual-bodies-i": {
+  "input": "ec985efc99ad",
+  "locator": 9,
+  "quote": "By including gender, Turing implied that renegotiating the boundary between human and machine would involve more than transforming the question of “who can think” into “what can think.”",
+  "definition": "Gender is part of embodied identity. Hayles rejects the reading of gender in Turing's imitation game as a \"red herring\": asking what can think also means asking about bodies.",
+  "stance": "critiques",
+  "changed": "Carries gender into computing: debates about thinking machines turn out to be debates about bodies and gender.",
+  "judge": "claude",
+  "year": 1999
+ },
+ "rose-visual-methodologies-an-introduction-to": {
+  "input": "9ae81479ca1e",
+  "locator": 24,
+  "quote": "Looking carefully at images, then, entails, among other things, thinking about how they offer very particular visions of social categories such as class, gender, race, sexuality, able-bodiedness and so on.",
+  "definition": "Gender is a social category, like class or race, that images help construct. Reading an image critically means asking how it pictures gendered difference.",
+  "stance": "in passing",
+  "changed": "Adds images: gender becomes something visual culture constructs and different viewers read differently.",
+  "judge": "claude",
+  "year": 2001
+ },
+ "latour-reassembling-the-social-an-introduction": {
+  "input": "01de6d7bb5ed",
+  "locator": 84,
+  "quote": "Can we overestimate the changes achieved in the way every one of us is now ‘having a gender’ that has been brought about by the tiny texts of feminist scholars?",
+  "definition": "Latour uses gender as an example of how social facts spread: feminist writing changed the way people \"have a gender.\"",
+  "stance": "in passing",
+  "changed": "Treats gender as evidence that texts can reshape social life, rather than as a topic of its own.",
+  "judge": "claude",
+  "year": 2005
+ },
+ "nakamura-digitizing-race-visual-cultures-of-the-i": {
+  "input": "52c06ec7835b",
+  "locator": 16,
+  "quote": "My mode of critique in this book is to employ the paradigm of visual culture studies to focus on the ways that users of the Internet collaboratively produce digital images of the body—very particular things for very particular uses—in the context of racial and gender identity formation.",
+  "definition": "Gender is one of the identities people build and display online through images of the body, alongside race.",
+  "stance": "in passing",
+  "changed": "Takes gender online: users form racial and gender identities with digital images of bodies.",
+  "judge": "claude",
+  "year": 2008
+ },
+ "chun-updating-to-remain-the-same-habitual-new": {
+  "input": "f92213c92ad0",
+  "locator": 73,
+  "quote": "Through these proxies, the allegedly “coarse” and “outdated” categories of race, class, sexuality, and gender are accounted for in unaccounted ways.",
+  "definition": "Gender is a category that data analytics claims to have left behind as \"coarse\" but quietly brings back through proxies such as location and networks.",
+  "stance": "critiques",
+  "changed": "Shows data systems claiming to move past gender while reintroducing it through stand-in data.",
+  "judge": "claude",
+  "year": 2016
+ },
+ "vee-coding-literacy-how-computer-programming": {
+  "input": "eae2b07e7100",
+  "locator": 26,
+  "quote": "As with the dispersal of textual literacy, coding literacy is not poised to be dispersed evenly across populations along lines of race, age, class, or gender.",
+  "definition": "Gender is one of the social lines, with race, age, and class, along which access to learning to code is uneven.",
+  "stance": "in passing",
+  "changed": "Connects gender to who gets to learn to code.",
+  "judge": "claude",
+  "year": 2017
+ },
+ "noble-algorithms-of-oppression": {
+  "input": "1873222e0b5a",
+  "locator": 28,
+  "quote": "Black feminist thought offers a useful and antiessentializing lens for understanding how both race and gender are socially constructed and mutually constituted through historical, social, political, and economic processes, creating interesting research questions and new analytical possibilities.",
+  "definition": "Gender, like race, is socially constructed, and the two shape each other. Noble uses Black feminist thought to see how both are built into search results about Black women.",
+  "stance": "defines",
+  "changed": "Uses Black feminist thought to show gender and race working together inside a search engine.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "eubanks-automating-inequality-how-high-tech-tool": {
+  "input": "65ed4f643c38",
+  "locator": 15,
+  "quote": "But the New Deal also created racial, gender, and class divisions that continue to produce inequities in our society today.",
+  "definition": "Gender is one of the social divisions, with race and class, that welfare policy created and that automated welfare tools inherit.",
+  "stance": "in passing",
+  "changed": "Traces gender divisions from New Deal welfare into today's automated welfare systems.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "risam-new-digital-worlds-postcolonial-digital": {
+  "input": "2a4d97f113bc",
+  "locator": 33,
+  "quote": "In spite of important projects like Chicana por mi Raza, race, gender, sexuality, class, nation, and other axes of identity and oppression are unexplored, unspoken, and undertheorized in the digital cultural record.",
+  "definition": "Gender is one of several \"axes of identity and oppression\" that Risam says the digital cultural record leaves unexplored.",
+  "stance": "in passing",
+  "changed": "Faults digital humanities archives for leaving gender, along with race and nation, unexamined.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "losh-bodies-of-information": {
+  "input": "e3a60958ef09",
+  "locator": 325,
+  "quote": "By marking the gender of the author using a fixed category, the LC interpretation of RDA reifies contemporary understandings of gender as a binary system with only two acceptable gender markers (male or female).",
+  "definition": "Gender is a politics built into data systems. Quoting Billey and colleagues, the book critiques catalog rules that record an author's gender as a fixed male/female binary.",
+  "stance": "critiques",
+  "changed": "Moves the critique into data standards themselves: catalog rules that fix gender as a binary.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "benjamin-race-after-technology": {
+  "input": "838e28b2628a",
+  "locator": 33,
+  "quote": "Despite decades of scholarship on the social fabrication of group identity, tech developers, like their marketing counterparts, are encoding race, ethnicity, and gender as immutable characteristics that can be measured, bought, and sold.",
+  "definition": "Gender is socially made, but tech companies encode it, with race and ethnicity, as a fixed trait that can be measured, bought, and sold.",
+  "stance": "critiques",
+  "changed": "Criticizes tech products for treating gender as fixed and measurable despite decades of scholarship.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "walton-technical-communication-after-the-social": {
+  "input": "dc1662008d9d",
+  "locator": 90,
+  "quote": "In other words, positionality asserts that the meaning of identity categories (such as race and gender) are not essential but rather are fluid and contextual.",
+  "definition": "Gender is an identity category whose meaning is not fixed but shifts with context, part of a person's positionality.",
+  "stance": "in passing",
+  "changed": "Brings gender into technical communication as a fluid part of positionality.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "ahmed-whats-the-use-on-the-uses-of-use": {
+  "input": "07bdf9a5acc1",
+  "locator": 218,
+  "quote": "And we are constantly being reassigned gender through doors as well as other technological methods for directing human traffic, that is, for telling us which way to go when we have to go.",
+  "definition": "Gender is assigned to us again and again by ordinary things, like doors and bathrooms, that tell us where to go.",
+  "stance": "defines",
+  "changed": "Locates gender in everyday objects and spaces rather than in ideas or data.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "manovich-cultural-analytics": {
+  "input": "e8a0e5e4bd43",
+  "locator": 105,
+  "quote": "This analysis shows that visual style in manga is used to construct gender differences.",
+  "definition": "Manovich mostly treats gender as a data category, like age, for sorting audiences; his manga study finds visual style used to construct gender differences.",
+  "stance": "in passing",
+  "changed": "Treats gender mainly as a variable to measure, the approach earlier books question.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "dignazio-data-feminism-strong-ideas": {
+  "input": "5f604405a6cc",
+  "locator": 100,
+  "quote": "Queer theorist Judith Butler has long maintained that gender is best understood as a repeated performance, a set of categories that cohere by, for instance, wearing jeans with small pockets (or no pockets at all) or by participating in an activity that is similarly gender-coded, like child-rearing, or—importantly for Butler—having heterosexual sex.",
+  "definition": "Gender is a social construct: categories held together by repeated performance, not a fixed biological binary. The book asks how data and charts can show gender without forcing it into two boxes.",
+  "stance": "defines",
+  "changed": "Asks how to collect and visualize gender data without imposing a binary.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "costanzachock-design-justice-community-led-practices-t": {
+  "input": "f763d7ecd650",
+  "locator": 14,
+  "quote": "Most cisgender people are unaware of the fact that the millimeter wave scanners operate according to a binary and cis-normative gender construct; most trans* people know, because it directly affects our lives.",
+  "definition": "Designed systems often hard-code gender as a male/female binary. Costanza-Chock shows how this \"cis-normative\" design, like airport body scanners, harms trans and nonbinary people.",
+  "stance": "critiques",
+  "changed": "Centers trans experience: binary gender built into everyday technology harms real people.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "jr-distributed-blackness-african-american-c": {
+  "input": "2453c6c54670",
+  "locator": 33,
+  "quote": "The seeming openness of the platform, coupled with libertarian (and neoliberal) rhetoric about the internet as a culture-neutral space, obscures the reality that most online content available through the browser and its technological implements still constructs and maintains Western and modern notions of race, gender, and class.",
+  "definition": "Gender is one of the Western cultural identities, with race and class, that the supposedly neutral web still builds in.",
+  "stance": "in passing",
+  "changed": "Reads gender within Black online culture and against the idea of a culture-neutral internet.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "jackson-hashtagactivism-networks-of-race-and-gen": {
+  "input": "4650cbdb7e76",
+  "locator": 22,
+  "quote": "This framing ignores the realities of a culture that systemically and institutionally enables gendered violence.",
+  "definition": "Gender is a system of power. \"Gendered violence\" is structural, enabled by institutions, not a private individual problem.",
+  "stance": "in passing",
+  "changed": "Shows people using hashtags to reframe gendered violence as a structural problem.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "mckinney-information-activism-a-queer-history-of": {
+  "input": "e4a4fe006153",
+  "locator": 15,
+  "quote": "These feminist media histories argue that gendered labor is easy to overlook because it takes place behind the scenes, as programming, manufacturing, or data input.",
+  "definition": "McKinney uses gender to show how information work is undervalued: \"gendered labor\" like data input happens behind the scenes and is easily overlooked.",
+  "stance": "in passing",
+  "changed": "Recovers the gendered, often invisible labor of information work.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "gray-intersectional-tech-black-users-in-digit": {
+  "input": "81824123e3d1",
+  "locator": 44,
+  "quote": "In this way, gender strain theory emphasizes the negative effects of conforming to and violating social gender expectations.",
+  "definition": "Gender here means social expectations about how men should act. Gray uses gender strain theory to study the stress of meeting or breaking those expectations.",
+  "stance": "defines",
+  "changed": "Turns to masculinity, applying gender strain theory to Black men in gaming.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "tham-design-thinking-in-technical-communicati": {
+  "input": "e9daa222a941",
+  "locator": 61,
+  "quote": "I think it will be important to actively promote an environment where first-time users, regardless of their gender or familiarity with making, feel comfortable being in the space.",
+  "definition": "Tham mentions gender only as one trait of users that should not affect how welcome they feel in a makerspace.",
+  "stance": "in passing",
+  "changed": "Barely engages gender, mentioning it once as a user trait.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "steele-digital-black-feminism-critical-cultural": {
+  "input": "e16716957ac9",
+  "locator": 22,
+  "quote": "Gender and racial binaries have provided a basis in the U.S. for laws, norms, expectations, opportunities, and even identity construction.",
+  "definition": "Gender is a binary system, bound up with race, that has shaped U.S. laws, norms, and identities, often against Black women.",
+  "stance": "in passing",
+  "changed": "Shows gender and race binaries used against Black women, and centers Black women's digital writing.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "bailey-misogynoir-transformed-black-womens-digi": {
+  "input": "95d643260c96",
+  "locator": 63,
+  "quote": "Her explanation of her queer identity provides a more fluid representation of sexuality, one that explicitly names gender as a spectrum.",
+  "definition": "Gender is a spectrum, not a binary. Bailey studies how Black queer and trans women's media question fixed ideas of gender.",
+  "stance": "in passing",
+  "changed": "Treats gender as a spectrum, centering Black queer and trans women's own media.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "drucker-the-digital-humanities-coursebook-an-int": {
+  "input": "0618e758c56e",
+  "locator": 132,
+  "quote": "The fundamental recognition is that gender is not a simple Male/Female binary equated with biological categories.",
+  "definition": "Gender is not a simple male/female binary tied to biology. Drucker teaches why this matters when humanists turn gender into data.",
+  "stance": "defines",
+  "changed": "Makes the non-binary view of gender a basic rule for humanities data work.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "mullaney-your-computer-is-on-fire": {
+  "input": "873ed866e0bf",
+  "locator": 113,
+  "quote": "An important point of conversation I raised at our gathering was that there is a need to look closely at the ways that race and gender are used as hierarchical models of power in the design of digital technologies that exacerbate and obfuscate oppression.",
+  "definition": "Gender, with race, works as a hierarchy of power that gets built into the design of digital technologies.",
+  "stance": "in passing",
+  "changed": "Shows gender hierarchies shaping both tech labor and the design of machines like robots.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "gonzales-designing-multilingual-experiences-in-te": {
+  "input": "c0945058b392",
+  "locator": 48,
+  "quote": "Because language is best understood through intersectional lenses that account for interlocking relationships among social categories (e.g., race, ethnicity, gender), intersectionality can also help researchers understand the multiple intertwined layers encompassed in a multilingual experience.",
+  "definition": "Gender is one social category that interlocks with race, ethnicity, and language in people's multilingual experiences.",
+  "stance": "in passing",
+  "changed": "Links gender to language, studying them together through intersectionality.",
+  "judge": "claude",
+  "year": 2022
+ },
+ "gold-debates-in-the-digital-humanities-2023": {
+  "input": "e3a3b4be1bcc",
+  "locator": 73,
+  "quote": "Mandell has argued with respect to cultural analytics that any stable classification of gender is fundamentally anti-Bulterian and is compatible with neither queer theory nor poststructuralism.",
+  "definition": "Gender is fluid and performed. One chapter reports Mandell's critique that counting gender as a stable category clashes with queer theory.",
+  "stance": "critiques",
+  "changed": "Brings the debate back to data: stable gender categories in computation clash with queer theory.",
+  "judge": "claude",
+  "year": 2023
+ }
+}

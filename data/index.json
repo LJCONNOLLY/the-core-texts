@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:58:32.634137",
+  "generated_at": "2026-09-26T15:31:02.306602",
   "book_count": 30,
   "books": [
     {
@@ -10,6 +10,7 @@
         "André L Brock Jr."
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": "New York University Press",
       "isbn": "9781479811908",
       "format": "pdf",
@@ -145,6 +146,13 @@
             "locator": 113,
             "locator_type": "page",
             "excerpt": "The false objectivism of normative internet discourse is tied to norms of whiteness, masculinity, and\npatriarchy and warranted by claims that “everyone knows” or “it’s common knowledge."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 111,
+            "locator_type": "page",
+            "excerpt": "While these numbers can be argued for as a measure of\npopularity, I argue that Curry’s “influence” across these networks and platforms draws on her\nperformance and evocation of respectability politics for Black audiences, which translates as civility,\nmodesty, and adherence to patriarchal definitions of gender and sexuality—or appropriate behavior\n—for more mainstream viewers."
           }
         ],
         "race": [
@@ -448,6 +456,7 @@
         "Annette Vee"
       ],
       "year": 2017,
+      "original_year": 2017,
       "publisher": "The MIT Press",
       "isbn": null,
       "format": "pdf",
@@ -806,6 +815,7 @@
         "Bruno Latour"
       ],
       "year": 2007,
+      "original_year": 2005,
       "publisher": "Oxford University",
       "isbn": "9780191531262",
       "format": "pdf",
@@ -827,6 +837,13 @@
             "locator": 82,
             "locator_type": "page",
             "excerpt": "191\nAnd what is so wrong with ‘mere descriptions’?192 A good text is never an unmediated portrait of what it\ndescribes—nor for that matter is a portrait."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 140,
+            "locator_type": "page",
+            "excerpt": "And of course the very idea that ‘we are members of a society’, that we are ‘accountable’, that we\nhave ‘legal responsibility’, that ‘gender is different from sex’, that ‘we have a responsibility toward the next\ngeneration’, that we have ‘lost social capital’, etc."
           }
         ],
         "identity": [
@@ -1037,6 +1054,7 @@
         "Cait McKinney"
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": "Duke University Press",
       "isbn": "9781478007821",
       "format": "pdf",
@@ -1062,6 +1080,18 @@
             "excerpt": "I consider \ndocuments, interviews, and observation pathways to tracing not only how \nsocial movement discourse is formed, what it says, and how and why it has \nmeaning, but also what it does."
           }
         ],
+        "classification": [
+          {
+            "locator": 15,
+            "locator_type": "page",
+            "excerpt": "For example, ­these activ-\nists brought grounded commitments to self-­determination to the decisions \nthey made about database design, resulting in systems whose flex bilities \naround classification are informed by lesbian feminism."
+          },
+          {
+            "locator": 110,
+            "locator_type": "page",
+            "excerpt": "They de-\nsigned systems for their work, built out of deep community knowledge and \na lesbian-­feminist understanding of classification as a material, social, and \nethical pro­cess that ­ought to be more transparent."
+          }
+        ],
         "infrastructure": [
           {
             "locator": 11,
@@ -1071,7 +1101,7 @@
           {
             "locator": 12,
             "locator_type": "page",
-            "excerpt": "19 My attention to information infrastructure is most specifi ally in \ndialogue with alternative feminist historiographies grounded in the study \nof activist mediation."
+            "excerpt": "19 My attention to information infrastructure is most specifically in \ndialogue with alternative feminist historiographies grounded in the study \nof activist mediation."
           },
           {
             "locator": 12,
@@ -1081,7 +1111,7 @@
           {
             "locator": 12,
             "locator_type": "page",
-            "excerpt": "22 Although Star and \nRuhleder are not writing about activism specifi ally, their emphasis on \npraxis is instructive: “Infrastructure is something that emerges for ­people \nin practice, connected to activities and structures."
+            "excerpt": "22 Although Star and \nRuhleder are not writing about activism specifically, their emphasis on \npraxis is instructive: “Infrastructure is something that emerges for ­people \nin practice, connected to activities and structures."
           },
           {
             "locator": 100,
@@ -1139,7 +1169,7 @@
           {
             "locator": 93,
             "locator_type": "page",
-            "excerpt": "68 Attention to the \neveryday practices of a telephone hotline enriches this history of second-­\nwave feminist attitudes ­toward trans issues through attention to everyday \nser­vice provision and the words of regular feminists, who ­were not writing \nmanifestos and might not even have identifi d their hotline work as activ-\nism."
+            "excerpt": "68 Attention to the \neveryday practices of a telephone hotline enriches this history of second-­\nwave feminist attitudes ­toward trans issues through attention to everyday \nser­vice provision and the words of regular feminists, who ­were not writing \nmanifestos and might not even have identified their hotline work as activ-\nism."
           },
           {
             "locator": 292,
@@ -1189,7 +1219,7 @@
           "level": 0
         }
       ],
-      "word_count": 117800,
+      "word_count": 117156,
       "page_count": 292
     },
     {
@@ -1201,6 +1231,7 @@
         "Lauren F. Klein"
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": "The MIT Press",
       "isbn": "9780262044004",
       "format": "pdf",
@@ -1243,6 +1274,63 @@
             "locator": 137,
             "locator_type": "page",
             "excerpt": "As Borgman defines it, a knowledge infrastructure is “an ecology of\npeople, practices, technologies, institutions, material objects, and relationships."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 57,
+            "locator_type": "page",
+            "excerpt": "They found that age, race, and gender were the strongest\npredictors of who received a high risk score—with Black defendants 77 percent more likely than\nwhite ones to receive a higher violent recidivism score."
+          },
+          {
+            "locator": 100,
+            "locator_type": "page",
+            "excerpt": "We’ve already asserted that gender is a social construct, but what\ndoes this phrase really mean? Queer theorist Judith Butler has long maintained that gender is best\nunderstood as a repeated performance, a set of categories that cohere by, for instance, wearing\njeans with small pockets (or no pockets at all) or by participating in an activity that is similarly\ngender-coded, like child-rearing, or—importantly for Butler—having heterosexual sex."
+          },
+          {
+            "locator": 100,
+            "locator_type": "page",
+            "excerpt": "Gender is certainly complicated."
+          },
+          {
+            "locator": 100,
+            "locator_type": "page",
+            "excerpt": "For example, the American Medical Association now calls gender a “spectrum” rather than a\nbinary, and as of 2018 it issued a firm statement that “sex and gender are more complex than\npreviously assumed."
+          },
+          {
+            "locator": 100,
+            "locator_type": "page",
+            "excerpt": "38 These\nperformative acts, as she terms them, repeated so many times that they become taken as fact, are\nwhat define the gender categories that we have today."
+          },
+          {
+            "locator": 103,
+            "locator_type": "page",
+            "excerpt": "They had an\nopportunity to communicate to the public that gender is not a binary by spelling that out—in the\ntext of the story or in a caption under the graphics or by showing visually that there was no data\nfor nonbinary people."
+          },
+          {
+            "locator": 103,
+            "locator_type": "page",
+            "excerpt": "We have already established that gender is more than binary; but it’s less commonly\nacknowledged that sex is more than a binary too."
+          },
+          {
+            "locator": 104,
+            "locator_type": "page",
+            "excerpt": "The design offers a beautifully executed visual challenge to the\nscientifically incorrect idea that there are only two sexes, and even that the concepts of sex and\ngender are wholly distinct."
+          },
+          {
+            "locator": 195,
+            "locator_type": "page",
+            "excerpt": "”\nAlthough categories like “importance” and “nonvisual example” were straightforward to assign,\nothers like race and gender were not."
+          },
+          {
+            "locator": 195,
+            "locator_type": "page",
+            "excerpt": "”\nDiscriminatory hiring on the basis of race and gender is the reason for General Motors’s inclusion\nin the book; therefore the company is listed as “white” and “man” in the audit."
+          },
+          {
+            "locator": 230,
+            "locator_type": "page",
+            "excerpt": "Although we do not discuss this particular issue here, “bathroom bills” and other attempts to police public bathroom use\nalong the lines of binary gender is perhaps the most pervasive and most publicized instance of this form of administrative (and\nsometimes physical) violence."
           }
         ],
         "race": [
@@ -1578,6 +1666,7 @@
         "Catherine Knight Steele"
       ],
       "year": 2021,
+      "original_year": 2021,
       "publisher": null,
       "isbn": "9781479808373",
       "format": "pdf",
@@ -1690,6 +1779,13 @@
             "excerpt": "2 Misogynoir is a term coined by Moya Bailey."
           }
         ],
+        "gender": [
+          {
+            "locator": 60,
+            "locator_type": "page",
+            "excerpt": "Our ostensibly comfortable navigation of\ngender is based on the erasure of our Black trans sisters, and our silence and\ncomplacency in this reality is even more violent."
+          }
+        ],
         "race": [
           {
             "locator": 9,
@@ -1782,6 +1878,7 @@
         "Donna J. Haraway"
       ],
       "year": 1991,
+      "original_year": 1991,
       "publisher": "Routledge, 1991_",
       "isbn": "9780203873106",
       "format": "pdf",
@@ -1892,6 +1989,103 @@
             "locator": 279,
             "locator_type": "page",
             "excerpt": "Remember that Foucault in Archaeology of Knowledge defined discourses as ‘practices that"
+          }
+        ],
+        "gender": [
+          {
+            "locator": 120,
+            "locator_type": "page",
+            "excerpt": "At the least, gender is an unavoidable condition of\nobservation."
+          },
+          {
+            "locator": 157,
+            "locator_type": "page",
+            "excerpt": "political sense, the concept of gender was articulated and progressively\ncontested and theorized in the context of the post-Second World War,\nfeminist women’s movements."
+          },
+          {
+            "locator": 157,
+            "locator_type": "page",
+            "excerpt": "The modern feminist concept for gender is\nnot found in the writings of Marx and Engels, although their writings and\nother practice, and those of others in the Marxist tradition, have provided\ncrucial tools for, as well as barriers against, the later politicization and\ntheorization of gender."
+          },
+          {
+            "locator": 157,
+            "locator_type": "page",
+            "excerpt": "Gender is a concept\ndeveloped to contest the naturalization of sexual difference in multiple\narenas of struggle."
+          },
+          {
+            "locator": 157,
+            "locator_type": "page",
+            "excerpt": "Since the concept of gender is so closely related to the\nWestern distinction between nature and society or nature and history, via the\ndistinction between sex and gender, the relation of feminist gender theories\nto Marxism is tied to the fate of the concepts of nature and labour in the\nMarxist canon and in Western philosophy more broadly."
+          },
+          {
+            "locator": 157,
+            "locator_type": "page",
+            "excerpt": "Traditional Marxist approaches did not lead to a political concept of\ngender for two major reasons: first, women, as well as ‘tribal’ peoples,"
+          },
+          {
+            "locator": 158,
+            "locator_type": "page",
+            "excerpt": "Gender was located firmly in an individualist"
+          },
+          {
+            "locator": 159,
+            "locator_type": "page",
+            "excerpt": "(He formulated the concept\nof gender identity within the framework of the biology/culture distinction,\nsuch that sex was related to biology (hormones, genes, nervous system,\nmorphology) and gender was related to culture (psychology, sociology)."
+          },
+          {
+            "locator": 160,
+            "locator_type": "page",
+            "excerpt": "In the political and epistemological effort to remove women from the\ncategory of nature and to place them in culture as constructed and\nself-constructing social subjects in history, the concept of gender has tended\nto be quarantined from the infections of biological sex."
+          },
+          {
+            "locator": 162,
+            "locator_type": "page",
+            "excerpt": "So, the ongoing tactical usefulness of the sex/gender distinction in life and\nsocial sciences has had dire consequences for much feminist theory, tying it\nto a liberal and functionalist paradigm despite repeated efforts to transcend\nthose limits in a fully politicized and historicized concept of gender."
+          },
+          {
+            "locator": 168,
+            "locator_type": "page",
+            "excerpt": "Her efforts have\nbeen particularly helpful in understanding and contesting inscriptions of\n_ gender in cinema and other areas where the idea that gender is an embodied\n‘semiotic difference is crucial and empowering."
+          },
+          {
+            "locator": 168,
+            "locator_type": "page",
+            "excerpt": "De Lauretis defined\ngender as the social construction of ‘woman’ and ‘man’ and the semiotic\nproduction of subjectivity; gender has to do with ‘the history, practices, and\nimbrication of meaning and experience’; that is, with the ‘mutually constitu-\ntive effects in semiosis of the outer world of social reality with the inner\nworld of subjectivity’ (1984, pp."
+          },
+          {
+            "locator": 169,
+            "locator_type": "page",
+            "excerpt": "'' Gender is a system of social,\nsymbolic, and psychic relations, in which men and women are differentially\npositioned."
+          },
+          {
+            "locator": 171,
+            "locator_type": "page",
+            "excerpt": "Spillers (1987), and Hurtado (1989) interrogated the concept of gender\nthrough an exploration of the history and consequences of these matters."
+          },
+          {
+            "locator": 204,
+            "locator_type": "page",
+            "excerpt": "James Tiptree, Jr, an author whose fiction was\nregarded as particularly manly until her ‘true’ gender was revealed, tells tales\nof reproduction based on non-mammalian technologies like alternation of\ngenerations of male brood pouches and male nurturing."
+          },
+          {
+            "locator": 207,
+            "locator_type": "page",
+            "excerpt": "play? What about other embodiments? Cyborg gender is a local possibility\ntaking a global vengeance."
+          },
+          {
+            "locator": 221,
+            "locator_type": "page",
+            "excerpt": "Gender is a field of structured and structuring difference, where\nthe tones of extreme localization, of the intimately personal and individual-\nized body, vibrate in the same field with global high tension emissions."
+          },
+          {
+            "locator": 268,
+            "locator_type": "page",
+            "excerpt": "For feminists, gender means making and unmaking ‘bodies’ in a contestable\nworld; an account of gender is a theory of experience as signifying and significant\nembodiment."
+          },
+          {
+            "locator": 268,
+            "locator_type": "page",
+            "excerpt": "One benefit of the inheritance of feminist uses of\ngender from grammar is that, in that domain, ‘gender is understood to be a way of\nclassifying phenomena, a socially agreed-upon system of distinctions, rather than an\nobjective description of inherent traits’ (p."
           }
         ],
         "identity": [
@@ -2054,6 +2248,7 @@
         "Jacqueline Wernimont"
       ],
       "year": 2018,
+      "original_year": 2019,
       "publisher": "University of Minnesota Press",
       "isbn": null,
       "format": "pdf",
@@ -2153,6 +2348,38 @@
             "locator": 453,
             "locator_type": "page",
             "excerpt": "However, because this infrastructure is an extension of Orlando’s struc-\nture and builds on its practices, while enabling a wider range materials and types \nof scholarship, we hope to have been able to mitigate some of those disadvantages."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 152,
+            "locator_type": "page",
+            "excerpt": "In her earlier Technologies of Gender (1987), Teresa de Lauretis takes up Michel \nFoucault’s idea of the “technology of sex” and proposes that gender is also “the product \nof various social technologies” (2)."
+          },
+          {
+            "locator": 224,
+            "locator_type": "page",
+            "excerpt": "Despite these encouraging shifts, sites like Roundtable, while including women \non their roster of writers, do not focus exclusively on gender issues, and the pres-\nence of patriarchal attitudes even within the community has persuaded women to \ncreate their own resources such as Savari, a site that provides a platform for Adi-\nvasi, Bahujan, and Dalit women and encourages cross-­border conversations with \nwomen from Bangladesh, Nepal, Pakistan, and Sri Lanka."
+          },
+          {
+            "locator": 325,
+            "locator_type": "page",
+            "excerpt": ") may run counter to an author’s sense that their gender is not a relevant or eas-\nily categorized fact:\nRDA rule 9."
+          },
+          {
+            "locator": 350,
+            "locator_type": "page",
+            "excerpt": "Weingart’s \nconcern with gender was intriguing, so I contacted him to find out how he had \nbecome interested in question."
+          },
+          {
+            "locator": 351,
+            "locator_type": "page",
+            "excerpt": "It’s not that gender isn’t complex (see Miriam \nPosner’s wonderful recent keynote on these and related issues), but at least it’s \na little easier to measure than race & ethnicity, when all you have available to \nyou is what you can look up on the Internet."
+          },
+          {
+            "locator": 446,
+            "locator_type": "page",
+            "excerpt": "Project members take \nfeminist perspectives to both the cultures they write about and the one in which \nthey work: “We understand gender as cutting across every element of our project, \nfrom the time past we are constructing together to the time present in which we are \nworking together to construct it” (Brown and Clements)."
           }
         ],
         "race": [
@@ -2446,6 +2673,7 @@
         "Gillian Rose"
       ],
       "year": 2016,
+      "original_year": 2001,
       "publisher": "SAGE Publications, Limited",
       "isbn": "9781473948891",
       "format": "pdf",
@@ -2538,6 +2766,13 @@
             "excerpt": "It would there-\nfore be inconsistent to contend that the analyst’s own discourse was itself\nwholly objective, factual or generally true."
           }
         ],
+        "gender": [
+          {
+            "locator": 221,
+            "locator_type": "page",
+            "excerpt": "Similarly,\nin her study of VCR use Gray (1992) assumed that gender was an important\nanalytical category which might well explain video use and therefore chose\nonly to interview women; she did though try also to interview both working-\nclass and middle-class women."
+          }
+        ],
         "identity": [
           {
             "locator": 119,
@@ -2572,6 +2807,7 @@
         "Jason Chew Kit Tham"
       ],
       "year": 2021,
+      "original_year": 2021,
       "publisher": "Routledge",
       "isbn": null,
       "format": "pdf",
@@ -2808,6 +3044,7 @@
         "Johanna Drucker"
       ],
       "year": 2021,
+      "original_year": 2021,
       "publisher": "Routledge, an",
       "isbn": "9780367565756",
       "format": "pdf",
@@ -2846,6 +3083,23 @@
             "locator": 216,
             "locator_type": "page",
             "excerpt": "For scholarly purposes, a considerable amount of extra metadata and \ninfrastructure is required since the materials are being managed for long-\nterm cultural memory, not just entertainment within a commercial sphere."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 28,
+            "locator_type": "page",
+            "excerpt": "•\t\nDetermine how gender is being defined."
+          },
+          {
+            "locator": 132,
+            "locator_type": "page",
+            "excerpt": "The fundamental recognition is that gender is not a sim­\nple Male/Female binary equated with biological categories."
+          },
+          {
+            "locator": 132,
+            "locator_type": "page",
+            "excerpt": "Mandell’s dis­\ntinctions reinforce an approach in which gender is constructed—in literary"
           }
         ],
         "identity": [
@@ -3172,10 +3426,10 @@
       "filename": "gray-intersectional-tech-black-users-in-digit.pdf",
       "title": "Intersectional tech: Black users in digital gaming",
       "author": [
-        "Kishonna L. Gray",
-        "Anita Sarkeesian"
+        "Kishonna L. Gray"
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": null,
       "isbn": "9780807171226",
       "format": "pdf",
@@ -3235,6 +3489,18 @@
             "locator": 36,
             "locator_type": "page",
             "excerpt": "Mirzoeff reiterates that repeated exposure to such favorable\ndefinitions of classification and separation creates an aesthetic of respect for the status quo, the\nnormalization of hegemonic authority, the creation of a distinct blackness as other."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 12,
+            "locator_type": "page",
+            "excerpt": "Although gender issues make up the bulk of conversations about identity, very little has been"
+          },
+          {
+            "locator": 59,
+            "locator_type": "page",
+            "excerpt": "When you fix the whole gender issue, I still have to deal with racism."
           }
         ],
         "race": [
@@ -3411,6 +3677,7 @@
         "Laura Gonzales"
       ],
       "year": 2022,
+      "original_year": 2022,
       "publisher": "Utah State University Press",
       "isbn": null,
       "format": "pdf",
@@ -3583,6 +3850,7 @@
         "Lev Manovich"
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": "ǂThe ǂMIT Press",
       "isbn": "9780262037105",
       "format": "pdf",
@@ -4326,6 +4594,7 @@
         "Lisa Nakamura"
       ],
       "year": 2007,
+      "original_year": 2008,
       "publisher": "Univ Of",
       "isbn": "9780816646128",
       "format": "pdf",
@@ -4371,6 +4640,18 @@
             "locator": 136,
             "locator_type": "page",
             "excerpt": "This un-\nprecedented vulnerability to techno-surveillance is, however, part of what it\nmeans to be a person of color in the “integrated circuit,” to use Haraway’s\neloquent formulation."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 40,
+            "locator_type": "page",
+            "excerpt": "Rigorous readings\nof Internet interfaces in and outside their convergences with photography,\nﬁlm, television, and interfaces from other visual genres such as stand-alone\ndigital games are crucial for understanding how modern race and gender are\nconstructed as categories and (sometimes, sometimes not) choices."
+          },
+          {
+            "locator": 219,
+            "locator_type": "page",
+            "excerpt": "And who is to have root control over this converged media\nspace, this universe of screens? The time during which the Internet could\nreasonably be viewed as a possible alternative space where egalitarian utopias\nmight be constructed by plucky resistance ﬁghters of any age or gender is\nlong over."
           }
         ],
         "race": [
@@ -4606,6 +4887,7 @@
         "Lauren F. Klein"
       ],
       "year": 2023,
+      "original_year": 2023,
       "publisher": "University of Minnesota Press",
       "isbn": "9781452969312",
       "format": "pdf",
@@ -4745,6 +5027,13 @@
             "locator": 143,
             "locator_type": "page",
             "excerpt": "The train and its\nrelated infrastructure were so physically imposing and so different from previous modes of\ntransportation that for some travelers in the nineteenth century, their presence threw into stark\nrelief what was being lost versus gained through technological innovation."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 73,
+            "locator_type": "page",
+            "excerpt": "Mandell has argued with respect to cultural analytics that any stable classification of\ngender is fundamentally anti-Bulterian and is compatible with neither queer theory nor\npoststructuralism."
           }
         ],
         "race": [
@@ -5175,6 +5464,7 @@
         "Michel Foucault"
       ],
       "year": 1994,
+      "original_year": 1966,
       "publisher": "Random House Digital;Vintage Books",
       "isbn": "9780307819307",
       "format": "pdf",
@@ -5777,6 +6067,7 @@
         "Moya Bailey"
       ],
       "year": 2021,
+      "original_year": 2021,
       "publisher": "New York University Press",
       "isbn": "9781479803392",
       "format": "pdf",
@@ -5970,6 +6261,38 @@
             "locator": 101,
             "locator_type": "page",
             "excerpt": "Misogynoir Is a Drag\n1 Park and Yan, “Gorilla Killing."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 43,
+            "locator_type": "page",
+            "excerpt": "As Judith Butler and other feminists\nargue, gender is performative, meaning that gender is something we enact through the repetition\nof behavioral and sartorial choices."
+          },
+          {
+            "locator": 43,
+            "locator_type": "page",
+            "excerpt": "Here, Butler means performative in that gender is something you do,\nthat the behaviors, clothes, and mannerisms you choose to repeat “consolidate an impression of\nbeing a man or being a woman."
+          },
+          {
+            "locator": 55,
+            "locator_type": "page",
+            "excerpt": "In this first entry, McDonald’s articulation of her sexuality and gender are discussed through the\nbinary frames of man and woman, gay and straight."
+          },
+          {
+            "locator": 90,
+            "locator_type": "page",
+            "excerpt": "But outside the space of these institutions, innovations\naround gender are much less common."
+          },
+          {
+            "locator": 94,
+            "locator_type": "page",
+            "excerpt": "Simplistic solidarity strategies built on race or gender are not sufficient for the social\ntransformation necessary to stop misogynoir."
+          },
+          {
+            "locator": 97,
+            "locator_type": "page",
+            "excerpt": "The video reflects how deeply embedded ideas of gender are\neven in communities that are working to trouble the binary."
           }
         ],
         "race": [
@@ -6175,6 +6498,7 @@
         "N. Katherine Hayles"
       ],
       "year": 1999,
+      "original_year": 1999,
       "publisher": "The University",
       "isbn": "9780226321394",
       "format": "pdf",
@@ -6240,6 +6564,18 @@
             "locator": 77,
             "locator_type": "page",
             "excerpt": "4 The conjunction of technology and discourse is crucial."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 8,
+            "locator_type": "page",
+            "excerpt": "In the paper itself, however, nowhere does Turing suggest that gender is meant as a"
+          },
+          {
+            "locator": 9,
+            "locator_type": "page",
+            "excerpt": "Why does Turing include gender, and why does\nHodges want to read this inclusion as indicating that, so far as gender is concerned, verbal\nperformance cannot be equated with embodied reality? One way to frame these mysteries is to see\nthem as attempts to transgress and reinforce the boundaries of the subject, respectively."
           }
         ],
         "race": [
@@ -6730,6 +7066,7 @@
         "Natasha Jones"
       ],
       "year": 2019,
+      "original_year": 2019,
       "publisher": "Routledge",
       "isbn": "9780367188467",
       "format": "pdf",
@@ -6746,6 +7083,13 @@
             "locator": 179,
             "locator_type": "page",
             "excerpt": "George—perhaps \nbecause he doesn’t understand the problem (and refuses to listen) or perhaps \nbecause he’s wrapped up in his assumptions about how improving efficiency \nand streamlining technology are valued/valuable—rebuff’s Julie’s concerns, \ndemonstrating that he is unwilling to participate in coalition with Julie."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 150,
+            "locator_type": "page",
+            "excerpt": "and small interpersonal norms, like the ways gender is constructed as binary or \nfluid reflect the hegemonic domain, co-construct the patterns of power, and func-\ntion to structure algorithms, forms, and other kinds of documents."
           }
         ],
         "race": [
@@ -6978,6 +7322,7 @@
         "Roopika Risam"
       ],
       "year": 2019,
+      "original_year": 2018,
       "publisher": "Northwestern University Press",
       "isbn": "9780810138858",
       "format": "pdf",
@@ -7147,6 +7492,7 @@
         "Ruha Benjamin"
       ],
       "year": 2019,
+      "original_year": 2019,
       "publisher": "Polity Press",
       "isbn": null,
       "format": "pdf",
@@ -7445,6 +7791,7 @@
         "Safiya Umoja Noble"
       ],
       "year": 2018,
+      "original_year": 2018,
       "publisher": "New York University Press",
       "isbn": null,
       "format": "pdf",
@@ -7492,6 +7839,28 @@
             "locator": 86,
             "locator_type": "page",
             "excerpt": "Personal information at the level of device and infrastructure is not\nforgotten and can be circulated with ease."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 10,
+            "locator_type": "page",
+            "excerpt": "By making visible the ways that capital, race, and gender are\nfactors in creating unequal conditions, I am bringing light to various forms of technological\nredlining that are on the rise."
+          },
+          {
+            "locator": 24,
+            "locator_type": "page",
+            "excerpt": "At the same time, other\nscholars underscore the myriad ways that social values around race and gender are directly\nreflected in technology design."
+          },
+          {
+            "locator": 24,
+            "locator_type": "page",
+            "excerpt": "4 Their contributions have made it possible for me to think about the\nways that race and gender are embedded in Google’s search engine and to have the courage to\nraise critiques of one of the most beloved and revered contemporary brands."
+          },
+          {
+            "locator": 28,
+            "locator_type": "page",
+            "excerpt": "Black feminist thought offers a useful and antiessentializing lens for understanding how both\nrace and gender are socially constructed and mutually constituted through historical, social,\npolitical, and economic processes,19 creating interesting research questions and new analytical\npossibilities."
           }
         ],
         "race": [
@@ -7762,6 +8131,7 @@
         "Sara Ahmed"
       ],
       "year": 2019,
+      "original_year": 2019,
       "publisher": "Duke University Press",
       "isbn": null,
       "format": "pdf",
@@ -7780,6 +8150,18 @@
             "locator": 109,
             "locator_type": "page",
             "excerpt": "The blacksmith’s arm becomes a living tool, teaching us how, \nin Sarah Franklin’s (2013) terms, technology is biologized."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 105,
+            "locator_type": "page",
+            "excerpt": "Butler sug-\ngests that to perform gender is to become a copy without an original."
+          },
+          {
+            "locator": 209,
+            "locator_type": "page",
+            "excerpt": "I have heard again and again from stu-\ndents, and from colleagues, how they  were directed away from certain \nkinds of work, away from certain stances, away from words even: do not \ndo a feminist proj ect, that  will not get you very far; do not do race, race \nis too narrow; race and gender are often framed as too narrow; the uni-\nversal is given width, breadth, as well as speed, faster, lighter."
           }
         ],
         "race": [
@@ -7879,6 +8261,7 @@
         "Brooke Foucault Welles"
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": "The MIT Press",
       "isbn": null,
       "format": "pdf",
@@ -8106,6 +8489,7 @@
         "Sasha Costanza-Chock"
       ],
       "year": 2020,
+      "original_year": 2020,
       "publisher": "MIT Press",
       "isbn": "9780262043458",
       "format": "pdf",
@@ -8381,6 +8765,23 @@
             "locator": 130,
             "locator_type": "page",
             "excerpt": "Throughout this book I use the identity-first term “Disabled people” rather than the people-first term “people with disabilities”\nbecause design justice is more closely aligned with a social/relational disability justice analysis than with the individual/medical\nmodel of disability."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 21,
+            "locator_type": "page",
+            "excerpt": "One of\nthe central claims of this book is that the predominance of what Crenshaw calls single-axis\nanalysis, in which race, class, or gender is considered as an independent construct, continually\nundermines the intentions of well-meaning designers who hope to challenge bias through the\nobjects, systems, or environments they design."
+          },
+          {
+            "locator": 33,
+            "locator_type": "page",
+            "excerpt": "44\nWhat’s more, although design that discriminates based on race and/or gender is often seen as\nproblematic, social norms under capitalism do support systems design that intentionally\nreproduces class-based discrimination."
+          },
+          {
+            "locator": 54,
+            "locator_type": "page",
+            "excerpt": "Unless gender issues in the design process are recognized and dealt with,\nthere exists a strong possibility of gender inequalities being built into the technology itself."
           }
         ],
         "race": [
@@ -8772,6 +9173,7 @@
         "Kavita Philip"
       ],
       "year": 2021,
+      "original_year": 2021,
       "publisher": "The MIT Press",
       "isbn": "9780262360777",
       "format": "pdf",
@@ -8882,6 +9284,43 @@
             "locator": 154,
             "locator_type": "page",
             "excerpt": "Software platforms are flickering,\nevanescent flames, burning on top of the old slow infrastructure while allowing users and\ndevelopers to pretend that the infrastructure isn’t even there."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 5,
+            "locator_type": "page",
+            "excerpt": "Roberts\n3\tA Network Is Not a Network\nBenjamin Peters\n4\tThe Internet Will Be Decolonized\nKavita Philip\n5\tCapture Is Pleasure\nMitali Thakor\nPart II\tThis Is an Emergency\n6\tSexism Is a Feature, Not a Bug\nMar Hicks\n7\tGender Is a Corporate Tool\nCorinna Schlombs\n8\tSiri Disciplines\nHalcyon M."
+          },
+          {
+            "locator": 91,
+            "locator_type": "page",
+            "excerpt": "Gender Is a Corporate Tool\nCorinna Schlombs\nYour company does not love you, no matter how loudly it may sing otherwise."
+          },
+          {
+            "locator": 113,
+            "locator_type": "page",
+            "excerpt": "Your Robot Is a Stereotype\nIn January of 2018, I had a novel experience of meeting with some of the leading women in the field\nof robotics in the United States, gathered by Professor Londa Schiebinger and the Gendered\nInnovations initiative at Stanford University to share research about the ways that gender is\nembedded in robotics research and development."
+          },
+          {
+            "locator": 113,
+            "locator_type": "page",
+            "excerpt": "An important point of conversation I raised at our gathering was that there is a need to\nlook closely at the ways that race and gender are used as hierarchical models of power in the\ndesign of digital technologies that exacerbate and obfuscate oppression."
+          },
+          {
+            "locator": 114,
+            "locator_type": "page",
+            "excerpt": "In the field of human–robot interaction (HRI), ideas about genderless or user-\nassigned gender are being studied, particularly as it concerns the acceptability of various kinds of\ntasks that can be programmed into robots who will interact with human beings across the globe."
+          },
+          {
+            "locator": 114,
+            "locator_type": "page",
+            "excerpt": "If there were any basic,\nmost obvious dimensions of how robots are increasingly embedded with social values, it would only\ntake our noticing the choices made available in the commercial robotics marketplace between\nhumanoid robotics and other seemingly benign devices, all of which encode racial and gender\nsignifiers."
+          },
+          {
+            "locator": 172,
+            "locator_type": "page",
+            "excerpt": "Corinna Schlombs, “Gender Is a Corporate Tool,” this volume."
           }
         ],
         "race": [
@@ -9187,6 +9626,7 @@
         "Virginia Eubanks"
       ],
       "year": 2018,
+      "original_year": 2018,
       "publisher": "St_ Martin's Press",
       "isbn": "9781250074317",
       "format": "pdf",
@@ -9418,6 +9858,7 @@
         "Walter J. Ong"
       ],
       "year": 2004,
+      "original_year": 1982,
       "publisher": "Taylor & Francis e-Library",
       "isbn": "9780203131701",
       "format": "pdf",
@@ -9960,6 +10401,7 @@
         "Wendy Hui Kyong Chun"
       ],
       "year": 2017,
+      "original_year": 2016,
       "publisher": "MIT",
       "isbn": "9780262034494",
       "format": "pdf",
@@ -9988,6 +10430,13 @@
             "locator": 109,
             "locator_type": "page",
             "excerpt": "5  Surveillance is now a \nstate- and privately funded co-production."
+          }
+        ],
+        "gender": [
+          {
+            "locator": 73,
+            "locator_type": "page",
+            "excerpt": "Through these proxies, the allegedly “coarse” and “out-\ndated” categories of race, class, sexuality, and gender are accounted for in \nunaccounted ways."
           }
         ],
         "algorithms": [

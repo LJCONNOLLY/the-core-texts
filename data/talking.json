@@ -1,5 +1,48 @@
 {
  "sources": {
+  "foucault-order-of-things-an-archaeology-of-human": {
+   "title": "Order of Things: An Archaeology of Human Sciences",
+   "authors": [
+    "Michel Foucault"
+   ],
+   "mentions": [],
+   "year": 1966
+  },
+  "ong-orality-and-literacy-the-technologizing": {
+   "title": "Orality and Literacy: The Technologizing of the Word",
+   "authors": [
+    "Walter J. Ong"
+   ],
+   "mentions": [
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Textualists and deconstructionists",
+     "page": "PDF page 103",
+     "locator": 103,
+     "before": "Subtle connections can exist, for example, in ancient Greek narrative of oral provenance, between the structure of the hexameter line and thought forms themselves.",
+     "sentence": "TEXTUALISTS AND DECONSTRUCTIONISTS The growing knowledge of the psychodynamics of orality and literacy also cuts across the work of the group we may here call textualists, notably A.J.Greimas, Tzvetan Todorov, the late Roland Barthes, Philippe Sollers and Jacques Derrida, as well as Michel Foucault and Jacques Lacan (Hawkes 1977).",
+     "after": "These critic-philosophers, who derive largely from a Husserlian tradition, specialize in texts, and in fact in printed texts, and mostly in latter-day printed texts from the Age of Romanticism—a significant specialization when this age is recognized as marking a new state of consciousness associated with the definite interiorization of print and the atrophy of the ancient rhetorical tradition (Ong 1971 and 1977).",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Textualists and deconstructionists",
+     "page": "PDF page 103",
+     "locator": 103,
+     "before": "Most textualists show little concern with historical continuities (which are also psychological continuities).",
+     "sentence": "Cohen (1977, p. xxii) has noted how Foucault's 'archaeology' is concerned chiefly with correcting modern views rather than with explaining the past on its own terms.",
+     "after": "Similarly, the Marxist semiotics and literary theory related to structuralism and textualism, as represented, for example, in Pierre Macherey (1978), rests on detailed examples all drawn from the nineteenth-century novel, as Macherey's translator notes (1978, p. lx).",
+     "highlights": [
+      "Foucault"
+     ]
+    }
+   ],
+   "year": 1982
+  },
   "haraway-simians-cyborgs-and-women-the-reinventio": {
    "title": "Simians, cyborgs, and women: the reinvention of nature",
    "authors": [
@@ -138,14 +181,6 @@
     }
    ],
    "year": 1991
-  },
-  "foucault-order-of-things-an-archaeology-of-human": {
-   "title": "Order of Things: An Archaeology of Human Sciences",
-   "authors": [
-    "Michel Foucault"
-   ],
-   "mentions": [],
-   "year": 1994
   },
   "hayles-how-we-became-posthuman-virtual-bodies-i": {
    "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
@@ -495,553 +530,6 @@
     }
    ],
    "year": 1999
-  },
-  "ong-orality-and-literacy-the-technologizing": {
-   "title": "Orality and Literacy: The Technologizing of the Word",
-   "authors": [
-    "Walter J. Ong"
-   ],
-   "mentions": [
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Textualists and deconstructionists",
-     "page": "PDF page 103",
-     "locator": 103,
-     "before": "Subtle connections can exist, for example, in ancient Greek narrative of oral provenance, between the structure of the hexameter line and thought forms themselves.",
-     "sentence": "TEXTUALISTS AND DECONSTRUCTIONISTS The growing knowledge of the psychodynamics of orality and literacy also cuts across the work of the group we may here call textualists, notably A.J.Greimas, Tzvetan Todorov, the late Roland Barthes, Philippe Sollers and Jacques Derrida, as well as Michel Foucault and Jacques Lacan (Hawkes 1977).",
-     "after": "These critic-philosophers, who derive largely from a Husserlian tradition, specialize in texts, and in fact in printed texts, and mostly in latter-day printed texts from the Age of Romanticism—a significant specialization when this age is recognized as marking a new state of consciousness associated with the definite interiorization of print and the atrophy of the ancient rhetorical tradition (Ong 1971 and 1977).",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Textualists and deconstructionists",
-     "page": "PDF page 103",
-     "locator": 103,
-     "before": "Most textualists show little concern with historical continuities (which are also psychological continuities).",
-     "sentence": "Cohen (1977, p. xxii) has noted how Foucault's 'archaeology' is concerned chiefly with correcting modern views rather than with explaining the past on its own terms.",
-     "after": "Similarly, the Marxist semiotics and literary theory related to structuralism and textualism, as represented, for example, in Pierre Macherey (1978), rests on detailed examples all drawn from the nineteenth-century novel, as Macherey's translator notes (1978, p. lx).",
-     "highlights": [
-      "Foucault"
-     ]
-    }
-   ],
-   "year": 2004
-  },
-  "nakamura-digitizing-race-visual-cultures-of-the-i": {
-   "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
-   "authors": [
-    "Lisa Nakamura"
-   ],
-   "mentions": [
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": null,
-     "page": "PDF page 2",
-     "locator": 2,
-     "before": "",
-     "sentence": "Electronic Mediations Katherine Hayles, Mark Poster, and Samuel Weber, series editors Digitizing Race: Visual Cultures of the Internet Small Tech: The Culture of Digital Tools Byron Hawk, David M. Rieder, and Ollie Oviedo, editors The Exploit: A Theory of Networks Alexander R. Galloway and Eugene Thacker Database Aesthetics: Art in the Age of Information Overﬂow Victoria Vesna, editor Cyberspaces of Everyday Life Mark Nunes Gaming: Essays on Algorithmic Culture Alexander R. Galloway Avatars of Story Marie-Laure Ryan Wireless Writing in the Age of Marconi Timothy C. Campbell Electronic Monuments Gregory L. Ulmer Lara Croft: Cyber Heroine Astrid Deuber-Mankowsky The Souls of Cyberfolk: Posthumanism as Vernacular Theory Thomas Foster Déjà Vu: Aberrations of Cultural Memory Peter Krapp Biomedia Eugene Thacker Avatar Bodies: A Tantra for Posthumanism Ann Weinstone Connected, or What It Means to Live in the Network Society Steven Shaviro Cognitive Fictions Joseph Tabbi continued on page 240 Visual Cultures of the Internet Electronic Mediations, Volume 23 University of Minnesota Press Minneapolis London Copyright 2008 Lisa Nakamura All rights reserved.",
-     "after": "No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the publisher.",
-     "highlights": [
-      "Katherine Hayles"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 9",
-     "locator": 20,
-     "before": "David Bolter and Richard Grusin take a similar tack in Remediation, as does Per Persson.",
-     "sentence": "The most impressive of these is Lev Manovich, whose brilliant Language of New Media is justly credited with creating the ﬁrst fully articulated theoretical work on the logic of digital media by linking the rigorous afﬁnities between ﬁlm form and history to the structure and function of computer software and its operations.",
-     "after": "However, while Darley, Manovich, and Persson pay close attention to the connections between old and new media forms, reception, and exhibition, none of them writes speciﬁcally about the Internet as a platform for digital visual culture.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 9",
-     "locator": 20,
-     "before": "The most impressive of these is Lev Manovich, whose brilliant Language of New Media is justly credited with creating the ﬁrst fully articulated theoretical work on the logic of digital media by linking the rigorous afﬁnities between ﬁlm form and history to the structure and function of computer software and its operations.",
-     "sentence": "However, while Darley, Manovich, and Persson pay close attention to the connections between old and new media forms, reception, and exhibition, none of them writes speciﬁcally about the Internet as a platform for digital visual culture.",
-     "after": "In other words, their critiques neglect the added and determinative element of networking—the facilitation of image production and sharing via linked computers.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 11",
-     "locator": 22,
-     "before": "The continued existence of digital inequality necessitates considerations of identity and power relations—racial formation—along the axes of race, gender, and class.",
-     "sentence": "While Manovich’s Language of New Media stresses the importance of interfaces as vectors of ideology, there has yet to be a visually oriented critique of new media networked communications on the most popular network to date—the Internet—which considers these issues of raced and gendered bodies, both virtual and real.",
-     "after": "Visual culture studies was born in response to a crisis in art history: it is an insurgent art criticism that merges at some points with cultural studies but has different foundational texts that are oriented toward constructed social identities and a concern with the visual apparatus.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 15",
-     "locator": 26,
-     "before": "The Internet has created and deﬁned digital visual capital, a commodity that we mark as desirable by conferring on it the status of a language unto itself; we speak now of digital literacy as well as visual and the ordinary sort of literacy.",
-     "sentence": "Manovich’s The Language of New Media presumes that digital media constitute a new logic or typology of meaning.",
-     "after": "Though he is careful to interrogate this assumption, it is often claimed that interactivity is the salient aspect of this language that distinguishes it from others.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 16",
-     "locator": 27,
-     "before": "This brings us back to the privileging of interactivity and its traditional linkage with the creation of a newly empowered subject.",
-     "sentence": "According to Lev Manovich’s provocative “myth of interactivity,” “interactive media ask us to identify with someone else’s mental structure.”",
-     "after": "Rather than allowing the user to have an open-ended, seemingly limitless and boundless experience of reading, Manovich stresses the rigidity of hyperlinking as a mode of experiencing information: when “interactive media asks us to click on a highlighted sentence to go to another sentence... we are asked to follow pre-programmed, objectively existing associations.”",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 16",
-     "locator": 27,
-     "before": "According to Lev Manovich’s provocative “myth of interactivity,” “interactive media ask us to identify with someone else’s mental structure.”",
-     "sentence": "Rather than allowing the user to have an open-ended, seemingly limitless and boundless experience of reading, Manovich stresses the rigidity of hyperlinking as a mode of experiencing information: when “interactive media asks us to click on a highlighted sentence to go to another sentence... we are asked to follow pre-programmed, objectively existing associations.”",
-     "after": "According to this interpretation, we are ideologically interpellated into the “new media designer’s mental trajectory,” just as in Hollywood ﬁlm we are asked to “lust after and try to emulate the body of the movie star.”",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 16",
-     "locator": 27,
-     "before": "According to this interpretation, we are ideologically interpellated into the “new media designer’s mental trajectory,” just as in Hollywood ﬁlm we are asked to “lust after and try to emulate the body of the movie star.”",
-     "sentence": "Manovich’s formulation allows us to trace the process of identiﬁcation that occurs with new media use: he compares it to the viewer’s process of identiﬁcation with the star’s body in the realm of ﬁlm.",
-     "after": "And just as we have a well-developed theory of cultural capital and viewer identiﬁcation involving stars, so too must we now view the interface as an object that compels particular sorts of identiﬁcations, investments, ideological seductions, and conscious as well as unconscious exercises of power.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 19",
-     "locator": 30,
-     "before": "This split represents a paradigmatic dichotomy in gender theory: the body is that of the Latina, the woman of color, and the mind is that of a white man.",
-     "sentence": "As Donna Haraway writes in her famous “Manifesto for Cyborgs,” an essay that Csordas describes as “an anxious celebration of our contemporary transformation into cyborgs,” the “offshore woman” or the woman of color in the integrated circuit of information technology production is framed as an object rather than a subject of interactivity.",
-     "after": "There is much at stake, however, in observing the ways that members of the Fourth World—women of color, members of linguistic and ethnic minority cultures, the global underclass—negotiate their identities as digital objects and in incremental ways move them toward digital subjecthood.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 20",
-     "locator": 31,
-     "before": "There is much at stake, however, in observing the ways that members of the Fourth World—women of color, members of linguistic and ethnic minority cultures, the global underclass—negotiate their identities as digital objects and in incremental ways move them toward digital subjecthood.",
-     "sentence": "The reason for this is that, as Chela Sandoval stresses quite strongly in Methodology of the Oppressed, a work that takes Haraway’s notion of the cyborg subject and develops it into a strategy for acquiring power for women of color in the context of a technologized world, “the methodology of the oppressed can now be recognized as the mode of being best suited to life under neocolonizing postmodern and highly technologized conditions in the ﬁrst world; for to enter a world where any activity is possible in order to ensure survival is to enter a cyberspace of being.”",
-     "after": "In other words, it is precisely because the world inhabited by wired, technologized, privileged subjects requires constantly shifting and contingent work skills, educational preparation, and cultural expertise that the “technologies developed by subjugated populations to negotiate this realm of shifting meanings” can prove indispensable.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 20",
-     "locator": 31,
-     "before": "(Banned from the Ranch is the name of the production company that programmed the ﬁctional Web interface deployed in the ﬁlm.)",
-     "sentence": "Its subject matter, the way that it compartmentalizes physical space, virtual space, music genre niches, and modes of interaction, is in keeping with the logic of new media as explained in Manovich’s seminal work on the topic: it combines modularity and automaticity with the added beneﬁt of simulated liveness.",
-     "after": "In addition, Jennifer Lopez’s rise as star coincides with the Internet’s rise as a mainstream visual culture with its own interventions into traditional media cultures.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 55",
-     "locator": 66,
-     "before": "The notion that even small alterations to a new media object might legitimately be counted as original production is part of new media theory and indeed one of the key aspects by which new media are distinguished from old media.",
-     "sentence": "Lev Manovich writes that the logic of new media deﬁnes the principle of selection as a subset of the act of production, thus calling into question the idea of “original creation.”",
-     "after": "This is meant not as a downgrading or criticism of the principle of selection but as a modiﬁcation of the notion of authorship.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 56",
-     "locator": 67,
-     "before": "This line of thinking is the logical consequence of a postmodernist notion of diffused, compromised, or even dead authorship that can be traced back to Foucault and Barthes.",
-     "sentence": "A meaningful deﬁnition of self-authorship in the case of AIM buddies resides in another basic principle differentiating new media from old, according to Manovich: modularity.",
-     "after": "“Media elements, be they images, sounds, shapes, or behaviors, are represented as collections of discrete samples (pixels, polygons, voxels, characters, scripts).",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 64",
-     "locator": 75,
-     "before": "Also, IM and early cinema share a mode of exhibition: both are exhibited in relatively private screen-viewing situations.",
-     "sentence": "As Persson notes, white-screen projection of early ﬁlms was adopted after the peep show; and as Manovich notes, personal computer screens are private, rather than public, viewing devices.",
-     "after": "The sense of gazing into a private screen is shared by IM users, particularly when they are using laptop computers.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 66",
-     "locator": 77,
-     "before": "This breaking up of the female body into discrete elements, i.e. the creation of the image of woman as series of objects, is in terms of fetishistic scopophilia, focusing on the object or body part used for sexual enjoyment.”",
-     "sentence": "As does Manovich, Flanagan stresses the modular independence of the individual digital parts that make up digibodies and all new media objects, but unlike him, she identiﬁes a “command and control paradigm of desire” that expresses an overdetermined female body that works as a site of visual pleasure in Western culture.",
-     "after": "Thus “independence” on the level of the image’s structure and function results in a dynamic in which independence in political and representational terms is withheld from women themselves.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 67",
-     "locator": 78,
-     "before": "“Muslim,” “usachick,” and “nails n cross” represent a female body cut into three discrete pieces, head, torso, and legs, so as to ﬁt a sufﬁciently detailed “total” body into a small space; but this method, which may have originated as a technological ﬁx for dealing with a space shortage, results in a mode of viewing that fetishizes the female body, creating a virtual “inventory” of its parts, a term that predates the notion of the digital database but is homologous with it.",
-     "sentence": "Though, as Manovich notes, all ﬁlms are basically databases of images, this portioning of the body into parts is relatively uncommon in early cinema, which tended to depict the human form in its entirety.",
-     "after": "As Persson notes, it was considered “bad composition” to represent a body with its feet outside the frame.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 68",
-     "locator": 79,
-     "before": "This may have something to do with the “tackiness” of amateur-produced AIM buddy icon images; along the axis of taste, cheese and wrestling are like Shakespeare compared to the AIM buddies I have discussed.",
-     "sentence": "The new media canon, as exempliﬁed by work such as Manovich’s, Darley’s, and Galloway’s, privileges interfaces, virtual reality applications, and digital art, games, and Web sites.",
-     "after": "The lower tier is reserved for youth-oriented ephemeral activities, like chats and IM, which may account for the dearth of critical research on these visual digital practices.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 68",
-     "locator": 79,
-     "before": "While there has been published research on IM by social scientists mainly regarding discourse analysis, there has been little by cultural theorists.",
-     "sentence": "AIM buddies are everything that new media, as described and idealized by formalists such as Manovich, is not or is not supposed to be: while the ideal form of new media as described in much of the scholarship has value because it is interactive, synchronous, fully featured, immersive, possessed of spatial depth, adventuresome in terms of content and form, and richly textured, AIM buddies are low ﬁdelity, fairly uninteractive, often tasteless, and poorly produced simulations.",
-     "after": "This may account, at least partly, for their neglect by scholars; in a ﬁeld that privileges the “virtual” for its ability to create convincing simulations and postmodern identity experiences, AIM buddies are on the low end of virtuality and virtuosity.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 96",
-     "locator": 107,
-     "before": "Rather than freeing us from the body, as cyberpunk narratives of idealized disembodiment foresaw, informational technologies have turned the body into property in a particular way—gene lines, organs, stem cells, and other bodily products have a market value based on their informational transcodability across or between races, which constitutes their use value.",
-     "sentence": "Donna Haraway as well sees a return to “self-alienation” and dispossession of the body as a result of technoscience but not in its previous early modern forms.",
-     "after": "In her discussion of “SimEve,” the digital composite of a woman created as a representative of “the future face of America,” Haraway remarks: “We are abruptly returned to the category of databases and the marriage of genomics and informatics in the artiﬁcial life worlds that reconstitute what it means to be human.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 96",
-     "locator": 107,
-     "before": "Donna Haraway as well sees a return to “self-alienation” and dispossession of the body as a result of technoscience but not in its previous early modern forms.",
-     "sentence": "In her discussion of “SimEve,” the digital composite of a woman created as a representative of “the future face of America,” Haraway remarks: “We are abruptly returned to the category of databases and the marriage of genomics and informatics in the artiﬁcial life worlds that reconstitute what it means to be human.",
-     "after": "Here, the category so ethereally and technically reconﬁgured is race.”",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 97",
-     "locator": 108,
-     "before": "It is only in the abstract world of cyberspace that this ideal visual racial synthesis can occur; in our world, we instead ﬁght bitter battles over stem cell use, transgenics, and racial proﬁling on the level of the gene.",
-     "sentence": "Haraway concurs with Williams that information and communications technologies are both a product and a symptom of an ideology that centers the body in a new way, a way that legitimates racial categories as real and useful under the sign of science.",
-     "after": "In her “20th Century Biological U.S. Kinship Categories” chart, Haraway writes that from the 1940s to the 1970s, “race is an illusory object constructed by bad science,” but from 1975 to the 1990s, “race reemerges in medical discourse on organ transplants and drug testing.”",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 97",
-     "locator": 108,
-     "before": "Haraway concurs with Williams that information and communications technologies are both a product and a symptom of an ideology that centers the body in a new way, a way that legitimates racial categories as real and useful under the sign of science.",
-     "sentence": "In her “20th Century Biological U.S. Kinship Categories” chart, Haraway writes that from the 1940s to the 1970s, “race is an illusory object constructed by bad science,” but from 1975 to the 1990s, “race reemerges in medical discourse on organ transplants and drug testing.”",
-     "after": "It is difﬁcult if not impossible for the poor, socially disenfranchised, and raced individual to own one’s own body in the best of times, but the terms have changed since the seventies; in a dataveillant society based in informational or late capitalism, ownership or at least partial control over one’s digital or databody is essential.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 101",
-     "locator": 112,
-     "before": "The reﬂexivity of whiteness—its ability to reproduce itself inﬁnitely—is depicted here as essentially viral in nature.",
-     "sentence": "Agent Smith’s mode of reproduction echoes one that Lev Manovich identiﬁes as one of the “popularly held notions about the difference between old and new media,” which is the idea that “in contrast to analog media where each successive copy loses quality, digitally encoded media can be copied endlessly without degradation.”",
-     "after": "This brings to mind Agent Smith’s speech to Morpheus near the end of The Matrix, in which he describes humanity as a “disease” that spreads without check, like a virus.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 104",
-     "locator": 115,
-     "before": "Two women operate a bazooka team, Niobe ﬂies the ship, the women have muscles, they kick ass, and this isn’t your grandmother’s Second Sex anymore.”",
-     "sentence": "I would add as well that the two women—Zee and Charra—operating the bazooka team are black and Latina, and the heroic pilot, Niobe, is black; the future of Zion, it seems, has a great deal to do with women of color acquiring key roles, a compelling prediction in light of Donna Haraway’s writings on cyborg subjectivity and the role of women of color, or the “offshore woman,” as a worker in the information economy.",
-     "after": "As Haraway writes in “A Cyborg Manifesto”: “Earlier I have suggested that ‘women of colour’ might be understood as a cyborg identity, a potent subjectivity synthesized from fusions of outsider identities and in the complex political-historical layerings of her ‘biomythography.’”",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 105",
-     "locator": 116,
-     "before": "I would add as well that the two women—Zee and Charra—operating the bazooka team are black and Latina, and the heroic pilot, Niobe, is black; the future of Zion, it seems, has a great deal to do with women of color acquiring key roles, a compelling prediction in light of Donna Haraway’s writings on cyborg subjectivity and the role of women of color, or the “offshore woman,” as a worker in the information economy.",
-     "sentence": "As Haraway writes in “A Cyborg Manifesto”: “Earlier I have suggested that ‘women of colour’ might be understood as a cyborg identity, a potent subjectivity synthesized from fusions of outsider identities and in the complex political-historical layerings of her ‘biomythography.’”",
-     "after": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 105",
-     "locator": 116,
-     "before": "As Haraway writes in “A Cyborg Manifesto”: “Earlier I have suggested that ‘women of colour’ might be understood as a cyborg identity, a potent subjectivity synthesized from fusions of outsider identities and in the complex political-historical layerings of her ‘biomythography.’”",
-     "sentence": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
-     "after": "In other words, like the Korean prostitutes and electronic assembly workers of whom Haraway writes, they are denied the subjectivity and agency that comes with the only form of truly valorized labor (other than ﬁghting) in the trilogy—that is, computer programming.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 105",
-     "locator": 116,
-     "before": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
-     "sentence": "In other words, like the Korean prostitutes and electronic assembly workers of whom Haraway writes, they are denied the subjectivity and agency that comes with the only form of truly valorized labor (other than ﬁghting) in the trilogy—that is, computer programming.",
-     "after": "They are objects, not subjects, of interactivity.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 106",
-     "locator": 117,
-     "before": "Studies of the interface have long occupied a privileged position in new media criticism.",
-     "sentence": "Lev Manovich’s The Language of New Media devotes several chapters to it, and books like Steven Johnson’s Interface Culture posit the interface as the paradigmatic aspect of computer culture that can be taken to represent all of new media.",
-     "after": "These studies concern themselves with the matter of new media form as divorced from content or politics.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 111",
-     "locator": 122,
-     "before": "Random access is an essential principle of the structure and logic of new media that respatializes media experiences: rather than needing to wait until a tape or other physical medium rewinds to get to the beginning of its contents, random access allows us to get there immediately, if we know where we want to go.",
-     "sentence": "As Lev Manovich puts it, random access is symptomatic of the “decline of the ﬁeld of rhetoric in the modern era,” for in contrast to modes of information presentation that rely on argument, narrative progression, and other systems of sequential arrangement, new media culture is better conceived of as “an inﬁnite ﬂat surface where individual texts are placed in no particular order.”",
-     "after": "This “ﬂattening” of the data produces a user who is deﬁned by “spatial wandering”; in the absence of an author or writer to order the media experience for her, the postmodern subject produced by random-access environments like digital gaming and use of hyperlinks and other interactive computer media is one deﬁned by its freedom.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 125",
-     "locator": 136,
-     "before": "Hence cyberculture enables a privileged view of image and race as code and takes it away: the same computers that allow Anderton to “scrub” the image make him permanently vulnerable to their surveillance.",
-     "sentence": "This unprecedented vulnerability to techno-surveillance is, however, part of what it means to be a person of color in the “integrated circuit,” to use Haraway’s eloquent formulation.",
-     "after": "Donna Haraway and Paul Gilroy both strongly insist on the revisioning of race as code, genome, and restlessly interrogate this system: the visuality of race has retreated from pencil tests, paper bag tests, and other naked-eye optical assessments and now resides in acronyms like ART, DNA, IVF, and HGP.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 125",
-     "locator": 136,
-     "before": "This unprecedented vulnerability to techno-surveillance is, however, part of what it means to be a person of color in the “integrated circuit,” to use Haraway’s eloquent formulation.",
-     "sentence": "Donna Haraway and Paul Gilroy both strongly insist on the revisioning of race as code, genome, and restlessly interrogate this system: the visuality of race has retreated from pencil tests, paper bag tests, and other naked-eye optical assessments and now resides in acronyms like ART, DNA, IVF, and HGP.",
-     "after": "The primacy of vision reigns unchallenged but only on a level so microscopic that only machines can “see” it.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 157",
-     "locator": 168,
-     "before": "Part of visual culture’s intervention into this state of things is to critique the gaze and to encourage other ways of seeing; Nick Mirzoeff wishes to replace the gaze with the “transverse glance,” which is the “transient, transnational, transgendered way of seeing that visual culture seeks to deﬁne, describe, and deconstruct.”",
-     "sentence": "However, as Donna Haraway writes in “The Persistence of Vision,” perhaps it is time to reclaim vision for feminist ethics.",
-     "after": "Despite the eyes’ “having been used to signify a perverse capacity—honed to perfection in the history of science tied to militarism, capitalism, colonialism, and male supremacy— to distance the knowing subject from everybody and everything in the interests of unfettered power,” it seems particularly strategic to do so right now, at this particular moment in both new media studies and feminist theory.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 161",
-     "locator": 172,
-     "before": "Photoshop, Illustrator, and Fireworks are notoriously difﬁcult to learn, and it is a truism of the Net that it is much easier to borrow or steal images than it is to create them from scratch.",
-     "sentence": "As Manovich writes, this new aesthetic of selecting from preexisting sets of images rather than creating new ones characterizes new media’s very structure and logic.",
-     "after": "The modularity of digital images makes the principle of copying and modiﬁcation the basis of new media practice.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "chun-updating-to-remain-the-same-habitual-new",
-     "author": "Wendy Hui Kyong Chun",
-     "section": null,
-     "page": "p. 171",
-     "locator": 182,
-     "before": "What are the cultural politics of measuring Internet users in terms of race, and how do the categories used in demographic studies of Internet users evaluate and inﬂuence assessments of online participation and power?",
-     "sentence": "As Wendy Chun, Lee and Wong, Palumbo-Liu, and my prior work has noted, Asians and Asian Americans are already ﬁgured as having a privileged relationship to cybertechnologies in some ways.",
-     "after": "Despite characterizations of Asian Americans as uniquely privileged technology consumers, they inhabit a range of positions in relation to the Internet: Robert Lee writes that “Asian Americans, particularly immigrant Asian workers, have a highly visible position on both ends of the post-Fordist economy, in what urban sociologist Measuring Race on the Internet: Users, Identity, and Cultural Difference in the United States Saskia Sassen has called ‘global cities.’”",
-     "highlights": [
-      "Wendy Chun"
-     ]
-    },
-    {
-     "bookId": "chun-updating-to-remain-the-same-habitual-new",
-     "author": "Wendy Hui Kyong Chun",
-     "section": null,
-     "page": "p. 180",
-     "locator": 191,
-     "before": "However, neither are they necessarily privileged digital model minorities.",
-     "sentence": "As Wendy Chun writes, “The Internet is not inherently oriental, but has been made oriental.”",
-     "after": "The ongoing cultural association with Asians and Asian Americans and high technologies is part of a vibrant and long-standing mythology.",
-     "highlights": [
-      "Wendy Chun"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": null,
-     "page": "p. 190",
-     "locator": 201,
-     "before": "Modular means of digital production assume that users “shop” for digital parts to combine into a composited whole rather than building original images.",
-     "sentence": "As Manovich notes, this is the structure of all new media objects and is intrinsic to the protocols of digital media in a way that is not necessarily gendered at all.",
-     "after": "However, the feminization of consumption or “shopping” as a mode of digital self-expression is certainly well established in our culture.",
-     "highlights": [
-      "Manovich"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": null,
-     "page": "p. 209",
-     "locator": 220,
-     "before": "Digital systems such as facial recognition software operationalize and instrumentalize race just as the Human Genome Project tells us precisely which locations on the human gene set “contain” race.",
-     "sentence": "The resurgence of scientism, in particular the privileging of the biotechnological sciences, has been powerfully documented and critiqued by scholars such as Donna Haraway, Anne Fausto-Sterling, and Maria Fernandez.",
-     "after": "This high-cultural valuation of science as a way of understanding identity, behavior, and the self as social actor continues to erode humanistically based notions of the subject as socially constructed.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    }
-   ],
-   "year": 2007
-  },
-  "latour-reassembling-the-social-an-introduction": {
-   "title": "Reassembling the Social: An Introduction to",
-   "authors": [
-    "Bruno Latour"
-   ],
-   "mentions": [
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "First Move: Localizing the Global",
-     "page": "PDF page 111",
-     "locator": 111,
-     "before": "To designate this first category of landmarks, I propose to use the word oligopticon as the generic term, reserving the expression of ‘centers of calculation’ for the sites where literal and not simply metaphorical calculations are made possible by the mathematical or at least arithmetic format of the documents being brought back and forth.",
-     "sentence": "As every reader of Michel Foucault knows, the ‘panopticon’, an ideal prison allowing for a total surveillance of inmates imagined at the beginning of the 19th century by Jeremy Bentham, has remained a utopia, that is, a world of nowhere to feed the double disease of total paranoia and total megalomania.",
-     "after": "We, however, are not looking for utopia, but for places on earth that are fully assignable.",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    }
-   ],
-   "year": 2007
   },
   "rose-visual-methodologies-an-introduction-to": {
    "title": "Visual methodologies: an introduction to researching with",
@@ -2165,6 +1653,839 @@
      ]
     }
    ],
+   "year": 2001
+  },
+  "latour-reassembling-the-social-an-introduction": {
+   "title": "Reassembling the Social: An Introduction to",
+   "authors": [
+    "Bruno Latour"
+   ],
+   "mentions": [
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "First Move: Localizing the Global",
+     "page": "PDF page 111",
+     "locator": 111,
+     "before": "To designate this first category of landmarks, I propose to use the word oligopticon as the generic term, reserving the expression of ‘centers of calculation’ for the sites where literal and not simply metaphorical calculations are made possible by the mathematical or at least arithmetic format of the documents being brought back and forth.",
+     "sentence": "As every reader of Michel Foucault knows, the ‘panopticon’, an ideal prison allowing for a total surveillance of inmates imagined at the beginning of the 19th century by Jeremy Bentham, has remained a utopia, that is, a world of nowhere to feed the double disease of total paranoia and total megalomania.",
+     "after": "We, however, are not looking for utopia, but for places on earth that are fully assignable.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    }
+   ],
+   "year": 2005
+  },
+  "nakamura-digitizing-race-visual-cultures-of-the-i": {
+   "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+   "authors": [
+    "Lisa Nakamura"
+   ],
+   "mentions": [
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": null,
+     "page": "PDF page 2",
+     "locator": 2,
+     "before": "",
+     "sentence": "Electronic Mediations Katherine Hayles, Mark Poster, and Samuel Weber, series editors Digitizing Race: Visual Cultures of the Internet Small Tech: The Culture of Digital Tools Byron Hawk, David M. Rieder, and Ollie Oviedo, editors The Exploit: A Theory of Networks Alexander R. Galloway and Eugene Thacker Database Aesthetics: Art in the Age of Information Overﬂow Victoria Vesna, editor Cyberspaces of Everyday Life Mark Nunes Gaming: Essays on Algorithmic Culture Alexander R. Galloway Avatars of Story Marie-Laure Ryan Wireless Writing in the Age of Marconi Timothy C. Campbell Electronic Monuments Gregory L. Ulmer Lara Croft: Cyber Heroine Astrid Deuber-Mankowsky The Souls of Cyberfolk: Posthumanism as Vernacular Theory Thomas Foster Déjà Vu: Aberrations of Cultural Memory Peter Krapp Biomedia Eugene Thacker Avatar Bodies: A Tantra for Posthumanism Ann Weinstone Connected, or What It Means to Live in the Network Society Steven Shaviro Cognitive Fictions Joseph Tabbi continued on page 240 Visual Cultures of the Internet Electronic Mediations, Volume 23 University of Minnesota Press Minneapolis London Copyright 2008 Lisa Nakamura All rights reserved.",
+     "after": "No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the publisher.",
+     "highlights": [
+      "Katherine Hayles"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 9",
+     "locator": 20,
+     "before": "David Bolter and Richard Grusin take a similar tack in Remediation, as does Per Persson.",
+     "sentence": "The most impressive of these is Lev Manovich, whose brilliant Language of New Media is justly credited with creating the ﬁrst fully articulated theoretical work on the logic of digital media by linking the rigorous afﬁnities between ﬁlm form and history to the structure and function of computer software and its operations.",
+     "after": "However, while Darley, Manovich, and Persson pay close attention to the connections between old and new media forms, reception, and exhibition, none of them writes speciﬁcally about the Internet as a platform for digital visual culture.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 9",
+     "locator": 20,
+     "before": "The most impressive of these is Lev Manovich, whose brilliant Language of New Media is justly credited with creating the ﬁrst fully articulated theoretical work on the logic of digital media by linking the rigorous afﬁnities between ﬁlm form and history to the structure and function of computer software and its operations.",
+     "sentence": "However, while Darley, Manovich, and Persson pay close attention to the connections between old and new media forms, reception, and exhibition, none of them writes speciﬁcally about the Internet as a platform for digital visual culture.",
+     "after": "In other words, their critiques neglect the added and determinative element of networking—the facilitation of image production and sharing via linked computers.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 11",
+     "locator": 22,
+     "before": "The continued existence of digital inequality necessitates considerations of identity and power relations—racial formation—along the axes of race, gender, and class.",
+     "sentence": "While Manovich’s Language of New Media stresses the importance of interfaces as vectors of ideology, there has yet to be a visually oriented critique of new media networked communications on the most popular network to date—the Internet—which considers these issues of raced and gendered bodies, both virtual and real.",
+     "after": "Visual culture studies was born in response to a crisis in art history: it is an insurgent art criticism that merges at some points with cultural studies but has different foundational texts that are oriented toward constructed social identities and a concern with the visual apparatus.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 15",
+     "locator": 26,
+     "before": "The Internet has created and deﬁned digital visual capital, a commodity that we mark as desirable by conferring on it the status of a language unto itself; we speak now of digital literacy as well as visual and the ordinary sort of literacy.",
+     "sentence": "Manovich’s The Language of New Media presumes that digital media constitute a new logic or typology of meaning.",
+     "after": "Though he is careful to interrogate this assumption, it is often claimed that interactivity is the salient aspect of this language that distinguishes it from others.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 16",
+     "locator": 27,
+     "before": "This brings us back to the privileging of interactivity and its traditional linkage with the creation of a newly empowered subject.",
+     "sentence": "According to Lev Manovich’s provocative “myth of interactivity,” “interactive media ask us to identify with someone else’s mental structure.”",
+     "after": "Rather than allowing the user to have an open-ended, seemingly limitless and boundless experience of reading, Manovich stresses the rigidity of hyperlinking as a mode of experiencing information: when “interactive media asks us to click on a highlighted sentence to go to another sentence... we are asked to follow pre-programmed, objectively existing associations.”",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 16",
+     "locator": 27,
+     "before": "According to Lev Manovich’s provocative “myth of interactivity,” “interactive media ask us to identify with someone else’s mental structure.”",
+     "sentence": "Rather than allowing the user to have an open-ended, seemingly limitless and boundless experience of reading, Manovich stresses the rigidity of hyperlinking as a mode of experiencing information: when “interactive media asks us to click on a highlighted sentence to go to another sentence... we are asked to follow pre-programmed, objectively existing associations.”",
+     "after": "According to this interpretation, we are ideologically interpellated into the “new media designer’s mental trajectory,” just as in Hollywood ﬁlm we are asked to “lust after and try to emulate the body of the movie star.”",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 16",
+     "locator": 27,
+     "before": "According to this interpretation, we are ideologically interpellated into the “new media designer’s mental trajectory,” just as in Hollywood ﬁlm we are asked to “lust after and try to emulate the body of the movie star.”",
+     "sentence": "Manovich’s formulation allows us to trace the process of identiﬁcation that occurs with new media use: he compares it to the viewer’s process of identiﬁcation with the star’s body in the realm of ﬁlm.",
+     "after": "And just as we have a well-developed theory of cultural capital and viewer identiﬁcation involving stars, so too must we now view the interface as an object that compels particular sorts of identiﬁcations, investments, ideological seductions, and conscious as well as unconscious exercises of power.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 19",
+     "locator": 30,
+     "before": "This split represents a paradigmatic dichotomy in gender theory: the body is that of the Latina, the woman of color, and the mind is that of a white man.",
+     "sentence": "As Donna Haraway writes in her famous “Manifesto for Cyborgs,” an essay that Csordas describes as “an anxious celebration of our contemporary transformation into cyborgs,” the “offshore woman” or the woman of color in the integrated circuit of information technology production is framed as an object rather than a subject of interactivity.",
+     "after": "There is much at stake, however, in observing the ways that members of the Fourth World—women of color, members of linguistic and ethnic minority cultures, the global underclass—negotiate their identities as digital objects and in incremental ways move them toward digital subjecthood.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 20",
+     "locator": 31,
+     "before": "There is much at stake, however, in observing the ways that members of the Fourth World—women of color, members of linguistic and ethnic minority cultures, the global underclass—negotiate their identities as digital objects and in incremental ways move them toward digital subjecthood.",
+     "sentence": "The reason for this is that, as Chela Sandoval stresses quite strongly in Methodology of the Oppressed, a work that takes Haraway’s notion of the cyborg subject and develops it into a strategy for acquiring power for women of color in the context of a technologized world, “the methodology of the oppressed can now be recognized as the mode of being best suited to life under neocolonizing postmodern and highly technologized conditions in the ﬁrst world; for to enter a world where any activity is possible in order to ensure survival is to enter a cyberspace of being.”",
+     "after": "In other words, it is precisely because the world inhabited by wired, technologized, privileged subjects requires constantly shifting and contingent work skills, educational preparation, and cultural expertise that the “technologies developed by subjugated populations to negotiate this realm of shifting meanings” can prove indispensable.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 20",
+     "locator": 31,
+     "before": "(Banned from the Ranch is the name of the production company that programmed the ﬁctional Web interface deployed in the ﬁlm.)",
+     "sentence": "Its subject matter, the way that it compartmentalizes physical space, virtual space, music genre niches, and modes of interaction, is in keeping with the logic of new media as explained in Manovich’s seminal work on the topic: it combines modularity and automaticity with the added beneﬁt of simulated liveness.",
+     "after": "In addition, Jennifer Lopez’s rise as star coincides with the Internet’s rise as a mainstream visual culture with its own interventions into traditional media cultures.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 55",
+     "locator": 66,
+     "before": "The notion that even small alterations to a new media object might legitimately be counted as original production is part of new media theory and indeed one of the key aspects by which new media are distinguished from old media.",
+     "sentence": "Lev Manovich writes that the logic of new media deﬁnes the principle of selection as a subset of the act of production, thus calling into question the idea of “original creation.”",
+     "after": "This is meant not as a downgrading or criticism of the principle of selection but as a modiﬁcation of the notion of authorship.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 56",
+     "locator": 67,
+     "before": "This line of thinking is the logical consequence of a postmodernist notion of diffused, compromised, or even dead authorship that can be traced back to Foucault and Barthes.",
+     "sentence": "A meaningful deﬁnition of self-authorship in the case of AIM buddies resides in another basic principle differentiating new media from old, according to Manovich: modularity.",
+     "after": "“Media elements, be they images, sounds, shapes, or behaviors, are represented as collections of discrete samples (pixels, polygons, voxels, characters, scripts).",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 64",
+     "locator": 75,
+     "before": "Also, IM and early cinema share a mode of exhibition: both are exhibited in relatively private screen-viewing situations.",
+     "sentence": "As Persson notes, white-screen projection of early ﬁlms was adopted after the peep show; and as Manovich notes, personal computer screens are private, rather than public, viewing devices.",
+     "after": "The sense of gazing into a private screen is shared by IM users, particularly when they are using laptop computers.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 66",
+     "locator": 77,
+     "before": "This breaking up of the female body into discrete elements, i.e. the creation of the image of woman as series of objects, is in terms of fetishistic scopophilia, focusing on the object or body part used for sexual enjoyment.”",
+     "sentence": "As does Manovich, Flanagan stresses the modular independence of the individual digital parts that make up digibodies and all new media objects, but unlike him, she identiﬁes a “command and control paradigm of desire” that expresses an overdetermined female body that works as a site of visual pleasure in Western culture.",
+     "after": "Thus “independence” on the level of the image’s structure and function results in a dynamic in which independence in political and representational terms is withheld from women themselves.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 67",
+     "locator": 78,
+     "before": "“Muslim,” “usachick,” and “nails n cross” represent a female body cut into three discrete pieces, head, torso, and legs, so as to ﬁt a sufﬁciently detailed “total” body into a small space; but this method, which may have originated as a technological ﬁx for dealing with a space shortage, results in a mode of viewing that fetishizes the female body, creating a virtual “inventory” of its parts, a term that predates the notion of the digital database but is homologous with it.",
+     "sentence": "Though, as Manovich notes, all ﬁlms are basically databases of images, this portioning of the body into parts is relatively uncommon in early cinema, which tended to depict the human form in its entirety.",
+     "after": "As Persson notes, it was considered “bad composition” to represent a body with its feet outside the frame.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 68",
+     "locator": 79,
+     "before": "This may have something to do with the “tackiness” of amateur-produced AIM buddy icon images; along the axis of taste, cheese and wrestling are like Shakespeare compared to the AIM buddies I have discussed.",
+     "sentence": "The new media canon, as exempliﬁed by work such as Manovich’s, Darley’s, and Galloway’s, privileges interfaces, virtual reality applications, and digital art, games, and Web sites.",
+     "after": "The lower tier is reserved for youth-oriented ephemeral activities, like chats and IM, which may account for the dearth of critical research on these visual digital practices.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 68",
+     "locator": 79,
+     "before": "While there has been published research on IM by social scientists mainly regarding discourse analysis, there has been little by cultural theorists.",
+     "sentence": "AIM buddies are everything that new media, as described and idealized by formalists such as Manovich, is not or is not supposed to be: while the ideal form of new media as described in much of the scholarship has value because it is interactive, synchronous, fully featured, immersive, possessed of spatial depth, adventuresome in terms of content and form, and richly textured, AIM buddies are low ﬁdelity, fairly uninteractive, often tasteless, and poorly produced simulations.",
+     "after": "This may account, at least partly, for their neglect by scholars; in a ﬁeld that privileges the “virtual” for its ability to create convincing simulations and postmodern identity experiences, AIM buddies are on the low end of virtuality and virtuosity.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 96",
+     "locator": 107,
+     "before": "Rather than freeing us from the body, as cyberpunk narratives of idealized disembodiment foresaw, informational technologies have turned the body into property in a particular way—gene lines, organs, stem cells, and other bodily products have a market value based on their informational transcodability across or between races, which constitutes their use value.",
+     "sentence": "Donna Haraway as well sees a return to “self-alienation” and dispossession of the body as a result of technoscience but not in its previous early modern forms.",
+     "after": "In her discussion of “SimEve,” the digital composite of a woman created as a representative of “the future face of America,” Haraway remarks: “We are abruptly returned to the category of databases and the marriage of genomics and informatics in the artiﬁcial life worlds that reconstitute what it means to be human.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 96",
+     "locator": 107,
+     "before": "Donna Haraway as well sees a return to “self-alienation” and dispossession of the body as a result of technoscience but not in its previous early modern forms.",
+     "sentence": "In her discussion of “SimEve,” the digital composite of a woman created as a representative of “the future face of America,” Haraway remarks: “We are abruptly returned to the category of databases and the marriage of genomics and informatics in the artiﬁcial life worlds that reconstitute what it means to be human.",
+     "after": "Here, the category so ethereally and technically reconﬁgured is race.”",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 97",
+     "locator": 108,
+     "before": "It is only in the abstract world of cyberspace that this ideal visual racial synthesis can occur; in our world, we instead ﬁght bitter battles over stem cell use, transgenics, and racial proﬁling on the level of the gene.",
+     "sentence": "Haraway concurs with Williams that information and communications technologies are both a product and a symptom of an ideology that centers the body in a new way, a way that legitimates racial categories as real and useful under the sign of science.",
+     "after": "In her “20th Century Biological U.S. Kinship Categories” chart, Haraway writes that from the 1940s to the 1970s, “race is an illusory object constructed by bad science,” but from 1975 to the 1990s, “race reemerges in medical discourse on organ transplants and drug testing.”",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 97",
+     "locator": 108,
+     "before": "Haraway concurs with Williams that information and communications technologies are both a product and a symptom of an ideology that centers the body in a new way, a way that legitimates racial categories as real and useful under the sign of science.",
+     "sentence": "In her “20th Century Biological U.S. Kinship Categories” chart, Haraway writes that from the 1940s to the 1970s, “race is an illusory object constructed by bad science,” but from 1975 to the 1990s, “race reemerges in medical discourse on organ transplants and drug testing.”",
+     "after": "It is difﬁcult if not impossible for the poor, socially disenfranchised, and raced individual to own one’s own body in the best of times, but the terms have changed since the seventies; in a dataveillant society based in informational or late capitalism, ownership or at least partial control over one’s digital or databody is essential.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 101",
+     "locator": 112,
+     "before": "The reﬂexivity of whiteness—its ability to reproduce itself inﬁnitely—is depicted here as essentially viral in nature.",
+     "sentence": "Agent Smith’s mode of reproduction echoes one that Lev Manovich identiﬁes as one of the “popularly held notions about the difference between old and new media,” which is the idea that “in contrast to analog media where each successive copy loses quality, digitally encoded media can be copied endlessly without degradation.”",
+     "after": "This brings to mind Agent Smith’s speech to Morpheus near the end of The Matrix, in which he describes humanity as a “disease” that spreads without check, like a virus.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 104",
+     "locator": 115,
+     "before": "Two women operate a bazooka team, Niobe ﬂies the ship, the women have muscles, they kick ass, and this isn’t your grandmother’s Second Sex anymore.”",
+     "sentence": "I would add as well that the two women—Zee and Charra—operating the bazooka team are black and Latina, and the heroic pilot, Niobe, is black; the future of Zion, it seems, has a great deal to do with women of color acquiring key roles, a compelling prediction in light of Donna Haraway’s writings on cyborg subjectivity and the role of women of color, or the “offshore woman,” as a worker in the information economy.",
+     "after": "As Haraway writes in “A Cyborg Manifesto”: “Earlier I have suggested that ‘women of colour’ might be understood as a cyborg identity, a potent subjectivity synthesized from fusions of outsider identities and in the complex political-historical layerings of her ‘biomythography.’”",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 105",
+     "locator": 116,
+     "before": "I would add as well that the two women—Zee and Charra—operating the bazooka team are black and Latina, and the heroic pilot, Niobe, is black; the future of Zion, it seems, has a great deal to do with women of color acquiring key roles, a compelling prediction in light of Donna Haraway’s writings on cyborg subjectivity and the role of women of color, or the “offshore woman,” as a worker in the information economy.",
+     "sentence": "As Haraway writes in “A Cyborg Manifesto”: “Earlier I have suggested that ‘women of colour’ might be understood as a cyborg identity, a potent subjectivity synthesized from fusions of outsider identities and in the complex political-historical layerings of her ‘biomythography.’”",
+     "after": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 105",
+     "locator": 116,
+     "before": "As Haraway writes in “A Cyborg Manifesto”: “Earlier I have suggested that ‘women of colour’ might be understood as a cyborg identity, a potent subjectivity synthesized from fusions of outsider identities and in the complex political-historical layerings of her ‘biomythography.’”",
+     "sentence": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
+     "after": "In other words, like the Korean prostitutes and electronic assembly workers of whom Haraway writes, they are denied the subjectivity and agency that comes with the only form of truly valorized labor (other than ﬁghting) in the trilogy—that is, computer programming.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 105",
+     "locator": 116,
+     "before": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
+     "sentence": "In other words, like the Korean prostitutes and electronic assembly workers of whom Haraway writes, they are denied the subjectivity and agency that comes with the only form of truly valorized labor (other than ﬁghting) in the trilogy—that is, computer programming.",
+     "after": "They are objects, not subjects, of interactivity.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 106",
+     "locator": 117,
+     "before": "Studies of the interface have long occupied a privileged position in new media criticism.",
+     "sentence": "Lev Manovich’s The Language of New Media devotes several chapters to it, and books like Steven Johnson’s Interface Culture posit the interface as the paradigmatic aspect of computer culture that can be taken to represent all of new media.",
+     "after": "These studies concern themselves with the matter of new media form as divorced from content or politics.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 111",
+     "locator": 122,
+     "before": "Random access is an essential principle of the structure and logic of new media that respatializes media experiences: rather than needing to wait until a tape or other physical medium rewinds to get to the beginning of its contents, random access allows us to get there immediately, if we know where we want to go.",
+     "sentence": "As Lev Manovich puts it, random access is symptomatic of the “decline of the ﬁeld of rhetoric in the modern era,” for in contrast to modes of information presentation that rely on argument, narrative progression, and other systems of sequential arrangement, new media culture is better conceived of as “an inﬁnite ﬂat surface where individual texts are placed in no particular order.”",
+     "after": "This “ﬂattening” of the data produces a user who is deﬁned by “spatial wandering”; in the absence of an author or writer to order the media experience for her, the postmodern subject produced by random-access environments like digital gaming and use of hyperlinks and other interactive computer media is one deﬁned by its freedom.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 125",
+     "locator": 136,
+     "before": "Hence cyberculture enables a privileged view of image and race as code and takes it away: the same computers that allow Anderton to “scrub” the image make him permanently vulnerable to their surveillance.",
+     "sentence": "This unprecedented vulnerability to techno-surveillance is, however, part of what it means to be a person of color in the “integrated circuit,” to use Haraway’s eloquent formulation.",
+     "after": "Donna Haraway and Paul Gilroy both strongly insist on the revisioning of race as code, genome, and restlessly interrogate this system: the visuality of race has retreated from pencil tests, paper bag tests, and other naked-eye optical assessments and now resides in acronyms like ART, DNA, IVF, and HGP.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 125",
+     "locator": 136,
+     "before": "This unprecedented vulnerability to techno-surveillance is, however, part of what it means to be a person of color in the “integrated circuit,” to use Haraway’s eloquent formulation.",
+     "sentence": "Donna Haraway and Paul Gilroy both strongly insist on the revisioning of race as code, genome, and restlessly interrogate this system: the visuality of race has retreated from pencil tests, paper bag tests, and other naked-eye optical assessments and now resides in acronyms like ART, DNA, IVF, and HGP.",
+     "after": "The primacy of vision reigns unchallenged but only on a level so microscopic that only machines can “see” it.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 157",
+     "locator": 168,
+     "before": "Part of visual culture’s intervention into this state of things is to critique the gaze and to encourage other ways of seeing; Nick Mirzoeff wishes to replace the gaze with the “transverse glance,” which is the “transient, transnational, transgendered way of seeing that visual culture seeks to deﬁne, describe, and deconstruct.”",
+     "sentence": "However, as Donna Haraway writes in “The Persistence of Vision,” perhaps it is time to reclaim vision for feminist ethics.",
+     "after": "Despite the eyes’ “having been used to signify a perverse capacity—honed to perfection in the history of science tied to militarism, capitalism, colonialism, and male supremacy— to distance the knowing subject from everybody and everything in the interests of unfettered power,” it seems particularly strategic to do so right now, at this particular moment in both new media studies and feminist theory.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 161",
+     "locator": 172,
+     "before": "Photoshop, Illustrator, and Fireworks are notoriously difﬁcult to learn, and it is a truism of the Net that it is much easier to borrow or steal images than it is to create them from scratch.",
+     "sentence": "As Manovich writes, this new aesthetic of selecting from preexisting sets of images rather than creating new ones characterizes new media’s very structure and logic.",
+     "after": "The modularity of digital images makes the principle of copying and modiﬁcation the basis of new media practice.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "author": "Wendy Hui Kyong Chun",
+     "section": null,
+     "page": "p. 171",
+     "locator": 182,
+     "before": "What are the cultural politics of measuring Internet users in terms of race, and how do the categories used in demographic studies of Internet users evaluate and inﬂuence assessments of online participation and power?",
+     "sentence": "As Wendy Chun, Lee and Wong, Palumbo-Liu, and my prior work has noted, Asians and Asian Americans are already ﬁgured as having a privileged relationship to cybertechnologies in some ways.",
+     "after": "Despite characterizations of Asian Americans as uniquely privileged technology consumers, they inhabit a range of positions in relation to the Internet: Robert Lee writes that “Asian Americans, particularly immigrant Asian workers, have a highly visible position on both ends of the post-Fordist economy, in what urban sociologist Measuring Race on the Internet: Users, Identity, and Cultural Difference in the United States Saskia Sassen has called ‘global cities.’”",
+     "highlights": [
+      "Wendy Chun"
+     ]
+    },
+    {
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "author": "Wendy Hui Kyong Chun",
+     "section": null,
+     "page": "p. 180",
+     "locator": 191,
+     "before": "However, neither are they necessarily privileged digital model minorities.",
+     "sentence": "As Wendy Chun writes, “The Internet is not inherently oriental, but has been made oriental.”",
+     "after": "The ongoing cultural association with Asians and Asian Americans and high technologies is part of a vibrant and long-standing mythology.",
+     "highlights": [
+      "Wendy Chun"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": null,
+     "page": "p. 190",
+     "locator": 201,
+     "before": "Modular means of digital production assume that users “shop” for digital parts to combine into a composited whole rather than building original images.",
+     "sentence": "As Manovich notes, this is the structure of all new media objects and is intrinsic to the protocols of digital media in a way that is not necessarily gendered at all.",
+     "after": "However, the feminization of consumption or “shopping” as a mode of digital self-expression is certainly well established in our culture.",
+     "highlights": [
+      "Manovich"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": null,
+     "page": "p. 209",
+     "locator": 220,
+     "before": "Digital systems such as facial recognition software operationalize and instrumentalize race just as the Human Genome Project tells us precisely which locations on the human gene set “contain” race.",
+     "sentence": "The resurgence of scientism, in particular the privileging of the biotechnological sciences, has been powerfully documented and critiqued by scholars such as Donna Haraway, Anne Fausto-Sterling, and Maria Fernandez.",
+     "after": "This high-cultural valuation of science as a way of understanding identity, behavior, and the self as social actor continues to erode humanistically based notions of the subject as socially constructed.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    }
+   ],
+   "year": 2008
+  },
+  "chun-updating-to-remain-the-same-habitual-new": {
+   "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+   "authors": [
+    "Wendy Hui Kyong Chun"
+   ],
+   "mentions": [
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Introduction",
+     "page": "p. 10",
+     "locator": 25,
+     "before": "40 In a neoliberal society, the logic of the market has become its ethics; all human interactions, from love to education, become economic transactions to be analyzed in terms of costs and benefits.",
+     "sentence": "As Margaret Thatcher put it, neoliberalism “change[s] the soul” 41 by becoming, Michel Foucault argues, the “grid of intelligibility” for everything.",
+     "after": "42 According to Wendy Brown, neoliberalism destroys democracy and the political by reconfiguring and constructing “all aspects of existence in economic terms.”",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "author": "Bruno Latour",
+     "section": "Interlude",
+     "page": "p. 25",
+     "locator": 40,
+     "before": "From highspeed financial networks that erode national sovereignty to social media sites like Facebook.com that have transformed the meaning and function of the word ‘friend,’ from Twitter.com feeds that foster new political alliances to unprecedented globe-spanning viral vectors that threaten worldwide catastrophe, networks seem to capture everything that is new or different about our social institutions, global formations, and political, financial, and military organizations.",
+     "sentence": "From Bruno Latour’s discussion of Actor Network Theory (ANT) to the discipline of network science, from Jean François Lyotard’s evocative description of the postmodern self as a “nodal point” to Tiziana Terranova’s analysis of global network culture, ‘networks’ are also central to theorizing networks.",
+     "after": "1 Why?",
+     "highlights": [
+      "Bruno Latour"
+     ]
+    },
+    {
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "author": "Bruno Latour",
+     "section": "Always Searching, Never Finding",
+     "page": "p. 43",
+     "locator": 58,
+     "before": "16 A map did not trace anything; rather “the map is open and connectable in all of its dimensions. … It can be torn, reversed, adapted to any kind of mounting, reworked by an individual, group or social formation. … The map has to do with performance.”",
+     "sentence": "17 Drawing from Deleuze and Guattari, Bruno Latour has claimed that Actor Network Theory (ANT) frames actors “not as intermediaries but as mediators, they render the movement of the social visible to the reader.”",
+     "after": "18 Thus, irrespective of political and intellectual differences, theorists have posited maps and networks—however defined—as key to empowering agents by making the invisible visible.",
+     "highlights": [
+      "Bruno Latour"
+     ]
+    },
+    {
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "author": "Bruno Latour",
+     "section": "Always Searching, Never Finding",
+     "page": "p. 44",
+     "locator": 59,
+     "before": "23 Galloway and Terranova posit a global “network culture,” immanent to global capitalism, in which resistance is generated from within, either by hypertrophy or through the creation of common affects that traverse the network.",
+     "sentence": "Bruno Latour similarly contends that to do ANT, one must become an ANT: “a blind, myopic, workaholic, trail-sniffing, and collective traveler.”",
+     "after": "24 These theoretical interventions have been key; but they have hardly solved the difficulties posed by globalization and late capitalism.",
+     "highlights": [
+      "Bruno Latour"
+     ]
+    },
+    {
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "author": "Bruno Latour",
+     "section": "Always Searching, Never Finding",
+     "page": "p. 49",
+     "locator": 64,
+     "before": "Critical uses of networks often try to separate the network from network maps.",
+     "sentence": "Bruno Latour insists that a network is “an expression of how much energy, movement and specificity our own reports are able to capture … it is a tool to help describe something, not what is described.”",
+     "after": "35 Terranova insightfully describes networks—such as the Internet—not simply in terms of network infrastructure, but also in terms of information flows, as do computer scientists such as Jon Kleinberg.",
+     "highlights": [
+      "Bruno Latour"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Always Searching, Never Finding",
+     "page": "p. 50",
+     "locator": 65,
+     "before": "Networks spatialize the temporal by tracing and projecting: by being both too early and too late.",
+     "sentence": "It is not an issue of choosing one over the other, but rather, like Donna Haraway’s cyborg, a call to see both at once.",
+     "after": "37 Networks are both science fiction and the historical present.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Habit + Crisis = Update",
+     "page": "p. 71",
+     "locator": 86,
+     "before": "12 Suddenly, users could all be Martin Luthers or town criers, speaking the truth to power and proclaiming how not to be governed like that.",
+     "sentence": "13 It also, remarkably, instantiated critiques of this Enlightenment dream: many theorists portrayed it as Barthes’s, Derrida’s, and Foucault’s theories come true.",
+     "after": "14 The Internet was critical because it fulfilled various theoretical dreams.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
+     "page": "p. 99",
+     "locator": 114,
+     "before": "6 Steubenville, and its many successors and predecessors, undermine this assertion.",
+     "sentence": "This trust that transparency will induce good behavior stems from the Enlightenment and eighteenth-century notions of discipline and publicity, which, according to Michel Foucault, the Panopticon encapsulated.",
+     "after": "As Foucault explains, this mythic architectural structure, devised by Jeremy Bentham, was meant to ensure the automatic functioning of power.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
+     "page": "p. 99",
+     "locator": 114,
+     "before": "This trust that transparency will induce good behavior stems from the Enlightenment and eighteenth-century notions of discipline and publicity, which, according to Michel Foucault, the Panopticon encapsulated.",
+     "sentence": "As Foucault explains, this mythic architectural structure, devised by Jeremy Bentham, was meant to ensure the automatic functioning of power.",
+     "after": "The Panopticon consisted of a central tower, which was to shelter the owner of the Panopticon and his family, and an annular structure, which was to house inmates in solitary confinement.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
+     "page": "p. 100",
+     "locator": 115,
+     "before": "The Panopticon was designed to induce in the inmates—and the inspectors—“a state of conscious and permanent visibility that assures the automatic functioning of power.”",
+     "sentence": "8 Thus, as Foucault nicely summarizes, “a real subjection is born mechanically from a fictitious relation.”",
+     "after": "9 This real subjection, Foucault goes on to argue, was to make power productive: to turn power from an outside force wielded by a Sovereign subject through spectacular and uneven punishments to a general and generative force that produced productive men.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
+     "page": "p. 100",
+     "locator": 115,
+     "before": "8 Thus, as Foucault nicely summarizes, “a real subjection is born mechanically from a fictitious relation.”",
+     "sentence": "9 This real subjection, Foucault goes on to argue, was to make power productive: to turn power from an outside force wielded by a Sovereign subject through spectacular and uneven punishments to a general and generative force that produced productive men.",
+     "after": "The finer resolution of power offered by the disciplines was to “reduce everything that may counter the advantages of number. … [It] fixes; it arrests or regulates movements.”",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
+     "page": "p. 100",
+     "locator": 115,
+     "before": "10 In contrast to the immobile subjects, the disciplines “swarm[ed]” and infiltrated other forms of power, making them lighter and more efficient.",
+     "sentence": "11 Although Foucault saw the Panopticon as the icon of disciplinary society, the highly mobile Santa Claus—who emerged during the same time period as the Panopticon—is arguably a better model.",
+     "after": "The children’s song about Santa Claus echoes the spirit of the central tower: Oh, you better watch out, You better not cry, You better not pout, I’m telling you why: Santa Claus is coming to town.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 135",
+     "locator": 150,
+     "before": "Lastly—and most importantly—how can we understand the DREAMers embrace of templates as a means of shelter and habitation? =end unafraid and documented?",
+     "sentence": "Affect does not reside in an object or sign, but is an effect of the circulation between objects and signs. … Signs increase in affective value as an effect of the movement between signs: the more signs circulate, the more affective they become. —Sara Ahmed 1 Instead of getting upset over the gigantic (or so they say) growth in our means of communication, and fearing through this the weakening of the message, we should rather rejoice over it, serenely: communication “itself” is infinite between finite beings.",
+     "after": "Provided these beings do not try to communicate to one another myths about their own infinity, for in such a case they instantly disconnect the communication.",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 141",
+     "locator": 156,
+     "before": "To resolve these questions, this chapter demonstrates that these videos and their responses are part of a larger “epistemology of outing”: a form of knowledge based on the forced exposure of open secrets, which has come to supplement what Eve Sedgwick diagnosed as the “epistemology of the closet” in 1990.",
+     "sentence": "10 This mode of knowledge is also linked to the history of the confessional, outlined by Michel Foucault in The History of Sexuality, volume 1, a text against which Sedgwick argues.",
+     "after": "To be clear, by placing these videos and their responses within this conflicting and conflicted theoretical framework, I am not dismissing them as self-delusional.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 151",
+     "locator": 166,
+     "before": "Indeed, it is paranoid theory’s pleasurable mirror, for it is a pleasure that comes from taunting power.",
+     "sentence": "As Foucault puts it in his description of the sexualized spirals of power and resistance: “pleasure … comes of exercising a power that questions, monitors, watches, spies, searches out, palpates, brings to light; and on the other hand, … pleasure … kindles at having to evade this power, flee from it, fool it, or travesty it. … Power … lets itself be invaded by the pleasure it is pursuing; and opposite it, power assert[s] itself in the pleasure of showing off, scandalizing, or resisting.",
+     "after": "Capture and seduction, confrontation and mutual reinforcement. … These attractions, these evasions, these circular incitements have traced around bodies and sexes, not boundaries not to be crossed, but perpetual spirals of power and pleasure.”",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 154",
+     "locator": 169,
+     "before": "On one level, these videos seem misguided and hardly emancipatory.",
+     "sentence": "As Foucault has shown, the confessional has a long and dubious history within the West, and the secret—in particular sexuality as the secret of the self—has been foundational to a certain will to power.",
+     "after": "“Western man,” Foucault contends, “has become a confessing animal,” so inoculated to the call to confess that we “no longer perceive it as the effect of a power that constrains us; on the contrary, it seems to us that truth, lodged in our most secret nature, ‘demands’ only to surface.”",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 155",
+     "locator": 170,
+     "before": "As Foucault has shown, the confessional has a long and dubious history within the West, and the secret—in particular sexuality as the secret of the self—has been foundational to a certain will to power.",
+     "sentence": "“Western man,” Foucault contends, “has become a confessing animal,” so inoculated to the call to confess that we “no longer perceive it as the effect of a power that constrains us; on the contrary, it seems to us that truth, lodged in our most secret nature, ‘demands’ only to surface.”",
+     "after": "63 Noting the long history of the role of confession to operations of power, Foucault also states: One has to be completely taken in by this internal ruse of confession in order to attribute a fundamental role to censorship, to taboos regarding speaking and thinking; one has to have an inverted image of power in order to believe that all these voices which have spoken so long in our civilization—repeating the formidable injunction to tell what one is and what one does, what one recollects and what one has forgotten, what one is thinking and what one thinks he is not thinking—are speaking to us of freedom.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 155",
+     "locator": 170,
+     "before": "“Western man,” Foucault contends, “has become a confessing animal,” so inoculated to the call to confess that we “no longer perceive it as the effect of a power that constrains us; on the contrary, it seems to us that truth, lodged in our most secret nature, ‘demands’ only to surface.”",
+     "sentence": "63 Noting the long history of the role of confession to operations of power, Foucault also states: One has to be completely taken in by this internal ruse of confession in order to attribute a fundamental role to censorship, to taboos regarding speaking and thinking; one has to have an inverted image of power in order to believe that all these voices which have spoken so long in our civilization—repeating the formidable injunction to tell what one is and what one does, what one recollects and what one has forgotten, what one is thinking and what one thinks he is not thinking—are speaking to us of freedom.",
+     "after": "64 The celebration of the ‘bravery’ of notecard videos would seem to buttress this interpretation: they call on victims to reveal their secrets, not to censor themselves.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 155",
+     "locator": 170,
+     "before": "And it is the enigma of sexuality as the secret that must constantly be confessed, that must constantly be discussed even when not explicitly mentioned.",
+     "sentence": "“What is peculiar to modern societies” Foucault contends, “is not that they consigned sex to a shadow existence, but that they dedicated themselves to speaking of it ad infinitum, while exploiting it as the secret.”",
+     "after": "65 To dismiss these videos as just another page in the History of Sexuality, however, is not only to engage in what Sedgwick calls paranoid theory, it is also not to engage with these videos.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 157",
+     "locator": 172,
+     "before": "72 More precisely, in slut shaming, the subject is punished for not enabling empathetic identification, hence the disturbing twinning of the vitriol directed at “sluts” and the empathetic celebration of true victims, where true = dead (and there is also the related twinning of the suicidal girl and the angry, vengeance-seeking boy, whose reaction to contempt is sometimes heroic action, sometimes persecution).",
+     "sentence": "Sara Ahmed has, most presciently, addressed the emergence of community through hatred in The Cultural Politics of Emotion.",
+     "after": "Ahmed argues that hatred generates community—or more properly, communities (of the hated and the loved)—by aligning the particular with the general: I hate you because (you are a slut, etc.).",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 157",
+     "locator": 172,
+     "before": "Sara Ahmed has, most presciently, addressed the emergence of community through hatred in The Cultural Politics of Emotion.",
+     "sentence": "Ahmed argues that hatred generates community—or more properly, communities (of the hated and the loved)—by aligning the particular with the general: I hate you because (you are a slut, etc.).",
+     "after": "Hatred as an “investment” “projects all that is undesirable onto another, while concealing any traces of that projection, so that the other comes to appear as a being with a life of its own.”",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 157",
+     "locator": 172,
+     "before": "73 This projection is also a bond between the hating subject and hated object, through which the subject emerges as a subject of love.",
+     "sentence": "As Ahmed puts it: what is at stake in the intensity of hate as a negative attachment to others is how hate creates the ‘I’ and the ‘we’ as utter-able simultaneously in a moment of alignment.",
+     "after": "At one level, we can see that an ‘I’ that declares itself as hating an other (and who might or might not act in accordance with the declaration) comes into existence by also declaring its love for that which is threatened by this imagined other (the nation, the community and so on).",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 158",
+     "locator": 173,
+     "before": "75 We need to understand hatred as central to community online— especially in relation to the vitriolic comments posted there.",
+     "sentence": "Hatred and trolling are not unfortunate sources of noise but rather signals or messages, as Lisa Nakamura has argued.",
+     "after": "76 By seeing this, we can see how sites like 4Chan inspire and make possible communities, not only of trolls but also of those who love these dead girls, such as Amanda Todd.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "I Never Remember; YOUs Never Forget",
+     "page": "p. 158",
+     "locator": 173,
+     "before": "But it is here that the analogy and analysis falls short.",
+     "sentence": "Ahmed examines hate through the rubric of white supremacy, through those who frame their hatred as love.",
+     "after": "How, though, to understand this hatred in terms of a community of shame that still sees the victim as somehow the cause, rather than the effect, of networked vulnerabilities?",
+     "highlights": [
+      "Ahmed"
+     ]
+    }
+   ],
    "year": 2016
   },
   "vee-coding-literacy-how-computer-programming": {
@@ -2671,327 +2992,6 @@
    ],
    "year": 2017
   },
-  "chun-updating-to-remain-the-same-habitual-new": {
-   "title": "Updating to Remain the Same: Habitual New Media (The MIT",
-   "authors": [
-    "Wendy Hui Kyong Chun"
-   ],
-   "mentions": [
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Introduction",
-     "page": "p. 10",
-     "locator": 25,
-     "before": "40 In a neoliberal society, the logic of the market has become its ethics; all human interactions, from love to education, become economic transactions to be analyzed in terms of costs and benefits.",
-     "sentence": "As Margaret Thatcher put it, neoliberalism “change[s] the soul” 41 by becoming, Michel Foucault argues, the “grid of intelligibility” for everything.",
-     "after": "42 According to Wendy Brown, neoliberalism destroys democracy and the political by reconfiguring and constructing “all aspects of existence in economic terms.”",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    },
-    {
-     "bookId": "latour-reassembling-the-social-an-introduction",
-     "author": "Bruno Latour",
-     "section": "Interlude",
-     "page": "p. 25",
-     "locator": 40,
-     "before": "From highspeed financial networks that erode national sovereignty to social media sites like Facebook.com that have transformed the meaning and function of the word ‘friend,’ from Twitter.com feeds that foster new political alliances to unprecedented globe-spanning viral vectors that threaten worldwide catastrophe, networks seem to capture everything that is new or different about our social institutions, global formations, and political, financial, and military organizations.",
-     "sentence": "From Bruno Latour’s discussion of Actor Network Theory (ANT) to the discipline of network science, from Jean François Lyotard’s evocative description of the postmodern self as a “nodal point” to Tiziana Terranova’s analysis of global network culture, ‘networks’ are also central to theorizing networks.",
-     "after": "1 Why?",
-     "highlights": [
-      "Bruno Latour"
-     ]
-    },
-    {
-     "bookId": "latour-reassembling-the-social-an-introduction",
-     "author": "Bruno Latour",
-     "section": "Always Searching, Never Finding",
-     "page": "p. 43",
-     "locator": 58,
-     "before": "16 A map did not trace anything; rather “the map is open and connectable in all of its dimensions. … It can be torn, reversed, adapted to any kind of mounting, reworked by an individual, group or social formation. … The map has to do with performance.”",
-     "sentence": "17 Drawing from Deleuze and Guattari, Bruno Latour has claimed that Actor Network Theory (ANT) frames actors “not as intermediaries but as mediators, they render the movement of the social visible to the reader.”",
-     "after": "18 Thus, irrespective of political and intellectual differences, theorists have posited maps and networks—however defined—as key to empowering agents by making the invisible visible.",
-     "highlights": [
-      "Bruno Latour"
-     ]
-    },
-    {
-     "bookId": "latour-reassembling-the-social-an-introduction",
-     "author": "Bruno Latour",
-     "section": "Always Searching, Never Finding",
-     "page": "p. 44",
-     "locator": 59,
-     "before": "23 Galloway and Terranova posit a global “network culture,” immanent to global capitalism, in which resistance is generated from within, either by hypertrophy or through the creation of common affects that traverse the network.",
-     "sentence": "Bruno Latour similarly contends that to do ANT, one must become an ANT: “a blind, myopic, workaholic, trail-sniffing, and collective traveler.”",
-     "after": "24 These theoretical interventions have been key; but they have hardly solved the difficulties posed by globalization and late capitalism.",
-     "highlights": [
-      "Bruno Latour"
-     ]
-    },
-    {
-     "bookId": "latour-reassembling-the-social-an-introduction",
-     "author": "Bruno Latour",
-     "section": "Always Searching, Never Finding",
-     "page": "p. 49",
-     "locator": 64,
-     "before": "Critical uses of networks often try to separate the network from network maps.",
-     "sentence": "Bruno Latour insists that a network is “an expression of how much energy, movement and specificity our own reports are able to capture … it is a tool to help describe something, not what is described.”",
-     "after": "35 Terranova insightfully describes networks—such as the Internet—not simply in terms of network infrastructure, but also in terms of information flows, as do computer scientists such as Jon Kleinberg.",
-     "highlights": [
-      "Bruno Latour"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Always Searching, Never Finding",
-     "page": "p. 50",
-     "locator": 65,
-     "before": "Networks spatialize the temporal by tracing and projecting: by being both too early and too late.",
-     "sentence": "It is not an issue of choosing one over the other, but rather, like Donna Haraway’s cyborg, a call to see both at once.",
-     "after": "37 Networks are both science fiction and the historical present.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Habit + Crisis = Update",
-     "page": "p. 71",
-     "locator": 86,
-     "before": "12 Suddenly, users could all be Martin Luthers or town criers, speaking the truth to power and proclaiming how not to be governed like that.",
-     "sentence": "13 It also, remarkably, instantiated critiques of this Enlightenment dream: many theorists portrayed it as Barthes’s, Derrida’s, and Foucault’s theories come true.",
-     "after": "14 The Internet was critical because it fulfilled various theoretical dreams.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
-     "page": "p. 99",
-     "locator": 114,
-     "before": "6 Steubenville, and its many successors and predecessors, undermine this assertion.",
-     "sentence": "This trust that transparency will induce good behavior stems from the Enlightenment and eighteenth-century notions of discipline and publicity, which, according to Michel Foucault, the Panopticon encapsulated.",
-     "after": "As Foucault explains, this mythic architectural structure, devised by Jeremy Bentham, was meant to ensure the automatic functioning of power.",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
-     "page": "p. 99",
-     "locator": 114,
-     "before": "This trust that transparency will induce good behavior stems from the Enlightenment and eighteenth-century notions of discipline and publicity, which, according to Michel Foucault, the Panopticon encapsulated.",
-     "sentence": "As Foucault explains, this mythic architectural structure, devised by Jeremy Bentham, was meant to ensure the automatic functioning of power.",
-     "after": "The Panopticon consisted of a central tower, which was to shelter the owner of the Panopticon and his family, and an annular structure, which was to house inmates in solitary confinement.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
-     "page": "p. 100",
-     "locator": 115,
-     "before": "The Panopticon was designed to induce in the inmates—and the inspectors—“a state of conscious and permanent visibility that assures the automatic functioning of power.”",
-     "sentence": "8 Thus, as Foucault nicely summarizes, “a real subjection is born mechanically from a fictitious relation.”",
-     "after": "9 This real subjection, Foucault goes on to argue, was to make power productive: to turn power from an outside force wielded by a Sovereign subject through spectacular and uneven punishments to a general and generative force that produced productive men.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
-     "page": "p. 100",
-     "locator": 115,
-     "before": "8 Thus, as Foucault nicely summarizes, “a real subjection is born mechanically from a fictitious relation.”",
-     "sentence": "9 This real subjection, Foucault goes on to argue, was to make power productive: to turn power from an outside force wielded by a Sovereign subject through spectacular and uneven punishments to a general and generative force that produced productive men.",
-     "after": "The finer resolution of power offered by the disciplines was to “reduce everything that may counter the advantages of number. … [It] fixes; it arrests or regulates movements.”",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "The Friend of My Friend Is My Enemy (and Thus My Friend)",
-     "page": "p. 100",
-     "locator": 115,
-     "before": "10 In contrast to the immobile subjects, the disciplines “swarm[ed]” and infiltrated other forms of power, making them lighter and more efficient.",
-     "sentence": "11 Although Foucault saw the Panopticon as the icon of disciplinary society, the highly mobile Santa Claus—who emerged during the same time period as the Panopticon—is arguably a better model.",
-     "after": "The children’s song about Santa Claus echoes the spirit of the central tower: Oh, you better watch out, You better not cry, You better not pout, I’m telling you why: Santa Claus is coming to town.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 135",
-     "locator": 150,
-     "before": "Lastly—and most importantly—how can we understand the DREAMers embrace of templates as a means of shelter and habitation? =end unafraid and documented?",
-     "sentence": "Affect does not reside in an object or sign, but is an effect of the circulation between objects and signs. … Signs increase in affective value as an effect of the movement between signs: the more signs circulate, the more affective they become. —Sara Ahmed 1 Instead of getting upset over the gigantic (or so they say) growth in our means of communication, and fearing through this the weakening of the message, we should rather rejoice over it, serenely: communication “itself” is infinite between finite beings.",
-     "after": "Provided these beings do not try to communicate to one another myths about their own infinity, for in such a case they instantly disconnect the communication.",
-     "highlights": [
-      "Sara Ahmed"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 141",
-     "locator": 156,
-     "before": "To resolve these questions, this chapter demonstrates that these videos and their responses are part of a larger “epistemology of outing”: a form of knowledge based on the forced exposure of open secrets, which has come to supplement what Eve Sedgwick diagnosed as the “epistemology of the closet” in 1990.",
-     "sentence": "10 This mode of knowledge is also linked to the history of the confessional, outlined by Michel Foucault in The History of Sexuality, volume 1, a text against which Sedgwick argues.",
-     "after": "To be clear, by placing these videos and their responses within this conflicting and conflicted theoretical framework, I am not dismissing them as self-delusional.",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 151",
-     "locator": 166,
-     "before": "Indeed, it is paranoid theory’s pleasurable mirror, for it is a pleasure that comes from taunting power.",
-     "sentence": "As Foucault puts it in his description of the sexualized spirals of power and resistance: “pleasure … comes of exercising a power that questions, monitors, watches, spies, searches out, palpates, brings to light; and on the other hand, … pleasure … kindles at having to evade this power, flee from it, fool it, or travesty it. … Power … lets itself be invaded by the pleasure it is pursuing; and opposite it, power assert[s] itself in the pleasure of showing off, scandalizing, or resisting.",
-     "after": "Capture and seduction, confrontation and mutual reinforcement. … These attractions, these evasions, these circular incitements have traced around bodies and sexes, not boundaries not to be crossed, but perpetual spirals of power and pleasure.”",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 154",
-     "locator": 169,
-     "before": "On one level, these videos seem misguided and hardly emancipatory.",
-     "sentence": "As Foucault has shown, the confessional has a long and dubious history within the West, and the secret—in particular sexuality as the secret of the self—has been foundational to a certain will to power.",
-     "after": "“Western man,” Foucault contends, “has become a confessing animal,” so inoculated to the call to confess that we “no longer perceive it as the effect of a power that constrains us; on the contrary, it seems to us that truth, lodged in our most secret nature, ‘demands’ only to surface.”",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 155",
-     "locator": 170,
-     "before": "As Foucault has shown, the confessional has a long and dubious history within the West, and the secret—in particular sexuality as the secret of the self—has been foundational to a certain will to power.",
-     "sentence": "“Western man,” Foucault contends, “has become a confessing animal,” so inoculated to the call to confess that we “no longer perceive it as the effect of a power that constrains us; on the contrary, it seems to us that truth, lodged in our most secret nature, ‘demands’ only to surface.”",
-     "after": "63 Noting the long history of the role of confession to operations of power, Foucault also states: One has to be completely taken in by this internal ruse of confession in order to attribute a fundamental role to censorship, to taboos regarding speaking and thinking; one has to have an inverted image of power in order to believe that all these voices which have spoken so long in our civilization—repeating the formidable injunction to tell what one is and what one does, what one recollects and what one has forgotten, what one is thinking and what one thinks he is not thinking—are speaking to us of freedom.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 155",
-     "locator": 170,
-     "before": "“Western man,” Foucault contends, “has become a confessing animal,” so inoculated to the call to confess that we “no longer perceive it as the effect of a power that constrains us; on the contrary, it seems to us that truth, lodged in our most secret nature, ‘demands’ only to surface.”",
-     "sentence": "63 Noting the long history of the role of confession to operations of power, Foucault also states: One has to be completely taken in by this internal ruse of confession in order to attribute a fundamental role to censorship, to taboos regarding speaking and thinking; one has to have an inverted image of power in order to believe that all these voices which have spoken so long in our civilization—repeating the formidable injunction to tell what one is and what one does, what one recollects and what one has forgotten, what one is thinking and what one thinks he is not thinking—are speaking to us of freedom.",
-     "after": "64 The celebration of the ‘bravery’ of notecard videos would seem to buttress this interpretation: they call on victims to reveal their secrets, not to censor themselves.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 155",
-     "locator": 170,
-     "before": "And it is the enigma of sexuality as the secret that must constantly be confessed, that must constantly be discussed even when not explicitly mentioned.",
-     "sentence": "“What is peculiar to modern societies” Foucault contends, “is not that they consigned sex to a shadow existence, but that they dedicated themselves to speaking of it ad infinitum, while exploiting it as the secret.”",
-     "after": "65 To dismiss these videos as just another page in the History of Sexuality, however, is not only to engage in what Sedgwick calls paranoid theory, it is also not to engage with these videos.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 157",
-     "locator": 172,
-     "before": "72 More precisely, in slut shaming, the subject is punished for not enabling empathetic identification, hence the disturbing twinning of the vitriol directed at “sluts” and the empathetic celebration of true victims, where true = dead (and there is also the related twinning of the suicidal girl and the angry, vengeance-seeking boy, whose reaction to contempt is sometimes heroic action, sometimes persecution).",
-     "sentence": "Sara Ahmed has, most presciently, addressed the emergence of community through hatred in The Cultural Politics of Emotion.",
-     "after": "Ahmed argues that hatred generates community—or more properly, communities (of the hated and the loved)—by aligning the particular with the general: I hate you because (you are a slut, etc.).",
-     "highlights": [
-      "Sara Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 157",
-     "locator": 172,
-     "before": "Sara Ahmed has, most presciently, addressed the emergence of community through hatred in The Cultural Politics of Emotion.",
-     "sentence": "Ahmed argues that hatred generates community—or more properly, communities (of the hated and the loved)—by aligning the particular with the general: I hate you because (you are a slut, etc.).",
-     "after": "Hatred as an “investment” “projects all that is undesirable onto another, while concealing any traces of that projection, so that the other comes to appear as a being with a life of its own.”",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 157",
-     "locator": 172,
-     "before": "73 This projection is also a bond between the hating subject and hated object, through which the subject emerges as a subject of love.",
-     "sentence": "As Ahmed puts it: what is at stake in the intensity of hate as a negative attachment to others is how hate creates the ‘I’ and the ‘we’ as utter-able simultaneously in a moment of alignment.",
-     "after": "At one level, we can see that an ‘I’ that declares itself as hating an other (and who might or might not act in accordance with the declaration) comes into existence by also declaring its love for that which is threatened by this imagined other (the nation, the community and so on).",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
-     "author": "Lisa Nakamura",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 158",
-     "locator": 173,
-     "before": "75 We need to understand hatred as central to community online— especially in relation to the vitriolic comments posted there.",
-     "sentence": "Hatred and trolling are not unfortunate sources of noise but rather signals or messages, as Lisa Nakamura has argued.",
-     "after": "76 By seeing this, we can see how sites like 4Chan inspire and make possible communities, not only of trolls but also of those who love these dead girls, such as Amanda Todd.",
-     "highlights": [
-      "Lisa Nakamura"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "I Never Remember; YOUs Never Forget",
-     "page": "p. 158",
-     "locator": 173,
-     "before": "But it is here that the analogy and analysis falls short.",
-     "sentence": "Ahmed examines hate through the rubric of white supremacy, through those who frame their hatred as love.",
-     "after": "How, though, to understand this hatred in terms of a community of shame that still sees the victim as somehow the cause, rather than the effect, of networked vulnerabilities?",
-     "highlights": [
-      "Ahmed"
-     ]
-    }
-   ],
-   "year": 2017
-  },
   "noble-algorithms-of-oppression": {
    "title": "Algorithms of Oppression",
    "authors": [
@@ -3085,6 +3085,262 @@
     "Virginia Eubanks"
    ],
    "mentions": [],
+   "year": 2018
+  },
+  "risam-new-digital-worlds-postcolonial-digital": {
+   "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+   "authors": [
+    "Roopika Risam"
+   ],
+   "mentions": [
+    {
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "author": "Matthew K. Gold",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 5",
+     "locator": 14,
+     "before": "In 2009, William Pannapacker anointed digital humanities as “the next big thing” in the humanities.",
+     "sentence": "Today’s digital humanities “moment,” as Matthew K. Gold suggests, has been marked by academic institutions and funding bodies investing heavily in digital methods; creating new centers around the world; supporting growth in hiring for new, often non-​tenure-​ track, positions in digital humanities; funding new streams of grants for technology-​driven humanities scholarship; and attracting attention from mainstream media sources.",
+     "after": "The allure of digital humanities in higher education stems in large part from the great promise that academic administrators see in it.",
+     "highlights": [
+      "Matthew K. Gold"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 6",
+     "locator": 15,
+     "before": "In fact, colonialism within the cultural record is not only being reproduced but is also being amplified by virtue of the fact that the digital cultural record is constructed and disseminated publicly, online, in a digital milieu beset with its own politics of identity.",
+     "sentence": "As scholars of media and new media studies like Radhika Gajjala, Lisa Nakamura, and Anna Everett, among others, have pointed out, gone are the days when the internet could be theorized as a blank slate for the creation of new identities, communities, and stories—not that it ever was that space.",
+     "after": "In fact, as the last few years have shown, whether through the Gamergate attacks on women in the video game industry, lawsuits against the #blacklivesmatter hashtag, or flocks of right-​wing trolls attacking scholars of race, gender, sexuality, and colonialism like George Ciccariello-​Mahler at Drexel University or Saida Grundy at Boston University,9 digital humanities practitioners must contend not only with the colonial hangovers from the cultural record, but also with the forces that are actively constructing the medium of the digital cultural record—the internet—as a hostile environment where universities, libraries, and the cultural heritage sector are under threat, right along with the knowledge being produced and made publicly available by them.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Kavita Philip",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 12",
+     "locator": 21,
+     "before": "While some of these approaches may be relevant to digital knowledge production in the Global South, an uncritical embrace of them delegitimizes contributions to the digital cultural record from the Global South, which may use different methods or take forms that look unfamiliar from the point of view of the Global North.",
+     "sentence": "To decenter this perspective, postcolonial digital humanities also draws on Kavita Philip, Lilly Irani, and Paul Dourish’s work on postcolonial computing, which responds to Human-​Computer Interaction for Development (HCI4D), a scholarly community at the intersection of technology and development.",
+     "after": "Postcolonial computing critiques development within HCI4D to underscore the vexing questions of authority, power, and legitimacy that are evoked in the rhetoric of technological development.",
+     "highlights": [
+      "Kavita Philip"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 12",
+     "locator": 21,
+     "before": "Thus, postcolonial computing decenters knowledge from the Global North in favor of a localized approach that emphasizes cross-​ cultural engagement and the effects of uneven development on design.",
+     "sentence": "This approach serves as an important model for digital humanities, which falls prey to the assumption that practices of the Global North are universal forms of knowledge, rather than what Donna Haraway terms “situated knowledges.”",
+     "after": "On the contrary, as Élika Ortega argues, “all DH is local DH.”",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 23",
+     "locator": 32,
+     "before": "Amy Earhart asks, “Can information be unfettered?” suggesting that digital textual editing of writing by women, African Americans, and queer writers is an important intervention in the residual canonicity that fetters the digital cultural record.",
+     "sentence": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
+     "after": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+     "author": "Moya Bailey",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 23",
+     "locator": 32,
+     "before": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
+     "sentence": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
+     "after": "Additionally, my own work on intersectionality considers how we can uncover a hidden history of intersectionality in digital humanities scholarship and use it to develop intersectional praxis that accounts for compounding oppressions that magnify difference in the digital cultural record.",
+     "highlights": [
+      "Moya Bailey"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 36",
+     "locator": 45,
+     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
+     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
+     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "author": "Wendy Hui Kyong Chun",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 36",
+     "locator": 45,
+     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
+     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
+     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
+     "highlights": [
+      "Wendy Chun"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
+     "page": "p. 50",
+     "locator": 59,
+     "before": "Such a phenomenon is possible, Nicholas Dirks contends, because the colonial archive “produces, adjudicates, organizes, and maintains the discourse that becomes available as the primary texts of history.”",
+     "sentence": "This is not only a matter of archive contents but also what Michel Foucault calls the archive’s “system of its enunciability,” its role in producing and legitimating discourse.",
+     "after": "The digital cultural record is thus at risk of being a mirror of a colonial world-​picture, another representation of colonized subjects from a colonial perspective that authorizes imperialism.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+     "author": "Johanna Drucker",
+     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
+     "page": "p. 52",
+     "locator": 61,
+     "before": "These remarks reflect anxieties over the definition of digital humanities as well as the relationship between theory and praxis in digital humanities.",
+     "sentence": "Emphasizing the significance of building to definitions of digital humanities, Anne Burdick, Johannah Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp argue that “the mere use of digital tools for the purpose of humanistic research and communication does not qualify as Digital Humanities.”",
+     "after": "Such narrow definitions contribute to a false binary between “hack” (acts of coding, building, and doing) and “yack” (the work of talking, critiquing, and theorizing) as practices that make up digital humanities.",
+     "highlights": [
+      "Johannah Drucker"
+     ]
+    },
+    {
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "author": "Bruno Latour",
+     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
+     "page": "p. 58",
+     "locator": 67,
+     "before": "Doing so requires developing new tools, archives, and practices that emerge from local contexts and challenge colonial violence through their design and content.",
+     "sentence": "Such an approach mediates between the hack/yack binary and exemplifies Bruno Latour’s identification of a discursive shift from critiquing to composing, which he describes as using a hammer to “repair, take care, assemble, reassemble, stitch together” rather than “break down walls, destroy idols, ridicule prejudices.”",
+     "after": "The Bichitra Online Tagore Variorum exemplifies how a project can make these dimensions legible.",
+     "highlights": [
+      "Bruno Latour"
+     ]
+    },
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 121",
+     "locator": 130,
+     "before": "On one hand, the status of the human in relation to technology is an important dimension of this question, since human-​ computer interaction is an essential part of digital humanities methods.",
+     "sentence": "Like N. Katherine Hayles’s posthuman subject, the contemporary human at stake in digital humanities is “an amalgam, a collection of heterogeneous components, a material-​informational entity whose boundaries undergo continuous construction and reconstruction.”",
+     "after": "Humans are largely inseparable from their implication in the production of data.",
+     "highlights": [
+      "Katherine Hayles"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Elizabeth Losh",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 122",
+     "locator": 131,
+     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
+     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
+     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
+     "highlights": [
+      "Liz Losh"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 122",
+     "locator": 131,
+     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
+     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
+     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 126",
+     "locator": 135,
+     "before": "An important model for interrogating these matters in digital humanities appears in feminist and postcolonial science and technology studies scholarship, which brings together the philosophical and technical implications of human subjectivity by raising concern over divisions between the binary categories of “human” and “nonhuman.”",
+     "sentence": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
+     "after": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 126",
+     "locator": 135,
+     "before": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
+     "sentence": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
+     "after": "Rather, the two categories are both connected and interdependent.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 130",
+     "locator": 139,
+     "before": "These issues are particularly important as digital humanities practitioners turn to sources like Amazon Mechanical Turk for their projects.",
+     "sentence": "Notably, Lev Manovich’s “selfiecity” relied on Amazon Mechanical Turk workers to code selfies for age and gender,63 while Ryan Heuser’s Mapping Emotions in Victorian London project used the workers to attribute sentiments to locations drawn from Victorian literary texts.",
+     "after": "Without the ability to interrogate the demographics of the workers that influence the data-​coding process, such as gender, race or ethnicity, and nationality, it is unclear which factors are influencing the results of these studies.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 134",
+     "locator": 143,
+     "before": "At stake in the production of humanoid texts through these methods is the question of universalism.",
+     "sentence": "As Hayles notes, “Literary texts are not, of course, merely passive conduits.",
+     "after": "They actively shape what the technologies mean and what the scientific theories signify in cultural contexts.",
+     "highlights": [
+      "Hayles"
+     ]
+    },
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 135",
+     "locator": 144,
+     "before": "They also embody assumptions similar to those that permeated the scientific theories at critical points.”",
+     "sentence": "Humanoid texts not only reflect Hayles’s observation but are actively constructed by these forces.",
+     "after": "With the move to generate software and algorithms that replicate “human” processes, particular forms of the “human” are authorized.",
+     "highlights": [
+      "Hayles"
+     ]
+    }
+   ],
    "year": 2018
   },
   "losh-bodies-of-information": {
@@ -4448,262 +4704,6 @@
      "after": "At the same time, however, our process and design also lead to specific questions about the promises of newsgames to address issues of representation in journalistic practice itself: is it possible to produce games that capitalize on the currency of news events; avoid the same traps of conventional, stereotypical news coverage; and pay attention to the deep dynamics of game mechanics in a rapid prototyping model?",
      "highlights": [
       "Johanna Drucker"
-     ]
-    }
-   ],
-   "year": 2018
-  },
-  "risam-new-digital-worlds-postcolonial-digital": {
-   "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
-   "authors": [
-    "Roopika Risam"
-   ],
-   "mentions": [
-    {
-     "bookId": "gold-debates-in-the-digital-humanities-2023",
-     "author": "Matthew K. Gold",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 5",
-     "locator": 14,
-     "before": "In 2009, William Pannapacker anointed digital humanities as “the next big thing” in the humanities.",
-     "sentence": "Today’s digital humanities “moment,” as Matthew K. Gold suggests, has been marked by academic institutions and funding bodies investing heavily in digital methods; creating new centers around the world; supporting growth in hiring for new, often non-​tenure-​ track, positions in digital humanities; funding new streams of grants for technology-​driven humanities scholarship; and attracting attention from mainstream media sources.",
-     "after": "The allure of digital humanities in higher education stems in large part from the great promise that academic administrators see in it.",
-     "highlights": [
-      "Matthew K. Gold"
-     ]
-    },
-    {
-     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
-     "author": "Lisa Nakamura",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 6",
-     "locator": 15,
-     "before": "In fact, colonialism within the cultural record is not only being reproduced but is also being amplified by virtue of the fact that the digital cultural record is constructed and disseminated publicly, online, in a digital milieu beset with its own politics of identity.",
-     "sentence": "As scholars of media and new media studies like Radhika Gajjala, Lisa Nakamura, and Anna Everett, among others, have pointed out, gone are the days when the internet could be theorized as a blank slate for the creation of new identities, communities, and stories—not that it ever was that space.",
-     "after": "In fact, as the last few years have shown, whether through the Gamergate attacks on women in the video game industry, lawsuits against the #blacklivesmatter hashtag, or flocks of right-​wing trolls attacking scholars of race, gender, sexuality, and colonialism like George Ciccariello-​Mahler at Drexel University or Saida Grundy at Boston University,9 digital humanities practitioners must contend not only with the colonial hangovers from the cultural record, but also with the forces that are actively constructing the medium of the digital cultural record—the internet—as a hostile environment where universities, libraries, and the cultural heritage sector are under threat, right along with the knowledge being produced and made publicly available by them.",
-     "highlights": [
-      "Lisa Nakamura"
-     ]
-    },
-    {
-     "bookId": "mullaney-your-computer-is-on-fire",
-     "author": "Kavita Philip",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 12",
-     "locator": 21,
-     "before": "While some of these approaches may be relevant to digital knowledge production in the Global South, an uncritical embrace of them delegitimizes contributions to the digital cultural record from the Global South, which may use different methods or take forms that look unfamiliar from the point of view of the Global North.",
-     "sentence": "To decenter this perspective, postcolonial digital humanities also draws on Kavita Philip, Lilly Irani, and Paul Dourish’s work on postcolonial computing, which responds to Human-​Computer Interaction for Development (HCI4D), a scholarly community at the intersection of technology and development.",
-     "after": "Postcolonial computing critiques development within HCI4D to underscore the vexing questions of authority, power, and legitimacy that are evoked in the rhetoric of technological development.",
-     "highlights": [
-      "Kavita Philip"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 12",
-     "locator": 21,
-     "before": "Thus, postcolonial computing decenters knowledge from the Global North in favor of a localized approach that emphasizes cross-​ cultural engagement and the effects of uneven development on design.",
-     "sentence": "This approach serves as an important model for digital humanities, which falls prey to the assumption that practices of the Global North are universal forms of knowledge, rather than what Donna Haraway terms “situated knowledges.”",
-     "after": "On the contrary, as Élika Ortega argues, “all DH is local DH.”",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "losh-bodies-of-information",
-     "author": "Jacqueline Wernimont",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 23",
-     "locator": 32,
-     "before": "Amy Earhart asks, “Can information be unfettered?” suggesting that digital textual editing of writing by women, African Americans, and queer writers is an important intervention in the residual canonicity that fetters the digital cultural record.",
-     "sentence": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
-     "after": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
-     "highlights": [
-      "Jacqueline Wernimont"
-     ]
-    },
-    {
-     "bookId": "bailey-misogynoir-transformed-black-womens-digi",
-     "author": "Moya Bailey",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 23",
-     "locator": 32,
-     "before": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
-     "sentence": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
-     "after": "Additionally, my own work on intersectionality considers how we can uncover a hidden history of intersectionality in digital humanities scholarship and use it to develop intersectional praxis that accounts for compounding oppressions that magnify difference in the digital cultural record.",
-     "highlights": [
-      "Moya Bailey"
-     ]
-    },
-    {
-     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
-     "author": "Lisa Nakamura",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 36",
-     "locator": 45,
-     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
-     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
-     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
-     "highlights": [
-      "Lisa Nakamura"
-     ]
-    },
-    {
-     "bookId": "chun-updating-to-remain-the-same-habitual-new",
-     "author": "Wendy Hui Kyong Chun",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 36",
-     "locator": 45,
-     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
-     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
-     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
-     "highlights": [
-      "Wendy Chun"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
-     "page": "p. 50",
-     "locator": 59,
-     "before": "Such a phenomenon is possible, Nicholas Dirks contends, because the colonial archive “produces, adjudicates, organizes, and maintains the discourse that becomes available as the primary texts of history.”",
-     "sentence": "This is not only a matter of archive contents but also what Michel Foucault calls the archive’s “system of its enunciability,” its role in producing and legitimating discourse.",
-     "after": "The digital cultural record is thus at risk of being a mirror of a colonial world-​picture, another representation of colonized subjects from a colonial perspective that authorizes imperialism.",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    },
-    {
-     "bookId": "drucker-the-digital-humanities-coursebook-an-int",
-     "author": "Johanna Drucker",
-     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
-     "page": "p. 52",
-     "locator": 61,
-     "before": "These remarks reflect anxieties over the definition of digital humanities as well as the relationship between theory and praxis in digital humanities.",
-     "sentence": "Emphasizing the significance of building to definitions of digital humanities, Anne Burdick, Johannah Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp argue that “the mere use of digital tools for the purpose of humanistic research and communication does not qualify as Digital Humanities.”",
-     "after": "Such narrow definitions contribute to a false binary between “hack” (acts of coding, building, and doing) and “yack” (the work of talking, critiquing, and theorizing) as practices that make up digital humanities.",
-     "highlights": [
-      "Johannah Drucker"
-     ]
-    },
-    {
-     "bookId": "latour-reassembling-the-social-an-introduction",
-     "author": "Bruno Latour",
-     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
-     "page": "p. 58",
-     "locator": 67,
-     "before": "Doing so requires developing new tools, archives, and practices that emerge from local contexts and challenge colonial violence through their design and content.",
-     "sentence": "Such an approach mediates between the hack/yack binary and exemplifies Bruno Latour’s identification of a discursive shift from critiquing to composing, which he describes as using a hammer to “repair, take care, assemble, reassemble, stitch together” rather than “break down walls, destroy idols, ridicule prejudices.”",
-     "after": "The Bichitra Online Tagore Variorum exemplifies how a project can make these dimensions legible.",
-     "highlights": [
-      "Bruno Latour"
-     ]
-    },
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 121",
-     "locator": 130,
-     "before": "On one hand, the status of the human in relation to technology is an important dimension of this question, since human-​ computer interaction is an essential part of digital humanities methods.",
-     "sentence": "Like N. Katherine Hayles’s posthuman subject, the contemporary human at stake in digital humanities is “an amalgam, a collection of heterogeneous components, a material-​informational entity whose boundaries undergo continuous construction and reconstruction.”",
-     "after": "Humans are largely inseparable from their implication in the production of data.",
-     "highlights": [
-      "Katherine Hayles"
-     ]
-    },
-    {
-     "bookId": "losh-bodies-of-information",
-     "author": "Elizabeth Losh",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 122",
-     "locator": 131,
-     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
-     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
-     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
-     "highlights": [
-      "Liz Losh"
-     ]
-    },
-    {
-     "bookId": "losh-bodies-of-information",
-     "author": "Jacqueline Wernimont",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 122",
-     "locator": 131,
-     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
-     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
-     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
-     "highlights": [
-      "Jacqueline Wernimont"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 126",
-     "locator": 135,
-     "before": "An important model for interrogating these matters in digital humanities appears in feminist and postcolonial science and technology studies scholarship, which brings together the philosophical and technical implications of human subjectivity by raising concern over divisions between the binary categories of “human” and “nonhuman.”",
-     "sentence": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
-     "after": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 126",
-     "locator": 135,
-     "before": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
-     "sentence": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
-     "after": "Rather, the two categories are both connected and interdependent.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 130",
-     "locator": 139,
-     "before": "These issues are particularly important as digital humanities practitioners turn to sources like Amazon Mechanical Turk for their projects.",
-     "sentence": "Notably, Lev Manovich’s “selfiecity” relied on Amazon Mechanical Turk workers to code selfies for age and gender,63 while Ryan Heuser’s Mapping Emotions in Victorian London project used the workers to attribute sentiments to locations drawn from Victorian literary texts.",
-     "after": "Without the ability to interrogate the demographics of the workers that influence the data-​coding process, such as gender, race or ethnicity, and nationality, it is unclear which factors are influencing the results of these studies.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 134",
-     "locator": 143,
-     "before": "At stake in the production of humanoid texts through these methods is the question of universalism.",
-     "sentence": "As Hayles notes, “Literary texts are not, of course, merely passive conduits.",
-     "after": "They actively shape what the technologies mean and what the scientific theories signify in cultural contexts.",
-     "highlights": [
-      "Hayles"
-     ]
-    },
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 135",
-     "locator": 144,
-     "before": "They also embody assumptions similar to those that permeated the scientific theories at critical points.”",
-     "sentence": "Humanoid texts not only reflect Hayles’s observation but are actively constructed by these forces.",
-     "after": "With the move to generate software and algorithms that replicate “human” processes, particular forms of the “human” are authorized.",
-     "highlights": [
-      "Hayles"
      ]
     }
    ],
@@ -7041,7 +7041,7 @@
      "locator": 47,
      "before": "As Elisabeth Jay Friedman has argued, queer feminist counterpublic organizing through online interfaces such as listservs extends and remediates existing feminist communications networks and their strategies.",
      "sentence": "Similarly, Cassius Adair and Lisa Nakamura’s research on the publication history of This Bridge Called My Back (1981) connects the networked pedagogies of 1980s women of color feminism to digital archival work by feminists of color on social media sites such as Tumblr.",
-     "after": "Th s scholarship on the long history of feminist networks argues that network imaginaries are bound up with feminist ideals about communication, capacity building, and the power of alternative structures for organizing people and ideas.",
+     "after": "This scholarship on the long history of feminist networks argues that network imaginaries are bound up with feminist ideals about communication, capacity building, and the power of alternative structures for organizing people and ideas.",
      "highlights": [
       "Lisa Nakamura"
      ]
@@ -7117,7 +7117,7 @@
      "section": null,
      "page": "p. 114",
      "locator": 118,
-     "before": "The celebrated Black lesbian writer and activist Barbara Smith expressed just such a point in her foreword to Black Lesbians: An Annotated Bibliography (1981), compiled by Roberts: “Th s book encourages and strengthens us to keep on living as fully as possible against the grain.”",
+     "before": "The celebrated Black lesbian writer and activist Barbara Smith expressed just such a point in her foreword to Black Lesbians: An Annotated Bibliography (1981), compiled by Roberts: “This book encourages and strengthens us to keep on living as fully as possible against the grain.”",
      "sentence": "Smith’s wood-grain metaphor and Ahmed’s trodden path both describe information as a hard-won life support for queer women, especially women of color.",
      "after": "Desire lines form because city-built paths were not put in the “right” place for a critical mass of pedestrians who protest with their feet by wearing down the natural habitat.",
      "highlights": [
@@ -7208,8 +7208,7 @@
   "gray-intersectional-tech-black-users-in-digit": {
    "title": "Intersectional tech: Black users in digital gaming",
    "authors": [
-    "Kishonna L. Gray",
-    "Anita Sarkeesian"
+    "Kishonna L. Gray"
    ],
    "mentions": [
     {

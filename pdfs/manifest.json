@@ -5,6 +5,7 @@
       "Sara Ahmed"
     ],
     "year": 2019,
+    "original_year": 2019,
     "publisher": "Duke University Press",
     "isbn": null,
     "source": null
@@ -15,6 +16,7 @@
       "Moya Bailey"
     ],
     "year": 2021,
+    "original_year": 2021,
     "publisher": "New York University Press",
     "isbn": "9781479803392",
     "source": "originals/Misogynoir Transformed_ Black Women’s Digital Resistance -- Moya Bailey -- InterSections #18, 2021 -- New York University Press -- isbn13 9781479803392 -- 17f431005719f10f99c1f2de5931925e -- Anna’s Archive.epub"
@@ -25,6 +27,7 @@
       "Ruha Benjamin"
     ],
     "year": 2019,
+    "original_year": 2019,
     "publisher": "Polity Press",
     "isbn": null,
     "source": null
@@ -35,6 +38,7 @@
       "Wendy Hui Kyong Chun"
     ],
     "year": 2017,
+    "original_year": 2016,
     "publisher": "MIT",
     "isbn": "9780262034494",
     "source": null
@@ -45,6 +49,7 @@
       "Sasha Costanza-Chock"
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": "MIT Press",
     "isbn": "9780262043458",
     "source": "originals/Design Justice_ Community-Led Practices to Build the Worlds -- Sasha Costanza–chock -- Information policy series, Cambridge, Massachusetts, 2020 -- isbn13 9780262043458 -- 79d861b7de2bd264c6174f1151e772a2 -- Anna’s Archive.epub"
@@ -56,6 +61,7 @@
       "Lauren F. Klein"
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": "The MIT Press",
     "isbn": "9780262044004",
     "source": "originals/Data Feminism (Strong Ideas) -- D'Ignazio, Catherine; Klein, Lauren F_ -- MIT Press, Cambridge, Massachusetts, 2020 -- The MIT Press -- isbn13 9780262044004 -- 2ef32cf0eb73657d2b000ec8159a46e2 -- Anna’s Archive.azw3"
@@ -66,6 +72,7 @@
       "Johanna Drucker"
     ],
     "year": 2021,
+    "original_year": 2021,
     "publisher": "Routledge, an",
     "isbn": "9780367565756",
     "source": null
@@ -76,6 +83,7 @@
       "Virginia Eubanks"
     ],
     "year": 2018,
+    "original_year": 2018,
     "publisher": "St_ Martin's Press",
     "isbn": "9781250074317",
     "source": "originals/Automating inequality _ how high-tech tools profile, police, -- Eubanks, Virginia -- Place of publication not identified, 2018 -- St_ Martin's Press -- isbn13 9781250074317 -- af7e8b412f7c6b00ef8c1489d332aff1 -- Anna’s Archive.epub"
@@ -86,6 +94,7 @@
       "Michel Foucault"
     ],
     "year": 1994,
+    "original_year": 1966,
     "publisher": "Random House Digital;Vintage Books",
     "isbn": "9780307819307",
     "source": "originals/Order of Things _ An Archaeology of Human Sciences -- Foucault, Michel [Foucault, Michel] -- 1994;2013 -- Random House Digital;Vintage Books -- isbn13 9780307819307 -- e92474750c360c13147f11000be3da72 -- Anna’s Archive.epub"
@@ -97,6 +106,7 @@
       "Lauren F. Klein"
     ],
     "year": 2023,
+    "original_year": 2023,
     "publisher": "University of Minnesota Press",
     "isbn": "9781452969312",
     "source": "originals/Debates in the Digital Humanities 2023 -- Matthew K_ Gold, Lauren F_ Klein -- Debates in the Digital Humanities, 2023 -- University of Minnesota Press -- isbn13 9781452969312 -- 242ff1711cebcbdbd204c4fe6076955b -- Anna’s Archive.epub"
@@ -107,6 +117,7 @@
       "Laura Gonzales"
     ],
     "year": 2022,
+    "original_year": 2022,
     "publisher": "Utah State University Press",
     "isbn": null,
     "source": null
@@ -114,10 +125,10 @@
   "gray-intersectional-tech-black-users-in-digit": {
     "title": "Intersectional tech: Black users in digital gaming",
     "author": [
-      "Kishonna L. Gray",
-      "Anita Sarkeesian"
+      "Kishonna L. Gray"
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": null,
     "isbn": "9780807171226",
     "source": "originals/Intersectional tech _ Black users in digital gaming -- Kishonna L_ Gray (author) & Anita Sarkeesian (Foreword by) -- Illustrated, PS, 2020 -- isbn13 9780807171226 -- df72ef487eb24276ad11321d69f51596 -- Anna’s Archive.epub"
@@ -128,6 +139,7 @@
       "Donna J. Haraway"
     ],
     "year": 1991,
+    "original_year": 1991,
     "publisher": "Routledge, 1991_",
     "isbn": "9780203873106",
     "source": "originals/Simians, cyborgs, and women _ the reinvention of nature _ -- Haraway, Donna Jeanne_ -- New York, New York State, 1991 -- Routledge, 1991_ -- isbn13 9780203873106 -- 83535bfc88a7c8a77a2802d40149254a -- Anna’s Archive.zip"
@@ -138,6 +150,7 @@
       "N. Katherine Hayles"
     ],
     "year": 1999,
+    "original_year": 1999,
     "publisher": "The University",
     "isbn": "9780226321394",
     "source": "originals/How We Became Posthuman _ Virtual Bodies in Cybernetics, -- N_ Katherine Hayles -- University of Chicago Press, Chicago, Ill, 1999 -- The University -- isbn13 9780226321394 -- a2a27fc288cb306099eaa6e189347ea9 -- Anna’s Archive.epub"
@@ -150,6 +163,7 @@
       "Brooke Foucault Welles"
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": "The MIT Press",
     "isbn": null,
     "source": "originals/#HashtagActivism_ Networks of Race and Gender Justice -- Sarah J_ Jackson & Moya Bailey & Brooke Foucault Welles -- 2020 -- The MIT Press -- f0c8163e76efb22433494aa1dde51ceb -- Anna’s Archive.epub"
@@ -160,6 +174,7 @@
       "André L Brock Jr."
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": "New York University Press",
     "isbn": "9781479811908",
     "source": "originals/Distributed Blackness _ African American Cybercultures -- André L Brock, Jr -- New York University Press, New York, 2020 -- New York University Press -- isbn13 9781479811908 -- b1fc5f338b54ae3b3cc4d8bb6fb73a7e -- Anna’s Archive.epub"
@@ -170,6 +185,7 @@
       "Bruno Latour"
     ],
     "year": 2007,
+    "original_year": 2005,
     "publisher": "Oxford University",
     "isbn": "9780191531262",
     "source": "originals/Reassembling the Social_ An Introduction to -- Latour, Bruno; -- Clarendon lectures in management studies, Oxford ; New York, -- Oxford University -- isbn13 9780191531262 -- 4715c8d7c699862552cbfa04cd5db058 -- Anna’s Archive.epub"
@@ -181,6 +197,7 @@
       "Jacqueline Wernimont"
     ],
     "year": 2018,
+    "original_year": 2019,
     "publisher": "University of Minnesota Press",
     "isbn": null,
     "source": null
@@ -191,6 +208,7 @@
       "Lev Manovich"
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": "ǂThe ǂMIT Press",
     "isbn": "9780262037105",
     "source": "originals/Cultural Analytics -- Lev Manovich -- MIT Press, Cambridge, Massachusetts, 2020 -- ǂThe ǂMIT Press -- isbn13 9780262037105 -- eadf36be84f47774f4f49cba6be158f5 -- Anna’s Archive.epub"
@@ -201,6 +219,7 @@
       "Cait McKinney"
     ],
     "year": 2020,
+    "original_year": 2020,
     "publisher": "Duke University Press",
     "isbn": "9781478007821",
     "source": null
@@ -214,6 +233,7 @@
       "Kavita Philip"
     ],
     "year": 2021,
+    "original_year": 2021,
     "publisher": "The MIT Press",
     "isbn": "9780262360777",
     "source": "originals/Your Computer Is on Fire -- Thomas S_ Mullaney, Benjamin Peters,  Mar Hicks, Kavita -- 1, 2021 -- The MIT Press -- isbn13 9780262360777 -- 0de19de787d20e01d182c23310746215 -- Anna’s Archive.epub"
@@ -224,6 +244,7 @@
       "Lisa Nakamura"
     ],
     "year": 2007,
+    "original_year": 2008,
     "publisher": "Univ Of",
     "isbn": "9780816646128",
     "source": null
@@ -234,6 +255,7 @@
       "Safiya Umoja Noble"
     ],
     "year": 2018,
+    "original_year": 2018,
     "publisher": "New York University Press",
     "isbn": null,
     "source": "originals/Algorithms of Oppression -- Noble, Safiya Umoja -- 2018 -- New York University Press -- 27ee43c03eadf96908d33f4dc767bd2c -- Anna’s Archive.epub"
@@ -244,6 +266,7 @@
       "Walter J. Ong"
     ],
     "year": 2004,
+    "original_year": 1982,
     "publisher": "Taylor & Francis e-Library",
     "isbn": "9780203131701",
     "source": "originals/Orality and Literacy _ The Technologizing of the Word -- Ong, Walter J_ -- New accents (Routledge (Firm)), 2004;2007 -- Taylor & Francis e-Library -- isbn13 9780203131701 -- 7a0f5e66f1ce7664b118eb03c86e929a -- Anna’s Archive.mobi"
@@ -254,6 +277,7 @@
       "Roopika Risam"
     ],
     "year": 2019,
+    "original_year": 2018,
     "publisher": "Northwestern University Press",
     "isbn": "9780810138858",
     "source": null
@@ -264,6 +288,7 @@
       "Gillian Rose"
     ],
     "year": 2016,
+    "original_year": 2001,
     "publisher": "SAGE Publications, Limited",
     "isbn": "9781473948891",
     "source": "originals/Visual methodologies _ an introduction to researching with -- Gillian  Rose -- 4th edition, Los Angeles, 2016 -- SAGE Publications, Limited -- isbn13 9781473948891 -- 598419cc897b9e6f8a030650775986cb -- Anna’s Archive.pdf"
@@ -274,6 +299,7 @@
       "Catherine Knight Steele"
     ],
     "year": 2021,
+    "original_year": 2021,
     "publisher": null,
     "isbn": "9781479808373",
     "source": null
@@ -284,6 +310,7 @@
       "Jason Chew Kit Tham"
     ],
     "year": 2021,
+    "original_year": 2021,
     "publisher": "Routledge",
     "isbn": null,
     "source": null
@@ -294,6 +321,7 @@
       "Annette Vee"
     ],
     "year": 2017,
+    "original_year": 2017,
     "publisher": "The MIT Press",
     "isbn": null,
     "source": "originals/Coding Literacy_ How Computer Programming Is Changing -- Vee, Annette -- 2017 -- The MIT Press -- 26484ea0007fa329a4d2c6646f1b40da -- Anna’s Archive.epub"
@@ -306,6 +334,7 @@
       "Natasha Jones"
     ],
     "year": 2019,
+    "original_year": 2019,
     "publisher": "Routledge",
     "isbn": "9780367188467",
     "source": null

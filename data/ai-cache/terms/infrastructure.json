@@ -1,0 +1,222 @@
+{
+ "hayles-how-we-became-posthuman-virtual-bodies-i": {
+  "input": "3b6c392e7a48",
+  "locator": 27,
+  "quote": "The pattern/randomness dialectic does not erase the material world; information in fact derives its efficacy from the material infrastructures it appears to obscure.",
+  "definition": "Infrastructure is the material base (machines, wires, bodies) that information depends on, even while information seems to float free of it.",
+  "stance": "in passing",
+  "changed": "First on the timeline: infrastructure is the material base that 'disembodied' information hides.",
+  "judge": "claude",
+  "year": 1999
+ },
+ "latour-reassembling-the-social-an-introduction": {
+  "input": "8ac029fd1678",
+  "locator": 118,
+  "quote": "When we talk about an ‘overarching framework’, ‘pillars’, ‘infrastructure’, ‘frame’, we use loosely the technical terms borrowed from architecture, metallurgy, and cinema.",
+  "definition": "Latour doubts \"infrastructure\" as a hidden base, like the economy, that determines social life. For him it is a loose borrowed metaphor that should be replaced by tracing actual connections.",
+  "stance": "critiques",
+  "changed": "Challenges the idea of infrastructure as a hidden foundation that determines society.",
+  "judge": "claude",
+  "year": 2005
+ },
+ "nakamura-digitizing-race-visual-cultures-of-the-i": {
+  "input": "e7bbf5670381",
+  "locator": 87,
+  "quote": "The Internet is certainly an infrastructure and a medium that seemed to many to be race free or color blind but is in fact imbued with racial politics as a result of the digital inequalities evident in its demographics, its political economy, and its content.",
+  "definition": "The Internet is an infrastructure that looks race-neutral but carries racial politics in who uses it, who profits, and what it shows.",
+  "stance": "critiques",
+  "changed": "Shows infrastructure that seems color-blind carrying racial politics.",
+  "judge": "claude",
+  "year": 2008
+ },
+ "chun-updating-to-remain-the-same-habitual-new": {
+  "input": "b1ba8d92b11d",
+  "locator": 30,
+  "quote": "A focus on habit moves us away from dramatic chartings and maps of “viral spread” toward questions of infrastructure and justice.",
+  "definition": "Infrastructure is the technical and social systems beneath networks. Focusing on everyday habits, rather than \"viral\" spread, leads to questions of infrastructure and justice.",
+  "stance": "in passing",
+  "changed": "Links infrastructure to habit and justice rather than to spectacular events.",
+  "judge": "claude",
+  "year": 2016
+ },
+ "vee-coding-literacy-how-computer-programming": {
+  "input": "d9075ef292e8",
+  "locator": 97,
+  "quote": "Writing remade institutions and individual lives as it became infrastructural to medieval government, commerce, and social relations, and computer programming is restructuring our lives now.",
+  "definition": "Infrastructure is what daily life quietly runs on. Writing became infrastructural to medieval society, and computer code is becoming infrastructural now.",
+  "stance": "defines",
+  "changed": "Makes writing and code themselves infrastructures, which ties literacy to power.",
+  "judge": "claude",
+  "year": 2017
+ },
+ "noble-algorithms-of-oppression": {
+  "input": "654fa486bb21",
+  "locator": 42,
+  "quote": "Yet the web is not only an intangible space; it is also a physical space made of brick, mortar, metal trailers, electronics containing magnetic and optical media, and fiber infrastructure.",
+  "definition": "The web's infrastructure is physical: buildings, cables, and machines, owned and run by private companies.",
+  "stance": "in passing",
+  "changed": "Stresses that the web's infrastructure is physical and privately controlled.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "eubanks-automating-inequality-how-high-tech-tool": {
+  "input": "a62fec23c36b",
+  "locator": 84,
+  "quote": "Its integrated data systems and digital surveillance infrastructure offer a degree of control unrivaled in history.",
+  "definition": "Infrastructure is the built systems, from highways to databases, that shape how people live. Welfare now runs on a digital surveillance infrastructure that gives unprecedented control.",
+  "stance": "critiques",
+  "changed": "Shows welfare turning into a digital infrastructure of surveillance and control.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "risam-new-digital-worlds-postcolonial-digital": {
+  "input": "7dad72f82377",
+  "locator": 151,
+  "quote": "We need to avoid uncritically replicating the epistemological and ontological formations of the Global North, which is especially important because it has a determining power over the formation of knowledge infrastructures and it risks erasing local specificity in the Global South.",
+  "definition": "Knowledge infrastructures (the centers, platforms, and tools of scholarship) are shaped mostly by the Global North and can erase local knowledge in the Global South.",
+  "stance": "critiques",
+  "changed": "Shows scholarly infrastructure favoring the Global North.",
+  "judge": "claude",
+  "year": 2018
+ },
+ "losh-bodies-of-information": {
+  "input": "5ca2f3b615a5",
+  "locator": 296,
+  "quote": "As Susan Leigh Star and Karen Ruhleder note, the common characterization of infrastructure as transparent until it breaks belies its intellectual challenges and complexity: “infrastructure is something that emerges for people in practice, connected to activities and structures” (112).",
+  "definition": "Infrastructure is not just invisible machinery that works until it breaks; it emerges in people's practices, and the labor that sustains it is often undervalued.",
+  "stance": "defines",
+  "changed": "Brings a feminist lens: the people and labor behind infrastructure matter.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "benjamin-race-after-technology": {
+  "input": "51e34df00aa7",
+  "locator": 46,
+  "quote": "While more institutions and people are outspoken against blatant racism, discriminatory practices are becoming more deeply embedded within the sociotechnical infrastructure of everyday life.",
+  "definition": "Infrastructure is the sociotechnical base of everyday life, and discrimination is increasingly built into it rather than expressed openly.",
+  "stance": "critiques",
+  "changed": "Argues racism is moving from open acts into infrastructure itself.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "walton-technical-communication-after-the-social": {
+  "input": "40a09e48b5c0",
+  "locator": 143,
+  "quote": "And yet, theorizing power within the structural domain requires us to acknowledge that infrastructures and organizations are imbued with values—often white supremacist and patriarchal values.",
+  "definition": "Infrastructures are the structures of society, and they carry values, often white supremacist and patriarchal ones.",
+  "stance": "in passing",
+  "changed": "Brings infrastructure into technical communication as a place where power and values live.",
+  "judge": "claude",
+  "year": 2019
+ },
+ "dignazio-data-feminism-strong-ideas": {
+  "input": "3e31b43f6672",
+  "locator": 137,
+  "quote": "As Borgman defines it, a knowledge infrastructure is “an ecology of people, practices, technologies, institutions, material objects, and relationships.”",
+  "definition": "Data come from a knowledge infrastructure: a whole ecology of people, practices, technologies, and institutions, not just machines.",
+  "stance": "defines",
+  "changed": "Asks readers to see the knowledge infrastructure behind every dataset.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "costanzachock-design-justice-community-led-practices-t": {
+  "input": "bcc08615b58c",
+  "locator": 69,
+  "quote": "While it is the spectacular acts of disruption that go down in history, the daily labor of infrastructure maintenance makes history to a comparable degree.",
+  "definition": "Infrastructure is the systems that movements build and run for themselves; the daily work of maintaining it matters as much as protest.",
+  "stance": "in passing",
+  "changed": "Values the maintenance of community-run infrastructure as political work.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "jr-distributed-blackness-african-american-c": {
+  "input": "48431bee3f52",
+  "locator": 31,
+  "quote": "Infrastructure most frequently becomes visible when it ruptures, causing interruptions in the everyday use of otherwise invisible resources and capacities.",
+  "definition": "Infrastructure is the invisible base of everyday resources, noticed mostly when it breaks. Brock asks whether Blackness can be read in digital infrastructure like the web browser.",
+  "stance": "defines",
+  "changed": "Asks whether Blackness shows up in the infrastructure itself.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "jackson-hashtagactivism-networks-of-race-and-gen": {
+  "input": "ec1ee150682e",
+  "locator": 74,
+  "quote": "The Black Lives Matter movement not only relies on new technological infrastructures and potentials, it was birthed in the public consciousness by them.",
+  "definition": "Social media platforms are infrastructures that movements like Black Lives Matter depend on, and were born through.",
+  "stance": "in passing",
+  "changed": "Shows activist movements born through social media infrastructure.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "mckinney-information-activism-a-queer-history-of": {
+  "input": "31463dcd7180",
+  "locator": 11,
+  "quote": "The term “infrastructure” describes technical systems in which resources operate in complex combination to make communication or knowledge work possible.",
+  "definition": "Infrastructure is the technical systems in the background that make communication and knowledge work possible, usually noticed only when they fail. Lesbian feminists built their own.",
+  "stance": "defines",
+  "changed": "Shows activists building their own information infrastructure to make feminism possible.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "gray-intersectional-tech-black-users-in-digit": {
+  "input": "f4e52ae6d629",
+  "locator": 89,
+  "quote": "The interdisciplinary engagements around race, gender, and aspects of identity showcase the critical prowess of marginalized scholars in unpacking the oppressive conditions of digital infrastructures.",
+  "definition": "Gray mentions digital infrastructures once, as oppressive conditions that marginalized scholars expose.",
+  "stance": "in passing",
+  "changed": "Mentions infrastructure only once, as a site of oppression.",
+  "judge": "claude",
+  "year": 2020
+ },
+ "tham-design-thinking-in-technical-communicati": {
+  "input": "49a2c5e47df5",
+  "locator": 91,
+  "quote": "The way IDEO’s Tim Brown and Jocelyn Wyatt defined design thinking is of interest here: “Design thinking—inherently optimistic, constructive, and experiential—addresses the needs of the people who will consume a product or service and the infrastructure that enables it” (2010, n.p.).",
+  "definition": "Tham uses infrastructure for the tools, spaces, and support systems that make design and making possible.",
+  "stance": "in passing",
+  "changed": "Treats infrastructure practically, as what makers and designers need.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "drucker-the-digital-humanities-coursebook-an-int": {
+  "input": "d8e8fbdf35dd",
+  "locator": 24,
+  "quote": "Digital formats are ephemeral, vulnerable, and depend upon elaborate material infrastructures.",
+  "definition": "Digital materials depend on elaborate material infrastructure (servers, networks, staff) that is fragile and costly.",
+  "stance": "in passing",
+  "changed": "Adds costs: digital infrastructure has ecological and institutional costs humanists must plan for.",
+  "judge": "claude",
+  "year": 2021
+ },
+ "mullaney-your-computer-is-on-fire": {
+  "input": "672173e585d7",
+  "locator": 174,
+  "quote": "“Infrastructure” typically refers to mature, deeply embedded sociotechnical systems that are widely accessible, shared, and enduring.",
+  "definition": "Infrastructure means mature, deeply embedded systems that are widely shared and lasting. Metaphors like \"the Cloud\" hide their material costs.",
+  "stance": "defines",
+  "changed": "Exposes the material infrastructure hidden behind the \"Cloud\".",
+  "judge": "claude",
+  "year": 2021
+ },
+ "gonzales-designing-multilingual-experiences-in-te": {
+  "input": "f07d12bfbfbf",
+  "locator": 75,
+  "quote": "Both societal infrastructures and technological interfaces embrace binary approaches to language practice, positioning people, keyboard characters, writing systems, and interfaces as “either” in one language and “or” in another (Pérez-Quiñonez and Carr Salas 2021).",
+  "definition": "Infrastructures, like universities and translation systems, often force language into one-or-the-other categories and shut out multilingual people's expertise.",
+  "stance": "critiques",
+  "changed": "Shows infrastructures enforcing one language at a time and erasing multilingual expertise.",
+  "judge": "claude",
+  "year": 2022
+ },
+ "gold-debates-in-the-digital-humanities-2023": {
+  "input": "54605276def6",
+  "locator": 133,
+  "quote": "One important source of theory on how research and infrastructure can be bridged is the “critical infrastructure” discourse associated with Alan Liu and other digital humanists, whose community has routinely engaged in building websites and communities for the sharing of knowledge and whose ideas about web infrastructure align well with the task of pragmatic criticism.",
+  "definition": "Infrastructure is the tools, funding, and systems scholarship depends on; \"critical infrastructure\" means building them thoughtfully as scholarly work.",
+  "stance": "in passing",
+  "changed": "Treats building infrastructure as critical scholarly work within digital humanities.",
+  "judge": "claude",
+  "year": 2023
+ }
+}

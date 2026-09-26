@@ -295,6 +295,35 @@ def repair_ligatures(text):
     return re.sub(r"[A-Za-z]*f[A-Za-z]*", fix, text)
 
 
+# Books whose PDF drops the letter after a three-letter ligature glyph
+# ("fi st", "refl ct", "Th s" for first, reflect, This). The letter is put back
+# when exactly one letter makes a dictionary word, or one reading is far more
+# common; ambiguous cases ("fi e": five, fire, fine) are left as they are.
+LOST_LETTER_BOOKS = {"mckinney-information-activism-a-queer-history-of"}
+LOST_LETTER = re.compile(r"\b(\w*(?:ffi|ffl|fi|fl|ff|Th|th))\s([a-z]{1,10})\b")
+
+
+def repair_lost_letters(text):
+    global _speller
+    if _speller is None:
+        from spellchecker import SpellChecker
+        _speller = SpellChecker()
+
+    def fix(m):
+        head, tail = m.group(1), m.group(2)
+        if head.lower() in _speller and tail in _speller and len(tail) > 1:
+            return m.group(0)  # two real words ("with the")
+        options = sorted((head + c + tail for c in "abcdefghijklmnopqrstuvwxyz"
+                          if (head + c + tail).lower() in _speller),
+                         key=lambda w: -_speller.word_usage_frequency(w.lower()))
+        if not options or (len(options) > 1 and 20 * _speller.word_usage_frequency(options[1].lower())
+                           > _speller.word_usage_frequency(options[0].lower())):
+            return m.group(0)
+        return options[0]
+
+    return LOST_LETTER.sub(fix, text)
+
+
 # The "[p. 47]" markers to_pdf.py places where the print edition turns a page.
 PRINT_MARK = re.compile(r"\[p\. ([0-9]+|[ivxlcdm]+)\]", re.IGNORECASE)
 
@@ -439,11 +468,12 @@ def extract_pdf(filepath, converted=False):
     for p in pages:
         p["blocks"] = [b for b in blocks.get(p["locator"], []) if b["x"].strip()]
 
-    if book_id in LIGATURE_BOOKS:
-        for p in pages:
-            p["text"] = repair_ligatures(p["text"])
-            for b in p["blocks"]:
-                b["x"] = repair_ligatures(b["x"])
+    for books, repair in ((LIGATURE_BOOKS, repair_ligatures), (LOST_LETTER_BOOKS, repair_lost_letters)):
+        if book_id in books:
+            for p in pages:
+                p["text"] = repair(p["text"])
+                for b in p["blocks"]:
+                    b["x"] = repair(b["x"])
 
     pdf_meta = doc.metadata or {}
     doc.close()
@@ -680,6 +710,8 @@ def process_file(filepath):
         "title": metadata.get("title", filename),
         "author": metadata.get("author", []),
         "year": metadata.get("year"),
+        # When the work first came out, which orders the timelines
+        "original_year": metadata.get("original_year") or metadata.get("year"),
         "publisher": metadata.get("publisher"),
         "isbn": metadata.get("isbn"),
         "format": "pdf",
