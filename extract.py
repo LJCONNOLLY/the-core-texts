@@ -1,81 +1,37 @@
 #!/usr/bin/env python3
 """
-extract.py — PDF + EPUB + MOBI + AZW3 + ZIP text extraction pipeline
-for The Core Texts digital humanities archive.
+extract.py — PDF text extraction pipeline for The Core Texts digital
+humanities archive.
 
-Reads all supported ebook files from the repo root, extracts text and metadata,
-flags definitional passages about "text" and "technology", and outputs:
+Every book on the core list is a PDF in pdfs/ named by its book id, with its
+metadata in pdfs/manifest.json (books that began as EPUB/MOBI/AZW3/ZIP are
+converted by to_pdf.py). This script extracts each PDF's text page by page,
+records the print edition's page numbers where it can, flags definitional
+passages about glossary terms, and outputs:
   - data/index.json (metadata + definitions)
   - data/books/{book-id}.json (full text per book)
+  - data/search/ (prebuilt full-text search index)
 """
 
 import json
 import os
 import re
-import subprocess
-import sys
-import tempfile
-import zipfile
 from datetime import datetime
 from pathlib import Path
 
 import fitz  # PyMuPDF
-from bs4 import BeautifulSoup
 
-# Try importing optional libraries
-try:
-    import ebooklib
-    from ebooklib import epub
-    HAS_EBOOKLIB = True
-except ImportError:
-    HAS_EBOOKLIB = False
-
-try:
-    import mobi
-    HAS_MOBI = True
-except ImportError:
-    HAS_MOBI = False
+import layout
 
 # ─── Configuration ───────────────────────────────────────────────────────────
 
 ROOT_DIR = Path(__file__).parent
 DATA_DIR = ROOT_DIR / "data"
 BOOKS_DIR = DATA_DIR / "books"
+PDF_DIR = ROOT_DIR / "pdfs"
 
-SUPPORTED_EXTENSIONS = {".pdf", ".epub", ".mobi", ".azw3", ".zip"}
-
-# Files to skip
-SKIP_FILES = {
-    "books/core list",
-}
-
-# Hardcoded metadata for files with non-standard names
-MANUAL_METADATA = {
-    "core2.pdf": {
-        "title": "Race After Technology",
-        "author": ["Ruha Benjamin"],
-        "year": 2019,
-        "publisher": "Polity Press",
-    },
-    "project_muse_63071-full.pdf": {
-        "title": "Bodies of Information",
-        "author": ["Elizabeth Losh", "Jacqueline Wernimont"],
-        "year": 2018,
-        "publisher": "University of Minnesota Press",
-    },
-    "whats the use.pdf": {
-        "title": "What's the Use?: On the Uses of Use",
-        "author": ["Sara Ahmed"],
-        "year": 2019,
-        "publisher": "Duke University Press",
-    },
-    "Designing Multilingual Experiences in Technical Communication.pdf": {
-        "title": "Designing Multilingual Experiences in Technical Communication",
-        "author": ["Laura Gonzales"],
-        "year": 2022,
-        "publisher": "Utah State University Press",
-    },
-}
+# id -> {title, author, year, publisher, isbn, source}
+MANIFEST = json.loads((PDF_DIR / "manifest.json").read_text(encoding="utf-8"))
 
 # ─── Definitional language patterns ─────────────────────────────────────────
 
@@ -259,13 +215,13 @@ def parse_anna_filename(filename):
 
 
 def get_metadata(filepath):
-    """Get metadata for a file, using manual overrides, filename parsing, or file metadata."""
+    """Get metadata for a PDF from the manifest, else its filename."""
     filename = os.path.basename(filepath)
+    stem = Path(filename).stem
 
-    if filename in MANUAL_METADATA:
-        meta = MANUAL_METADATA[filename].copy()
-        meta.setdefault("isbn", None)
-        meta.setdefault("publisher", None)
+    if stem in MANIFEST:
+        meta = {k: v for k, v in MANIFEST[stem].items() if k != "source"}
+        meta["id"] = stem
         return meta
 
     parsed = parse_anna_filename(filename)
@@ -283,7 +239,9 @@ def get_metadata(filepath):
 
 
 def make_book_id(metadata):
-    """Generate a unique book ID from metadata."""
+    """The manifest's id, else one generated from the metadata."""
+    if metadata.get("id"):
+        return metadata["id"]
     author_part = ""
     if metadata.get("author"):
         first_author = metadata["author"][0]
@@ -299,8 +257,107 @@ def make_book_id(metadata):
 
 # ─── Text extraction ────────────────────────────────────────────────────────
 
-def extract_pdf(filepath):
-    """Extract text from PDF page by page using PyMuPDF. Falls back to OCR for scanned PDFs."""
+# Books whose PDF maps the fi/fl/ff ligature glyphs to a bare "f"
+# ("workfow", "signifcant"); the words are repaired against a dictionary.
+LIGATURE_BOOKS = {"tham-design-thinking-in-technical-communicati"}
+LIGATURE_WORDS = {"workfow": "workflow", "afordance": "affordance", "afordances": "affordances",
+                  "pfster": "pfister", "brufee": "bruffee"}
+_speller = None
+
+
+def repair_ligatures(text):
+    """ "signifcant" -> "significant", "refection" -> "reflection" ... """
+    global _speller
+    if _speller is None:
+        from spellchecker import SpellChecker
+        _speller = SpellChecker()
+
+    def fix(m):
+        word = m.group(0)
+        low = word.lower()
+        if low in LIGATURE_WORDS:
+            best = LIGATURE_WORDS[low]
+        else:
+            options = [low[:i] + lig + low[i + 1:] for i, ch in enumerate(low) if ch == "f"
+                       for lig in ("fi", "fl", "ff", "ffi", "ffl")]
+            options = [o for o in options if o in _speller]
+            if not options:
+                return word
+            best = max(options, key=_speller.word_usage_frequency)
+            # A real word can hide a lost ligature ("refection"); swap only when
+            # the ligature reading is far more common.
+            if low in _speller and _speller.word_usage_frequency(best) < 30 * _speller.word_usage_frequency(low):
+                return word
+        if word.isupper():
+            return best.upper()
+        return best[0].upper() + best[1:] if word[0].isupper() else best
+
+    return re.sub(r"[A-Za-z]*f[A-Za-z]*", fix, text)
+
+
+# The "[p. 47]" markers to_pdf.py places where the print edition turns a page.
+PRINT_MARK = re.compile(r"\[p\. ([0-9]+|[ivxlcdm]+)\]", re.IGNORECASE)
+
+
+def printed_pages(pages):
+    """Map PDF page locators to the page numbers printed in their heads/feet.
+
+    Candidate numbers come from each page's first and last lines; the offset
+    between printed and PDF numbering that most pages agree on is trusted, and
+    pages without a readable number borrow the offset of the nearest page that
+    has one (offsets shift where unnumbered plates are bound in).
+    """
+    confirmed = {}
+    cands = {}
+    for p in pages:
+        lines = [l for l in p["text"].split("\n") if l.strip()]
+        nums = set()
+        for l in lines[:3] + lines[-2:]:
+            nums |= {int(n) for n in re.findall(r"(?<![\d.,:–-])\b(\d{1,3})\b(?![\d.,:–-]\d)", l)}
+        cands[p["locator"]] = nums
+    offsets = {}
+    for loc, nums in cands.items():
+        for n in nums:
+            offsets[n - loc] = offsets.get(n - loc, 0) + 1
+    good = {o for o, c in offsets.items() if c >= 10}
+    for loc, nums in cands.items():
+        hits = [n for n in nums if n - loc in good]
+        if len(hits) == 1:
+            confirmed[loc] = hits[0]
+    # Keep a reading only if nearby pages agree on the offset (OCR noise and
+    # stray numbers in the text don't), and give up on books with few readings.
+    offset = {loc: n - loc for loc, n in confirmed.items()}
+
+    def local_majority(loc):
+        window = [offset[l] for l in range(loc - 10, loc + 11) if l in offset]
+        return max(set(window), key=window.count)
+
+    confirmed = {loc: n for loc, n in confirmed.items()
+                 if offset[loc] == local_majority(loc)
+                 and sum(offset.get(loc + d) == offset[loc] for d in range(-5, 6) if d) >= 2}
+    if len(confirmed) < len(pages) * 0.3:
+        return {}
+    known = sorted(confirmed)
+    out = {}
+    for p in pages:
+        loc = p["locator"]
+        if loc in confirmed:
+            out[loc] = confirmed[loc]
+            continue
+        near = min(known, key=lambda k: abs(k - loc))
+        if abs(near - loc) <= 3:
+            out[loc] = confirmed[near] + (loc - near)
+    return {k: v for k, v in out.items() if v > 0}
+
+
+def extract_pdf(filepath, converted=False):
+    """Extract text from PDF page by page using PyMuPDF. Falls back to OCR for scanned PDFs.
+
+    Each page records `print_pages`, the first and last print-edition page it
+    covers: from to_pdf.py's markers in a converted book, otherwise from the
+    page numbers in the running heads. `converted` PDFs also carry Calibre's
+    footer page number, which is dropped from the text.
+    """
     doc = fitz.open(filepath)
     pages = []
     empty_count = 0
@@ -327,7 +384,7 @@ def extract_pdf(filepath):
                 # Use PyMuPDF's OCR via Tesseract
                 text = page.get_text("text", flags=fitz.TEXT_PRESERVE_WHITESPACE)
                 if not text or not text.strip():
-                    tp = page.get_textpage_ocr(flags=0, full=True)
+                    tp = page.get_textpage_ocr(flags=0, full=True, dpi=300)
                     text = page.get_text("text", textpage=tp)
                 if text and text.strip():
                     pages.append({
@@ -340,202 +397,64 @@ def extract_pdf(filepath):
         except Exception as e:
             print(f"    ⚠ OCR failed: {e}. Book will have limited/no text content.")
 
+    if converted:
+        current = None
+        for p in pages:
+            # Calibre's page number, which text extraction may put first or last
+            for edge in (r"^\s*(\d{1,4})\s*\n", r"\n\s*(\d{1,4})\s*$"):
+                m = re.search(edge, p["text"])
+                if m and abs(int(m.group(1)) - p["locator"]) <= 2:
+                    p["text"] = p["text"][:m.start()] + "\n" + p["text"][m.end():]
+            p["text"] = p["text"].strip()
+            if re.fullmatch(r"\d{1,4}", p["text"]):
+                p["text"] = ""  # a blank page carrying only its number
+            marks = PRINT_MARK.findall(p["text"])
+            # A marker in the page's first line means the print page turns right there.
+            first_line = p["text"].split("\n", 1)[0]
+            start = marks[0] if marks and PRINT_MARK.search(first_line) else current or (marks[0] if marks else None)
+            if marks:
+                current = marks[-1]
+            if start:
+                p["print_pages"] = [start, current or start]
+            p["text"] = re.sub(r"[ \t]*\n?[ \t]*" + PRINT_MARK.pattern + r"[ \t]*", " ", p["text"],
+                               flags=re.IGNORECASE).strip()
+        pages = [p for p in pages if p["text"]]
+    else:
+        for loc, printed in printed_pages(pages).items():
+            pages[[p["locator"] for p in pages].index(loc)]["print_pages"] = [str(printed), str(printed)]
+
+    # The PDF's bookmarks become the table of contents.
+    # (Skipping bare page numbers: Ong's MOBI bookmarks every index entry.)
+    toc = [{"title": title.strip(), "section": page, "level": level - 1}
+           for level, title, page in doc.get_toc()
+           if re.search(r"[A-Za-z]", title) and page > 0]
+
+    # Headings and paragraphs as the page lays them out, for the reader
+    book_id = Path(filepath).stem
+    chapter_pages = {e["section"] for e in toc
+                     if e["level"] <= 1 and not re.match(r"(?i)part\b", e["title"])} or None
+    # Haraway's text layer spaces its lines at random, so line gaps and
+    # indents say nothing about paragraphs there.
+    blocks = layout.book_blocks(doc, chapter_pages, ragged=book_id.startswith("haraway-"))
+    for p in pages:
+        p["blocks"] = [b for b in blocks.get(p["locator"], []) if b["x"].strip()]
+
+    if book_id in LIGATURE_BOOKS:
+        for p in pages:
+            p["text"] = repair_ligatures(p["text"])
+            for b in p["blocks"]:
+                b["x"] = repair_ligatures(b["x"])
+
     pdf_meta = doc.metadata or {}
     doc.close()
 
-    file_metadata = {}
+    file_metadata = {"toc": toc} if toc else {}
     if pdf_meta.get("title"):
         file_metadata["title"] = pdf_meta["title"]
     if pdf_meta.get("author"):
         file_metadata["author"] = [a.strip() for a in pdf_meta["author"].split(",")]
 
     return pages, file_metadata
-
-
-def extract_epub(filepath):
-    """Extract text from EPUB chapter by chapter, including TOC."""
-    if not HAS_EBOOKLIB:
-        raise ImportError("ebooklib is required for EPUB extraction")
-
-    book = epub.read_epub(str(filepath), options={"ignore_ncx": False})
-    sections = []
-    section_num = 0
-
-    # Build a map from document filename to section number
-    filename_to_section = {}
-
-    for item in book.get_items_of_type(ebooklib.ITEM_DOCUMENT):
-        content = item.get_content()
-        soup = BeautifulSoup(content, 'html.parser')
-        text = soup.get_text(separator='\n', strip=True)
-
-        if text and len(text.strip()) > 50:
-            section_num += 1
-            item_name = item.get_name()  # e.g. "OEBPS/chapter01.xhtml"
-            filename_to_section[item_name] = section_num
-            sections.append({
-                "locator": section_num,
-                "locator_type": "section",
-                "text": text.strip()
-            })
-
-    # Extract TOC from the EPUB's navigation structure
-    toc_entries = []
-    try:
-        def _parse_toc(toc_items, level=0):
-            for item in toc_items:
-                if isinstance(item, tuple):
-                    # Nested TOC: (Section, [children])
-                    section_obj, children = item
-                    if hasattr(section_obj, 'title') and hasattr(section_obj, 'href'):
-                        _add_toc_entry(section_obj.title, section_obj.href, level)
-                    if children:
-                        _parse_toc(children, level + 1)
-                elif hasattr(item, 'title') and hasattr(item, 'href'):
-                    _add_toc_entry(item.title, item.href, level)
-
-        def _add_toc_entry(title, href, level):
-            if not title or not href:
-                return
-            # href might be "chapter01.xhtml" or "OEBPS/chapter01.xhtml#anchor"
-            href_file = href.split('#')[0]
-            # Try to find matching section
-            matched_section = None
-            for fname, sec_num in filename_to_section.items():
-                # Match by filename (may or may not have directory prefix)
-                if fname == href_file or fname.endswith('/' + href_file) or href_file.endswith('/' + fname.split('/')[-1]):
-                    matched_section = sec_num
-                    break
-                # Also try just the base filename
-                if fname.split('/')[-1] == href_file.split('/')[-1]:
-                    matched_section = sec_num
-                    break
-
-            toc_entries.append({
-                "title": title.strip(),
-                "section": matched_section,
-                "level": level,
-            })
-
-        _parse_toc(book.toc)
-    except Exception as e:
-        pass  # TOC extraction is best-effort
-
-    epub_meta = {}
-    try:
-        title_list = book.get_metadata('DC', 'title')
-        if title_list:
-            epub_meta["title"] = title_list[0][0]
-    except Exception:
-        pass
-    try:
-        creator_list = book.get_metadata('DC', 'creator')
-        if creator_list:
-            epub_meta["author"] = [c[0] for c in creator_list]
-    except Exception:
-        pass
-    try:
-        date_list = book.get_metadata('DC', 'date')
-        if date_list:
-            year = extract_year(date_list[0][0])
-            if year:
-                epub_meta["year"] = year
-    except Exception:
-        pass
-    try:
-        pub_list = book.get_metadata('DC', 'publisher')
-        if pub_list:
-            epub_meta["publisher"] = pub_list[0][0]
-    except Exception:
-        pass
-
-    if toc_entries:
-        epub_meta["toc"] = toc_entries
-
-    return sections, epub_meta
-
-
-def extract_mobi_or_azw3(filepath):
-    """Extract text from MOBI/AZW3 using the mobi library, with Calibre fallback."""
-    errors = []
-
-    # Try mobi library first
-    if HAS_MOBI:
-        try:
-            with tempfile.TemporaryDirectory() as tmpdir:
-                tempdir, extracted = mobi.extract(str(filepath))
-                html_files = []
-                for root, dirs, files in os.walk(tempdir):
-                    for f in files:
-                        if f.endswith(('.html', '.htm', '.xhtml')):
-                            html_files.append(os.path.join(root, f))
-
-                if html_files:
-                    sections = []
-                    section_num = 0
-                    for html_file in sorted(html_files):
-                        with open(html_file, 'r', encoding='utf-8', errors='replace') as hf:
-                            soup = BeautifulSoup(hf.read(), 'html.parser')
-                            text = soup.get_text(separator='\n', strip=True)
-                            if text and len(text.strip()) > 50:
-                                section_num += 1
-                                sections.append({
-                                    "locator": section_num,
-                                    "locator_type": "section",
-                                    "text": text.strip()
-                                })
-                    if sections:
-                        return sections, {}
-        except Exception as e:
-            errors.append(f"mobi library failed: {e}")
-
-    # Fallback: try Calibre ebook-convert
-    try:
-        with tempfile.TemporaryDirectory() as tmpdir:
-            epub_path = os.path.join(tmpdir, "converted.epub")
-            result = subprocess.run(
-                ["ebook-convert", str(filepath), epub_path],
-                capture_output=True, text=True, timeout=120
-            )
-            if result.returncode == 0 and os.path.exists(epub_path):
-                return extract_epub(epub_path)
-            else:
-                errors.append(f"Calibre conversion failed: {result.stderr[:200]}")
-    except FileNotFoundError:
-        errors.append("Calibre ebook-convert not found")
-    except subprocess.TimeoutExpired:
-        errors.append("Calibre conversion timed out")
-    except Exception as e:
-        errors.append(f"Calibre fallback failed: {e}")
-
-    raise RuntimeError("; ".join(errors))
-
-
-def extract_zip_text(filepath):
-    """Extract text from ZIP containing numbered text files (Internet Archive OCR format)."""
-    pages = []
-    with zipfile.ZipFile(filepath) as z:
-        txt_files = [n for n in z.namelist() if n.endswith('.txt')]
-        for name in sorted(txt_files, key=lambda n: int(re.search(r'\d+', n.split('/')[-1]).group()) if re.search(r'\d+', n.split('/')[-1]) else 0):
-            try:
-                page_match = re.search(r'(\d+)', name.split('/')[-1])
-                if not page_match:
-                    continue
-                page_num = int(page_match.group(1))
-                text = z.read(name).decode('utf-8', errors='replace').strip()
-                if text and len(text) > 10:
-                    pages.append({
-                        "locator": page_num,
-                        "locator_type": "page",
-                        "text": text
-                    })
-            except Exception:
-                continue
-
-    if not pages:
-        raise RuntimeError("No text files found in ZIP archive")
-
-    return pages, {"note": "OCR-scanned text from Internet Archive; search results may be imprecise"}
 
 
 # ─── Definition flagging ────────────────────────────────────────────────────
@@ -712,44 +631,24 @@ def write_search_index(chunk_index, postings, book_ids):
 
 # ─── Main pipeline ───────────────────────────────────────────────────────────
 
-def find_ebook_files(root_dir):
-    """Find all supported ebook files in the root directory."""
-    files = []
-    for f in sorted(os.listdir(root_dir)):
-        if os.path.isfile(os.path.join(root_dir, f)):
-            ext = Path(f).suffix.lower()
-            if ext in SUPPORTED_EXTENSIONS:
-                full_path = os.path.join(root_dir, f)
-                rel_path = os.path.relpath(full_path, root_dir)
-                if rel_path not in SKIP_FILES:
-                    files.append(full_path)
-    return files
+def find_pdf_files(pdf_dir):
+    """All PDFs in pdfs/."""
+    return [str(p) for p in sorted(pdf_dir.glob("*.pdf"))]
 
 
 def process_file(filepath):
-    """Process a single ebook file. Returns (book_data, error) tuple."""
+    """Process a single PDF. Returns (book_data, error) tuple."""
     filename = os.path.basename(filepath)
-    ext = Path(filename).suffix.lower()
 
-    # Get metadata from filename or manual overrides
+    # Get metadata from the manifest (or the filename)
     metadata = get_metadata(filepath)
+    source = (MANIFEST.get(Path(filename).stem) or {}).get("source")
 
-    # Extract text based on format
     try:
-        if ext == '.pdf':
-            pages, file_meta = extract_pdf(filepath)
-            fmt = "pdf"
-        elif ext == '.epub':
-            pages, file_meta = extract_epub(filepath)
-            fmt = "epub"
-        elif ext in ('.mobi', '.azw3'):
-            pages, file_meta = extract_mobi_or_azw3(filepath)
-            fmt = ext[1:]  # "mobi" or "azw3"
-        elif ext == '.zip':
-            pages, file_meta = extract_zip_text(filepath)
-            fmt = "zip"
-        else:
-            return None, f"Unsupported format: {ext}"
+        # Books Calibre rebuilt from an ebook: page numbers in the footer and
+        # "[p. 47]" markers, rather than a scan's own running heads
+        converted = bool(source) and source.lower().endswith((".epub", ".azw3", ".mobi"))
+        pages, file_meta = extract_pdf(filepath, converted=converted)
     except Exception as e:
         return None, f"Extraction failed: {e}"
 
@@ -772,8 +671,8 @@ def process_file(filepath):
     # Build book data
     book_id = make_book_id(metadata)
 
-    # Get TOC if available (from EPUB metadata)
-    toc = metadata.get("toc", file_meta.get("toc", []))
+    # Get TOC if available (from the PDF's bookmarks)
+    toc = file_meta.get("toc", [])
 
     book_data = {
         "id": book_id,
@@ -783,7 +682,9 @@ def process_file(filepath):
         "year": metadata.get("year"),
         "publisher": metadata.get("publisher"),
         "isbn": metadata.get("isbn"),
-        "format": fmt,
+        "format": "pdf",
+        # What the book was before to_pdf.py made it a PDF
+        "source_format": Path(source).suffix.lstrip(".").lower() if source else "pdf",
         "frameworks": [],
         "definitions": definitions,
         "toc": toc,
@@ -805,14 +706,14 @@ def main():
     DATA_DIR.mkdir(exist_ok=True)
     BOOKS_DIR.mkdir(exist_ok=True)
 
-    # Find all ebook files
-    files = find_ebook_files(ROOT_DIR)
-    print(f"Found {len(files)} ebook files to process.\n")
+    # Find all PDFs
+    files = find_pdf_files(PDF_DIR)
+    print(f"Found {len(files)} PDFs to process.\n")
 
     # Process each file
     books = []
     errors = []
-    format_counts = {"pdf": 0, "epub": 0, "mobi": 0, "azw3": 0, "zip": 0}
+    format_counts = {}  # source format -> count
     definition_counts = {}  # term -> count
 
     # Search index accumulators (see "Search index building" section above)
@@ -822,7 +723,6 @@ def main():
 
     for i, filepath in enumerate(files, 1):
         filename = os.path.basename(filepath)
-        ext = Path(filename).suffix.lower()[1:]
         print(f"[{i}/{len(files)}] Processing: {filename[:70]}...")
 
         book_data, error = process_file(filepath)
@@ -852,7 +752,7 @@ def main():
         index_entry = {k: v for k, v in book_data.items() if k != "pages"}
         books.append(index_entry)
 
-        format_counts[book_data["format"]] = format_counts.get(book_data["format"], 0) + 1
+        format_counts[book_data["source_format"]] = format_counts.get(book_data["source_format"], 0) + 1
         for term, defs in book_data["definitions"].items():
             definition_counts[term] = definition_counts.get(term, 0) + len(defs)
 
@@ -887,7 +787,7 @@ def main():
     print(f"  Successfully processed: {len(books)}")
     print(f"  Failed:               {len(errors)}")
     print()
-    print("  Format breakdown:")
+    print("  Original formats (all now PDF):")
     for fmt, count in sorted(format_counts.items()):
         if count > 0:
             print(f"    {fmt.upper():6s}: {count}")

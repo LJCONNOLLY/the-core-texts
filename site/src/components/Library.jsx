@@ -46,10 +46,12 @@ export default function Library() {
           value={filter}
           onChange={e => setFilter(e.target.value)}
         />
-        <select className="input" style={{ maxWidth: '210px', fontSize: '1.35rem', padding: '0.9rem 1.5rem' }} value={formatFilter} onChange={e => setFormatFilter(e.target.value)}>
-          <option value="all">All formats</option>
-          {formats.map(f => <option key={f} value={f}>{f.toUpperCase()}</option>)}
-        </select>
+        {formats.length > 1 && (
+          <select className="input" style={{ maxWidth: '210px', fontSize: '1.35rem', padding: '0.9rem 1.5rem' }} value={formatFilter} onChange={e => setFormatFilter(e.target.value)}>
+            <option value="all">All formats</option>
+            {formats.map(f => <option key={f} value={f}>{f.toUpperCase()}</option>)}
+          </select>
+        )}
         <select className="input" style={{ maxWidth: '210px', fontSize: '1.35rem', padding: '0.9rem 1.5rem' }} value={sortBy} onChange={e => setSortBy(e.target.value)}>
           <option value="title">Sort: Title</option>
           <option value="year">Sort: Year</option>

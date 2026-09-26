@@ -1,4 +1,2 @@
 PyMuPDF>=1.24.0
-ebooklib>=0.18
-beautifulsoup4>=4.12.0
-mobi>=0.3.3
+pyspellchecker>=0.8.0

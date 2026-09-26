@@ -51,8 +51,19 @@ export default function BookProfile() {
   // Find the first section that starts with Introduction or a numbered chapter.
   // Skipped when arriving via a search deep link — the match may be in front
   // matter (dedication, epigraph, acknowledgments) that this trim would hide.
+  // The PDF's bookmarks say where that is; otherwise look for it in the text,
+  // passing over the table of contents, which lists "Introduction" too.
   const INTRO_RE = /^(Introduction|Chapter\s+1|Part\s+(One|1|I)\b|1\s+[A-Z])/im;
-  const introIdx = allPages.findIndex(p => INTRO_RE.test(p.text.trim().slice(0, 200)));
+  const INTRO_TITLE_RE = /^(Introduction|Chapter\s+(1|One)\b|Part\s+(One|1|I)\b|1[\s.:])/i;
+  const CONTENTS_RE = /^\s*(table of )?contents\b/im;
+  const tocStart = (book?.toc || []).find(e => INTRO_TITLE_RE.test(e.title.trim()))?.section;
+  let introIdx = tocStart ? allPages.findIndex(p => p.locator >= tocStart) : -1;
+  if (introIdx < 0) {
+    introIdx = allPages.findIndex(p => {
+      const head = p.text.trim().slice(0, 200);
+      return INTRO_RE.test(head) && !CONTENTS_RE.test(head) && !looksLikeContents(p.text);
+    });
+  }
   const pages = locatorParam ? allPages : (introIdx > 0 ? allPages.slice(introIdx) : allPages);
   const currentPage = pages[page];
 
@@ -174,6 +185,7 @@ export default function BookProfile() {
               </button>
               <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
                 {currentPage.locator_type} {currentPage.locator} of {pages.length}
+                {currentPage.print_pages && ` \u2022 print ${printLabel(currentPage.print_pages)}`}
               </span>
               <button className="btn btn-secondary" onClick={() => setPage(Math.min(pages.length - 1, page + 1))} disabled={page >= pages.length - 1}>
                 Next &rarr;
@@ -199,7 +211,9 @@ export default function BookProfile() {
                 hyphens: 'auto',
                 WebkitHyphens: 'auto',
               }}>
-                <FormattedText text={currentPage.text} pages={pages} onNavigate={setPage} />
+                {currentPage.blocks?.length
+                  ? <PageBlocks blocks={currentPage.blocks} />
+                  : <FormattedText text={currentPage.text} pages={pages} onNavigate={setPage} />}
               </div>
             </div>
           </div>
@@ -467,4 +481,106 @@ function FormattedText({ text, pages, onNavigate }) {
       })}
     </>
   );
+}
+
+// A page as the layout pass read it: headings, paragraphs, block quotes,
+// small type (notes), centered lines and tables.
+function PageBlocks({ blocks }) {
+  return (
+    <>
+      {blocks.map((b, i) => {
+        const prev = blocks[i - 1];
+        const first = i === 0;
+        const text = <InlineMarks text={b.x} />;
+        switch (b.t) {
+          case 'h2':
+            return (
+              <h2 key={i} style={{
+                fontFamily: 'var(--font-heading)', fontSize: '30px', fontWeight: 700,
+                lineHeight: 1.3, textAlign: 'center', color: '#1a1a1a',
+                marginTop: first ? 0 : '2.5rem', marginBottom: '1.25rem',
+              }}>{text}</h2>
+            );
+          case 'h3':
+            return (
+              <h3 key={i} style={{
+                fontFamily: 'var(--font-heading)', fontSize: '23px', fontWeight: 700,
+                lineHeight: 1.35, textAlign: 'left', color: '#1a1a1a',
+                marginTop: first || prev?.t === 'h2' ? 0 : '1.75rem', marginBottom: '0.6rem',
+              }}>{text}</h3>
+            );
+          case 'q':
+            return (
+              <blockquote key={i} style={{
+                margin: '0.9rem 2.5em', fontSize: '19px', lineHeight: 1.65,
+              }}>{text}</blockquote>
+            );
+          case 's':
+            return (
+              <p key={i} style={{
+                fontSize: '16px', lineHeight: 1.6, color: '#444', textIndent: 0,
+                marginBottom: '0.45rem', textAlign: 'left',
+              }}>{text}</p>
+            );
+          case 'c':
+            return (
+              <p key={i} style={{ textAlign: 'center', textIndent: 0, margin: '0.5rem 0' }}>{text}</p>
+            );
+          case 't':
+            return (
+              <div key={i} style={{ overflowX: 'auto', margin: '1rem 0' }}>
+                <table style={{ borderCollapse: 'collapse', fontSize: '15px', lineHeight: 1.45, textAlign: 'left' }}>
+                  <tbody>
+                    {b.x.split('\n').map((row, r) => (
+                      <tr key={r} style={{ borderBottom: '1px solid #e2e2e2' }}>
+                        {row.split('\t').map((cell, c) => (
+                          <td key={c} style={{ padding: '0.3rem 0.6rem', verticalAlign: 'top' }}>
+                            <InlineMarks text={cell} />
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            );
+          default: {
+            // A paragraph carried over from the previous page, or one right
+            // after a heading, starts flush left.
+            const flush = (first && b.cont) || (prev && prev.t !== 'p');
+            return (
+              <p key={i} style={{ textIndent: flush ? 0 : '2em', marginBottom: '0.15rem' }}>{text}</p>
+            );
+          }
+        }
+      })}
+    </>
+  );
+}
+
+// "{{p. 47}}": where the print edition turns a page, as a small grey marker
+function InlineMarks({ text }) {
+  const parts = text.split(/(\{\{p\. [^}]+\}\})/);
+  return parts.map((part, i) => {
+    const m = part.match(/^\{\{(p\. [^}]+)\}\}$/);
+    if (!m) return part;
+    return (
+      <span key={i} title="Print edition page" style={{
+        fontSize: '13px', color: '#8a8a8a', fontFamily: 'var(--font-body)',
+        whiteSpace: 'nowrap', margin: '0 0.2em', textIndent: 0,
+      }}>[{m[1]}]</span>
+    );
+  });
+}
+
+// The print edition's page(s) a PDF page covers: "p. 47" / "pp. 47–48"
+function printLabel([first, last]) {
+  return first === last ? `p. ${first}` : `pp. ${first}\u2013${last}`;
+}
+
+// A contents page without its heading: several of its first lines end in a
+// page number ("Introduction A Useful Archive  1", "Acknowledgments vii").
+function looksLikeContents(text) {
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean).slice(0, 8);
+  return lines.filter(l => /\s(\d{1,3}|[ivxlc]+)$/.test(l)).length >= 2;
 }
