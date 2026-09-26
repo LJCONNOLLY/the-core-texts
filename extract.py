@@ -21,6 +21,8 @@ from pathlib import Path
 
 import fitz  # PyMuPDF
 
+import layout
+
 # ─── Configuration ───────────────────────────────────────────────────────────
 
 ROOT_DIR = Path(__file__).parent
@@ -255,6 +257,44 @@ def make_book_id(metadata):
 
 # ─── Text extraction ────────────────────────────────────────────────────────
 
+# Books whose PDF maps the fi/fl/ff ligature glyphs to a bare "f"
+# ("workfow", "signifcant"); the words are repaired against a dictionary.
+LIGATURE_BOOKS = {"tham-design-thinking-in-technical-communicati"}
+LIGATURE_WORDS = {"workfow": "workflow", "afordance": "affordance", "afordances": "affordances",
+                  "pfster": "pfister", "brufee": "bruffee"}
+_speller = None
+
+
+def repair_ligatures(text):
+    """ "signifcant" -> "significant", "refection" -> "reflection" ... """
+    global _speller
+    if _speller is None:
+        from spellchecker import SpellChecker
+        _speller = SpellChecker()
+
+    def fix(m):
+        word = m.group(0)
+        low = word.lower()
+        if low in LIGATURE_WORDS:
+            best = LIGATURE_WORDS[low]
+        else:
+            options = [low[:i] + lig + low[i + 1:] for i, ch in enumerate(low) if ch == "f"
+                       for lig in ("fi", "fl", "ff", "ffi", "ffl")]
+            options = [o for o in options if o in _speller]
+            if not options:
+                return word
+            best = max(options, key=_speller.word_usage_frequency)
+            # A real word can hide a lost ligature ("refection"); swap only when
+            # the ligature reading is far more common.
+            if low in _speller and _speller.word_usage_frequency(best) < 30 * _speller.word_usage_frequency(low):
+                return word
+        if word.isupper():
+            return best.upper()
+        return best[0].upper() + best[1:] if word[0].isupper() else best
+
+    return re.sub(r"[A-Za-z]*f[A-Za-z]*", fix, text)
+
+
 # The "[p. 47]" markers to_pdf.py places where the print edition turns a page.
 PRINT_MARK = re.compile(r"\[p\. ([0-9]+|[ivxlcdm]+)\]", re.IGNORECASE)
 
@@ -388,6 +428,22 @@ def extract_pdf(filepath, converted=False):
     toc = [{"title": title.strip(), "section": page, "level": level - 1}
            for level, title, page in doc.get_toc()
            if re.search(r"[A-Za-z]", title) and page > 0]
+
+    # Headings and paragraphs as the page lays them out, for the reader
+    book_id = Path(filepath).stem
+    chapter_pages = {e["section"] for e in toc
+                     if e["level"] <= 1 and not re.match(r"(?i)part\b", e["title"])} or None
+    # Haraway's text layer spaces its lines at random, so line gaps and
+    # indents say nothing about paragraphs there.
+    blocks = layout.book_blocks(doc, chapter_pages, ragged=book_id.startswith("haraway-"))
+    for p in pages:
+        p["blocks"] = [b for b in blocks.get(p["locator"], []) if b["x"].strip()]
+
+    if book_id in LIGATURE_BOOKS:
+        for p in pages:
+            p["text"] = repair_ligatures(p["text"])
+            for b in p["blocks"]:
+                b["x"] = repair_ligatures(b["x"])
 
     pdf_meta = doc.metadata or {}
     doc.close()

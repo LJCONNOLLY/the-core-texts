@@ -211,7 +211,9 @@ export default function BookProfile() {
                 hyphens: 'auto',
                 WebkitHyphens: 'auto',
               }}>
-                <FormattedText text={currentPage.text} pages={pages} onNavigate={setPage} />
+                {currentPage.blocks?.length
+                  ? <PageBlocks blocks={currentPage.blocks} />
+                  : <FormattedText text={currentPage.text} pages={pages} onNavigate={setPage} />}
               </div>
             </div>
           </div>
@@ -479,6 +481,96 @@ function FormattedText({ text, pages, onNavigate }) {
       })}
     </>
   );
+}
+
+// A page as the layout pass read it: headings, paragraphs, block quotes,
+// small type (notes), centered lines and tables.
+function PageBlocks({ blocks }) {
+  return (
+    <>
+      {blocks.map((b, i) => {
+        const prev = blocks[i - 1];
+        const first = i === 0;
+        const text = <InlineMarks text={b.x} />;
+        switch (b.t) {
+          case 'h2':
+            return (
+              <h2 key={i} style={{
+                fontFamily: 'var(--font-heading)', fontSize: '30px', fontWeight: 700,
+                lineHeight: 1.3, textAlign: 'center', color: '#1a1a1a',
+                marginTop: first ? 0 : '2.5rem', marginBottom: '1.25rem',
+              }}>{text}</h2>
+            );
+          case 'h3':
+            return (
+              <h3 key={i} style={{
+                fontFamily: 'var(--font-heading)', fontSize: '23px', fontWeight: 700,
+                lineHeight: 1.35, textAlign: 'left', color: '#1a1a1a',
+                marginTop: first || prev?.t === 'h2' ? 0 : '1.75rem', marginBottom: '0.6rem',
+              }}>{text}</h3>
+            );
+          case 'q':
+            return (
+              <blockquote key={i} style={{
+                margin: '0.9rem 2.5em', fontSize: '19px', lineHeight: 1.65,
+              }}>{text}</blockquote>
+            );
+          case 's':
+            return (
+              <p key={i} style={{
+                fontSize: '16px', lineHeight: 1.6, color: '#444', textIndent: 0,
+                marginBottom: '0.45rem', textAlign: 'left',
+              }}>{text}</p>
+            );
+          case 'c':
+            return (
+              <p key={i} style={{ textAlign: 'center', textIndent: 0, margin: '0.5rem 0' }}>{text}</p>
+            );
+          case 't':
+            return (
+              <div key={i} style={{ overflowX: 'auto', margin: '1rem 0' }}>
+                <table style={{ borderCollapse: 'collapse', fontSize: '15px', lineHeight: 1.45, textAlign: 'left' }}>
+                  <tbody>
+                    {b.x.split('\n').map((row, r) => (
+                      <tr key={r} style={{ borderBottom: '1px solid #e2e2e2' }}>
+                        {row.split('\t').map((cell, c) => (
+                          <td key={c} style={{ padding: '0.3rem 0.6rem', verticalAlign: 'top' }}>
+                            <InlineMarks text={cell} />
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            );
+          default: {
+            // A paragraph carried over from the previous page, or one right
+            // after a heading, starts flush left.
+            const flush = (first && b.cont) || (prev && prev.t !== 'p');
+            return (
+              <p key={i} style={{ textIndent: flush ? 0 : '2em', marginBottom: '0.15rem' }}>{text}</p>
+            );
+          }
+        }
+      })}
+    </>
+  );
+}
+
+// "{{p. 47}}": where the print edition turns a page, as a small grey marker
+function InlineMarks({ text }) {
+  const parts = text.split(/(\{\{p\. [^}]+\}\})/);
+  return parts.map((part, i) => {
+    const m = part.match(/^\{\{(p\. [^}]+)\}\}$/);
+    if (!m) return part;
+    return (
+      <span key={i} title="Print edition page" style={{
+        fontSize: '13px', color: '#8a8a8a', fontFamily: 'var(--font-body)',
+        whiteSpace: 'nowrap', margin: '0 0.2em', textIndent: 0,
+      }}>[{m[1]}]</span>
+    );
+  });
 }
 
 // The print edition's page(s) a PDF page covers: "p. 47" / "pp. 47–48"

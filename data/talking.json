@@ -4453,6 +4453,262 @@
    ],
    "year": 2018
   },
+  "risam-new-digital-worlds-postcolonial-digital": {
+   "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+   "authors": [
+    "Roopika Risam"
+   ],
+   "mentions": [
+    {
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "author": "Matthew K. Gold",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 5",
+     "locator": 14,
+     "before": "In 2009, William Pannapacker anointed digital humanities as “the next big thing” in the humanities.",
+     "sentence": "Today’s digital humanities “moment,” as Matthew K. Gold suggests, has been marked by academic institutions and funding bodies investing heavily in digital methods; creating new centers around the world; supporting growth in hiring for new, often non-​tenure-​ track, positions in digital humanities; funding new streams of grants for technology-​driven humanities scholarship; and attracting attention from mainstream media sources.",
+     "after": "The allure of digital humanities in higher education stems in large part from the great promise that academic administrators see in it.",
+     "highlights": [
+      "Matthew K. Gold"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 6",
+     "locator": 15,
+     "before": "In fact, colonialism within the cultural record is not only being reproduced but is also being amplified by virtue of the fact that the digital cultural record is constructed and disseminated publicly, online, in a digital milieu beset with its own politics of identity.",
+     "sentence": "As scholars of media and new media studies like Radhika Gajjala, Lisa Nakamura, and Anna Everett, among others, have pointed out, gone are the days when the internet could be theorized as a blank slate for the creation of new identities, communities, and stories—not that it ever was that space.",
+     "after": "In fact, as the last few years have shown, whether through the Gamergate attacks on women in the video game industry, lawsuits against the #blacklivesmatter hashtag, or flocks of right-​wing trolls attacking scholars of race, gender, sexuality, and colonialism like George Ciccariello-​Mahler at Drexel University or Saida Grundy at Boston University,9 digital humanities practitioners must contend not only with the colonial hangovers from the cultural record, but also with the forces that are actively constructing the medium of the digital cultural record—the internet—as a hostile environment where universities, libraries, and the cultural heritage sector are under threat, right along with the knowledge being produced and made publicly available by them.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "author": "Kavita Philip",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 12",
+     "locator": 21,
+     "before": "While some of these approaches may be relevant to digital knowledge production in the Global South, an uncritical embrace of them delegitimizes contributions to the digital cultural record from the Global South, which may use different methods or take forms that look unfamiliar from the point of view of the Global North.",
+     "sentence": "To decenter this perspective, postcolonial digital humanities also draws on Kavita Philip, Lilly Irani, and Paul Dourish’s work on postcolonial computing, which responds to Human-​Computer Interaction for Development (HCI4D), a scholarly community at the intersection of technology and development.",
+     "after": "Postcolonial computing critiques development within HCI4D to underscore the vexing questions of authority, power, and legitimacy that are evoked in the rhetoric of technological development.",
+     "highlights": [
+      "Kavita Philip"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Introduction. The Postcolonial Digital Cultural Record",
+     "page": "p. 12",
+     "locator": 21,
+     "before": "Thus, postcolonial computing decenters knowledge from the Global North in favor of a localized approach that emphasizes cross-​ cultural engagement and the effects of uneven development on design.",
+     "sentence": "This approach serves as an important model for digital humanities, which falls prey to the assumption that practices of the Global North are universal forms of knowledge, rather than what Donna Haraway terms “situated knowledges.”",
+     "after": "On the contrary, as Élika Ortega argues, “all DH is local DH.”",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 23",
+     "locator": 32,
+     "before": "Amy Earhart asks, “Can information be unfettered?” suggesting that digital textual editing of writing by women, African Americans, and queer writers is an important intervention in the residual canonicity that fetters the digital cultural record.",
+     "sentence": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
+     "after": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+     "author": "Moya Bailey",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 23",
+     "locator": 32,
+     "before": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
+     "sentence": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
+     "after": "Additionally, my own work on intersectionality considers how we can uncover a hidden history of intersectionality in digital humanities scholarship and use it to develop intersectional praxis that accounts for compounding oppressions that magnify difference in the digital cultural record.",
+     "highlights": [
+      "Moya Bailey"
+     ]
+    },
+    {
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "author": "Lisa Nakamura",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 36",
+     "locator": 45,
+     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
+     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
+     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
+     "highlights": [
+      "Lisa Nakamura"
+     ]
+    },
+    {
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "author": "Wendy Hui Kyong Chun",
+     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
+     "page": "p. 36",
+     "locator": 45,
+     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
+     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
+     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
+     "highlights": [
+      "Wendy Chun"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
+     "page": "p. 50",
+     "locator": 59,
+     "before": "Such a phenomenon is possible, Nicholas Dirks contends, because the colonial archive “produces, adjudicates, organizes, and maintains the discourse that becomes available as the primary texts of history.”",
+     "sentence": "This is not only a matter of archive contents but also what Michel Foucault calls the archive’s “system of its enunciability,” its role in producing and legitimating discourse.",
+     "after": "The digital cultural record is thus at risk of being a mirror of a colonial world-​picture, another representation of colonized subjects from a colonial perspective that authorizes imperialism.",
+     "highlights": [
+      "Michel Foucault"
+     ]
+    },
+    {
+     "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+     "author": "Johanna Drucker",
+     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
+     "page": "p. 52",
+     "locator": 61,
+     "before": "These remarks reflect anxieties over the definition of digital humanities as well as the relationship between theory and praxis in digital humanities.",
+     "sentence": "Emphasizing the significance of building to definitions of digital humanities, Anne Burdick, Johannah Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp argue that “the mere use of digital tools for the purpose of humanistic research and communication does not qualify as Digital Humanities.”",
+     "after": "Such narrow definitions contribute to a false binary between “hack” (acts of coding, building, and doing) and “yack” (the work of talking, critiquing, and theorizing) as practices that make up digital humanities.",
+     "highlights": [
+      "Johannah Drucker"
+     ]
+    },
+    {
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "author": "Bruno Latour",
+     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
+     "page": "p. 58",
+     "locator": 67,
+     "before": "Doing so requires developing new tools, archives, and practices that emerge from local contexts and challenge colonial violence through their design and content.",
+     "sentence": "Such an approach mediates between the hack/yack binary and exemplifies Bruno Latour’s identification of a discursive shift from critiquing to composing, which he describes as using a hammer to “repair, take care, assemble, reassemble, stitch together” rather than “break down walls, destroy idols, ridicule prejudices.”",
+     "after": "The Bichitra Online Tagore Variorum exemplifies how a project can make these dimensions legible.",
+     "highlights": [
+      "Bruno Latour"
+     ]
+    },
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 121",
+     "locator": 130,
+     "before": "On one hand, the status of the human in relation to technology is an important dimension of this question, since human-​ computer interaction is an essential part of digital humanities methods.",
+     "sentence": "Like N. Katherine Hayles’s posthuman subject, the contemporary human at stake in digital humanities is “an amalgam, a collection of heterogeneous components, a material-​informational entity whose boundaries undergo continuous construction and reconstruction.”",
+     "after": "Humans are largely inseparable from their implication in the production of data.",
+     "highlights": [
+      "Katherine Hayles"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Elizabeth Losh",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 122",
+     "locator": 131,
+     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
+     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
+     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
+     "highlights": [
+      "Liz Losh"
+     ]
+    },
+    {
+     "bookId": "losh-bodies-of-information",
+     "author": "Jacqueline Wernimont",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 122",
+     "locator": 131,
+     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
+     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
+     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
+     "highlights": [
+      "Jacqueline Wernimont"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 126",
+     "locator": 135,
+     "before": "An important model for interrogating these matters in digital humanities appears in feminist and postcolonial science and technology studies scholarship, which brings together the philosophical and technical implications of human subjectivity by raising concern over divisions between the binary categories of “human” and “nonhuman.”",
+     "sentence": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
+     "after": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
+     "highlights": [
+      "Donna Haraway"
+     ]
+    },
+    {
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "author": "Donna Haraway",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 126",
+     "locator": 135,
+     "before": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
+     "sentence": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
+     "after": "Rather, the two categories are both connected and interdependent.",
+     "highlights": [
+      "Haraway"
+     ]
+    },
+    {
+     "bookId": "manovich-cultural-analytics",
+     "author": "Lev Manovich",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 130",
+     "locator": 139,
+     "before": "These issues are particularly important as digital humanities practitioners turn to sources like Amazon Mechanical Turk for their projects.",
+     "sentence": "Notably, Lev Manovich’s “selfiecity” relied on Amazon Mechanical Turk workers to code selfies for age and gender,63 while Ryan Heuser’s Mapping Emotions in Victorian London project used the workers to attribute sentiments to locations drawn from Victorian literary texts.",
+     "after": "Without the ability to interrogate the demographics of the workers that influence the data-​coding process, such as gender, race or ethnicity, and nationality, it is unclear which factors are influencing the results of these studies.",
+     "highlights": [
+      "Lev Manovich"
+     ]
+    },
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 134",
+     "locator": 143,
+     "before": "At stake in the production of humanoid texts through these methods is the question of universalism.",
+     "sentence": "As Hayles notes, “Literary texts are not, of course, merely passive conduits.",
+     "after": "They actively shape what the technologies mean and what the scientific theories signify in cultural contexts.",
+     "highlights": [
+      "Hayles"
+     ]
+    },
+    {
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "author": "N. Katherine Hayles",
+     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
+     "page": "p. 135",
+     "locator": 144,
+     "before": "They also embody assumptions similar to those that permeated the scientific theories at critical points.”",
+     "sentence": "Humanoid texts not only reflect Hayles’s observation but are actively constructed by these forces.",
+     "after": "With the move to generate software and algorithms that replicate “human” processes, particular forms of the “human” are authorized.",
+     "highlights": [
+      "Hayles"
+     ]
+    }
+   ],
+   "year": 2019
+  },
   "benjamin-race-after-technology": {
    "title": "Race After Technology",
    "authors": [
@@ -4679,6 +4935,355 @@
      "highlights": [
       "Virginia Eubanks",
       "Eubanks"
+     ]
+    }
+   ],
+   "year": 2019
+  },
+  "walton-technical-communication-after-the-social": {
+   "title": "Technical Communication After the Social Justice Turn",
+   "authors": [
+    "Rebecca Walton",
+    "Kristen Moore",
+    "Natasha Jones"
+   ],
+   "mentions": [
+    {
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "author": "Laura Gonzales",
+     "section": "Introduction",
+     "page": "p. 6",
+     "locator": 33,
+     "before": "As a response to and in spite of the problems highlighted in this section, we know that scholars in TPC have already begun to do the hard and messy work needed to address and redress injustice in our field.",
+     "sentence": "Laura Gonzales, for example, is challenging user experience specialists to contend with issues of translation and to work in sites of translation.",
+     "after": "Angela Haas has long been working to decolonize programs and practices of technical communication.",
+     "highlights": [
+      "Laura Gonzales"
+     ]
+    },
+    {
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "author": "Laura Gonzales",
+     "section": "Introduction",
+     "page": "p. 6",
+     "locator": 33,
+     "before": "TPC, as a discipline, has prided itself on practicality, on applicability, on being both an industry profession and an academic field of study.",
+     "sentence": "Indeed, this is what has drawn us to TPC: We, like Gonzales, Haas, Williams, and others invested in redressing injustices, are scholars and practitioners who prefer to get things done, to get to work, to engage with problems and solve them.",
+     "after": "Engaging these classic concerns of the field, the social justice turn extends core considerations of TPC, even as it shifts the field’s identity.",
+     "highlights": [
+      "Gonzales"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 1: Oppression",
+     "page": "p. 17",
+     "locator": 44,
+     "before": "",
+     "sentence": "OPPRESSION According to feminist scholar Sara Ahmed, the work of accounting for racism (or any other form of oppression, we would add) allows a path forward toward transformation and requires a new understanding and account of the world.",
+     "after": "This, we think, is emerging from the social justice turn in technical communication: A new way forward, a transformation, a new understanding of the field.",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 4: Privilege",
+     "page": "p. 84",
+     "locator": 111,
+     "before": "Even though the women graduate students are part of the whole (i.e., members of the academic department), they are pushed to the margins.",
+     "sentence": "This separation sends a message that the women graduate students are valued less in the department and that men students are a better “fit” for research teams (Ahmed, 2017).",
+     "after": "It is this kind of subtle discrimination and inequity that emerges from privilege.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 4: Privilege",
+     "page": "p. 84",
+     "locator": 111,
+     "before": "As a relative concept, privilege operates on a continuum, with some individuals having more privilege than others.",
+     "sentence": "Ahmed (2017) frames privilege as “an energy-saving device” (p. 125).",
+     "after": "She argues that more privileged individuals are not required to put forth as much effort as less privileged individuals: Less effort is required to be or to do.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 4: Privilege",
+     "page": "p. 85",
+     "locator": 112,
+     "before": "You might be one of this many students from working-class backgrounds who get into the university; one of this many people of color hired by the university; one of this many women in senior positions; one of this many students or staff with disabilities.",
+     "sentence": "Ahmed makes it clear that those individuals with identity markers (embodied, material, social, cultural, and economic) that are considered the default benefit from their standing in society.",
+     "after": "This societal positioning serves as a tangible marker for who has privilege and who does not have privilege.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 4: Privilege",
+     "page": "p. 86",
+     "locator": 113,
+     "before": "In this book, and in our exploration of privilege as a concept, we center the voices of underrepresented scholars who can offer us experiential orienting perspectives for broadening our knowledge about how privilege frames our ways of being and existing in the world.",
+     "sentence": "We call on scholars like Angela Davis, Audre Lorde, Patricia Hill Collins, and Sara Ahmed as a way of grounding the concept of privilege in a minority perspective.",
+     "after": "We include multiple voices to help us construct the theoretical framework for our understanding of privilege because we acknowledge that the minority experience is not monolithic.",
+     "highlights": [
+      "Sara Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 4: Privilege",
+     "page": "p. 100",
+     "locator": 127,
+     "before": "Ontological Instantiation: Navigating the World and Educating Others Privilege allows some individuals to live a life unburdened by the obligation to justify their existence and to navigate a world designed for and dictated by a group of which you are a member; those without that privilege face undue demands of personal responsibility in a world designed without them in mind.",
+     "sentence": "Following Ahmed (2017), we might think about this as strain: a strain on the body, a strain on emotional and mental health, a strain on our families.",
+     "after": "Ahmed (2017) likens the struggle to manage one’s own existence against dominant ideals and norms to wearing an ill-fitting garment: The less one matches the dominant model, the worse the fit and greater the strain.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 4: Privilege",
+     "page": "p. 100",
+     "locator": 127,
+     "before": "Following Ahmed (2017), we might think about this as strain: a strain on the body, a strain on emotional and mental health, a strain on our families.",
+     "sentence": "Ahmed (2017) likens the struggle to manage one’s own existence against dominant ideals and norms to wearing an ill-fitting garment: The less one matches the dominant model, the worse the fit and greater the strain.",
+     "after": "“Something is trying when it is subject to strain.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 107",
+     "locator": 134,
+     "before": "Traditional theory making often relies on elaborate macro-level views of how the world works, rarely taking the time to tap into experiential and lived knowledges (a cornerstone of Black feminist epistemology), often privileging a sort of navel-gazing that can trap or stabilize theories and disallowing the movement from lived situations to lived theory, the kind of movement necessary if we are to work coalitionally to address injustices.",
+     "sentence": "Rather than mere theory, we seek a living theory that values knowledge as experiential and lived and “does not separate politics from living” (Frye ctd in Ahmed, p. 214).",
+     "after": "As we discuss in Chapter 4, we embrace the need to consider experience as a form of knowledge and work to adopt an approach to theory in TPC that is dynamic, that accommodates shifts, and that works in situ to provide a foundation for action.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "section": "Chapter 5: Power",
+     "page": "p. 110",
+     "locator": 137,
+     "before": "Without a commitment to working from outside of the dominant frame, feminist movements could do little to effect change.",
+     "sentence": "Noble (2018) similarly demonstrates the ways theorizing from the margins shifts our understanding of topics.",
+     "after": "As a technologist focused on strategies that will “eliminate social injustice and change the ways in which people are oppressed with the aid of allegedly neutral technologies,” she analyzes and understands artificial intelligence through the lens of Black feminism, which challenges the dominant research on race and gender, which tends to universalize problems assigned to race or Blackness as “male” (or the problems of men) and organizes gender as primarily conceived through the lenses and experiences of White women, leaving Black women in a precarious and understudied position. (p. 33) By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "section": "Chapter 5: Power",
+     "page": "p. 110",
+     "locator": 137,
+     "before": "Noble (2018) similarly demonstrates the ways theorizing from the margins shifts our understanding of topics.",
+     "sentence": "As a technologist focused on strategies that will “eliminate social injustice and change the ways in which people are oppressed with the aid of allegedly neutral technologies,” she analyzes and understands artificial intelligence through the lens of Black feminism, which challenges the dominant research on race and gender, which tends to universalize problems assigned to race or Blackness as “male” (or the problems of men) and organizes gender as primarily conceived through the lenses and experiences of White women, leaving Black women in a precarious and understudied position. (p. 33) By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
+     "after": "Like Noble, we adopt a Black feminist approach to power because we (like Black feminists) are not attempting to shift power as the end goal; rather, the end goal of this project is to achieve equity for those who are not part of dominant groups and address the forms of oppression that emerge from practices in TPC.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "section": "Chapter 5: Power",
+     "page": "p. 110",
+     "locator": 137,
+     "before": "As a technologist focused on strategies that will “eliminate social injustice and change the ways in which people are oppressed with the aid of allegedly neutral technologies,” she analyzes and understands artificial intelligence through the lens of Black feminism, which challenges the dominant research on race and gender, which tends to universalize problems assigned to race or Blackness as “male” (or the problems of men) and organizes gender as primarily conceived through the lenses and experiences of White women, leaving Black women in a precarious and understudied position. (p. 33) By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
+     "sentence": "Like Noble, we adopt a Black feminist approach to power because we (like Black feminists) are not attempting to shift power as the end goal; rather, the end goal of this project is to achieve equity for those who are not part of dominant groups and address the forms of oppression that emerge from practices in TPC.",
+     "after": "This goal, achieving equity, requires that we not seek to re-purpose, re-envision, or replicate power wielded by white patriarchal and hegemonic structures.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "section": "Chapter 5: Power",
+     "page": "p. 115",
+     "locator": 142,
+     "before": "To the extent that we live in, on, and around this new infrastructure it helps form the shape of our moral, scientific, an esthetic choice. (p. 319) The structural realm of power is often invisible and therefore seems inarguable.",
+     "sentence": "This is the point Noble (2018) makes as she describes the ways algorithms function to describe and create the world.",
+     "after": "Though algorithms span both structural and disciplinary domains of power (they are, after all, “loaded with power” (p. 171)), the algorithms function to transmit knowledge in a structure pre-determined by the developer as they order the world and make some versions of the world visible.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "foucault-order-of-things-an-archaeology-of-human",
+     "author": "Michel Foucault",
+     "section": "Chapter 5: Power",
+     "page": "p. 116",
+     "locator": 143,
+     "before": "As such, the disciplinary domain can shift the ways technical communicators think about documentation, enrollment policies, and other forms of reporting that might unwittingly expose members of the community to undue scrutiny and function as an oppressive activity.",
+     "sentence": "This form of “discipline” echoes the disciplinary realms Foucault (1979) articulates in Discipline and Punish, in which he reminds us that institutions of education and jailing produce and reproduce systems of power.",
+     "after": "In addition to educational or carceral contexts, even more seemingly harmless governmental or bureaucratic procedures function to reproduce oppression and injustice.",
+     "highlights": [
+      "Foucault"
+     ]
+    },
+    {
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "author": "Laura Gonzales",
+     "section": "Chapter 5: Power",
+     "page": "p. 122",
+     "locator": 149,
+     "before": "Before finishing our discussion of the way TPC works across the domains of power, we think it’s important to note that one struggle with using the domains of power is that language use—a central concern of technical communicators— extends throughout all of them.",
+     "sentence": "Naming matters, language structures our worlds, TABLE 5. \u0007Domains of Power and Field-Specific Examples Domain of Power Location Example from TPC Structural Macro-level of social organization The design of algorithms (Noble, 2018); state and national policies (Koerber, 2013; Williams, 2010) Disciplinary Processes, procedures Procedures for hiring, tenure, or promotion (Ranney, 2000); processes for decisionmaking (Simmons, 2008) Hegemonic Ideology and culture Conceptions of normativity (Dolmage, 2014); Maps (Barton & Barton, 1993); Interpersonal Microlevel of social organization Interactions between clients and technical communicators (Walton, 2013); classroom and meeting behaviors (Patterson, 2016; Haas & Eble, 2018); language use (Gonzales & Zantjer, 2015; Young, 1990) A note of caution: This kind of chart suggests that these examples exist exclusively in one particular domain, but the domains are interrelated.",
+     "after": "This is what makes examples like Williams’s Texas policies particularly salient: While it would be easy to assign this to the structural realm, where rights are structured by policy, the policies merge into the hegemonic realm, where ideological and cultural values become powerful domains of TPC work. and small interpersonal norms, like the ways gender is constructed as binary or fluid reflect the hegemonic domain, co-construct the patterns of power, and function to structure algorithms, forms, and other kinds of documents.",
+     "highlights": [
+      "Gonzales"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "section": "Chapter 5: Power",
+     "page": "p. 122",
+     "locator": 149,
+     "before": "Before finishing our discussion of the way TPC works across the domains of power, we think it’s important to note that one struggle with using the domains of power is that language use—a central concern of technical communicators— extends throughout all of them.",
+     "sentence": "Naming matters, language structures our worlds, TABLE 5. \u0007Domains of Power and Field-Specific Examples Domain of Power Location Example from TPC Structural Macro-level of social organization The design of algorithms (Noble, 2018); state and national policies (Koerber, 2013; Williams, 2010) Disciplinary Processes, procedures Procedures for hiring, tenure, or promotion (Ranney, 2000); processes for decisionmaking (Simmons, 2008) Hegemonic Ideology and culture Conceptions of normativity (Dolmage, 2014); Maps (Barton & Barton, 1993); Interpersonal Microlevel of social organization Interactions between clients and technical communicators (Walton, 2013); classroom and meeting behaviors (Patterson, 2016; Haas & Eble, 2018); language use (Gonzales & Zantjer, 2015; Young, 1990) A note of caution: This kind of chart suggests that these examples exist exclusively in one particular domain, but the domains are interrelated.",
+     "after": "This is what makes examples like Williams’s Texas policies particularly salient: While it would be easy to assign this to the structural realm, where rights are structured by policy, the policies merge into the hegemonic realm, where ideological and cultural values become powerful domains of TPC work. and small interpersonal norms, like the ways gender is constructed as binary or fluid reflect the hegemonic domain, co-construct the patterns of power, and function to structure algorithms, forms, and other kinds of documents.",
+     "highlights": [
+      "Noble"
+     ]
+    },
+    {
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "author": "Laura Gonzales",
+     "section": "Chapter 5: Power",
+     "page": "p. 123",
+     "locator": 150,
+     "before": "In our concerns with clarity and coherent arguments, we may knowingly or unknowingly contribute to the exclusion of particular perspectives, groups or individuals, and it reminds us that as we develop an approach to TPC that seeks inclusion, justice, and empowerment, our language use can and should be tended to.",
+     "sentence": "Gonzales and Zantjer (2015) provide one example of the way that a focus on inclusion can shift the language practices adopted across domains of power.",
+     "after": "They developed a study of multilingual users’ translation practices, and in so doing they move the field from translation practices to localization practices, arguing that understanding the localized practices of multilingual users can deepen our understanding of translation practices.",
+     "highlights": [
+      "Gonzales"
+     ]
+    },
+    {
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "author": "Laura Gonzales",
+     "section": "Chapter 5: Power",
+     "page": "p. 123",
+     "locator": 150,
+     "before": "They developed a study of multilingual users’ translation practices, and in so doing they move the field from translation practices to localization practices, arguing that understanding the localized practices of multilingual users can deepen our understanding of translation practices.",
+     "sentence": "Where nonlocalized translation practices may rely on structural or disciplinary domains of linguistic power, Gonzales and Zantjer gather experience-based, localized examples and develop new frameworks for understanding translation practices that are multidimensional, more nuanced than existing frames, and that empower the multilingual user rather than make them subject to existing practices.",
+     "after": "This provides one example of the way that a justice-oriented, inclusive understanding of TPC can shift language use across domains of power.",
+     "highlights": [
+      "Gonzales"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 124",
+     "locator": 151,
+     "before": "But the domains of power help us see more clearly how power “works as a mode of directionality” (p. 43).",
+     "sentence": "In Living a Feminist Life, Ahmed explains that norms structure our lives, creating patterns, paths, and flows that direct our actions, our lives.",
+     "after": "“A norm,” she writes, “is also a way of living, a way of connecting with others over or around something.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 124",
+     "locator": 151,
+     "before": "And resistance is difficult, especially as an individual activity.",
+     "sentence": "The way Ahmed describes power as directionality, however, suggests that coalitional approaches to change can recreate new directions, new norms, and new forms of resistance.",
+     "after": "She writes, “Note here how collectivity can become a direction: a clearing of the way as the way of many” (p. 46).",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 124",
+     "locator": 151,
+     "before": "Collective labor can clear the way for others.",
+     "sentence": "Across the domains of power, we can see, for example, how heteronormativity (Ahmed’s example) has been established as the collective path.",
+     "after": "Policies restricting marriage and adoptions suggest that we ought to organize families around heterosexual couples; at the disciplinary level, the procedures for securing benefits, for example, are created for heterosexual couples.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 124",
+     "locator": 151,
+     "before": "Members of intersectional coalitions are responsible for understanding the struggle of other members and other coalitions.",
+     "sentence": "We might connect this to what Ahmed (2017) calls the collective [feminist] snap.",
+     "after": "Ahmed articulates snapping as the action tied to a breaking point: “Snap: when she can’t take it any more; when she just can’t take it anymore.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 124",
+     "locator": 151,
+     "before": "We might connect this to what Ahmed (2017) calls the collective [feminist] snap.",
+     "sentence": "Ahmed articulates snapping as the action tied to a breaking point: “Snap: when she can’t take it any more; when she just can’t take it anymore.",
+     "after": "Speaking sharply, speaking with irritation” (p. 190).",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "author": "Sara Ahmed",
+     "section": "Chapter 5: Power",
+     "page": "p. 125",
+     "locator": 152,
+     "before": "A collective snap is shared, listened to, and sometimes occurs across individuals.",
+     "sentence": "In the example Ahmed gives, the film A Question of Silence (dir.",
+     "after": "Marlene Gorris, 1982) offers a snap not just as a single breaking moment but a connected experience of women enduring the patriarchy.",
+     "highlights": [
+      "Ahmed"
+     ]
+    },
+    {
+     "bookId": "noble-algorithms-of-oppression",
+     "author": "Safiya Umoja Noble",
+     "section": "Chapter 6: Coalitional Action",
+     "page": "p. 153",
+     "locator": 180,
+     "before": "Further, the technology must not reinforce or reify existing oppressions.",
+     "sentence": "As Noble (2018) reveals in Algorithms of Oppression, the very development of both front end and back end technologies constructs and reconstructs the world’s existing oppressive structures.",
+     "after": "The second is that inclusive decision-making processes—assuming that Julie (in this case) has valuable knowledge in the situation and should be included— can help prevent these problems.",
+     "highlights": [
+      "Noble"
      ]
     }
    ],
@@ -6883,7 +7488,7 @@
      "page": "p. 18",
      "locator": 39,
      "before": "The material dimension of situated problem solving has been a notable focal point in writing studies scholarship (Haas, 1996; Haas & Witte, 2001; Rifenburg, 2014).",
-     "sentence": "Programmatically speaking, design thinking and making enable a “mul timodal pedagogy” that Andrew Bourelle, Tifany Bourelle, and Natasha Jones (2015, p. 309) forwarded.",
+     "sentence": "Programmatically speaking, design thinking and making enable a “mul timodal pedagogy” that Andrew Bourelle, Tiffany Bourelle, and Natasha Jones (2015, p. 309) forwarded.",
      "after": "Taking heed from Claire Lauer (2009), who contended there must be “an understanding of design-as-process and the situated choices and strategies students need practice developing” (p. 237), Bourelle et al. (2015) showed that a multimodal approach to technical communication pedagogy can prepare students for future industry projects.",
      "highlights": [
       "Natasha Jones"
@@ -6895,8 +7500,8 @@
      "section": "Chapter 3: Social Innovation: Designing Humane Technical Communication",
      "page": "p. 59",
      "locator": 80,
-     "before": "For technical commu nication, specifcally, equity means fair and just access to and representation in scientifc and technical communication for all stakeholders.",
-     "sentence": "(Haas & Eble, 2018, pp. 10–11) Taking heed from Haas and Eble’s disposition, Rebecca Walton, Kristin Moore, and Natasha Jones (2019) in their equally infuential book—Technical Communica tion after the Social Justice Turn—positioned technical communicators as changemakers who should consider the core of their work as withstanding unjust issues and resisting oppressive practices.",
+     "before": "For technical commu nication, specifically, equity means fair and just access to and representation in scientific and technical communication for all stakeholders.",
+     "sentence": "(Haas & Eble, 2018, pp. 10–11) Taking heed from Haas and Eble’s disposition, Rebecca Walton, Kristin Moore, and Natasha Jones (2019) in their equally influential book—Technical Communica tion after the Social Justice Turn—positioned technical communicators as changemakers who should consider the core of their work as withstanding unjust issues and resisting oppressive practices.",
      "after": "Similar to my experience in advertising, good communication—whether technical or creative—should promote actions toward a good cause.",
      "highlights": [
       "Rebecca Walton"
@@ -6908,8 +7513,8 @@
      "section": "Chapter 3: Social Innovation: Designing Humane Technical Communication",
      "page": "p. 59",
      "locator": 80,
-     "before": "For technical commu nication, specifcally, equity means fair and just access to and representation in scientifc and technical communication for all stakeholders.",
-     "sentence": "(Haas & Eble, 2018, pp. 10–11) Taking heed from Haas and Eble’s disposition, Rebecca Walton, Kristin Moore, and Natasha Jones (2019) in their equally infuential book—Technical Communica tion after the Social Justice Turn—positioned technical communicators as changemakers who should consider the core of their work as withstanding unjust issues and resisting oppressive practices.",
+     "before": "For technical commu nication, specifically, equity means fair and just access to and representation in scientific and technical communication for all stakeholders.",
+     "sentence": "(Haas & Eble, 2018, pp. 10–11) Taking heed from Haas and Eble’s disposition, Rebecca Walton, Kristin Moore, and Natasha Jones (2019) in their equally influential book—Technical Communica tion after the Social Justice Turn—positioned technical communicators as changemakers who should consider the core of their work as withstanding unjust issues and resisting oppressive practices.",
      "after": "Similar to my experience in advertising, good communication—whether technical or creative—should promote actions toward a good cause.",
      "highlights": [
       "Kristin Moore"
@@ -6921,8 +7526,8 @@
      "section": "Chapter 3: Social Innovation: Designing Humane Technical Communication",
      "page": "p. 59",
      "locator": 80,
-     "before": "For technical commu nication, specifcally, equity means fair and just access to and representation in scientifc and technical communication for all stakeholders.",
-     "sentence": "(Haas & Eble, 2018, pp. 10–11) Taking heed from Haas and Eble’s disposition, Rebecca Walton, Kristin Moore, and Natasha Jones (2019) in their equally infuential book—Technical Communica tion after the Social Justice Turn—positioned technical communicators as changemakers who should consider the core of their work as withstanding unjust issues and resisting oppressive practices.",
+     "before": "For technical commu nication, specifically, equity means fair and just access to and representation in scientific and technical communication for all stakeholders.",
+     "sentence": "(Haas & Eble, 2018, pp. 10–11) Taking heed from Haas and Eble’s disposition, Rebecca Walton, Kristin Moore, and Natasha Jones (2019) in their equally influential book—Technical Communica tion after the Social Justice Turn—positioned technical communicators as changemakers who should consider the core of their work as withstanding unjust issues and resisting oppressive practices.",
      "after": "Similar to my experience in advertising, good communication—whether technical or creative—should promote actions toward a good cause.",
      "highlights": [
       "Natasha Jones"
@@ -6935,7 +7540,7 @@
      "page": "p. 62",
      "locator": 83,
      "before": "Noticing that facial analysis applications would not detect darker skin tones and facial structures, Buolamwini (2016) urged designers to recognize coded bias and how users can help mitigate such problematic design.",
-     "sentence": "Similarly, Safya Noble (2018) in her best selling book, Algorithm of Oppression, revealed the infuences of human biases and values on technology design.",
+     "sentence": "Similarly, Safya Noble (2018) in her best selling book, Algorithm of Oppression, revealed the influences of human biases and values on technology design.",
      "after": "Following Buolamwini and Noble’s work, Cruz Medina and Octavio Pimentel (2018) have curated in their open-access digital book, Racial Shorthand, a series of culturally relevant examples that demonstrate the erasing of non-dominant cultures through oppressive technology design.",
      "highlights": [
       "Safya Noble"
@@ -6947,7 +7552,7 @@
      "section": "Chapter 3: Social Innovation: Designing Humane Technical Communication",
      "page": "p. 62",
      "locator": 83,
-     "before": "Similarly, Safya Noble (2018) in her best selling book, Algorithm of Oppression, revealed the infuences of human biases and values on technology design.",
+     "before": "Similarly, Safya Noble (2018) in her best selling book, Algorithm of Oppression, revealed the influences of human biases and values on technology design.",
      "sentence": "Following Buolamwini and Noble’s work, Cruz Medina and Octavio Pimentel (2018) have curated in their open-access digital book, Racial Shorthand, a series of culturally relevant examples that demonstrate the erasing of non-dominant cultures through oppressive technology design.",
      "after": "These examples showed negligence on the part of designers and communicators, and reinforced the importance of centering justice work in technical communication.",
      "highlights": [
@@ -6961,7 +7566,7 @@
      "page": "p. 63",
      "locator": 84,
      "before": "The genesis of any social innovation project is often an exigence brought about by social injustice.",
-     "sentence": "In “Disrupting the Past to Disrupt the Future,” Natasha Jones, Kristen Moore, and Rebecca Walton (2016) efectively traced the social justice movement in technical communication to the feld’s early infuences by the social paradigm and its growing research trajectory toward inclusivity.",
+     "sentence": "In “Disrupting the Past to Disrupt the Future,” Natasha Jones, Kristen Moore, and Rebecca Walton (2016) effectively traced the social justice movement in technical communication to the field’s early influences by the social paradigm and its growing research trajectory toward inclusivity.",
      "after": "Reasonably, this trajectory lands on social innovation as one of the (ante)narratives that situate technical communication as social activists and user advocates.",
      "highlights": [
       "Rebecca Walton"
@@ -6974,7 +7579,7 @@
      "page": "p. 63",
      "locator": 84,
      "before": "The genesis of any social innovation project is often an exigence brought about by social injustice.",
-     "sentence": "In “Disrupting the Past to Disrupt the Future,” Natasha Jones, Kristen Moore, and Rebecca Walton (2016) efectively traced the social justice movement in technical communication to the feld’s early infuences by the social paradigm and its growing research trajectory toward inclusivity.",
+     "sentence": "In “Disrupting the Past to Disrupt the Future,” Natasha Jones, Kristen Moore, and Rebecca Walton (2016) effectively traced the social justice movement in technical communication to the field’s early influences by the social paradigm and its growing research trajectory toward inclusivity.",
      "after": "Reasonably, this trajectory lands on social innovation as one of the (ante)narratives that situate technical communication as social activists and user advocates.",
      "highlights": [
       "Kristen Moore"
@@ -6987,7 +7592,7 @@
      "page": "p. 63",
      "locator": 84,
      "before": "The genesis of any social innovation project is often an exigence brought about by social injustice.",
-     "sentence": "In “Disrupting the Past to Disrupt the Future,” Natasha Jones, Kristen Moore, and Rebecca Walton (2016) efectively traced the social justice movement in technical communication to the feld’s early infuences by the social paradigm and its growing research trajectory toward inclusivity.",
+     "sentence": "In “Disrupting the Past to Disrupt the Future,” Natasha Jones, Kristen Moore, and Rebecca Walton (2016) effectively traced the social justice movement in technical communication to the field’s early influences by the social paradigm and its growing research trajectory toward inclusivity.",
      "after": "Reasonably, this trajectory lands on social innovation as one of the (ante)narratives that situate technical communication as social activists and user advocates.",
      "highlights": [
       "Natasha Jones"
@@ -6999,8 +7604,8 @@
      "section": "Chapter 3: Social Innovation: Designing Humane Technical Communication",
      "page": "p. 75",
      "locator": 96,
-     "before": "One crucial step to take in this research process is critical refection prior to data collection.",
-     "sentence": "Before you design the workshop and approach your target com munity, you should frst consider your own role and positionality as the design thinker in this project: What power and privilege (Walton et al., 2019) do you enact?",
+     "before": "One crucial step to take in this research process is critical reflection prior to data collection.",
+     "sentence": "Before you design the workshop and approach your target com munity, you should first consider your own role and positionality as the design thinker in this project: What power and privilege (Walton et al., 2019) do you enact?",
      "after": "How might you be transparent about these identities and let your com munity partners/participants learn about you?",
      "highlights": [
       "Walton"
@@ -7052,8 +7657,8 @@
      "page": "p. 139",
      "locator": 160,
      "before": "Technical Communication Quarterly, 25(4), 211–229.",
-     "sentence": "Recognizing that the feld of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the feld that embraces social justice and inclusivity as a core tenet of technical communication.",
-     "after": "Jones et al. examined the dominant narrative in the feld’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
+     "sentence": "Recognizing that the field of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the field that embraces social justice and inclusivity as a core tenet of technical communication.",
+     "after": "Jones et al. examined the dominant narrative in the field’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
      "highlights": [
       "Walton"
      ]
@@ -7065,8 +7670,8 @@
      "page": "p. 139",
      "locator": 160,
      "before": "Technical Communication Quarterly, 25(4), 211–229.",
-     "sentence": "Recognizing that the feld of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the feld that embraces social justice and inclusivity as a core tenet of technical communication.",
-     "after": "Jones et al. examined the dominant narrative in the feld’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
+     "sentence": "Recognizing that the field of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the field that embraces social justice and inclusivity as a core tenet of technical communication.",
+     "after": "Jones et al. examined the dominant narrative in the field’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
      "highlights": [
       "Moore"
      ]
@@ -7078,8 +7683,8 @@
      "page": "p. 139",
      "locator": 160,
      "before": "Technical Communication Quarterly, 25(4), 211–229.",
-     "sentence": "Recognizing that the feld of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the feld that embraces social justice and inclusivity as a core tenet of technical communication.",
-     "after": "Jones et al. examined the dominant narrative in the feld’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
+     "sentence": "Recognizing that the field of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the field that embraces social justice and inclusivity as a core tenet of technical communication.",
+     "after": "Jones et al. examined the dominant narrative in the field’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
      "highlights": [
       "Jones"
      ]
@@ -7090,8 +7695,8 @@
      "section": "Appendix C: Annotated Bibliography",
      "page": "p. 139",
      "locator": 160,
-     "before": "Recognizing that the feld of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the feld that embraces social justice and inclusivity as a core tenet of technical communication.",
-     "sentence": "Jones et al. examined the dominant narrative in the feld’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
+     "before": "Recognizing that the field of technical communication has mostly focused o “objective, apolitical, acultural practices, theories, and pedagogies,” Jones, Moore, and Walton were motivated to present an “antenarrative” for the field that embraces social justice and inclusivity as a core tenet of technical communication.",
+     "sentence": "Jones et al. examined the dominant narrative in the field’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
      "after": "These threads come from feminism and gender studies, race and ethnicity, international/intercultural profes sional communication, community and public engagement, user advocacy, and disability and accessibility.",
      "highlights": [
       "Jones"
@@ -10428,611 +11033,6 @@
     }
    ],
    "year": 2023
-  },
-  "risam-new-digital-worlds-postcolonial-digital": {
-   "title": "New Digital Worlds: Postcolonial Digital Humanities in",
-   "authors": [
-    "Roopika Risam"
-   ],
-   "mentions": [
-    {
-     "bookId": "gold-debates-in-the-digital-humanities-2023",
-     "author": "Matthew K. Gold",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 5",
-     "locator": 14,
-     "before": "In 2009, William Pannapacker anointed digital humanities as “the next big thing” in the humanities.",
-     "sentence": "Today’s digital humanities “moment,” as Matthew K. Gold suggests, has been marked by academic institutions and funding bodies investing heavily in digital methods; creating new centers around the world; supporting growth in hiring for new, often non-​tenure-​ track, positions in digital humanities; funding new streams of grants for technology-​driven humanities scholarship; and attracting attention from mainstream media sources.",
-     "after": "The allure of digital humanities in higher education stems in large part from the great promise that academic administrators see in it.",
-     "highlights": [
-      "Matthew K. Gold"
-     ]
-    },
-    {
-     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
-     "author": "Lisa Nakamura",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 6",
-     "locator": 15,
-     "before": "In fact, colonialism within the cultural record is not only being reproduced but is also being amplified by virtue of the fact that the digital cultural record is constructed and disseminated publicly, online, in a digital milieu beset with its own politics of identity.",
-     "sentence": "As scholars of media and new media studies like Radhika Gajjala, Lisa Nakamura, and Anna Everett, among others, have pointed out, gone are the days when the internet could be theorized as a blank slate for the creation of new identities, communities, and stories—not that it ever was that space.",
-     "after": "In fact, as the last few years have shown, whether through the Gamergate attacks on women in the video game industry, lawsuits against the #blacklivesmatter hashtag, or flocks of right-​wing trolls attacking scholars of race, gender, sexuality, and colonialism like George Ciccariello-​Mahler at Drexel University or Saida Grundy at Boston University,9 digital humanities practitioners must contend not only with the colonial hangovers from the cultural record, but also with the forces that are actively constructing the medium of the digital cultural record—the internet—as a hostile environment where universities, libraries, and the cultural heritage sector are under threat, right along with the knowledge being produced and made publicly available by them.",
-     "highlights": [
-      "Lisa Nakamura"
-     ]
-    },
-    {
-     "bookId": "mullaney-your-computer-is-on-fire",
-     "author": "Kavita Philip",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 12",
-     "locator": 21,
-     "before": "While some of these approaches may be relevant to digital knowledge production in the Global South, an uncritical embrace of them delegitimizes contributions to the digital cultural record from the Global South, which may use different methods or take forms that look unfamiliar from the point of view of the Global North.",
-     "sentence": "To decenter this perspective, postcolonial digital humanities also draws on Kavita Philip, Lilly Irani, and Paul Dourish’s work on postcolonial computing, which responds to Human-​Computer Interaction for Development (HCI4D), a scholarly community at the intersection of technology and development.",
-     "after": "Postcolonial computing critiques development within HCI4D to underscore the vexing questions of authority, power, and legitimacy that are evoked in the rhetoric of technological development.",
-     "highlights": [
-      "Kavita Philip"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Introduction. The Postcolonial Digital Cultural Record",
-     "page": "p. 12",
-     "locator": 21,
-     "before": "Thus, postcolonial computing decenters knowledge from the Global North in favor of a localized approach that emphasizes cross-​ cultural engagement and the effects of uneven development on design.",
-     "sentence": "This approach serves as an important model for digital humanities, which falls prey to the assumption that practices of the Global North are universal forms of knowledge, rather than what Donna Haraway terms “situated knowledges.”",
-     "after": "On the contrary, as Élika Ortega argues, “all DH is local DH.”",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "losh-bodies-of-information",
-     "author": "Jacqueline Wernimont",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 23",
-     "locator": 32,
-     "before": "Amy Earhart asks, “Can information be unfettered?” suggesting that digital textual editing of writing by women, African Americans, and queer writers is an important intervention in the residual canonicity that fetters the digital cultural record.",
-     "sentence": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
-     "after": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
-     "highlights": [
-      "Jacqueline Wernimont"
-     ]
-    },
-    {
-     "bookId": "bailey-misogynoir-transformed-black-womens-digi",
-     "author": "Moya Bailey",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 23",
-     "locator": 32,
-     "before": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
-     "sentence": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
-     "after": "Additionally, my own work on intersectionality considers how we can uncover a hidden history of intersectionality in digital humanities scholarship and use it to develop intersectional praxis that accounts for compounding oppressions that magnify difference in the digital cultural record.",
-     "highlights": [
-      "Moya Bailey"
-     ]
-    },
-    {
-     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
-     "author": "Lisa Nakamura",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 36",
-     "locator": 45,
-     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
-     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
-     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
-     "highlights": [
-      "Lisa Nakamura"
-     ]
-    },
-    {
-     "bookId": "chun-updating-to-remain-the-same-habitual-new",
-     "author": "Wendy Hui Kyong Chun",
-     "section": "Chapter 1. The Stakes of Postcolonial Digital Humanities",
-     "page": "p. 36",
-     "locator": 45,
-     "before": "The seeming promise of digital humanities—in its embrace of open, expansive scholarship that crosses institutional sectors, muddying divides between the archive, library, university, and museum and creating interdisciplinary links between knowledge in the digital cultural record—is based on a predisposition towards democratic views of cyberculture.",
-     "sentence": "However, scholars of new media studies including Wendy Chun, Anna Everett, and Lisa Nakamura have identified a range of troubling concerns about the putatively democratic space of the internet: insufficient attention to difference has led to deceptive beliefs that the internet is disembodied and shielded from social inequalities; stereotypes operate in online spaces; and intersectional forms of difference influence user experience online.",
-     "after": "In the broader context of globalization, as scholars like Radhika Gajjala and Isabelle Rigoni argue, voice and silence are manipulated online, and there has been little attention paid to the ways that postcolonial migration, gender, and race create unequal access to media power.",
-     "highlights": [
-      "Wendy Chun"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
-     "page": "p. 50",
-     "locator": 59,
-     "before": "Such a phenomenon is possible, Nicholas Dirks contends, because the colonial archive “produces, adjudicates, organizes, and maintains the discourse that becomes available as the primary texts of history.”",
-     "sentence": "This is not only a matter of archive contents but also what Michel Foucault calls the archive’s “system of its enunciability,” its role in producing and legitimating discourse.",
-     "after": "The digital cultural record is thus at risk of being a mirror of a colonial world-​picture, another representation of colonized subjects from a colonial perspective that authorizes imperialism.",
-     "highlights": [
-      "Michel Foucault"
-     ]
-    },
-    {
-     "bookId": "drucker-the-digital-humanities-coursebook-an-int",
-     "author": "Johanna Drucker",
-     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
-     "page": "p. 52",
-     "locator": 61,
-     "before": "These remarks reflect anxieties over the definition of digital humanities as well as the relationship between theory and praxis in digital humanities.",
-     "sentence": "Emphasizing the significance of building to definitions of digital humanities, Anne Burdick, Johannah Drucker, Peter Lunenfeld, Todd Presner, and Jeffrey Schnapp argue that “the mere use of digital tools for the purpose of humanistic research and communication does not qualify as Digital Humanities.”",
-     "after": "Such narrow definitions contribute to a false binary between “hack” (acts of coding, building, and doing) and “yack” (the work of talking, critiquing, and theorizing) as practices that make up digital humanities.",
-     "highlights": [
-      "Johannah Drucker"
-     ]
-    },
-    {
-     "bookId": "latour-reassembling-the-social-an-introduction",
-     "author": "Bruno Latour",
-     "section": "Chapter 2. Colonial Violence and the Postcolonial Digital Archive",
-     "page": "p. 58",
-     "locator": 67,
-     "before": "Doing so requires developing new tools, archives, and practices that emerge from local contexts and challenge colonial violence through their design and content.",
-     "sentence": "Such an approach mediates between the hack/yack binary and exemplifies Bruno Latour’s identification of a discursive shift from critiquing to composing, which he describes as using a hammer to “repair, take care, assemble, reassemble, stitch together” rather than “break down walls, destroy idols, ridicule prejudices.”",
-     "after": "The Bichitra Online Tagore Variorum exemplifies how a project can make these dimensions legible.",
-     "highlights": [
-      "Bruno Latour"
-     ]
-    },
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 121",
-     "locator": 130,
-     "before": "On one hand, the status of the human in relation to technology is an important dimension of this question, since human-​ computer interaction is an essential part of digital humanities methods.",
-     "sentence": "Like N. Katherine Hayles’s posthuman subject, the contemporary human at stake in digital humanities is “an amalgam, a collection of heterogeneous components, a material-​informational entity whose boundaries undergo continuous construction and reconstruction.”",
-     "after": "Humans are largely inseparable from their implication in the production of data.",
-     "highlights": [
-      "Katherine Hayles"
-     ]
-    },
-    {
-     "bookId": "losh-bodies-of-information",
-     "author": "Elizabeth Losh",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 122",
-     "locator": 131,
-     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
-     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
-     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
-     "highlights": [
-      "Liz Losh"
-     ]
-    },
-    {
-     "bookId": "losh-bodies-of-information",
-     "author": "Jacqueline Wernimont",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 122",
-     "locator": 131,
-     "before": "My work has made the case for an intersectional approach to digital humanities in both design and interpretation as well.",
-     "sentence": "Insisting on the importance of decentering singular notions of the human, Jacqueline Wernimont, Liz Losh, Laura Wexler, and Hong-​An Wu argue for “the repositioning of digital humanities by putting the ‘genres of the human’ back at the center of these inquiries and by scrutinizing how gender, embodiment, and affect are often relegated to the periphery.”",
-     "after": "They see this lack as a product of the presumed neutrality of tools, corpuses, databases, and other material structures that support digital humanities inquiry and “obscure the ways that objects of study are positioned in relationship to human—and race, classed, and gendered—constructs of discovery, revelation, display, exhibition, desire, curation, witnessing, and bearing witness.”",
-     "highlights": [
-      "Jacqueline Wernimont"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 126",
-     "locator": 135,
-     "before": "An important model for interrogating these matters in digital humanities appears in feminist and postcolonial science and technology studies scholarship, which brings together the philosophical and technical implications of human subjectivity by raising concern over divisions between the binary categories of “human” and “nonhuman.”",
-     "sentence": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
-     "after": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
-     "highlights": [
-      "Donna Haraway"
-     ]
-    },
-    {
-     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
-     "author": "Donna Haraway",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 126",
-     "locator": 135,
-     "before": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg.",
-     "sentence": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
-     "after": "Rather, the two categories are both connected and interdependent.",
-     "highlights": [
-      "Haraway"
-     ]
-    },
-    {
-     "bookId": "manovich-cultural-analytics",
-     "author": "Lev Manovich",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 130",
-     "locator": 139,
-     "before": "These issues are particularly important as digital humanities practitioners turn to sources like Amazon Mechanical Turk for their projects.",
-     "sentence": "Notably, Lev Manovich’s “selfiecity” relied on Amazon Mechanical Turk workers to code selfies for age and gender,63 while Ryan Heuser’s Mapping Emotions in Victorian London project used the workers to attribute sentiments to locations drawn from Victorian literary texts.",
-     "after": "Without the ability to interrogate the demographics of the workers that influence the data-​coding process, such as gender, race or ethnicity, and nationality, it is unclear which factors are influencing the results of these studies.",
-     "highlights": [
-      "Lev Manovich"
-     ]
-    },
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 134",
-     "locator": 143,
-     "before": "At stake in the production of humanoid texts through these methods is the question of universalism.",
-     "sentence": "As Hayles notes, “Literary texts are not, of course, merely passive conduits.",
-     "after": "They actively shape what the technologies mean and what the scientific theories signify in cultural contexts.",
-     "highlights": [
-      "Hayles"
-     ]
-    },
-    {
-     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
-     "author": "N. Katherine Hayles",
-     "section": "Chapter 5. Rethinking the Human in Digital Humanities",
-     "page": "p. 135",
-     "locator": 144,
-     "before": "They also embody assumptions similar to those that permeated the scientific theories at critical points.”",
-     "sentence": "Humanoid texts not only reflect Hayles’s observation but are actively constructed by these forces.",
-     "after": "With the move to generate software and algorithms that replicate “human” processes, particular forms of the “human” are authorized.",
-     "highlights": [
-      "Hayles"
-     ]
-    }
-   ],
-   "year": null
-  },
-  "walton-technical-communication-after-the-social": {
-   "title": "Technical Communication After the Social Justice Turn",
-   "authors": [
-    "Rebecca Walton",
-    "Kristen Moore",
-    "Natasha Jones"
-   ],
-   "mentions": [
-    {
-     "bookId": "gonzales-designing-multilingual-experiences-in-te",
-     "author": "Laura Gonzales",
-     "section": "Introduction",
-     "page": "p. 6",
-     "locator": 33,
-     "before": "As a response to and in spite of the problems highlighted in this section, we know that scholars in TPC have already begun to do the hard and messy work needed to address and redress injustice in our field.",
-     "sentence": "Laura Gonzales, for example, is challenging user experience specialists to contend with issues of translation and to work in sites of translation.",
-     "after": "Angela Haas has long been working to decolonize programs and practices of technical communication.",
-     "highlights": [
-      "Laura Gonzales"
-     ]
-    },
-    {
-     "bookId": "gonzales-designing-multilingual-experiences-in-te",
-     "author": "Laura Gonzales",
-     "section": "Introduction",
-     "page": "p. 6",
-     "locator": 33,
-     "before": "TPC, as a discipline, has prided itself on practicality, on applicability, on being both an industry profession and an academic field of study.",
-     "sentence": "Indeed, this is what has drawn us to TPC: We, like Gonzales, Haas, Williams, and others invested in redressing injustices, are scholars and practitioners who prefer to get things done, to get to work, to engage with problems and solve them.",
-     "after": "Engaging these classic concerns of the field, the social justice turn extends core considerations of TPC, even as it shifts the field’s identity.",
-     "highlights": [
-      "Gonzales"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 1: Oppression",
-     "page": "p. 17",
-     "locator": 44,
-     "before": "",
-     "sentence": "OPPRESSION According to feminist scholar Sara Ahmed, the work of accounting for racism (or any other form of oppression, we would add) allows a path forward toward transformation and requires a new understanding and account of the world.",
-     "after": "This, we think, is emerging from the social justice turn in technical communication: A new way forward, a transformation, a new understanding of the field.",
-     "highlights": [
-      "Sara Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 4: Privilege",
-     "page": "p. 84",
-     "locator": 111,
-     "before": "Even though the women graduate students are part of the whole (i.e., members of the academic department), they are pushed to the margins.",
-     "sentence": "This separation sends a message that the women graduate students are valued less in the department and that men students are a better “fit” for research teams (Ahmed, 2017).",
-     "after": "It is this kind of subtle discrimination and inequity that emerges from privilege.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 4: Privilege",
-     "page": "p. 84",
-     "locator": 111,
-     "before": "As a relative concept, privilege operates on a continuum, with some individuals having more privilege than others.",
-     "sentence": "Ahmed (2017) frames privilege as “an energy-saving device” (p. 125).",
-     "after": "She argues that more privileged individuals are not required to put forth as much effort as less privileged individuals: Less effort is required to be or to do.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 4: Privilege",
-     "page": "p. 85",
-     "locator": 112,
-     "before": "You might be one of this many students from working-class backgrounds who get into the university; one of this many people of color hired by the university; one of this many women in senior positions; one of this many students or staff with disabilities.",
-     "sentence": "Ahmed makes it clear that those individuals with identity markers (embodied, material, social, cultural, and economic) that are considered the default benefit from their standing in society.",
-     "after": "This societal positioning serves as a tangible marker for who has privilege and who does not have privilege.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 4: Privilege",
-     "page": "p. 86",
-     "locator": 113,
-     "before": "In this book, and in our exploration of privilege as a concept, we center the voices of underrepresented scholars who can offer us experiential orienting perspectives for broadening our knowledge about how privilege frames our ways of being and existing in the world.",
-     "sentence": "We call on scholars like Angela Davis, Audre Lorde, Patricia Hill Collins, and Sara Ahmed as a way of grounding the concept of privilege in a minority perspective.",
-     "after": "We include multiple voices to help us construct the theoretical framework for our understanding of privilege because we acknowledge that the minority experience is not monolithic.",
-     "highlights": [
-      "Sara Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 4: Privilege",
-     "page": "p. 100",
-     "locator": 127,
-     "before": "Ontological Instantiation: Navigating the World and Educating Others Privilege allows some individuals to live a life unburdened by the obligation to justify their existence and to navigate a world designed for and dictated by a group of which you are a member; those without that privilege face undue demands of personal responsibility in a world designed without them in mind.",
-     "sentence": "Following Ahmed (2017), we might think about this as strain: a strain on the body, a strain on emotional and mental health, a strain on our families.",
-     "after": "Ahmed (2017) likens the struggle to manage one’s own existence against dominant ideals and norms to wearing an ill-fitting garment: The less one matches the dominant model, the worse the fit and greater the strain.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 4: Privilege",
-     "page": "p. 100",
-     "locator": 127,
-     "before": "Following Ahmed (2017), we might think about this as strain: a strain on the body, a strain on emotional and mental health, a strain on our families.",
-     "sentence": "Ahmed (2017) likens the struggle to manage one’s own existence against dominant ideals and norms to wearing an ill-fitting garment: The less one matches the dominant model, the worse the fit and greater the strain.",
-     "after": "“Something is trying when it is subject to strain.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 107",
-     "locator": 134,
-     "before": "Traditional theory making often relies on elaborate macro-level views of how the world works, rarely taking the time to tap into experiential and lived knowledges (a cornerstone of Black feminist epistemology), often privileging a sort of navel-gazing that can trap or stabilize theories and disallowing the movement from lived situations to lived theory, the kind of movement necessary if we are to work coalitionally to address injustices.",
-     "sentence": "Rather than mere theory, we seek a living theory that values knowledge as experiential and lived and “does not separate politics from living” (Frye ctd in Ahmed, p. 214).",
-     "after": "As we discuss in Chapter 4, we embrace the need to consider experience as a form of knowledge and work to adopt an approach to theory in TPC that is dynamic, that accommodates shifts, and that works in situ to provide a foundation for action.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "noble-algorithms-of-oppression",
-     "author": "Safiya Umoja Noble",
-     "section": "Chapter 5: Power",
-     "page": "p. 110",
-     "locator": 137,
-     "before": "Without a commitment to working from outside of the dominant frame, feminist movements could do little to effect change.",
-     "sentence": "Noble (2018) similarly demonstrates the ways theorizing from the margins shifts our understanding of topics.",
-     "after": "As a technologist focused on strategies that will “eliminate social injustice and change the ways in which people are oppressed with the aid of allegedly neutral technologies,” she analyzes and understands artificial intelligence through the lens of Black feminism, which challenges the dominant research on race and gender, which tends to universalize problems assigned to race or Blackness as “male” (or the problems of men) and organizes gender as primarily conceived through the lenses and experiences of White women, leaving Black women in a precarious and understudied position. (p. 33) By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
-     "highlights": [
-      "Noble"
-     ]
-    },
-    {
-     "bookId": "noble-algorithms-of-oppression",
-     "author": "Safiya Umoja Noble",
-     "section": "Chapter 5: Power",
-     "page": "p. 110",
-     "locator": 137,
-     "before": "Noble (2018) similarly demonstrates the ways theorizing from the margins shifts our understanding of topics.",
-     "sentence": "As a technologist focused on strategies that will “eliminate social injustice and change the ways in which people are oppressed with the aid of allegedly neutral technologies,” she analyzes and understands artificial intelligence through the lens of Black feminism, which challenges the dominant research on race and gender, which tends to universalize problems assigned to race or Blackness as “male” (or the problems of men) and organizes gender as primarily conceived through the lenses and experiences of White women, leaving Black women in a precarious and understudied position. (p. 33) By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
-     "after": "Like Noble, we adopt a Black feminist approach to power because we (like Black feminists) are not attempting to shift power as the end goal; rather, the end goal of this project is to achieve equity for those who are not part of dominant groups and address the forms of oppression that emerge from practices in TPC.",
-     "highlights": [
-      "Noble"
-     ]
-    },
-    {
-     "bookId": "noble-algorithms-of-oppression",
-     "author": "Safiya Umoja Noble",
-     "section": "Chapter 5: Power",
-     "page": "p. 110",
-     "locator": 137,
-     "before": "As a technologist focused on strategies that will “eliminate social injustice and change the ways in which people are oppressed with the aid of allegedly neutral technologies,” she analyzes and understands artificial intelligence through the lens of Black feminism, which challenges the dominant research on race and gender, which tends to universalize problems assigned to race or Blackness as “male” (or the problems of men) and organizes gender as primarily conceived through the lenses and experiences of White women, leaving Black women in a precarious and understudied position. (p. 33) By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
-     "sentence": "Like Noble, we adopt a Black feminist approach to power because we (like Black feminists) are not attempting to shift power as the end goal; rather, the end goal of this project is to achieve equity for those who are not part of dominant groups and address the forms of oppression that emerge from practices in TPC.",
-     "after": "This goal, achieving equity, requires that we not seek to re-purpose, re-envision, or replicate power wielded by white patriarchal and hegemonic structures.",
-     "highlights": [
-      "Noble"
-     ]
-    },
-    {
-     "bookId": "noble-algorithms-of-oppression",
-     "author": "Safiya Umoja Noble",
-     "section": "Chapter 5: Power",
-     "page": "p. 115",
-     "locator": 142,
-     "before": "To the extent that we live in, on, and around this new infrastructure it helps form the shape of our moral, scientific, an esthetic choice. (p. 319) The structural realm of power is often invisible and therefore seems inarguable.",
-     "sentence": "This is the point Noble (2018) makes as she describes the ways algorithms function to describe and create the world.",
-     "after": "Though algorithms span both structural and disciplinary domains of power (they are, after all, “loaded with power” (p. 171)), the algorithms function to transmit knowledge in a structure pre-determined by the developer as they order the world and make some versions of the world visible.",
-     "highlights": [
-      "Noble"
-     ]
-    },
-    {
-     "bookId": "foucault-order-of-things-an-archaeology-of-human",
-     "author": "Michel Foucault",
-     "section": "Chapter 5: Power",
-     "page": "p. 116",
-     "locator": 143,
-     "before": "As such, the disciplinary domain can shift the ways technical communicators think about documentation, enrollment policies, and other forms of reporting that might unwittingly expose members of the community to undue scrutiny and function as an oppressive activity.",
-     "sentence": "This form of “discipline” echoes the disciplinary realms Foucault (1979) articulates in Discipline and Punish, in which he reminds us that institutions of education and jailing produce and reproduce systems of power.",
-     "after": "In addition to educational or carceral contexts, even more seemingly harmless governmental or bureaucratic procedures function to reproduce oppression and injustice.",
-     "highlights": [
-      "Foucault"
-     ]
-    },
-    {
-     "bookId": "gonzales-designing-multilingual-experiences-in-te",
-     "author": "Laura Gonzales",
-     "section": "Chapter 5: Power",
-     "page": "p. 122",
-     "locator": 149,
-     "before": "Before finishing our discussion of the way TPC works across the domains of power, we think it’s important to note that one struggle with using the domains of power is that language use—a central concern of technical communicators— extends throughout all of them.",
-     "sentence": "Naming matters, language structures our worlds, TABLE 5. \u0007Domains of Power and Field-Specific Examples Domain of Power Location Example from TPC Structural Macro-level of social organization The design of algorithms (Noble, 2018); state and national policies (Koerber, 2013; Williams, 2010) Disciplinary Processes, procedures Procedures for hiring, tenure, or promotion (Ranney, 2000); processes for decisionmaking (Simmons, 2008) Hegemonic Ideology and culture Conceptions of normativity (Dolmage, 2014); Maps (Barton & Barton, 1993); Interpersonal Microlevel of social organization Interactions between clients and technical communicators (Walton, 2013); classroom and meeting behaviors (Patterson, 2016; Haas & Eble, 2018); language use (Gonzales & Zantjer, 2015; Young, 1990) A note of caution: This kind of chart suggests that these examples exist exclusively in one particular domain, but the domains are interrelated.",
-     "after": "This is what makes examples like Williams’s Texas policies particularly salient: While it would be easy to assign this to the structural realm, where rights are structured by policy, the policies merge into the hegemonic realm, where ideological and cultural values become powerful domains of TPC work. and small interpersonal norms, like the ways gender is constructed as binary or fluid reflect the hegemonic domain, co-construct the patterns of power, and function to structure algorithms, forms, and other kinds of documents.",
-     "highlights": [
-      "Gonzales"
-     ]
-    },
-    {
-     "bookId": "noble-algorithms-of-oppression",
-     "author": "Safiya Umoja Noble",
-     "section": "Chapter 5: Power",
-     "page": "p. 122",
-     "locator": 149,
-     "before": "Before finishing our discussion of the way TPC works across the domains of power, we think it’s important to note that one struggle with using the domains of power is that language use—a central concern of technical communicators— extends throughout all of them.",
-     "sentence": "Naming matters, language structures our worlds, TABLE 5. \u0007Domains of Power and Field-Specific Examples Domain of Power Location Example from TPC Structural Macro-level of social organization The design of algorithms (Noble, 2018); state and national policies (Koerber, 2013; Williams, 2010) Disciplinary Processes, procedures Procedures for hiring, tenure, or promotion (Ranney, 2000); processes for decisionmaking (Simmons, 2008) Hegemonic Ideology and culture Conceptions of normativity (Dolmage, 2014); Maps (Barton & Barton, 1993); Interpersonal Microlevel of social organization Interactions between clients and technical communicators (Walton, 2013); classroom and meeting behaviors (Patterson, 2016; Haas & Eble, 2018); language use (Gonzales & Zantjer, 2015; Young, 1990) A note of caution: This kind of chart suggests that these examples exist exclusively in one particular domain, but the domains are interrelated.",
-     "after": "This is what makes examples like Williams’s Texas policies particularly salient: While it would be easy to assign this to the structural realm, where rights are structured by policy, the policies merge into the hegemonic realm, where ideological and cultural values become powerful domains of TPC work. and small interpersonal norms, like the ways gender is constructed as binary or fluid reflect the hegemonic domain, co-construct the patterns of power, and function to structure algorithms, forms, and other kinds of documents.",
-     "highlights": [
-      "Noble"
-     ]
-    },
-    {
-     "bookId": "gonzales-designing-multilingual-experiences-in-te",
-     "author": "Laura Gonzales",
-     "section": "Chapter 5: Power",
-     "page": "p. 123",
-     "locator": 150,
-     "before": "In our concerns with clarity and coherent arguments, we may knowingly or unknowingly contribute to the exclusion of particular perspectives, groups or individuals, and it reminds us that as we develop an approach to TPC that seeks inclusion, justice, and empowerment, our language use can and should be tended to.",
-     "sentence": "Gonzales and Zantjer (2015) provide one example of the way that a focus on inclusion can shift the language practices adopted across domains of power.",
-     "after": "They developed a study of multilingual users’ translation practices, and in so doing they move the field from translation practices to localization practices, arguing that understanding the localized practices of multilingual users can deepen our understanding of translation practices.",
-     "highlights": [
-      "Gonzales"
-     ]
-    },
-    {
-     "bookId": "gonzales-designing-multilingual-experiences-in-te",
-     "author": "Laura Gonzales",
-     "section": "Chapter 5: Power",
-     "page": "p. 123",
-     "locator": 150,
-     "before": "They developed a study of multilingual users’ translation practices, and in so doing they move the field from translation practices to localization practices, arguing that understanding the localized practices of multilingual users can deepen our understanding of translation practices.",
-     "sentence": "Where nonlocalized translation practices may rely on structural or disciplinary domains of linguistic power, Gonzales and Zantjer gather experience-based, localized examples and develop new frameworks for understanding translation practices that are multidimensional, more nuanced than existing frames, and that empower the multilingual user rather than make them subject to existing practices.",
-     "after": "This provides one example of the way that a justice-oriented, inclusive understanding of TPC can shift language use across domains of power.",
-     "highlights": [
-      "Gonzales"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 124",
-     "locator": 151,
-     "before": "But the domains of power help us see more clearly how power “works as a mode of directionality” (p. 43).",
-     "sentence": "In Living a Feminist Life, Ahmed explains that norms structure our lives, creating patterns, paths, and flows that direct our actions, our lives.",
-     "after": "“A norm,” she writes, “is also a way of living, a way of connecting with others over or around something.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 124",
-     "locator": 151,
-     "before": "And resistance is difficult, especially as an individual activity.",
-     "sentence": "The way Ahmed describes power as directionality, however, suggests that coalitional approaches to change can recreate new directions, new norms, and new forms of resistance.",
-     "after": "She writes, “Note here how collectivity can become a direction: a clearing of the way as the way of many” (p. 46).",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 124",
-     "locator": 151,
-     "before": "Collective labor can clear the way for others.",
-     "sentence": "Across the domains of power, we can see, for example, how heteronormativity (Ahmed’s example) has been established as the collective path.",
-     "after": "Policies restricting marriage and adoptions suggest that we ought to organize families around heterosexual couples; at the disciplinary level, the procedures for securing benefits, for example, are created for heterosexual couples.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 124",
-     "locator": 151,
-     "before": "Members of intersectional coalitions are responsible for understanding the struggle of other members and other coalitions.",
-     "sentence": "We might connect this to what Ahmed (2017) calls the collective [feminist] snap.",
-     "after": "Ahmed articulates snapping as the action tied to a breaking point: “Snap: when she can’t take it any more; when she just can’t take it anymore.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 124",
-     "locator": 151,
-     "before": "We might connect this to what Ahmed (2017) calls the collective [feminist] snap.",
-     "sentence": "Ahmed articulates snapping as the action tied to a breaking point: “Snap: when she can’t take it any more; when she just can’t take it anymore.",
-     "after": "Speaking sharply, speaking with irritation” (p. 190).",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
-     "author": "Sara Ahmed",
-     "section": "Chapter 5: Power",
-     "page": "p. 125",
-     "locator": 152,
-     "before": "A collective snap is shared, listened to, and sometimes occurs across individuals.",
-     "sentence": "In the example Ahmed gives, the film A Question of Silence (dir.",
-     "after": "Marlene Gorris, 1982) offers a snap not just as a single breaking moment but a connected experience of women enduring the patriarchy.",
-     "highlights": [
-      "Ahmed"
-     ]
-    },
-    {
-     "bookId": "noble-algorithms-of-oppression",
-     "author": "Safiya Umoja Noble",
-     "section": "Chapter 6: Coalitional Action",
-     "page": "p. 153",
-     "locator": 180,
-     "before": "Further, the technology must not reinforce or reify existing oppressions.",
-     "sentence": "As Noble (2018) reveals in Algorithms of Oppression, the very development of both front end and back end technologies constructs and reconstructs the world’s existing oppressive structures.",
-     "after": "The second is that inclusive decision-making processes—assuming that Julie (in this case) has valuable knowledge in the situation and should be included— can help prevent these problems.",
-     "highlights": [
-      "Noble"
-     ]
-    }
-   ],
-   "year": null
   }
  }
 }

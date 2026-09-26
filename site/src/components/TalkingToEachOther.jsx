@@ -101,6 +101,20 @@ export default function TalkingToEachOther() {
         <p>Every place a book’s main text names another author on the core list, with the sentence before and after.</p>
       </div>
 
+      <div role="tablist" style={{ display: 'flex', borderBottom: '2px solid var(--border, #d9d9d9)', marginBottom: '1.25rem' }}>
+        <button
+          role="tab"
+          aria-selected="true"
+          style={{
+            padding: '0.6rem 1.1rem', marginBottom: '-2px', border: 'none', background: 'transparent',
+            borderBottom: '3px solid var(--coral)', color: 'var(--forest)', fontWeight: 700,
+            fontFamily: 'var(--font-heading)', fontSize: '1.15rem', cursor: 'default',
+          }}
+        >
+          Connections in the text
+        </button>
+      </div>
+
       <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
         {MODES.map(m => (
           <button

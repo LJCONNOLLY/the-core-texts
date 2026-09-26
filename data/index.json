@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:20:33.759725",
+  "generated_at": "2026-09-26T00:58:32.634137",
   "book_count": 30,
   "books": [
     {
@@ -2592,6 +2592,11 @@
             "excerpt": "I would recommend this text as a good introduction to the concept of design \nthinking, as well as ways to integrate it into classrooms."
           },
           {
+            "locator": 15,
+            "locator_type": "page",
+            "excerpt": "Chapter 1 introduces and defines design thinking, and traces its relationship \nto technical communication through the design paradigm in writing studies."
+          },
+          {
             "locator": 23,
             "locator_type": "page",
             "excerpt": "Succinctly, Kostelnick stated, \nAs a medium for creativity and communication, design is the natural coun­"
@@ -2600,6 +2605,11 @@
             "locator": 24,
             "locator_type": "page",
             "excerpt": "However, the \nconcept of design as a solution for writing problems did not receive the uptake \nthat rhetoric scholars in the 80s and 90s had hoped."
+          },
+          {
+            "locator": 30,
+            "locator_type": "page",
+            "excerpt": "Deloitte Australia, defined design thinking as \na term widely used outside of the design industry to describe the innovative \nand human-centered approach used by designers in their practice."
           },
           {
             "locator": 32,
@@ -2624,7 +2634,7 @@
           {
             "locator": 82,
             "locator_type": "page",
-            "excerpt": "However, since technology and its design are never neutral nor objective, \ntechnical communicators have argued that user advocacy should go beyond the \nconsiderations for efciency and satisfaction."
+            "excerpt": "However, since technology and its design are never neutral nor objective, \ntechnical communicators have argued that user advocacy should go beyond the \nconsiderations for efficiency and satisfaction."
           },
           {
             "locator": 84,
@@ -2642,9 +2652,14 @@
             "excerpt": "“Design is to reduce \nfrustrations,” she put it simply."
           },
           {
+            "locator": 91,
+            "locator_type": "page",
+            "excerpt": "The way IDEO’s Tim Brown and Jocelyn \nWyatt defined design thinking is of interest here: “Design thinking—inherently \noptimistic, constructive, and experiential—addresses the needs of the people who \nwill consume a product or service and the infrastructure that enables it” (2010, \nn."
+          },
+          {
             "locator": 162,
             "locator_type": "page",
-            "excerpt": "Purdy followed Richard Marback’s (2009) call to turn to design in com­\nposition studies and explored why design is invoked in fve writing studies \nand computers and composition journals (from their inception to 2011)."
+            "excerpt": "Purdy followed Richard Marback’s (2009) call to turn to design in com­\nposition studies and explored why design is invoked in five writing studies \nand computers and composition journals (from their inception to 2011)."
           },
           {
             "locator": 162,
@@ -2654,12 +2669,12 @@
           {
             "locator": 162,
             "locator_type": "page",
-            "excerpt": "Purdy’s study yielded fve categories of design use: 1) design as a synonym \nfor plan/structure, 2) design as a conceptualization of multimodal com­\nposing, 3) design as a recognition of digital/multimedia compositions, 4) \ndesign as attending the material conditions of composing, and 5) design as \na discussion of the discipline of design studies."
+            "excerpt": "Purdy’s study yielded five categories of design use: 1) design as a synonym \nfor plan/structure, 2) design as a conceptualization of multimodal com­\nposing, 3) design as a recognition of digital/multimedia compositions, 4) \ndesign as attending the material conditions of composing, and 5) design as \na discussion of the discipline of design studies."
           },
           {
             "locator": 162,
             "locator_type": "page",
-            "excerpt": "Marback agreed that the concept of design appeals to composition studies \nbut it has yet to be developed enough to beneft composition pedagogy."
+            "excerpt": "Marback agreed that the concept of design appeals to composition studies \nbut it has yet to be developed enough to benefit composition pedagogy."
           }
         ],
         "rhetoric": [
@@ -6714,8 +6729,8 @@
         "Kristen Moore",
         "Natasha Jones"
       ],
-      "year": null,
-      "publisher": "ATTW book series in technical and",
+      "year": 2019,
+      "publisher": "Routledge",
       "isbn": "9780367188467",
       "format": "pdf",
       "source_format": "pdf",
@@ -6958,12 +6973,12 @@
     {
       "id": "risam-new-digital-worlds-postcolonial-digital",
       "filename": "risam-new-digital-worlds-postcolonial-digital.pdf",
-      "title": "New Digital Worlds: Postcolonial Digital Humanities in",
+      "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
       "author": [
         "Roopika Risam"
       ],
-      "year": null,
-      "publisher": "Northwestern",
+      "year": 2019,
+      "publisher": "Northwestern University Press",
       "isbn": "9780810138858",
       "format": "pdf",
       "source_format": "pdf",
