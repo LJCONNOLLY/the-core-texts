@@ -1,0 +1,2184 @@
+[
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 48,
+  "input": "1b1d09699e45",
+  "candidates": [
+   {
+    "loc": 53,
+    "page": "PDF p. 53",
+    "kind": "p",
+    "before": "Once the word is technologized, there is no effective way to criticize what technology has done with it without the aid of the highest technology available.",
+    "sentence": "Moreover, the new technology is not merely used to convey the critique: in fact, it brought the critique into existence.",
+    "after": "Plato's philosophically analytic thought, as has been seen (Havelock 1963), including his critique of writing, was possible only because of the effects that writing was beginning to have on mental processes."
+   },
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "",
+    "sentence": "Plato was thinking of writing as an external, alien technology, as many people today think of the computer.",
+    "after": "Because we have by today so deeply interiorized writing, made it so much a part of ourselves, as Plato's age had not yet made it fully a part of itself (Havelock 1963), we find it difficult to consider writing to be a technology as we commonly assume printing and the computer to be."
+   },
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "Plato was thinking of writing as an external, alien technology, as many people today think of the computer.",
+    "sentence": "Because we have by today so deeply interiorized writing, made it so much a part of ourselves, as Plato's age had not yet made it fully a part of itself (Havelock 1963), we find it difficult to consider writing to be a technology as we commonly assume printing and the computer to be.",
+    "after": "Yet writing (and especially alphabetic writing) is a technology, calling for the use of tools and other equipment: styli or brushes or pens, carefully prepared surfaces such as paper, animal skins, strips of wood, as well as inks or paints, and much more."
+   },
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "",
+    "sentence": "Technologies are artificial, but—paradox again—artificiality is natural to human beings.",
+    "after": "Technology, properly interiorized, does not degrade human life but on the contrary enhances it."
+   },
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "Technologies are artificial, but—paradox again—artificiality is natural to human beings.",
+    "sentence": "Technology, properly interiorized, does not degrade human life but on the contrary enhances it.",
+    "after": "The modern orchestra, for example, is the result of high technology."
+   },
+   {
+    "loc": 96,
+    "page": "PDF p. 96",
+    "kind": "p",
+    "before": "The present-day phenomenological sense of existence is richer in its conscious and articulate reflection than anything that preceded it.",
+    "sentence": "But it is salutary to recognize that this sense depends on the technologies of writing and print, deeply interiorized, made a part of our own psychic resources.",
+    "after": "The tremendous store of historical, psychological and other knowledge which can go into sophisticated narrative and characterization today could be accumulated only through the use of writing and print (and now electronics)."
+   },
+   {
+    "loc": 106,
+    "page": "PDF p. 106",
+    "kind": "p",
+    "before": "These kinds of question can be answered only by detailed comparative studies, which would certainly throw light on the nature of philosophical problems in various ages.",
+    "sentence": "In sum, if philosophy is reflective about its own nature, what is it to make of the fact that philosophical thinking cannot be carried on by the unaided human mind but only by the human mind that has familiarized itself with and deeply interiorized the technology of writing?",
+    "after": "What does this precisely intellectual need for technology have to say about the relationship of consciousness to the external universe?"
+   },
+   {
+    "loc": 106,
+    "page": "PDF p. 106",
+    "kind": "p",
+    "before": "In sum, if philosophy is reflective about its own nature, what is it to make of the fact that philosophical thinking cannot be carried on by the unaided human mind but only by the human mind that has familiarized itself with and deeply interiorized the technology of writing?",
+    "sentence": "What does this precisely intellectual need for technology have to say about the relationship of consciousness to the external universe?",
+    "after": "And what does it have to say about Marxist theories concentrating on technologies as means of production and alienation?"
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 157,
+  "input": "280d1f23e41f",
+  "candidates": [
+   {
+    "loc": 57,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "",
+    "sentence": "Richard Dawkins, Sociobiologist, 1976 art of remaking ourselves as socialist-feminist human beings is remaking the sciences which construct the category of ‘nature’ and empower its definitions in technology.(Science is about knowledge and power.",
+    "after": "In our time, natural science defines the human being’s place in nature and history and provides the instruments of domination of the body and the community."
+   },
+   {
+    "loc": 177,
+    "page": "p. 151",
+    "kind": "p",
+    "before": "It is oppositional, utopian, and completely without innocence.",
+    "sentence": "No longer structured by the polarity of public and private, the cyborg defines a technological polis based partly on a revolution of social relations in the oitkos, the household.",
+    "after": "Nature and culture are reworked; the one can no longer be the resource for appropriation or incorporation by the other."
+   },
+   {
+    "loc": 190,
+    "page": "p. 164",
+    "kind": "p",
+    "before": "",
+    "sentence": "In communications sciences, the translation of the world into a problem in coding can be illustrated by looking at cybernetic (feedback-controlled) systems theories applied to telephone technology, computer design, weapons deployment, or data base construction and maintenance.",
+    "after": "In each case, solution to the key questions rests on a theory of language and control; the key operation is determining the rates, directions, and probabilities of flow of a quantity called information."
+   },
+   {
+    "loc": 190,
+    "page": "p. 164",
+    "kind": "p",
+    "before": "Any system breakdown is a function of stress.",
+    "sentence": "The fundamentals of this technology can be condensed into the metaphor C%I, command-control-communication-intelligence, the military’s symbol for its operations theory.",
+    "after": "In modern biologies, the translation of the world into a problem in coding can be illustrated by molecular genetics, ecology, sociobiological evolutionary theory, and immunobiology."
+   },
+   {
+    "loc": 191,
+    "page": "p. 165",
+    "kind": "p",
+    "before": "I have used Rachel Grossman’s (1980) image of women in the integrated circuit to name the situation of women in a world so intimately restructured through the social relations of science and technology.'> I used the odd circumlocution, ‘the social relations of science and technology’, to indicate that we are not dealing with a technological determinism, but with a historical system depending upon structured relations among people.",
+    "sentence": "But the phrase should also indicate that science and technology provide fresh sources of power, that we need fresh sources of analysis and political action (Latour, 1984).",
+    "after": "Some of the rearrangements of race, sex, and class rooted in high-tech-facilitated social relations can make socialist-feminism more relevant to effective progressive politics."
+   },
+   {
+    "loc": 192,
+    "page": "p. 166",
+    "kind": "p",
+    "before": "",
+    "sentence": "The homework economy as a world capitalist organizational structure is made possible by (not caused by) the new technologies.",
+    "after": "The success of the attack on relatively privileged, mostly white, men’s unionized jobs is tied to '' the power of the new communications technologies to integrate and control labour despite extensive dispersion and decentralization."
+   },
+   {
+    "loc": 195,
+    "page": "p. 169",
+    "kind": "p",
+    "before": "",
+    "sentence": "Another critical aspect of the social relations of the new technologies is the reformulation of expectations, culture, work, and reproduction for the large scientific and technical work-force.",
+    "after": "A major social and political danger is the formation of a strongly bimodal social structure, with the masses of women and men of all ethnic groups, but especially people of colour, confined to a homework economy, illiteracy of several varieties, and general redundancy and impotence, controlled by high-tech repressive apparatuses ranging from entertainment to surveillance and disappearance."
+   },
+   {
+    "loc": 209,
+    "page": "p. 183",
+    "kind": "p",
+    "before": "At least, I confess to these paranoid fantasies and academic resentments lurking underneath some convoluted reflections in print under my name in the feminist literature in the history and philosophy of science.",
+    "sentence": "We, the feminists in the debates about science and technology, are the Reagan era’s ‘special interest groups’ in the rarefied realm of epistemology, where traditionally what can count as knowledge is policed by philosophers codifying cognitive canon law.",
+    "after": "Of course, a special interest group is, by Reaganoid definition, any collective historical subject which dares to resist the stripped-down atomism of Star Wars, hypermarket, postmodern, media-simulated citizenship."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 155,
+  "input": "cd5c52a1cda4",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Literary texts are not, of course, merely passive conduits.",
+    "sentence": "They actively shape what the technologies mean and what the scientific theories signify in cultural contexts.",
+    "after": "They also embody assumptions similar to those that permeated the scientific theories at critical points."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "From this affinity emerge complex feedback loops between contemporary literature, the technologies that produce it, and the embodied readers who produce and are produced by books and technologies.",
+    "sentence": "Changes in bodies as they are represented within literary texts have deep connections with changes in textual bodies as they are encoded within information media, and both types of changes stand in complex relation to changes in the construction of human bodies as they interface with information technologies.",
+    "after": "The term I use to designate this network of relations is informatics."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "The term I use to designate this network of relations is informatics.",
+    "sentence": "Following Donna Haraway, I take informatics to mean the technologies of information as well as the biological, social, linguistic, and cultural changes that initiate, accompany, and complicate their development.",
+    "after": ""
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "",
+    "sentence": "The compounding of signal with materiality suggests that new technologies will instantiate new models of signification.",
+    "after": "Information technologies do more than change modes of text production, storage, and dissemination."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "The compounding of signal with materiality suggests that new technologies will instantiate new models of signification.",
+    "sentence": "Information technologies do more than change modes of text production, storage, and dissemination.",
+    "after": "They fundamentally alter the relation of signified to signifier."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "As Donna Haraway has pointed out, cyborgs are simultaneously entities and metaphors, living beings and narrative constructions.",
+    "sentence": "The conjunction of technology and discourse is crucial.",
+    "after": "Were the cyborg only a product of discourse, it could perhaps be relegated to science fiction, of interest to SF aficionados but not of vital concern to the culture."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "Were the cyborg only a product of discourse, it could perhaps be relegated to science fiction, of interest to SF aficionados but not of vital concern to the culture.",
+    "sentence": "Were it only a technological practice, it could be confined to such technical fields as bionics, medical prostheses, and virtual reality.",
+    "after": "Manifesting itself as both technological object and discursive formation, it partakes of the power of the imagination as well as of the actuality of technology."
+   },
+   {
+    "loc": 132,
+    "page": "PDF p. 132",
+    "kind": "p",
+    "before": "If the production of subvocalized sound is essential to reading literary texts, what happens to the stories we tell ourselves if this sound is no longer situated in the body’s subvocalizations but is in the machine?",
+    "sentence": "Often histories of technology and literature treat technology as a theme or subject to be represented within the world of the text.",
+    "after": "I want to take a different approach, focusing on the technical qualities of audiotape that changed the relation of voice and body, a change Burroughs associates in Ticket with the production of a new kind of subjectivity."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 102,
+  "input": "605f55b4e5ba",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "But more recently, many writers addressing these issues argued that the visual is central to the cultural construction of social life in contemporary Western societies.",
+    "sentence": "We are, of course, surrounded by different sorts of visual technologies — photography, film, video, digital graphics, television, acrylics, for example — and the images they show us - TV programmes, advertisements, snapshots, public sculpture, movies, surveillance video footage, newspaper pictures, paintings.",
+    "after": "All these different sorts of technologies and images offer views of the world; they render the world in visual terms."
+   },
+   {
+    "loc": 32,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "Another aspect of this photograph, and of photographs more generally, is also often attributed to its technology: its apparent truthfulness.",
+    "after": "Here, though, it must be noted that critical opinion is divided."
+   },
+   {
+    "loc": 32,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "Here, though, it must be noted that critical opinion is divided.",
+    "sentence": "Some critics (for example Roland Barthes, whose arguments are discussed in section 3.2 of Chapter 5, and Christopher Pinney, discussed in Chapter 10) suggest that photographic technology does indeed capture what was really there when the shutter snapped.",
+    "after": "Others find the notion that ‘the camera never lies’ harder to accept."
+   },
+   {
+    "loc": 57,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "",
+    "sentence": "But attention is usually focused mostly on the technological modality of the making of an image.",
+    "after": "As the discussion of technologies in the previous chapter noted, it can be important to know with what material and technique an image is made because that can affect the impact an image has."
+   },
+   {
+    "loc": 57,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "But attention is usually focused mostly on the technological modality of the making of an image.",
+    "sentence": "As the discussion of technologies in the previous chapter noted, it can be important to know with what material and technique an image is made because that can affect the impact an image has.",
+    "after": "Joshua Taylor (1957) provides some very useful discussions of the various technologies that have been used to produce pictorial images."
+   },
+   {
+    "loc": 84,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "The West sees itself as technologically advanced but therefore also alienated from nature; thus non-Westerners are represented as technologically less advanced and as closer to nature.",
+    "sentence": "Non-Westerners are thus often pictured as using little or so-called primitive technologies, for example, being more spiritual, more in tune with the environment and their bodies, wearing fewer clothes.",
+    "after": "These analyses inform a number of Lutz and Collins’s codes: 12 (ritual focus), 15 (urban versus rural setting), 19 and 20 (male and female nudity) and 21 (technological type present)."
+   },
+   {
+    "loc": 84,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "Non-Westerners are thus often pictured as using little or so-called primitive technologies, for example, being more spiritual, more in tune with the environment and their bodies, wearing fewer clothes.",
+    "sentence": "These analyses inform a number of Lutz and Collins’s codes: 12 (ritual focus), 15 (urban versus rural setting), 19 and 20 (male and female nudity) and 21 (technological type present).",
+    "after": "Given the way their codes flow from a wider set of ideas about power and representation, it is clear that many of their codes are likely to be enlightening, and so it proves."
+   },
+   {
+    "loc": 200,
+    "page": "p. 183",
+    "kind": "p",
+    "before": "",
+    "sentence": "Section 1 of this chapter defined institutional technologies as the practical techniques used to articulate particular forms of power/knowledge: ‘the techniques of effecting meanings’ (Haraway 1989: 35).",
+    "after": "Foucault described them as diffuse and disparate sets of bits and pieces, and this section will enumerate some of these bits and pieces as they work in museums and galleries."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 43,
+  "input": "db4cf64631ea",
+  "candidates": [
+   {
+    "loc": 9,
+    "page": "PDF p. 9",
+    "kind": "p",
+    "before": "They had no idea that its extension could render it almost coextensive with the rest of social intercourse.",
+    "sentence": "What they meant by ‘society’ has undergone a transformation no less radical, which is thanks in large part to the very expansion of the products of science and technology.",
+    "after": "It is no longer clear whether there exists relations that are specific enough to be called ‘social’ and that could be grouped together in making up a special domain that could function as ‘a society’."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Most of the relevant bibliography can be found on the excellent website ‘the Actor Network Resource’ maintained by John Law.",
+    "sentence": "The origin of this approach can be found in the need for a new social theory adjusted to science and technology studies (Callon and Latour 1981).",
+    "after": "But it started in earnest with three documents (Latour 1988b; Callon 1986; Law 1986b)."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "It was at this point that nonhumans—microbes, scallops, rocks, and ships—presented themselves to social theory in a new way.",
+    "sentence": "As I will explain on p. 87 when reviewing the fourth uncertainty, it was the first time for me that the objects of science and technology had become, so to speak, social-compatible.",
+    "after": "The philosophical foundation of this argument was presented in the second part of (Latour 1988a) although in a form that made it difficult to grasp."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "The same would be true of the work done in distributed cognition (Hutchins 1995).",
+    "sentence": "This is also what has made much of the history of science and technology important for our program, and why sociology of art has been a continuous companion, especially through the influence of Hennion (1993).",
+    "after": ""
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "If the social remains stable and is used to explain a state of affairs, it’s not ANT.",
+    "sentence": "For instance, no matter how enlightening it has been for all of us, the Social Shaping of Technology (Bijker 1995) would not be part of the corpus since the social is kept stable all along and accounts for the shape of technological change.",
+    "after": "But McNeill (1976), although he is in no way an ANT author, would qualify for inclusion, since what is to be associated is being modified by the inclusion of rats, viruses, and microbes into the definition of what is to be ‘collected’ in an empire."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "Tarde always complained that Durkheim had abandoned the task of explaining society by confusing cause and effect, replacing the understanding of the social link with a political project aimed at social engineering.",
+    "sentence": "Against his younger challenger, he vigorously maintained that the social was not a special domain of reality but a principle of connections; that there was no reason to separate ‘the social’ from other associations like biological organisms or even atoms; that no break with philosophy, and especially metaphysics, was necessary in order to become a social science; that sociology was in effect a kind of inter-psychology; that the study of innovation, and especially science and technology, was the growth area of social theory; and that economics had to be remade from top to bottom instead of being used as a vague metaphor to describe the calculation of interests.",
+    "after": "Above all, he considered the social as a circulating fluid that should be followed by new methods and not a specific type of organism."
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "The field of science studies is often presented as the extension of the same normal sociology of the social to a new object: scientific activities.",
+    "sentence": "After having studied religion, class struggles, politics, law, popular cultures, drug addiction, urbanism, corporate culture, etc., social scientists, so the story goes, had no reason to stop at what is the hallmark of contemporary societies: science and technology.",
+    "after": "According to this view, laboratories and research institutes were no more than the next items in a list of topics to be tackled by using the normal ingredients of social methodology that had been used elsewhere ‘with so much success’."
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "According to this view, laboratories and research institutes were no more than the next items in a list of topics to be tackled by using the normal ingredients of social methodology that had been used elsewhere ‘with so much success’.",
+    "sentence": "This was the almost unanimous opinion—including that of our colleagues with whom, years ago, we started our enquiries and who are called ‘sociologists of scientific knowledge’ (SSK) or more vaguely ‘science and technology students’ (S&TS).",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 165,
+  "input": "4cf059cefabc",
+  "candidates": [
+   {
+    "loc": 26,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "For there must be one.",
+    "sentence": "Parks deﬁnes visual capitalism as “a system of social differentiation based on users’/viewers’ relative access to technologies of global media.”",
+    "after": "This is welcome language in that it stresses ongoing processes of differentiation in access, rather than assuming that access to technologies like the Internet are binary; either you “have” or “have not.”"
+   },
+   {
+    "loc": 26,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "Parks deﬁnes visual capitalism as “a system of social differentiation based on users’/viewers’ relative access to technologies of global media.”",
+    "sentence": "This is welcome language in that it stresses ongoing processes of differentiation in access, rather than assuming that access to technologies like the Internet are binary; either you “have” or “have not.”",
+    "after": "The problematic that I wish to delineate here has to do with parsing the multiple gradations and degrees of access to digital media, and the ways that these shadings are contingent on variables such as class position, race, nationality, and gender."
+   },
+   {
+    "loc": 106,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "The proper relationship to the interface is codiﬁed quite clearly: competency or mastery is deﬁned by the level of immediacy the user experiences in relation to it.",
+    "sentence": "Eugene Thacker deﬁnes immediacy as follows: it “involves the use of new media to the extent that the media themselves—the ‘window’— disappear, bringing forth a kind of direct experience where technology is transparent and unnoticed by the subject.”",
+    "after": "This is an eloquent formulation of entitlement regarding the new media interface."
+   },
+   {
+    "loc": 107,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "Internet users all engage with interfaces over which they have more or less control, experience more or less comfort or alienation, more or less immediacy, more or less ability to create or produce, more or less investment in the interface’s content and forms of representation.",
+    "sentence": "The Matrix trilogy and the 2002 ﬁlm Minority Report racialize digital information access and production by depicting scenes of white and male users experiencing “direct” or immediate relations with computer interfaces, while users of color are relegated to the background, depicted with truncated and relatively distant, highly technologically mediated relationships to their hardware and software.",
+    "after": "These users are visible reminders of the necessity of human objects to support and underwrite others’ sublime experience of “transparent” and direct interactions with digital technology; they supply the marginal blackness in the Matrix ﬁlms and Minority Report against which whiteness stands in sharp relief."
+   },
+   {
+    "loc": 107,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "Several theorists have noted that the move toward informationalism and its political economy, networked consciousness, and new cultural categories for classifying sorts of people and things has resulted in a reconﬁguration of concepts of race.",
+    "sentence": "Patricia Williams writes: “It is with caution that we must notice that with the advent of a variety of new technologies, we presumed free agents are not less but increasingly deﬁned as body-centered.",
+    "after": "We live more, not less, in relation to our body parts, the dispossession or employment of ourselves constrained by a complicated pattern of self-alienation.”"
+   },
+   {
+    "loc": 108,
+    "page": "p. 97",
+    "kind": "p",
+    "before": "It is only in the abstract world of cyberspace that this ideal visual racial synthesis can occur; in our world, we instead ﬁght bitter battles over stem cell use, transgenics, and racial proﬁling on the level of the gene.",
+    "sentence": "Haraway concurs with Williams that information and communications technologies are both a product and a symptom of an ideology that centers the body in a new way, a way that legitimates racial categories as real and useful under the sign of science.",
+    "after": "In her “20th Century Biological U.S. Kinship Categories” chart, Haraway writes that from the 1940s to the 1970s, “race is an illusory object constructed by bad science,” but from 1975 to the 1990s, “race reemerges in medical discourse on organ transplants and drug testing.”"
+   },
+   {
+    "loc": 132,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "While identity theft and identity hacking ﬁgure largely, this is not the crime that the ﬁlm foresees— in this ﬁlm, the racialized state is the thief, stealing the freedom and agency of large numbers of members of its underclass.",
+    "sentence": "Though the conceit of the ﬁlm is that crime can be predicted through the use of mutants hooked up to powerful computers used by skilled interface operators, computer proﬁling is itself a “technology of observation before the fact,” and like the Precogs, it can only see crime, not the future generally.",
+    "after": "Dataveillant technologies that proﬁle users’ engagements with consumer databases in effect predict what we will buy, and in the case of the preprinted coupons, turn that prediction into fact (users are much more likely to use coupons that they already own)."
+   },
+   {
+    "loc": 132,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "Though the conceit of the ﬁlm is that crime can be predicted through the use of mutants hooked up to powerful computers used by skilled interface operators, computer proﬁling is itself a “technology of observation before the fact,” and like the Precogs, it can only see crime, not the future generally.",
+    "sentence": "Dataveillant technologies that proﬁle users’ engagements with consumer databases in effect predict what we will buy, and in the case of the preprinted coupons, turn that prediction into fact (users are much more likely to use coupons that they already own).",
+    "after": "Computing proﬁling or “surveillance in advance of surveillance” maps well onto the operations of our contemporary informational state, one that asserts its color blindness but continues to racially proﬁle citizens and noncitizens, often with fatal results."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 51,
+  "input": "630fec23fd00",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "",
+    "sentence": "To understand new media’s wonderful creepiness, we need to disabuse ourselves of several assumptions, most importantly that there exists a “natural” relationship between technology and (the lack of) freedom.",
+    "after": "Remarkably, the image of the Internet has shifted radically from the mid to late 1990s, when it was seen as “cyberspace,” an anonymous and empowering space of freedom in which no one knew if you were a dog, to the mid to late 2010s, when the Internet was commonly conceived of as a space of total surveillance or as a privatized space of social media."
+   },
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "Yes and no. Internet protocol is still basically the same, even if routing, addressing, and storage protocols have changed; but there is no simple relationship between these technical changes and the different imaginaries of the Internet.",
+    "sentence": "There is a gap between our perception of communications technologies and their habitual operations.",
+    "after": "Wireless networking cards, for example, download all the packets they can and then delete what is not directly"
+   },
+   {
+    "loc": 33,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "The first book responded to the question: How did a control technology become bought and sold as a technology of freedom?",
+    "sentence": "To answer this question, it began by tracing how the Internet, a technology that had existed for decades, became “new media” when it became fictional: when it was portrayed as embodying cyberspace, the long lost Athenian public sphere, and all sorts of other theories and dreams.",
+    "after": "This remarkable transformation of a control protocol into a medium of freedom entailed another change: the reduction of freedom to control."
+   },
+   {
+    "loc": 33,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "",
+    "sentence": "The first book responded to the question: How did a control technology become bought and sold as a technology of freedom?",
+    "after": "To answer this question, it began by tracing how the Internet, a technology that had existed for decades, became “new media” when it became fictional: when it was portrayed as embodying cyberspace, the long lost Athenian public sphere, and all sorts of other theories and dreams."
+   },
+   {
+    "loc": 41,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "They figure what was once considered unimaginable: global capitalism, environmental risks, nebulous affects, and “unresponsive” masses.",
+    "sentence": "Networks also encompass and interconnect the technological and the social.",
+    "after": "Across all diverse understandings of them—from the scholarly to the popular— networks are social technologies."
+   },
+   {
+    "loc": 41,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "Networks also encompass and interconnect the technological and the social.",
+    "sentence": "Across all diverse understandings of them—from the scholarly to the popular— networks are social technologies.",
+    "after": "They enable communication between people and buttress social apparatuses, allegedly making the social a technological product (hence the term “twitter revolutions”)."
+   },
+   {
+    "loc": 57,
+    "page": "p. 42",
+    "kind": "p",
+    "before": "Drawing from geographer Kevin Lynch’s argument that individual empowerment is linked to an individual’s ability to cognitively map his/her surroundings and from philosopher Louis Althusser’s theorization of ideology as “the imaginary relationship of individuals to their real conditions of existence,” Jameson posited cognitive mapping as a not yet imaginable form of political art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions.”",
+    "sentence": "Although cognitive mapping did not yet exist, Jameson viewed technology as having a special relation to it.",
+    "after": "Specifically, he suggested, “the technology of contemporary society … seems to offer some privileged representational shorthand for grasping a network of power and control even more difficult for our minds and imaginations to grasp: the whole new decentered global network of the third stage of capital itself.”"
+   },
+   {
+    "loc": 89,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "As Mary Ann Doane has further developed in her canonical “Information, Crisis, Catastrophe,” this feeling of direct connection is greatly enhanced in moments of catastrophe: during them, we stop simply glancing at the steady stream of information on the television set and sit transfixed before it.",
+    "sentence": "Distinguishing between television’s three different modes of framing the event—information (the steady stream of regular news), crisis (a condensation of time that demands a decision: for this reason, it is usually intertwined with political events), and catastrophe (immediate “subjectless” events involving death and the failure of technology)—Doane argues that commercial television privileges catastrophe because catastrophe “corroborates television’s access to the momentary, the discontinuous, the real.”",
+    "after": "Catastrophe, that is, underscores television’s greatest technological power: “its ability to be there— both on the scene and in your living room. … [T]he death associated with catastrophe ensures that television is felt as an immediate collision with the real in all its intractability—bodies in crisis, technology gone awry.”"
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 355,
+  "input": "5c39f71e7769",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "",
+    "sentence": "A focus on an “infrastructural communication technology” is meant to draw attention to literacies connected to power and to differentiate them from other useful skills.",
+    "after": "Susan Leigh Star describes “infrastructure” as a comprehensive, societally embedded, structural standard that is largely transparent to insiders."
+   },
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "She writes, “We see and name things differently under different infrastructural regimes.",
+    "sentence": "Technological developments move from either independent or dependent variables, to processes and relations braided in with thought and work.”",
+    "after": "When infrastructure shifts, the technologies and practices built on it shift as well."
+   },
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "In each society, literacy looks different, and most societies have some concept of literacy.",
+    "sentence": "Moreover, literacy practices depend on technologies that are constantly changing and evolving.",
+    "after": "Desktop image-editing software puts new emphasis on visual design literacy, online social media platforms generate combined textual/social/visual literacies, and digital audio-mixing programs give new life and possibilities to sound literacies."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "NLS scholars understood writing as a technology whose particular affordances depended on—yet were not determined by—its material manifestations.",
+    "sentence": "For example, Street posits literacy as a complex social and technological phenomenon: “Literacy, of course, is more than just the ‘technology’ in which it is manifest.",
+    "after": "No one material feature serves to define literacy itself."
+   },
+   {
+    "loc": 46,
+    "page": "PDF p. 46",
+    "kind": "p",
+    "before": "As it became a national resource to be mined from citizens, and as the military made efforts to increase the literate skills of soldiers, what counted as literacy also changed.",
+    "sentence": "Brandt argues that at this time, “technology, not morality, began to organize the meanings of literacy.”",
+    "after": "As literacy became important for national economic and military strategies, especially during World War II, it was increasingly tied to the rhetoric of productivity, and productivity was tied to technology."
+   },
+   {
+    "loc": 73,
+    "page": "PDF p. 73",
+    "kind": "p",
+    "before": "What Makes Something an “Intelligence”?",
+    "sentence": "In “The Question Concerning Technology,” originally given as a lecture in 1949, Heidegger says that we tend to think of technology as a tool for greater efficiency, a better way to get things done.",
+    "after": "But this is wrong, he argues."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "This sociomaterial perspective on literacy resonates with what social history of technology scholar Thomas Misa calls a “softer” approach to the influence of technologies on society.",
+    "sentence": "Rather than the “hard” determinism of McLuhan and rather than “consequences” of technologies, this “softer” approach uses the concept of technological affordances.",
+    "after": "It is represented by technology theorists such as Ruth Schwartz Cowan, who claim that technologies have certain politics and uses embedded in their design—what Innis might have called “biases.”"
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "It is represented by technology theorists such as Ruth Schwartz Cowan, who claim that technologies have certain politics and uses embedded in their design—what Innis might have called “biases.”",
+    "sentence": "Misa writes, “Accounts such as these are not content merely to explain the ‘social’ by the ‘technical’ (technology as a social force), or the ‘technical’ by the ‘social’ (technology as a social product).",
+    "after": "These accounts shift to an interpretive framework presenting technology at once as socially constructed and society-shaping."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 138,
+  "input": "0fe63582db87",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "",
+    "sentence": "This book is about the power of algorithms in the age of neoliberalism and the ways those digital decisions reinforce oppressive social relationships and enact new modes of racial profiling, which I have termed technological redlining.",
+    "after": "By making visible the ways that capital, race, and gender are factors in creating unequal conditions, I am bringing light to various forms of technological redlining that are on the rise."
+   },
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "This book is about the power of algorithms in the age of neoliberalism and the ways those digital decisions reinforce oppressive social relationships and enact new modes of racial profiling, which I have termed technological redlining.",
+    "sentence": "By making visible the ways that capital, race, and gender are factors in creating unequal conditions, I am bringing light to various forms of technological redlining that are on the rise.",
+    "after": "The near-ubiquitous use of algorithmically driven software, both visible and invisible to everyday people, demands a closer inspection of what values are prioritized in such automated decision-making systems."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "Technology is changing rapidly, as are technology company configurations via mergers, acquisitions, and dissolutions.",
+    "sentence": "Scholars working in the fields of information, communication, and technology struggle to write about specific moments in time, in an effort to crystallize a process or a phenomenon that may shift or morph into something else soon thereafter.",
+    "after": "As a scholar of information and power, I am most interested in communicating a series of processes that have happened, which provide evidence of a constellation of concerns that the public might take up as meaningful and important, particularly as technology impacts social relations and creates unintended consequences that deserve greater attention."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "Scholars working in the fields of information, communication, and technology struggle to write about specific moments in time, in an effort to crystallize a process or a phenomenon that may shift or morph into something else soon thereafter.",
+    "sentence": "As a scholar of information and power, I am most interested in communicating a series of processes that have happened, which provide evidence of a constellation of concerns that the public might take up as meaningful and important, particularly as technology impacts social relations and creates unintended consequences that deserve greater attention.",
+    "after": "I have been writing this book for several years, and over time, Google’s algorithms have admittedly changed, such that a search for “black girls” does not yield nearly as many pornographic results now as it did in 2011."
+   },
+   {
+    "loc": 27,
+    "page": "PDF p. 27",
+    "kind": "p",
+    "before": "",
+    "sentence": "The commodified online status of Black women’s and girls’ bodies deserves scholarly attention because, in this case, their bodies are defined by a technological system that does not take into account the broader social, political, and historical significance of racist and sexist representations.",
+    "after": "The very presence of Black women and girls in search results is misunderstood and clouded by dominant narratives of the authenticity and lack of bias of search engines."
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "I can say that when I teach engineering students at UCLA about the histories of racial stereotyping in the U.S. and how these are encoded in computer programming projects, my students leave the class stunned that no one has ever spoken of these things in their courses.",
+    "sentence": "Many are grateful to at least have had ten weeks of discussion about the politics of technology design, which is not nearly enough to prepare them for a lifelong career in information technology.",
+    "after": "We need people designing technologies for society to have training and an education on the histories of marginalized people, at a minimum, and we need them working alongside people with rigorous training and preparation from the social sciences and humanities."
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "",
+    "sentence": "One cannot know about the history of media stereotyping or the nuances of structural oppression in any formal, scholarly way through the traditional engineering curriculum of the large research universities from which technology companies hire across the United States.",
+    "after": "Ethics courses are rare, and the possibility of formally learning about the history of Black women in relation to a series of stereotypes such as the Jezebel, Sapphire, and Mammy does not exist in mainstream engineering programs."
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "Inquiries into racism and sexism on the web are not new.",
+    "sentence": "In many discourses of technology, the machine is turned to and positioned as a mere tool, rather than being reflective of human values.",
+    "after": "Design is purposeful in that it forges both pathways and boundaries in its instrumental and cultural use."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 52,
+  "input": "0831e06ebe4b",
+  "candidates": [
+   {
+    "loc": 7,
+    "page": "pp. 6–8",
+    "kind": "p",
+    "before": "LePage’s use of EBT data to track and stigmatize poor and working-class people’s decision-making didn’t come as much of a surprise to me.",
+    "sentence": "By 2014, I had been thinking and writing about technology and poverty for 20 years.",
+    "after": "I taught in community technology centers, organized workshops on digital justice for grassroots organizers, led participatory design projects with women in low-income housing, and interviewed hundreds of welfare and child protective services clients and caseworkers about their experiences with government technology."
+   },
+   {
+    "loc": 7,
+    "page": "pp. 6–8",
+    "kind": "p",
+    "before": "By 2014, I had been thinking and writing about technology and poverty for 20 years.",
+    "sentence": "I taught in community technology centers, organized workshops on digital justice for grassroots organizers, led participatory design projects with women in low-income housing, and interviewed hundreds of welfare and child protective services clients and caseworkers about their experiences with government technology.",
+    "after": ""
+   },
+   {
+    "loc": 8,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "For the first ten years of this work, I was cautiously optimistic about the impact of new information technologies on economic justice and political vitality in the United States.",
+    "sentence": "In my research and organizing, I found that poor and working-class women in my hometown of Troy, New York, were not “technology poor,” as other scholars and policy-makers assumed.",
+    "after": "Data-based systems were ubiquitous in their lives, especially in the low-wage workplace, the criminal justice system, and the public assistance system."
+   },
+   {
+    "loc": 8,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "",
+    "sentence": "For the first ten years of this work, I was cautiously optimistic about the impact of new information technologies on economic justice and political vitality in the United States.",
+    "after": "In my research and organizing, I found that poor and working-class women in my hometown of Troy, New York, were not “technology poor,” as other scholars and policy-makers assumed."
+   },
+   {
+    "loc": 8,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "Since the Great Recession, my concern about the impacts of high-tech tools on poor and working-class communities has increased.",
+    "sentence": "The skyrocketing economic insecurity of the last decade has been accompanied by an equally rapid rise of sophisticated data-based technologies in public services: predictive algorithms, risk models, and automated eligibility systems.",
+    "after": "Massive investments in data-driven administration of public programs are rationalized by a call for efficiency, doing more with less, and getting help to those who really need it."
+   },
+   {
+    "loc": 8,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "This myopia is not shared by those lower on the economic hierarchy, who often see themselves as targets rather than beneficiaries of these systems.",
+    "sentence": "For example, one day in early 2000, I sat talking to a young mother on welfare about her experiences with technology.",
+    "after": "When our conversation turned to EBT cards, Dorothy Allen said, “They’re great."
+   },
+   {
+    "loc": 85,
+    "page": "pp. 201–203",
+    "kind": "p",
+    "before": "On March 31, 1968, Dr. Martin Luther King, Jr., gave his last Sunday sermon, “Remaining Awake through a Great Revolution,” in the National Cathedral in Washington, DC.",
+    "sentence": "King declared that the world was undergoing a triple revolution: a technological revolution sparked by automation and “cybernation,” a revolution in warfare triggered by nuclear weapons, and a human rights revolution inspired by anticolonial struggles for freedom across the globe.",
+    "after": "Though technological innovation was bringing the world a sense of “geographical oneness,” he preached, our ethical commitment to each other was not keeping pace."
+   },
+   {
+    "loc": 85,
+    "page": "pp. 201–203",
+    "kind": "p",
+    "before": "King declared that the world was undergoing a triple revolution: a technological revolution sparked by automation and “cybernation,” a revolution in warfare triggered by nuclear weapons, and a human rights revolution inspired by anticolonial struggles for freedom across the globe.",
+    "sentence": "Though technological innovation was bringing the world a sense of “geographical oneness,” he preached, our ethical commitment to each other was not keeping pace.",
+    "after": "“Through our scientific and technological genius, we have made of this world a neighborhood and yet we have not had the ethical commitment to make of it a brotherhood,” he said."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 116,
+  "input": "bdbb03f348c9",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "p. 9",
+    "kind": "p",
+    "before": "Rather, it takes as its basis the belief that a postcolonial approach requires designing new tools, methods, and workflows that are based in local practices.",
+    "sentence": "These practices, which favor the particular over the universal, offer the promise of a more expansive humanities that takes advantage of the technological means of digital knowledge production to create space for underrepresented communities to populate the digital cultural record with their own stories.",
+    "after": ""
+   },
+   {
+    "loc": 40,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "Just as humanities computing came up in the Cold War context, the heyday of digital humanities has coincided with the “Long War”—the name coined by United States military leaders for the so-​called War on Terror.",
+    "sentence": "The war has brought with it untold technological terrors to fuel its colonial project: armed drone warfare, the PRISM surveillance program, automatic biometric scanners, and backscatter X-​ray technology for body scanning at airports.",
+    "after": "While Cold War technologies, as McCarty argues, seem to have made humanities scholars run in the other direction from humanities computing, recently humanities scholars have been willing to engage with digital humanities, even if only to critique it."
+   },
+   {
+    "loc": 41,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "Or, more optimistically, perhaps access to forms of digital knowledge production and its dissemination online offers ways to push back against the horrors of the digital age.",
+    "sentence": "In light of the complicity of digital, media, and computational technologies with the surveillance state, perhaps digital humanities, through both making and theorizing, holds the elusive promise of understanding and mastering the technological means of production.",
+    "after": "This is a victory, however small, in the face of a technological environment driven by omnipresent war."
+   },
+   {
+    "loc": 41,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "",
+    "sentence": "While digital humanities methods are well-​positioned to help scholars seize the technological means of the production of knowledge, this potential has not been realized fully.",
+    "after": "However, postcolonial digital humanities holds possibilities for better understanding the intersections of geopolitics, twenty-​first-​century imperialisms and neocolonialisms, and technology."
+   },
+   {
+    "loc": 41,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "While digital humanities methods are well-​positioned to help scholars seize the technological means of the production of knowledge, this potential has not been realized fully.",
+    "sentence": "However, postcolonial digital humanities holds possibilities for better understanding the intersections of geopolitics, twenty-​first-​century imperialisms and neocolonialisms, and technology.",
+    "after": "At the crossroads of the technological and the political, of theory and method, postcolonial digital humanities underscores how humanities knowledge is being transformed by digital technologies."
+   },
+   {
+    "loc": 106,
+    "page": "p. 97",
+    "kind": "p",
+    "before": "Through the experiential learning of postcolonial digital pedagogy, students can be engaged in the production of knowledge from the inside out, giving them a perspective they would not achieve through reading, discussion, and analytical papers alone.",
+    "sentence": "Postcolonial digital pedagogy thus facilitates the interrogation of modalities of the digital and attention to the presumptions of digital environments: that students are digital “natives,” that technology is a “democratizing” force, and that technology is a tool that exists outside of the collective power dynamics that shape lived experience.",
+    "after": ""
+   },
+   {
+    "loc": 130,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "But what kinds of “human” are legitimated in such articulations of digital humanities?",
+    "sentence": "On one hand, the status of the human in relation to technology is an important dimension of this question, since human-​ computer interaction is an essential part of digital humanities methods.",
+    "after": "Like N. Katherine Hayles’s posthuman subject, the contemporary human at stake in digital humanities is “an amalgam, a collection of heterogeneous components, a material-​informational entity whose boundaries undergo continuous construction and reconstruction.”"
+   },
+   {
+    "loc": 143,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "As Hayles notes, “Literary texts are not, of course, merely passive conduits.",
+    "sentence": "They actively shape what the technologies mean and what the scientific theories signify in cultural contexts.",
+    "after": "They also embody assumptions similar to those that permeated the scientific theories at critical points.”"
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 282,
+  "input": "d9824f1c2f91",
+  "candidates": [
+   {
+    "loc": 36,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "Rozsika Parker notes that in Western culture, embroidery was originally done by men, but since the sixteenth century it has been associated with femininity and domesticity (60).",
+    "sentence": "As a domestic technology, or if not precisely a technology then a medium, embroidery typically brings to mind notions such as intricacy, delicacy, and ornament.",
+    "after": "The genteel and feminine associations with embroidery form a disjunction when it is used to depict reproductive organs, that is, body parts often associated with abjection, menstruation, and the emotions that result from hormonal fluctuation."
+   },
+   {
+    "loc": 37,
+    "page": "p. 9",
+    "kind": "p",
+    "before": "These are body parts that are often considered unmentionable in polite company, or even in some legislative spaces.",
+    "sentence": "There is a further disjunction when the embroidery is the technological mechanism.",
+    "after": "The embroidery is thus multivalent and disjunctive: at one and the same time it references traditional notions of feminine domesticity, while also invoking DIY subversion, messiness, and imperfection."
+   },
+   {
+    "loc": 69,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "",
+    "sentence": "As such developments occur, they are often greeted by excitement over technological progress and innovation; after all, they hold great promise for accelerating the speed at which data analysis can occur.",
+    "after": "However, they also engender fear over their ethical and social implications as they valorize normative human subjects through their design."
+   },
+   {
+    "loc": 69,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "They raise questions of what it means to look, speak, write, and think as “a human.”",
+    "sentence": "Invariably, the answer to this hews to dominant cultural values of the Global North, reinforcing the cultural, historical, and technological othering of communities in the Global South.",
+    "after": "In a field as diverse in method, thought, and subject as digital humanities, it is essential to examine the ethical challenges these technologies pose and their effects on methodologies."
+   },
+   {
+    "loc": 126,
+    "page": "p. 98",
+    "kind": "p",
+    "before": "",
+    "sentence": "Perhaps unsurprisingly, the phasing out of feminist projects clearly coincides with the foundation’s growing interest in technological projects.",
+    "after": "In 1997 Mellon’s annual report focused almost entirely on technology—lauding the development of JSTOR, emphasizing electronic publishing with university presses, and boasting the College and Beyond Database, an attempt to collect data about outcomes for college graduates around the United States."
+   },
+   {
+    "loc": 126,
+    "page": "p. 98",
+    "kind": "p",
+    "before": "Perhaps unsurprisingly, the phasing out of feminist projects clearly coincides with the foundation’s growing interest in technological projects.",
+    "sentence": "In 1997 Mellon’s annual report focused almost entirely on technology—lauding the development of JSTOR, emphasizing electronic publishing with university presses, and boasting the College and Beyond Database, an attempt to collect data about outcomes for college graduates around the United States.",
+    "after": "Then, in 2000, the foundation released a formal statement stating that its intention in years ahead “is to provide support for rigorous studies of applications of instructional technology that will include online education and distance learning.”"
+   },
+   {
+    "loc": 138,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "The reach of DH extends farther than ever before.",
+    "sentence": "This is therefore a time in which DH methodologies and technologies are both proliferating and codifying, making this an important moment of intervention.",
+    "after": "At the same time, pushing DH to engage more deeply with queerness has a wider relevance in contemporary conversations about difference, which are proliferating both in today’s popular discourse and within our own academic disciplines."
+   },
+   {
+    "loc": 151,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "In turning to the methodologies of DH, we have been interested in seeing the other side of this equation: what queer thinking can bring to the digital humanities.",
+    "sentence": "We looked at existing work that theorizes the relationship between queerness and technology as a launching point for imagining queer DH methodologies.",
+    "after": "Building from this work, we mapped a selection of our own suggestions for queer DH methodologies, with object descriptions as our main illustrative case study."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 229,
+  "input": "12a6bdd662b8",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "",
+    "sentence": "Such findings demonstrate what I call “the New Jim Code”: the employment of new technologies that reflect and reproduce existing inequities but that are promoted and perceived as more objective or progressive than the discriminatory systems of a previous era.* Like other kinds of codes that we think of as neutral, “normal” names have power by virtue of their perceived neutrality.",
+    "after": "They trigger stories about what kind of person is behind the name — their personality and potential, where they come from but also where they should go."
+   },
+   {
+    "loc": 41,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "Who gets muted in this brave new world?",
+    "sentence": "The view that “technology is a neutral tool” ignores how race also functions like a tool, structuring whose literal voice gets embodied in AI.",
+    "after": "In celebrating diversity, tokenistic approaches to tech development fail to acknowledge how the White aesthetic colors AI."
+   },
+   {
+    "loc": 44,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "First, it’s true, anti-Black technologies do not necessarily limit their harm to those coded Black.°’ However, a universalizing lens may actually hide many of the dangers of discriminatory design, because in many ways Black people already live in the future.®* The plight of Black people has consistently been a harbinger of wider processes — bankers using financial technologies to prey on Black homeowners, law enforcement using surveillance technologies to control Black neighborhoods, or politicians using legislative techniques to disenfranchise Black voters — which then get rolled out on an even wider scale.",
+    "sentence": "An #AllLivesMatter approach to technology is not only false inclusion but also poor planning, especially by those who fancy themselves as futurists.",
+    "after": ""
+   },
+   {
+    "loc": 46,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "Taken together within the framework of what I term race critical code studies, this approach helps us open the Black box of coded inequity.",
+    "sentence": "“Black box” is a metaphor commonly used in STS to describe how the social production of science and technology is hidden from view.",
+    "after": "For example, in The Black Box Society, legal scholar Frank Pasquale (2014) interrogates the “secret algorithms” that are fundamental to businesses, from Wall Street to Silicon Valley, and criticizes how the law is used to aggressively protect commercial secrecy while ignoring our right to privacy.®® His use of the term “Black box” draws on its double meaning, as recording device and as mysterious object; and here | recast this term to draw attention to the routine anti- Blackness that inheres in so much tech development."
+   },
+   {
+    "loc": 47,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "For example, in The Black Box Society, legal scholar Frank Pasquale (2014) interrogates the “secret algorithms” that are fundamental to businesses, from Wall Street to Silicon Valley, and criticizes how the law is used to aggressively protect commercial secrecy while ignoring our right to privacy.®® His use of the term “Black box” draws on its double meaning, as recording device and as mysterious object; and here | recast this term to draw attention to the routine anti- Blackness that inheres in so much tech development.",
+    "sentence": "What I call the anti-Black box links the race-neutral technologies that encode inequity to the race-neutral laws and policies that serve as powerful tools for White supremacy.",
+    "after": ""
+   },
+   {
+    "loc": 53,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "",
+    "sentence": "Whereas such hard determinists, like Ridley, posit that technology has a mind of its own, soft determinists grant that it is at least possible for people to make decisions about technology’s trajectory.",
+    "after": "However, they still imagine a lag period in which society is playing catch-up, adjusting its laws and norms to the latest invention."
+   },
+   {
+    "loc": 120,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "That new tools are coded in old biases is surprising only if we equate technological innovation with social progress.",
+    "sentence": "The popular trope that technology is always one step ahead of society is not only misleading but incorrect, when viewed through the lens of enduring invisibility.",
+    "after": ""
+   },
+   {
+    "loc": 180,
+    "page": "p. 168",
+    "kind": "p",
+    "before": "",
+    "sentence": "Let us shift, then, from technology as an outcome to toolmaking as a practice, so as to consider the many different types of tools needed to resist coded inequity, to build solidarity, and to engender liberation.",
+    "after": "Initiatives like Appolition offer a window into a wider arena of “design justice” that takes many forms (see Appendix), some of which I will explore below."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 44,
+  "input": "1fbb2d5b234c",
+  "candidates": [
+   {
+    "loc": 30,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "",
+    "sentence": "If we are to be successful at the work we hope to do in projects on technological development and innovation, intercultural communication, medical and health communication, and other relevant topics, we must commit to diversifying our field in its foundational theories, its professoriate, its programs, and its citation patterns.",
+    "after": ""
+   },
+   {
+    "loc": 97,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "Interplay of identity can radically affect how the same behaviors by members of the same social group (e.g., lawyers at the same firm, professors of the same rank in the same department) are interpreted, and negative stereotypes of outsiders (especially people who are multiply marginalized) often cut both ways.",
+    "sentence": "For example, the field of technical communication prizes technological literacy, and academic culture rewards visible scholars with international reputations.",
+    "after": "In an effort to overcome stereotypes of women as self-effacing and less technologically capable, a female tenure-line TPC professor may promote her publications, funded grants, and other accomplishments via an active, highly visible social media presence, only to be perceived as a “diva”: A high-maintenance online attention seeker."
+   },
+   {
+    "loc": 97,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "For example, the field of technical communication prizes technological literacy, and academic culture rewards visible scholars with international reputations.",
+    "sentence": "In an effort to overcome stereotypes of women as self-effacing and less technologically capable, a female tenure-line TPC professor may promote her publications, funded grants, and other accomplishments via an active, highly visible social media presence, only to be perceived as a “diva”: A high-maintenance online attention seeker.",
+    "after": "An employee with a visible disability may try to dispel a stereotype of helplessness by firmly asserting his independence and self-reliance, only to be perceived as prickly and easily offended."
+   },
+   {
+    "loc": 117,
+    "page": "p. 90",
+    "kind": "p",
+    "before": "",
+    "sentence": "• The possession dimension “implies that knowledge and technology is the property of the powerful empirical self, not the colonial other” (p. 65)",
+    "after": ""
+   },
+   {
+    "loc": 148,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "In other words, in any technical communication project, technical communicators work across the four domains of power.",
+    "sentence": "Think, for example, about the way an instruction set might be developed for a new technology.",
+    "after": "Traditional approaches to TPC might adopt an instrumental approach to considering the power at play in the development and use of an instruction set: The instruction set offers the user the opportunity (or power) to engage with the technology."
+   },
+   {
+    "loc": 148,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "Think, for example, about the way an instruction set might be developed for a new technology.",
+    "sentence": "Traditional approaches to TPC might adopt an instrumental approach to considering the power at play in the development and use of an instruction set: The instruction set offers the user the opportunity (or power) to engage with the technology.",
+    "after": "In this view, an effective instruction set allows the user to engage with the technology in the way the technology designer intends."
+   },
+   {
+    "loc": 148,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "But instruction sets also reflect cultural and ideological domains of power as well.",
+    "sentence": "Particularly as instruction sets begin to interact with bodies, we can see the ways that instructions are normalizing constructs, making assumptions about how bodies work and how we relate to technologies (and thus function in the hegemonic domain).",
+    "after": "A ready example of this might be instructions for inserting tampons."
+   },
+   {
+    "loc": 149,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "A ready example of this might be instructions for inserting tampons.",
+    "sentence": "As a technology, tampons play an important role in the lives of individuals negotiating their menstrual cycles.",
+    "after": "Most tampon instruction sets suggest that users put their leg up on the side of a toilet or bathtub to access their vaginal entry."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 17,
+  "input": "593923092ba8",
+  "candidates": [
+   {
+    "loc": 49,
+    "page": "p. 33",
+    "kind": "p",
+    "before": "When you preserve a life by stripping something from use, what you are preserving is not a life but the rights of some to decide what and who counts as life.",
+    "sentence": "The politics of preservation so often involves the rights of some to appropriate what is of use to others, because they assume they alone have the technologies needed to preserve things.",
+    "after": "This assumption of the right to withdraw things from other people’s use is how some people become the guardians—who often speak of taking care."
+   },
+   {
+    "loc": 72,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "The introduction of machinery might appear to be labor saving.",
+    "sentence": "This has historically been a hope afforded to new technologies, that is, machines as reducing the time and energy necessary to accomplish a task.",
+    "after": "I return to this question of labor and muscle in my discussion of the figure of the blacksmith’s arm in chapter 2."
+   },
+   {
+    "loc": 109,
+    "page": "p. 93",
+    "kind": "p",
+    "before": "",
+    "sentence": "The blacksmith’s arm could be understood then not only as a phantom limb, that comes to matter, but as technology; the blacksmith’s arm is a prosthetic.",
+    "after": "The blacksmith’s arm becomes a living tool, teaching us how, in Sarah Franklin’s (2013) terms, technology is biologized."
+   },
+   {
+    "loc": 109,
+    "page": "p. 93",
+    "kind": "p",
+    "before": "The blacksmith’s arm could be understood then not only as a phantom limb, that comes to matter, but as technology; the blacksmith’s arm is a prosthetic.",
+    "sentence": "The blacksmith’s arm becomes a living tool, teaching us how, in Sarah Franklin’s (2013) terms, technology is biologized.",
+    "after": "And the figure of the blacksmith’s arm is used in order to tell the story of industrial capitalism as a story of refinement and progression—not only of bodies becoming fitter, more attuned to job requirements, but of the creation of machines that extend what bodies can do."
+   },
+   {
+    "loc": 110,
+    "page": "p. 94",
+    "kind": "p",
+    "before": "",
+    "sentence": "I noted in the previous chapter how Marx explores the history of technologies not as labor-saving devices but as systems of expenditure and exhaustion.",
+    "after": "It is living bodies that are exhausted by what they are required to do with things, with materials such as paper, metal, and cotton, in order for those things to become commodities, to create surplus value."
+   },
+   {
+    "loc": 120,
+    "page": "p. 104",
+    "kind": "p",
+    "before": "In this chapter, I explore the development of techniques intended to influence how bodies take shape.",
+    "sentence": "I consider use not simply as an idea with a history but as an apparatus, a series of technologies that worked together for specified ends.",
+    "after": "This chapter builds on Michel Foucault’s important work on disciplinary power."
+   },
+   {
+    "loc": 219,
+    "page": "p. 203",
+    "kind": "p",
+    "before": "The very idea of two distinct sexes is transformed into an architectural principle by the use of doors.",
+    "sentence": "If we think of biological sex as a door, we learn how biology can function as technology, to return to my discussion in chapter 2.",
+    "after": "This intimacy of biology and technology helps us to explore the queerness of biology and to consider what Sarah Franklin has called transbiology."
+   },
+   {
+    "loc": 219,
+    "page": "p. 203",
+    "kind": "p",
+    "before": "If we think of biological sex as a door, we learn how biology can function as technology, to return to my discussion in chapter 2.",
+    "sentence": "This intimacy of biology and technology helps us to explore the queerness of biology and to consider what Sarah Franklin has called transbiology.",
+    "after": "Franklin introduces the cyborg embryo picking up on Donna Haraway’s (1991) creative reuse of the figure of the cyborg as well as her use of the concept of “trans- ” to describe how new hybrid entities “blast widely understood notions of natural limit” (Haraway, 1997, cited in Franklin 2006, 170)."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 76,
+  "input": "f00873fca830",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "pp. 1–3",
+    "kind": "p",
+    "before": "But what is the real picture?",
+    "sentence": "How did globalization and the rise of new communication technologies change the geography of culture?",
+    "after": "Can we find every contemporary cultural trend today in thousands of smaller cities?"
+   },
+   {
+    "loc": 39,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "The history of technological media can be imagined as a series of many overlapping stages.",
+    "after": "At each stage, new technologies and new practices for creating, storing, distributing, and using content become prominent."
+   },
+   {
+    "loc": 39,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "The history of technological media can be imagined as a series of many overlapping stages.",
+    "sentence": "At each stage, new technologies and new practices for creating, storing, distributing, and using content become prominent.",
+    "after": "But these practices do not replace each other in a linear fashion."
+   },
+   {
+    "loc": 41,
+    "page": "pp. 59–60",
+    "kind": "p",
+    "before": "One part of media analytics—the practices of gathering and algorithmic analysis of user interaction data (i.e., digital traces)—has received significant attention.",
+    "sentence": "However, most discussions of these practices are focused on political and social issues such as privacy, surveillance, access rights, discrimination, fairness, and biases, as opposed to the history and theory of technological media.",
+    "after": ""
+   },
+   {
+    "loc": 41,
+    "page": "pp. 59–60",
+    "kind": "p",
+    "before": "",
+    "sentence": "Media analytics is the new stage of media technology that impacts everyday cultural experiences of significant percentages of populations in most countries.",
+    "after": "One part of media analytics—the practices of gathering and algorithmic analysis of user interaction data (i.e., digital traces)—has received significant attention."
+   },
+   {
+    "loc": 59,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "",
+    "sentence": "Another reason is that people and organizations in developing countries are more open to new technologies because their populations are younger or because these countries started to grow economically in the web era.",
+    "after": "For example, I am often contacted by cultural organizations, museums, festivals, and universities from many countries—and these contacts and all subsequent correspondence would take place over Facebook Messenger (or WeChat in the case of China) for developing countries, while similar organizations in the United States and Europe would contact me via the older technology of email."
+   },
+   {
+    "loc": 98,
+    "page": "pp. 162–163",
+    "kind": "p",
+    "before": "",
+    "sentence": "In general, our technological measurements and data representations of human emotional and cognitive states, memories, imagination, or creativity are less precise and detailed than our measurements of artifacts.",
+    "after": "While computer vision algorithms can extract hundreds of different features from a single image, EEG or FMRI at present measure fewer dimensions of human cognitive processes."
+   },
+   {
+    "loc": 98,
+    "page": "pp. 162–163",
+    "kind": "p",
+    "before": "While computer vision algorithms can extract hundreds of different features from a single image, EEG or FMRI at present measure fewer dimensions of human cognitive processes.",
+    "sentence": "The gradual progress of technology will allow for more precision and specificity—but it can take decades.",
+    "after": "In contrast, measures of artifacts’ properties are very easy to obtain on a large scale, which is important for cultural analytics."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 47,
+  "input": "54937869f336",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "It passes through the eugenics movement, in the late nineteenth and early twentieth centuries, which sought to employ data to quantify the superiority of white people over all others.",
+    "sentence": "It continues today in the proliferation of biometrics technologies that, as sociologist Simone Browne has shown, are disproportionately deployed to surveil Black bodies.",
+    "after": ""
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "Viewed from the perspective of the state, there were simply not enough employees to handle all of the potential child abuse cases, so it needed a mechanism for efficiently deploying limited staff—or so the reasoning goes.",
+    "sentence": "This is what Eubanks has described as a scarcity bias: the idea that there are not enough resources for everyone so we should think small and allow technology to fill the gaps.",
+    "after": "Such thinking, and the technological “solutions” that result, often meet the goals of their creators— in this case, the Allegheny County Office of Children, Youth, and Families—but not the goals of the children and families that it purports to serve."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "This is what Eubanks has described as a scarcity bias: the idea that there are not enough resources for everyone so we should think small and allow technology to fill the gaps.",
+    "sentence": "Such thinking, and the technological “solutions” that result, often meet the goals of their creators— in this case, the Allegheny County Office of Children, Youth, and Families—but not the goals of the children and families that it purports to serve.",
+    "after": ""
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "As the examples discussed thus far in this book clearly demonstrate, one of the most dangerous outcomes of the tools of data and data science being consolidated in the hands of dominant groups is that these groups are able to obscure their politics and their goals behind their technologies.",
+    "after": "Benjamin, whose book Race after Technology: Abolitionist Tools for the New Jim Code (mentioned earlier), describes this phenomenon as the “imagined objectivity of data and technology” because data-driven systems like redlining and risk assessment algorithms are not really objective at all."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "As the examples discussed thus far in this book clearly demonstrate, one of the most dangerous outcomes of the tools of data and data science being consolidated in the hands of dominant groups is that these groups are able to obscure their politics and their goals behind their technologies.",
+    "sentence": "Benjamin, whose book Race after Technology: Abolitionist Tools for the New Jim Code (mentioned earlier), describes this phenomenon as the “imagined objectivity of data and technology” because data-driven systems like redlining and risk assessment algorithms are not really objective at all.",
+    "after": "Her concept of imagined objectivity emphasizes the role that cultural assumptions and personal preconceptions play in upholding this false belief: one imagines (wrongly) that datasets and algorithms are less partial and less discriminatory than people and thus more “objective.”"
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "In other words, they maintain the current structure of power, even if they don’t intend to, because they let the matrix of domination off the hook.",
+    "sentence": "They direct data scientists’ attention toward seeking technological fixes.",
+    "after": "Sometimes those fixes are necessary and important."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "Sometimes those fixes are necessary and important.",
+    "sentence": "But as technology scholars Julia Powles and Helen Nissenbaum assert, “Bias is real, but it’s also a captivating diversion.”",
+    "after": "There is a more fundamental problem that must also be addressed: we do not all arrive in the present with equal power or privilege."
+   },
+   {
+    "loc": 161,
+    "page": "PDF p. 161",
+    "kind": "p",
+    "before": "",
+    "sentence": "Our present technological infrastructure follows this same pattern of exploitation.",
+    "after": "In the United States, the scarcely paid or altogether unpaid labor of those who endure a contemporary form of enslavement—incarceration—has been used for everything from packaging Windows software to cleaning up the 2010 BP oil spill."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 334,
+  "input": "eb513eefeff5",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "Popular narratives of design, technology, and social change are dominated by techno-utopian hype about ever-more-powerful personal devices, “intelligent” systems, and “Twitter revolutions,” on the one hand, and totalizing, pessimistic accounts of digital surveillance, disinformation, and algorithmic injustice, on the other.",
+    "after": "This book strives to ground our understanding of design, technology, and social change in the daily practices of activists and community organizers, who have always struggled to amplify the voices of their communities “by any media necessary.”"
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "The chapter builds on the work of the disability justice movement, whose activists popularized the phrase “nothing about us without us.”",
+    "sentence": "It begins with a discussion of the raced, classed, and gendered nature of employment in the technology sector, but quickly proposes a shift from arguments for equity (such as “we need more diverse designers and software developers”) to arguments for accountability and community control (“those most affected by the outcomes should lead and own design processes and products”).",
+    "after": "This is not a new idea; the chapter reviews the participatory turn in technology design and includes discussion of user-led innovation, participatory design, and feminist HCI, among other strands of theory and practice."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "It begins with a discussion of the raced, classed, and gendered nature of employment in the technology sector, but quickly proposes a shift from arguments for equity (such as “we need more diverse designers and software developers”) to arguments for accountability and community control (“those most affected by the outcomes should lead and own design processes and products”).",
+    "sentence": "This is not a new idea; the chapter reviews the participatory turn in technology design and includes discussion of user-led innovation, participatory design, and feminist HCI, among other strands of theory and practice.",
+    "after": "Key lessons include the following: leadership and control by members of the community that is most directly affected by the issue is crucial, both because it’s ethical and also because the tacit and experiential knowledge of those marginalized within the matrix of domination is sure to produce ideas, approaches, and innovations that a nonmember of the community would be very unlikely to come up with."
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "Although this model remains influential, scholars of science and technology have challenged it on several grounds.",
+    "sentence": "First, it contains a somewhat masked normative assumption that “technology adoption” is always a good thing.",
+    "after": "To illustrate, simply imagine this model applied to a technology that is widely recognized to be harmful—for example, personal ownership of military assault rifles, or crack cocaine and crack pipes."
+   },
+   {
+    "loc": 65,
+    "page": "PDF p. 65",
+    "kind": "p",
+    "before": "",
+    "sentence": "The prevalence of user modification is the core insight of the theory of technology appropriation.",
+    "after": "As technology scholars François Bar, Matthew S. Weber, and Francis Pisani put it, “Appropriation is the process through which technology users go beyond mere adoption to make technology their own and to embed it within their social, economic, and political practices.”"
+   },
+   {
+    "loc": 65,
+    "page": "PDF p. 65",
+    "kind": "p",
+    "before": "",
+    "sentence": "The theory of technology appropriation is similar to lead user innovation theory, discussed in the previous chapter.",
+    "after": "In his text Democratizing Innovation, MIT management professor Eric Von Hippel both theoretically and empirically demonstrates that a significant portion of innovation is actually done by users, rather than manufacturers."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "The relationship of fablabs to design justice principles is thus complicated.",
+    "sentence": "Fablabs do promote the idea of technological democratization, and they do challenge the idea of technological expertise as an exclusive realm.",
+    "after": "However, they also participate in the discourse of neoliberal entrepreneurialism."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "In short, from a managerial perspective, hackathons provide excellent opportunities for the extraction of free labor.",
+    "sentence": "This helps explain the increasing popularity of hackathons within the regular practices of technology firms.",
+    "after": "As evident in figure 4.3, hackathons have become increasingly popular over the last decade."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 455,
+  "input": "f13b398ea016",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "An essential part of any CTDA analysis is the attention paid to the material substratum underpinning the interactions of people “through, around, and with technologies” (Hutchby, 2001, p. 450).",
+    "sentence": "CTDA does this by operationalizing the computational object as a discourse (technology as a “text”) to be read for the mediation of the discursive actions enacted as digital interfaces and associated practices.",
+    "after": "As such, a CTDA analysis “reads” graphical user interface (GUI) design, narrative, and context of use against the discourse of its users."
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the introduction to this text, I discussed Pacey’s theory of technology as a triadic entity composed of an artifact, practice, and belief.",
+    "after": "Popular conceptions of technology center on the first two pieces, often obscuring the beliefs that power the dissemination and use of the technology."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "As with other chapters in this text, this chapter utilizes critical technocultural discourse analysis (CTDA) to analyze a networked, computational digital artifact.",
+    "sentence": "By operationalizing technology as a “text” (Pinch & Bijker, 1984; Brock, 2016), I conduct a critical discourse analysis of the artifact, the practices powering that artifact, and the beliefs powering the use of that artifact.",
+    "after": "Beliefs are the most powerful yet least examined aspect of digital technology use, circulating as “common sense” understandings of why people use digital technologies that are unavoidably inflected with cultural biases."
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "White monoculture in information technology reinforces beliefs about the inability of (primitive) nonwhites to participate in information cultures (Brock, 2011a).",
+    "sentence": "Dinerstein (2006) calls this out specifically, arguing that technology as an abstract concept functions as a white mythology and that technology is the unacknowledged source of European and Euro-American superiority within modernity (p. 569).",
+    "after": ""
+   },
+   {
+    "loc": 119,
+    "page": "PDF p. 119",
+    "kind": "p",
+    "before": "As mentioned earlier, technoculture can be understood as the relations between, and politics of, culture and technology.",
+    "sentence": "Dinerstein (2006) argues that “technology is the American mythos” (p. 570).",
+    "after": "When defined this way, however, technoculture often tricks upon the racial identity of whiteness, and white racial ideology and technological beliefs become the norm."
+   },
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "Dinerstein’s arguments for technoculture are not the first—the linkage among the West, religion, and technology has been explored by David Nye (1996), Leo Marx (2000), and James Carey (1984)—but he makes his signal contribution to technocultural theory by assigning a racial valence (whiteness) to American and Western technical identity.",
+    "sentence": "Dinerstein finds that technology is both the rationale for and the artifact of European and Euro-American imperialism and modernity, bolstering his claim that technology as an abstract concept functions as a white mythology (2006, p. 570).",
+    "after": ""
+   },
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "As an intermediate step, then, let us consider the immanence of Dinerstein’s matrix aspects in the digital, networked space I am arguing for as distributed Blackness.",
+    "sentence": "The matrix works with technology as an abstract concept in order to tease out the libidinal tensions that are ordinarily unseen; Dinerstein eventually dials in on biotechnology as encapsulating his matrix.",
+    "after": "Similarly, this text limits “technology” not only to the digital—which is certainly a nebulous concept—but, more specifically, to information technologies used for communication, such as the computer and the internet."
+   },
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "It works as a paean to the spiritual power of information and the digital as a balm for social ills.",
+    "sentence": "Rather than putting faith in the works of a supreme being, religion recenters technology as a source of ineffable blessings and ills—either a digital utopia where speech is free and virtual spaces are democratic or a hellscape of incivility, terroristic acts, and violations of the informational self.",
+    "after": "Religion also is a grounding for the digital’s links to transcendence; where the body is rendered in 1s and 0s while eschewing the bonds of material existence."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 18,
+  "input": "2bc6b9aaa778",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "The virulent sexism and xenophobia that arose and were repeated over and over again in mainstream political discourse during the 2016 election cycle highlight the failure of inclusive ideals in the public sphere.",
+    "sentence": "It is to this underrepresentation and misrepresentation, along with efforts toward solidarity and community building, that contemporary counterpublics respond, using media technologies available to them.",
+    "after": "Our work here demonstrates that counterpublics are alive and well in contemporary civil society, using Twitter as one important technology to push the mainstream public sphere on issues of social progress in ways more powerful and visible than possibly ever before."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "It is to this underrepresentation and misrepresentation, along with efforts toward solidarity and community building, that contemporary counterpublics respond, using media technologies available to them.",
+    "sentence": "Our work here demonstrates that counterpublics are alive and well in contemporary civil society, using Twitter as one important technology to push the mainstream public sphere on issues of social progress in ways more powerful and visible than possibly ever before.",
+    "after": ""
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the twenty-first century, the proliferation of social media has enabled the widespread study of and speculation about the impact of digital technologies on politics, activism, and social change.",
+    "after": "Key among these debates is the role of social media in shaping the contemporary public sphere and, by proxy, our democracy."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "While politicians embed particular issues in opaque language and meaningless euphemisms in their public discourse, ordinary people are able to explicitly advocate using unrepentant and concise rhetoric on these same issues.",
+    "sentence": "Notably, Twitter has low financial and technological barriers to entry.",
+    "after": "Using relatively inexpensive equipment, and with limited technical knowledge, ordinary people can engage in public speech and actions without mediation by the mainstream media or other traditional sources of power."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "",
+    "sentence": "From the earliest feminist presses to Twitter, women have used technology to create and sustain narratives that demand attention and redress for gendered violence.",
+    "after": "In this chapter we examine the networks that created and spread the hashtags #YesAllWomen, #SurvivorPrivilege, #TheEmptyChair, #WhyIStayed, and #MeToo."
+   },
+   {
+    "loc": 49,
+    "page": "PDF p. 49",
+    "kind": "p",
+    "before": "",
+    "sentence": "While the hashtags in this chapter have not seen the kind of mainstream attention as #MeToo and #YesAllWomen, what we document here (and in chapter 3) testifies to the complexity of counterpublics engaging in technological networks.",
+    "after": "First, it is clear that Black women, who occupy positions in multiple counterpublics and carry with them multiple identities, have found Twitter to be a productive tool for highlighting misogynoir, sharing survival strategies, and calling both intra-and intercommunity members to account."
+   },
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "",
+    "sentence": "While we celebrate the real impact that digital counterpublics and hashtag activism have had in progressive movement building and culture creation, we acknowledge the serious limitations of the technological platforms and corporate logics within which racial justice and feminist narratives evolve.",
+    "after": "In chapter 4, for example, we discussed the horrific viral hashtag #Trayvonning, which was attached to images of overwhelmingly white youth taking pictures of themselves as though they were a deceased Trayvon Martin, with Skittles and AriZona Iced Tea in hand."
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "As Tarleton Gillespie explains in his book on social media moderation, this is partly because the available options for identifying, preventing or removing objectionable content are not especially good.",
+    "sentence": "Professional moderation and editorial review cannot scale up sufficiently to cover the overwhelming quantity of data on social media platforms; relying on users to flag questionable content is reactive and can be used to unfairly target and harass people; and algorithmic detection technology is still limited, especially for the photos and videos that dominate most modern social media platforms.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 211,
+  "input": "56808eb8999e",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "The invisibility of women’s work in histories of media and technology is perhaps most acute when this work takes the form of service, care, or emotional labor, categories that include activist projects understood as labors of love.",
+    "after": "By centering “minor players” in media histories we become attuned to how sexuality and emotion make technological systems work smoothly."
+   },
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "The invisibility of women’s work in histories of media and technology is perhaps most acute when this work takes the form of service, care, or emotional labor, categories that include activist projects understood as labors of love.",
+    "sentence": "By centering “minor players” in media histories we become attuned to how sexuality and emotion make technological systems work smoothly.",
+    "after": "Dylan Mulvin’s history of the Lena test image, a torn-out Playboy centerfold used to develop image compression algorithms, shows how women’s sexualities became a form of communicative exchange in computer engineering labs."
+   },
+   {
+    "loc": 34,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "This lesbian-feminist history of database computing analyzes how indexers imagined and attempted to use new information management programs that were just becoming accessible to amateurs.",
+    "sentence": "Enticed by the promise of computing but critical of technological accessibility for their communities, feminist indexers practiced what I call “capable amateurism” in the computer lab: a fearless approach to learning and implementing new media technologies that emerges out of feminist commitments to craft techniques, collectively organized work, and figu ing things out on the fly.",
+    "after": "Capable amateurism rejects the negative associations “amateur” can carry; these activists benefit from a lack of professional baggage, including fi m ideas about protocols, standards, and what we might call “best practices” today."
+   },
+   {
+    "loc": 56,
+    "page": "p. 52",
+    "kind": "p",
+    "before": "Kevin Driscoll, Elisabeth Jay Friedman, Eden Medina, Benjamin Peters, and Fred Turner offer histories of network or cybernetic thinking, as a condition of possibility for the web.",
+    "sentence": "These histories attend to practices of dreaming about and working with network technologies, sometimes by amateurs, instead of emphasizing the research, design and market uptake of network technologies.",
+    "after": "Like sociomaterial science and technology studies, this approach emphasizes an artefact’s use, negotiation, and meaning–in–practice, over its initial design."
+   },
+   {
+    "loc": 56,
+    "page": "p. 52",
+    "kind": "p",
+    "before": "These histories attend to practices of dreaming about and working with network technologies, sometimes by amateurs, instead of emphasizing the research, design and market uptake of network technologies.",
+    "sentence": "Like sociomaterial science and technology studies, this approach emphasizes an artefact’s use, negotiation, and meaning–in–practice, over its initial design.",
+    "after": "Though it is not historical in focus, Marisa Elena Duarte’s study of Indigenous broadband development also emphasizes how communities incorporate hard-won network technologies into existing practices as an exercise of sovereignty and self-determination."
+   },
+   {
+    "loc": 158,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "",
+    "sentence": "This chapter examines how improvised lesbian-feminist digitization practices challenge and enrich understandings of technological values such as access, usability, engagement, and preservation.",
+    "after": "As a contemporary form of information activism, these digitization practices put historical materials about lesbian feminism out into the world and do so by adapting digitization technologies and standards, often on the fly, to a larger set of political ideals."
+   },
+   {
+    "loc": 158,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "This chapter examines how improvised lesbian-feminist digitization practices challenge and enrich understandings of technological values such as access, usability, engagement, and preservation.",
+    "sentence": "As a contemporary form of information activism, these digitization practices put historical materials about lesbian feminism out into the world and do so by adapting digitization technologies and standards, often on the fly, to a larger set of political ideals.",
+    "after": "The volunteers working on digitization at the archives move with great care, forethought, and caution in designing and implementing digitization projects that will support the organization’s long-standing mandates to preserve and share lesbian histories while also making the tools of archiving widely accessible."
+   },
+   {
+    "loc": 185,
+    "page": "p. 181",
+    "kind": "p",
+    "before": "Like chapter 3’s indexers, the l ha welcomes untrained volunteers who have no experience doing information work (like me) to help process collections.",
+    "sentence": "This embrace of what I call capable amateurism is rooted in the appropriation and adaptation of professional skills and new media technologies to do information activism.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 172,
+  "input": "ec89a86c6088",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Informed by black feminist thought, this book focuses on social structures, or the rules of play that afford “certain actors advantages over others by endowing them with valued resources or indeed by serving as resources themselves.”",
+    "sentence": "Given the continual valuing of whiteness and masculinity in digital spaces, it is necessary to explore the often unstable relationship that develops between the user and technology, highlighting institutional, communal, and individual barriers that impede full inclusion of marginalized users.",
+    "after": "Many technological determinists assume that there is nothing about the technology itself that determines how it will ultimately be used; they insist that what matters are the “social circumstances of development” and, specifically, the outcomes of “intergroup negotiations.”"
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Given the continual valuing of whiteness and masculinity in digital spaces, it is necessary to explore the often unstable relationship that develops between the user and technology, highlighting institutional, communal, and individual barriers that impede full inclusion of marginalized users.",
+    "sentence": "Many technological determinists assume that there is nothing about the technology itself that determines how it will ultimately be used; they insist that what matters are the “social circumstances of development” and, specifically, the outcomes of “intergroup negotiations.”",
+    "after": "In these negotiations, “relevant social groups” or “actors” use various strategies and tactics to shape a technology according to their own “needs, expectations, and beliefs.”"
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Which social groups decide on this closure?",
+    "sentence": "Why not engage technology as a continually evolving entity, influenced by culture and influencing cultures?",
+    "after": ""
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although many corporate creators of digital technology claim that no offense is intended when their technology excludes and renders people of color invisible, we must explore how and why these technologies continue to oppress, placing the burden on the creators.",
+    "after": "Rudi Volti notes that once the relevant social groups are more or less satisfied with the shape of a technology, the groups’ relationships stabilize and the technology achieves “closure.”"
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "In applying this kind of activity to users of gaming technologies, we see that users spend significant amounts of time watching others engaged in gaming activities, situating them as an interactive audience—similar to black women’s active practices of live tweeting while watching Scandal.",
+    "after": "These practices highlight the transmediated nature of digital technologies and a central component of intersectional tech."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "In applying this kind of activity to users of gaming technologies, we see that users spend significant amounts of time watching others engaged in gaming activities, situating them as an interactive audience—similar to black women’s active practices of live tweeting while watching Scandal.",
+    "sentence": "These practices highlight the transmediated nature of digital technologies and a central component of intersectional tech.",
+    "after": "As such, the purpose of the present discussion is to rigorously examine how black folks, as intersectional users, producers, audiences, fans, and overall consumers of gaming, destabilize racial, gendered, sexualized, ableist, and class values to (re)imagine engagements with technology."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "",
+    "sentence": "Technology is the one that always reminds me that I’m black.",
+    "after": "I saw some blogs and other people having the same issue."
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "His hand was replaced with a bionic arm, which can become a cannon.",
+    "sentence": "Such technologically enhanced characters sustain a narrative of technology as a cure for disability, confirming the necessity of technology to control unruly (disabled) bodies.",
+    "after": "This narrative, made popular by science fiction and perpetuated in gaming, continues to privilege an able body, with other bodies needing to be “fixed” to resume “normal” functioning."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 137,
+  "input": "98edd7a38888",
+  "candidates": [
+   {
+    "loc": 102,
+    "page": "p. 81",
+    "kind": "p",
+    "before": "Similarly, most of them talked about helping others in the makerspace as well.",
+    "sentence": "This realization is ideal for promoting situated learning in an informal setting; it can also be an important stepping stone for acquiring technical communication skills, since the content and technologies are always evolving.",
+    "after": "Students may learn specific methods and problem-solving strategies by observing others’ approaches, as well as through their sharing of expertise."
+   },
+   {
+    "loc": 107,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "",
+    "sentence": "I recognize and acknowledge the privilege of access to these tools and technologies at a large research institution.",
+    "after": "Many instructors with whom I have shared this pedagogical direction have voiced concerns about technological and technical support from their own institutions, and I have shared that these are not the primary focus of a design thinking centered technical communication pedagogy."
+   },
+   {
+    "loc": 107,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "I recognize and acknowledge the privilege of access to these tools and technologies at a large research institution.",
+    "sentence": "Many instructors with whom I have shared this pedagogical direction have voiced concerns about technological and technical support from their own institutions, and I have shared that these are not the primary focus of a design thinking centered technical communication pedagogy.",
+    "after": "While the tools provided students with better affordances in invention and delivery, they were, nonetheless, just tools."
+   },
+   {
+    "loc": 121,
+    "page": "p. 100",
+    "kind": "p",
+    "before": "",
+    "sentence": "As communication technologies evolve, technical communicators have focused on the influence of tools in collaboration and emerged as experts who facilitate team interactions and manage projects with emerging technologies such as content management systems, cloud repositories, open-source applications, and virtual team participation platforms.",
+    "after": "As evident in books like Computers and Technical Communication (Selber, 1997), Technical Communication and the World Wide Web (Lipson & Day, 2005) and Digital Literacy for Technical Communication (Spilka, 2010), research on collaboration and technical communication in the early 2000s was primarily driven by the affordances of the internet and the Web."
+   },
+   {
+    "loc": 121,
+    "page": "p. 100",
+    "kind": "p",
+    "before": "As evident in books like Computers and Technical Communication (Selber, 1997), Technical Communication and the World Wide Web (Lipson & Day, 2005) and Digital Literacy for Technical Communication (Spilka, 2010), research on collaboration and technical communication in the early 2000s was primarily driven by the affordances of the internet and the Web.",
+    "sentence": "Instructors were curious if and how digital technologies could better facilitate collaborations.",
+    "after": "For instance, Paul Benjamin Lowry, Aaron Curtis, and Michelle René Lowry (2004) studied emergent collaborative writing technologies and stressed that communication software serves as a mediator of successful collaborations."
+   },
+   {
+    "loc": 143,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "",
+    "sentence": "Yet, many tech companies attempting to update consumer technologies or reinvent customer experience are trapped by the conventional thinking that focused mainly on the technology itself.",
+    "after": "As the Google Glass example I featured in Chapter 3 shows us, technological innovations fall short when they lose sight of the users and their user experience."
+   },
+   {
+    "loc": 143,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "Yet, many tech companies attempting to update consumer technologies or reinvent customer experience are trapped by the conventional thinking that focused mainly on the technology itself.",
+    "sentence": "As the Google Glass example I featured in Chapter 3 shows us, technological innovations fall short when they lose sight of the users and their user experience.",
+    "after": "Bower and Christensen (1995) argued that in order to define the significance of disruptive technology, creators need “to ask the right people the right questions about the strategic importance of the disruptive technology."
+   },
+   {
+    "loc": 161,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "",
+    "sentence": "Knievel interrogated the humanistic tradition and debates in technical communication to identify their implications for the role of technology in the field’s discourse.",
+    "after": "Knievel noted that traditional treatment of technology as instrumental, not rhetorical, within the field’s humanistic profile raises questions about the legitimacy of the field’s humanistic status."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 271,
+  "input": "71232b3a6deb",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "It is unusual in a book about digital technology to spend the first chapter in this way.",
+    "sentence": "However, before considering Black feminist blogging, social media use, or online discourse, we must reimagine our definition of technology to reinsert Black women into a history from which we have been removed.",
+    "after": "Taken from Suzanne Lebsock’s (1985) book The Free Women of Petersburg, this chapter’s title points to the duality of Black women’s unique role in the American experiment."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Yet technological expertise has been defined and documented in intentionally exclusionary ways.",
+    "sentence": "Those in power defined technology and wrote its history, prioritizing the written word and excluding so much of the oral history of Black women who lived through an era of state-sanctioned terrorism and enslavement.",
+    "after": "For much of our short three-hundred-year history, the master narrative of American efficiency, progress, and democracy intentionally removed marginalized groups’ lives and experiences."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "While historians point to plausible reasons why white women’s and Black women’s and men’s history is harder to find in the archive, I argue that not collecting these records is an example of archival amnesty.",
+    "sentence": "The absence of Black women in our understanding of technology is an intentional practice of erasure doing further violence to an already oft violated group.",
+    "after": "Excluding Black women from the history of technology furthers the now sedimented idea that white men are most responsible for technological innovation."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "",
+    "sentence": "Black women have always engaged with technology; it is the definition of technology and technical expertise that shifted.",
+    "after": "Black women, as purveyors of the home, had to master many forms of technology."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "Black women, as purveyors of the home, had to master many forms of technology.",
+    "sentence": "However, if the everyday use of the term technology shifts to no longer include their tools, systems of labor, and modes of communication, their labor, bodies, and expertise could be devalued.",
+    "after": "This idea persists today in beliefs and policies that view the labor done by Black and brown persons, white women, and low-income earners as unskilled work, worthy of less pay, fewer benefits, and less respect."
+   },
+   {
+    "loc": 29,
+    "page": "PDF p. 29",
+    "kind": "p",
+    "before": "",
+    "sentence": "While I question the use and deployment of the term technology in its current form, I do not suggest we view technology solely as a tool of oppression.",
+    "after": "Amiri Baraka (1969) suggests that Black folks’ encounter with the U.S. since the transatlantic slave trade has been a history bound up with their encounters with Western technology."
+   },
+   {
+    "loc": 34,
+    "page": "PDF p. 34",
+    "kind": "p",
+    "before": "As we turn our attention to digital production and technoculture in the chapters that follow, digital Black feminism raises essential questions about how Black women’s labor and thought work can now be profitable for Black women.",
+    "sentence": "Finally, to understand and centralize Black women in the study of digital tools and culture, we require a new analytical tool that breaks free from the limitations of technology as a product of whiteness.",
+    "after": "We need a device for understanding Black feminist technoculture oriented toward Black women, not white folks or Black men."
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "Black women’s hair care technologists created a road map for using tools to center Black women and achieve financial independence.",
+    "sentence": "The beauty shop’s technologies are a part of a Black feminist technoculture that begins before the digital era but explains much of Black women’s mastery of said era.",
+    "after": "The beauty shop displays Black hair care technologies’ brilliance, the entrepreneurship of Black women proprietors of the shop, and Black feminist communication"
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 4,
+  "input": "54ff6e5b935e",
+  "candidates": [
+   {
+    "loc": 32,
+    "page": "pp. 44–45",
+    "kind": "p",
+    "before": "Initially going viral in 2015 for a video in which he portrayed a disgruntled Black woman America’s Next Top Model contestant arguing with a spliced-in Tyra Banks, who hosts the show, BlameItOnKway established himself as a YouTube comedian who specialized in portraying Black women who think they are beautiful when they are not.",
+    "sentence": "He harnessed the widely circulating clip of Banks’s emotional diatribe at a contestant, manipulating digital technology for misogynoiristic success.",
+    "after": "Like Perry and the others before him, Rogers built his success on the misogynoir that animates his portrayal of Titi."
+   },
+   {
+    "loc": 44,
+    "page": "pp. 70–71",
+    "kind": "p",
+    "before": "The catharsis that came through the process of writing her book is part of the reason she chose the medium.",
+    "sentence": "Despite being an avid YouTube, Twitter, and Tumblr user, Mock used the comparatively old technology of the book to tell her story.",
+    "after": "Mock talked of the importance of getting her book to incarcerated trans women and making sure there were copies in local libraries so that anyone who needed her words could find them."
+   },
+   {
+    "loc": 60,
+    "page": "pp. 103–105",
+    "kind": "p",
+    "before": "Building on queer of color media production and artistic movements from the 1970s, 1980s, and 1990s, younger voices are creating innovative web series, visibility projects, and funding initiatives that reimagine mainstream narratives about their identities.",
+    "sentence": "The successful crowdsourced campaign to turn writer and director Dee Rees’s short film Pariah (2011) into a feature-length film is an example of Black queer media products enabled by digital technologies.",
+    "after": "Rees intentionally reached out to Black and queer web communities like Quirky Black Girls and Beyond Stud, which were Facebook-like niche sites for people to connect around these identities."
+   },
+   {
+    "loc": 97,
+    "page": "pp. 182–183",
+    "kind": "p",
+    "before": "The activist and scholar Angela Davis; Mary Hooks, leader of the Black Mamas Bailout movement; Mariame Kaba, theorist on transformative justice; and Ruth Wilson Gilmore, co-founder of Critical Resistance, are just a few of the leaders who are asking us to rethink our relationship to those who cause harm and the way we deal with them in society.",
+    "sentence": "Critical race and digital studies scholars Ruha Benjamin, Kishonna L. Gray and Alondra Nelson research at the intersections of Black lives, health, the carceral state, and technology, asking us to reimagine what our world might look like if the people were collaboratively working with the scientists and technologists that structure our institutions and world.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 43,
+  "input": "020b84f2c7c0",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "The text is guided by the principle that technical expertise and awareness of critical issues are inseparable.",
+    "sentence": "Every section of this book weaves ethical and critical concerns into the application of technology in the belief that digital humanities methods are a combination of these.",
+    "after": ""
+   },
+   {
+    "loc": 16,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "Understanding the ways in which each aspect of these activities engages technical as well as ethical considerations helps shape responsible work in digital projects.",
+    "sentence": "This assists innovation that brings humanistic values to bear on technological procedures.",
+    "after": "Technological instruments are never value-"
+   },
+   {
+    "loc": 174,
+    "page": "p. 159",
+    "kind": "p",
+    "before": "A set of conversations about Black Spatial Humanities brought these issues into focus.",
+    "sentence": "Kim Gallon’s work has galvanized the relationship between Africana/African American/Black studies and the digital humanities, along with projects that make use of geospatial technologies (Gallon 2016).",
+    "after": "The framing questions, posed by Gallon and others, are whether digital humanities can be in any way transformative, and how to use these technological methods as social forces."
+   },
+   {
+    "loc": 175,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "Kim Gallon’s work has galvanized the relationship between Africana/African American/Black studies and the digital humanities, along with projects that make use of geospatial technologies (Gallon 2016).",
+    "sentence": "The framing questions, posed by Gallon and others, are whether digital humanities can be in any way transformative, and how to use these technological methods as social forces.",
+    "after": ""
+   },
+   {
+    "loc": 229,
+    "page": "p. 214",
+    "kind": "p",
+    "before": "The myth of the “cloud” as an “immaterial” environment is just that, a myth.",
+    "sentence": "Digital technology runs on chips and processors that involve rare minerals and metals.",
+    "after": "These are mined in dangerous circumstances, often by individuals who are exploited and mistreated."
+   },
+   {
+    "loc": 229,
+    "page": "p. 214",
+    "kind": "p",
+    "before": "However, some proprietary products have a strong market share and are also likely to continue to be used.",
+    "sentence": "Consult with experts such as your technology advisors in your institution.",
+    "after": "Make your work conform to their environment if you can."
+   },
+   {
+    "loc": 233,
+    "page": "p. 218",
+    "kind": "p",
+    "before": "(In the 19th century, publishers’ agents used to meet shipments of new bestselling books from foreign countries at the docks, run them up to the printers, and issue unauthorized editions for profit.)",
+    "sentence": "The Berne Convention guidelines were updated regularly into the late 20th century, but then in 1996 WIPO created a Copyright Treaty in recognition of changes brought by networked technologies.",
+    "after": "The WIPO portal contains useful and interesting resources, many of which are specific to digital technologies, such as WIPO Proof, designed to give date-stamped, tamper-proof, evidence of the existence of data or files to help “safeguard the many outputs” of an individual work."
+   },
+   {
+    "loc": 233,
+    "page": "p. 218",
+    "kind": "p",
+    "before": "The Berne Convention guidelines were updated regularly into the late 20th century, but then in 1996 WIPO created a Copyright Treaty in recognition of changes brought by networked technologies.",
+    "sentence": "The WIPO portal contains useful and interesting resources, many of which are specific to digital technologies, such as WIPO Proof, designed to give date-stamped, tamper-proof, evidence of the existence of data or files to help “safeguard the many outputs” of an individual work.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 447,
+  "input": "33e75ad3892c",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "pp. 33–34",
+    "kind": "p",
+    "before": "",
+    "sentence": "Consider, for example, the one aspect of Amazon’s business model that is truly different from that of its historical counterparts in the industrial-era retail economy: namely, its integration of sophisticated computational technologies at every level of the firm, from customer-facing web interfaces to back-end databases to global positioning systems.",
+    "after": "It is because of its use of these technologies that we think of Amazon as a key player in the digital economy in the first place."
+   },
+   {
+    "loc": 23,
+    "page": "pp. 33–34",
+    "kind": "p",
+    "before": "Consider, for example, the one aspect of Amazon’s business model that is truly different from that of its historical counterparts in the industrial-era retail economy: namely, its integration of sophisticated computational technologies at every level of the firm, from customer-facing web interfaces to back-end databases to global positioning systems.",
+    "sentence": "It is because of its use of these technologies that we think of Amazon as a key player in the digital economy in the first place.",
+    "after": "And, indeed, Amazon’s implementation of these technologies was so successful that the company soon decided to package them for sale as commodity computational services and infrastructure."
+   },
+   {
+    "loc": 28,
+    "page": "pp. 43–44",
+    "kind": "p",
+    "before": "It is also essential that we recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures, including our virtual infrastructures.",
+    "sentence": "One of the most currently overhyped technologies in the computer industry is the virtual and distributed trust infrastructure known as the blockchain.",
+    "after": "This technology is attracting a massive amount of attention (and a slightly less massive amount of investment capital), and its financial and technological viability is entirely dependent on the mistaken assumption that the computational resources provided by the Cloud are essentially free—or will eventually be free in some unspecified and indeterminate future."
+   },
+   {
+    "loc": 65,
+    "page": "pp. 110–111",
+    "kind": "p",
+    "before": "But first we must examine the narratives we already inherit about the internet and about information technology.",
+    "sentence": "Many of us still think of information technology as a clean, technological space free from the messiness of human politics.",
+    "after": "Clean technological imaginaries, free of politics, can offer a tempting escape from history’s entanglements and even facilitate creative technological design in the short run."
+   },
+   {
+    "loc": 88,
+    "page": "pp. 153–154",
+    "kind": "p",
+    "before": "",
+    "sentence": "From the beginning, societal biases have played a major role in constructing and deploying computer systems because high technology is not the radical agent of change that those in power often profit from presenting it as.",
+    "after": "The computer revolution was not a revolution in any true sense: it left social and political hierarchies untouched, at times even strengthening them and heightening inequalities."
+   },
+   {
+    "loc": 107,
+    "page": "pp. 188–189",
+    "kind": "p",
+    "before": "Consider the following: as of November 2017, 51 percent of web pages are written in English, with Russian having the next largest share, at 6.7 percent; over twenty-five languages have 0.1 percent representation, and over 100 languages have fewer than 0.1 percent representation online.",
+    "sentence": "Software is still written in Latin alphabets because computational technology was never conceived with the ideal of being inclusive of language.",
+    "after": "For example, the ASCII character code only supports 128 different characters, so as a result, complex script languages like Chinese, which need more characters, are pushed to the margins."
+   },
+   {
+    "loc": 109,
+    "page": "pp. 191–192",
+    "kind": "p",
+    "before": "",
+    "sentence": "Part of the challenge of democratizing the process and the technology is the prevailing misconception that accents are not only undesirable but unintelligible for use in speech technologies.",
+    "after": "Deeply unsettled by this notion, I conducted a study in 2013 to answer the following:"
+   },
+   {
+    "loc": 110,
+    "page": "pp. 193–194",
+    "kind": "p",
+    "before": "As more devices embed speech as a mode of communication using standard accents, speakers who cannot or will not assimilate will continue to be marginalized.",
+    "sentence": "However, given the growing services across a range of devices and contexts, speech technologies are an ideal platform for the performance and representation of linguistic diversity.",
+    "after": "Given this potential, Meryl Alper challenges us to ask the critical question with regards to the design and development of speech technologies: “who is allowed to speak and who is deemed to have a voice to speak in the first place?”"
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 150,
+  "input": "264459d81b47",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "When understood through what I call an intersectional and interdependent orientation, a methodology that draws from both critical race studies and disability studies, language diversity can be used as a point of analysis, intervention, and collaboration in technical communication—allowing researchers to continue to develop critical frameworks for designing and sharing tools, technologies, platforms, pedagogies, and projects that work toward language access.",
+    "after": "At the same time, I argue that accomplishing language access is just one component of designing a successful multilingual experience and that technical communication researchers should continue to acknowledge their own positionalities when working with communities that do not communicate predominantly in standardized white English (Jones and Williams 2018)."
+   },
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "In her foundational work Cross-Cultural Technology Design, Huatong Sun (2012) explains that when cross-cultural work is approached through positivist orientations that value efficiency over depth, researchers can (sometimes unintentionally) address only the “tip of the iceberg” in cross-cultural interactions.",
+    "after": "That is, when cross-cultural design research relies on practical checklists and standardized protocols, researchers can adopt or even reproduce cultural stereotypes (Ding 2020; Jones and Williams 2018) instead of localizing technologies and designs successfully across cultures and contexts."
+   },
+   {
+    "loc": 108,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "This was particularly important to me as a faculty member who taught the digital rhetoric, technology, and technical communication courses in the program.",
+    "sentence": "Orienting to technology and technical communication through the social justice–driven frameworks presented in this book, I wanted to find ways to expand our program’s definition of technology and effective communication design, and I knew that to do so, I needed to learn from our Nepali students.",
+    "after": "In addition, as I began my career on the tenure track in this context, at this institution with brilliant students from so many places, I kept going back to a question several people had asked regarding my previous research (including the work presented in chapter 4): “Your work on multilingualism and technology with Spanish/English speakers is really interesting, but have you ever worked in multilingual contexts that include languages you don’t speak?”"
+   },
+   {
+    "loc": 128,
+    "page": "p. 112",
+    "kind": "p",
+    "before": "Material Technologies While incorporating translation into UX activities encouraged more participation from students in our Kathmandu workshops, we also needed to develop other activities and methods to help the group generate ideas about the types of projects they would like to undertake during our time together.",
+    "sentence": "To start, it was important to counter assumptions about students’ “technological literacy,” since several students were initially concerned with their ability to successfully build websites and other platforms.",
+    "after": "Long-standing conversations about technological “literacy” have positioned South Asian communities, and Nepali communities specifically, as deficient in technological expertise; these false assumptions undoubtedly make their way into classroom and workshop spaces."
+   },
+   {
+    "loc": 141,
+    "page": "p. 125",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the context of the workshops at SAFAR, approaching community translation through intersectional, interdependent methodologies required an attunement to the history of English, Nepali, and various Indigenous languages in Nepal as well as the role colonization plays in contemporary classroom spaces and definitions of technological literacy.",
+    "after": "Furthermore, the emphasis on translation in participatory design, established in part through affinity diagramming and the yarn activity, reflected the interdependent nature of participation in this particular context."
+   },
+   {
+    "loc": 171,
+    "page": "p. 155",
+    "kind": "p",
+    "before": "We designed an action plan that stemmed directly from their conversations on topics such as professional development for Indigenous language translators and interpreters, coalition building, accountability, and others.",
+    "sentence": "At the conclusion of the unconference event, many roundtable participants pointed to the power of technology as a potential avenue for staying connected and for continuing the work of advocating for the critical importance of Indigenous language interpretation across the world.",
+    "after": "These conversations directly countered the “dominant narrative” regarding Indigenous communities and technological innovation, a narrative that often positions Indigenous communities as technologically “illiterate” or resistant (Gómez Mentjívar and Chacón 2019, 3)."
+   },
+   {
+    "loc": 171,
+    "page": "p. 155",
+    "kind": "p",
+    "before": "These conversations directly countered the “dominant narrative” regarding Indigenous communities and technological innovation, a narrative that often positions Indigenous communities as technologically “illiterate” or resistant (Gómez Mentjívar and Chacón 2019, 3).",
+    "sentence": "As many scholars have noted, positivist notions of technology have historically (and contemporarily) led to the “extraction” (Gómez-Barris 2017) of resources, information, and land from Indigenous peoples.",
+    "after": "Yet as scholars also point out, Indigenous communities are consistently reclaiming technology as a tool for survival and activism as “the practice of indigenizing technology transforms new media into a tool for survival, and, more specifically, into a survivance story” (Gómez Mentjívar and Chacón 2019, 6)."
+   },
+   {
+    "loc": 189,
+    "page": "p. 173",
+    "kind": "p",
+    "before": "To design multilingual experiences in technical communication is to move beyond binaries, to center positionality, to pause and embrace complexity, and to reposition “error” and “messiness” as intentional elements of all language work.",
+    "sentence": "As technical communicators continue to engage in multilingual communication projects, we should remember that language, like technology, is never neutral and that the rhetorical choices we make in the languages we use when communicating with our participants have just as much, if not more, influence on the results of our work as do the research protocols, methods, and frameworks we embrace.",
+    "after": "As the participants in this book illustrate, language in its many dimensions mediates all communication and should thus be centralized rather than ignored in contemporary technical communication work."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 295,
+  "input": "542b8fc80bac",
+  "candidates": [
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "The conflation between the misuse of categories and categories per se is a reductive characterization of how most CA practitioners understand the role of categories in their work.",
+    "sentence": "It is an indisputable fact that historically, data, statistics, and, more broadly, technology as a means for categorization have been used or associated with the marginalization and oppression of queer people.",
+    "after": "However, that should not be taken to mean that technology or categorization is inherently reductive."
+   },
+   {
+    "loc": 109,
+    "page": "pp. 168–169",
+    "kind": "p",
+    "before": "",
+    "sentence": "First and foremost, scholars in the digital humanities should broadcast our core belief that technologies are best understood as sociotechnical systems.",
+    "after": "This broader view acknowledges that technology cannot be divorced from its social context."
+   },
+   {
+    "loc": 115,
+    "page": "pp. 180–181",
+    "kind": "p",
+    "before": "Although the punch card technology was used for processing and tabulating data in census-taking operations since the 1890s, it was innovated on, instrumentalized, and weaponized to execute the race science and surveillance agenda of the Third Reich (Pugh).",
+    "sentence": "If we are to acknowledge the IBM punch card technology as an essential antecedent of the digital humanities, then we must be cognizant of its problematic history and remain vigilant in defending against future harms.",
+    "after": ""
+   },
+   {
+    "loc": 139,
+    "page": "p. 223",
+    "kind": "p",
+    "before": "Digital art history, that is, cannot exist hived off from art history as it currently is, to a large extent.",
+    "sentence": "To achieve a deeper integration of art history with digital humanities, we must understand digital technologies as the result of ongoing historical processes and within their cultural, social, and political contexts.",
+    "after": "Rather than thinking only in terms of “the digital,” we must think of technological change in a more historical and socially and culturally inflected sense, to encompass, for example, both analog photography and digital imaging, or the physical printing of books as well as the production of online publications using static site generators."
+   },
+   {
+    "loc": 143,
+    "page": "p. 230",
+    "kind": "p",
+    "before": "",
+    "sentence": "Similarly, those skeptical of the relevance of technology for humanities practice often view technology as an external force invading the discipline and as restrictive and soulless.",
+    "after": "Moreover, they focus their critique on the computer itself and its related infrastructure—the internet, data systems, software, algorithms, or corporations like Google or Amazon."
+   },
+   {
+    "loc": 150,
+    "page": "pp. 240–241",
+    "kind": "p",
+    "before": "Africana DH aligns with postcolonial DH as asserted in Roopika Risam’s book New Digital Worlds by having a basis in tools and methodologies designed with local practices in mind.",
+    "sentence": "“These practices,” Risam asserts, “favor the particular over the universal [and] offer the promise of a more expansive humanities that takes advantage of the technological means of digital knowledge production to create space for underrepresented communities to populate the digital cultural record with their own stories” (Risam, 9).",
+    "after": "Africana DH goes further by acknowledging that the process of knowledge recovery and production happens before digitization and computation, allowing communities to be empowered regardless of technological prowess."
+   },
+   {
+    "loc": 151,
+    "page": "pp. 242–243",
+    "kind": "p",
+    "before": "",
+    "sentence": "Africana DH is the study and exploration of history, literature, sociology, politics, and the arts using technology as a means of recovery, healing, and knowledge production.",
+    "after": "“Recovery rests at the heart of Black Studies,” as Kim Gallon suggests, and Black digital humanities “troubles the very core of what we have come to know as the humanities by recovering alternate constructions of humanity that have been historically excluded from that concept” (44)."
+   },
+   {
+    "loc": 155,
+    "page": "pp. 249–250",
+    "kind": "p",
+    "before": "For example, suppose students can shift their perspective to understand their networks as a larger community ripe for transnational solidarity.",
+    "sentence": "In that case, we hope that they can reimagine the futures they want together—especially their relationship with technology as a tool for their empowerment.",
+    "after": ""
+   }
+  ]
+ }
+]

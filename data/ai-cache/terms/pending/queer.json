@@ -1,0 +1,1180 @@
+[
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 1,
+  "input": "93c5ec3e14f1",
+  "candidates": [
+   {
+    "loc": 78,
+    "page": "PDF p. 78",
+    "kind": "p",
+    "before": "Humans are essentially hyphenated creatures, he asserts, creative-destructive, peaceful-aggressive.",
+    "sentence": "The appearance on the island of “queer limbs,” men who have had their arms and legs amputated and replaced by atomic-powered plastic prostheses, brings Martine’s philosophy of the hyphen into juxtaposition with the splice, the neologistic cutting, rejoining, and recircuiting that makes a cyb/ernetic org/anism into a cyborg.",
+    "after": "On the level of plot, the intrusion of the cyborgs gives Martine an excuse to leave his island family and find out how the world has shaped up in the aftermath of the war."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 1,
+  "input": "da39a3ee5e6b",
+  "candidates": []
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 2,
+  "input": "8cff374601d6",
+  "candidates": [
+   {
+    "loc": 40,
+    "page": "PDF p. 40",
+    "kind": "p",
+    "before": "Although marionettes offer, it seems, the most extreme case of direct causality—just follow the strings— puppeteers will rarely behave as having total control over their puppets.",
+    "sentence": "They will say queer things like ‘their marionettes suggest them to do things they will have never thought possible by themselves’.",
+    "after": "When a force manipulates another, it does not mean that it is a cause generating effects; it can also be an occasion for other things to start acting."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "Naturally, many branches of social science made the same effort, especially feminist studies, queer studies, some cultural studies and most of anthropology.",
+    "after": "But is it really unfair to say that those bodies of work risked remaining peripheral, marginal, and exotic as long as they were contrasted with scientific objectivity, which was supposed to escape from that sort of treatment?"
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 13,
+  "input": "c5e29fe5673b",
+  "candidates": [
+   {
+    "loc": 84,
+    "page": "p. 73",
+    "kind": "p",
+    "before": "Despite his value to the war effort, he was nonetheless persecuted for his sexual difference.",
+    "sentence": "Like the codetalkers, Turing as well can be seen as ultimately an object of interactivity, rather than a subject; his disempowered status as a social subject despite his importance to the military industrial complex constitutes an early paradigmatic example of an intolerably and ultimately disposable queer body that is tolerated provisionally because of its ability to produce machine code.",
+    "after": "The dream of a secure communication network that could work in real time that was temporarily realized by Navajo codetalkers was partly fulﬁlled by Turing’s early work in machine cryptography, which has since led to secure digital information systems."
+   },
+   {
+    "loc": 118,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "Both are troped as users with mystical privileges and uncannily close relations to computing machines.",
+    "sentence": "The fantasy of fusion with, or total control of, the machine carries dangers along with it, as it is a desire that when fulﬁlled results in either a queered whiteness, as in Agent Smith’s example, or a decadent and ethically problematic position of detached privilege, as in the case of the Architect.",
+    "after": "Only Anderson/Neo’s liminal whiteness through association with blackness and Asianness saves him from these fates; and, as I discuss later, Anderton’s disenfranchisement by the dataveillant state works as well to envision his body as nonwhite."
+   },
+   {
+    "loc": 166,
+    "page": "p. 155",
+    "kind": "p",
+    "before": "Women who work outside the home must carefully weigh factors such as economic need and work climate when they decide how and when they wish to reveal their pregnancies in the workplace.",
+    "sentence": "This discourse of “outing” is in some sense a queer one; pregnancy is a state of difference whose visibility and legibility are, at least at ﬁrst, performative and volitional.",
+    "after": "Thus pregnant avatars represent a state that is by deﬁnition temporary."
+   },
+   {
+    "loc": 189,
+    "page": "p. 178",
+    "kind": "p",
+    "before": "Even in cases in which Internet users of color do engage with the Internet mainly as consumers, participation in online petitions used to protest retail racism, as in the case of the Abercrombie and Fitch T-shirts, and media racism, as in the case of a controversial “Asian or Gay?” article in Details magazine, demonstrates not only that users of color use the Internet to organize and protest, but more importantly how they use the form of the petition itself to enable discourse that reveals ambivalent, complex and rich understandings of racial identity.",
+    "sentence": "Already- existing cultural representations of Asian American men, in particular, as queered and emasculated in terms of their identities as consumers of retail goods, are extended by studies of Internet use that emphasize access, or consumption of the Internet, rather than production.",
+    "after": "Asians, and in particular Asian men, are thus imagined primarily as shoppers."
+   },
+   {
+    "loc": 199,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "Asian Americans use petition boards as community spaces in conﬂicted, rich, and ambivalent ways.",
+    "sentence": "Threats to the community are dealt with mostly via identitarian calls to “AZN pride,” yet the formatting of the petition space itself encourages and indeed requires that these responses be read in dialogue with other comments, many of which complicate Asianness as a category and (most importantly in my ﬁrst case, the Details magazine “Asian or Gay” image) oppose queerness to Asianness in ways that suggest limited victories for racial justice.",
+    "after": "Rampant homophobia among Asian American protesters on this site splits potential community formation and produces online texts that demand intersectional critique."
+   },
+   {
+    "loc": 200,
+    "page": "p. 189",
+    "kind": "p",
+    "before": "them: Evisu jeans are explained as follows: “A bonsai ass requires delicate tending.”",
+    "sentence": "The emphasis on the queerness and delicacy of the Asian body as conﬁgured by its patterns of consumption and style runs throughout the article; even an item as seemingly innocuous as an unbranded “white t-shirt” is indexed as follows: “V-neck nicely showcases sashimi smooth chest.",
+    "after": "What other men visit salons to get, the Asian gene pool provides for free.”"
+   },
+   {
+    "loc": 201,
+    "page": "p. 190",
+    "kind": "p",
+    "before": "What other men visit salons to get, the Asian gene pool provides for free.”",
+    "sentence": "This emphasis on the genetic difference of the Asian man conﬁgures him as inherently queer.",
+    "after": "This Asian American man is ﬁgured within the discourse of the contemporary dandy or metrosexual at best, outright queer at worst."
+   },
+   {
+    "loc": 202,
+    "page": "p. 191",
+    "kind": "p",
+    "before": "",
+    "sentence": "Unsurprisingly, the Asian American popular press was quick to decry the imputation of queerness to Asian American men and to speak in favor of rehabilitating the image to make it more masculine.",
+    "after": "Rather than picking up on the class bias at work here, one that is part of the “model minority” myth that images all Asians as wealthy and wired consumers, Patrick Mangto, executive director of Asian Paciﬁc Islanders for Human Rights (APIHR), a support and advocacy group for the API LGBT community, complained that “as usual, from the mainstream community. . . there is the assumption that all Asian men are effeminate.”"
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 5,
+  "input": "719b5ab7065f",
+  "candidates": [
+   {
+    "loc": 145,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "",
+    "sentence": "“queer the movement, expressing more complex and sophisticated conceptions of loyalty, legality, migration, sexuality, and patriotism than those typically offered by",
+    "after": ""
+   },
+   {
+    "loc": 146,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although Beltrán is careful not to simply celebrate this queering, since doing so can fall",
+    "after": ""
+   },
+   {
+    "loc": 146,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "",
+    "sentence": "into the trap of “homonationalism” and thus support narratives of American exceptionalism (i.e., Look, we Americans are so more enlightened than ‘savage’ countries, which do not respect the rights of homosexuals), she does see this queering—in particular the work of unapologetic",
+    "after": ""
+   },
+   {
+    "loc": 146,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "",
+    "sentence": "This rejection of privacy—specifically the privacy protection of normative national culture—is, as Lauren Berlant has argued, quintessentially queer.",
+    "after": ""
+   },
+   {
+    "loc": 147,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "",
+    "sentence": "or “DREAM” or “QUIP” (Queer, Undocumented, Immigrant Project).",
+    "after": "They embrace and indeed accentuate Youtube.com’s"
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 1,
+  "input": "fbd87fda096e",
+  "candidates": [
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "",
+    "sentence": "In talking to some queer pornographers, I’ve learned that some of their former models are now elementary school teachers, clergy, professors, child care workers, lawyers, mechanics, health care professionals, bus drivers and librarians.",
+    "after": "We live and work in a society that is homophobic and not sex positive."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 2,
+  "input": "c0d130eeb08f",
+  "candidates": [
+   {
+    "loc": 32,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "She argues that the modularity subtending both the Unix operating system and racism since the mid-​twentieth century reveals the challenge of addressing the connections between technology and racial politics in digital humanities.",
+    "sentence": "Amy Earhart asks, “Can information be unfettered?” suggesting that digital textual editing of writing by women, African Americans, and queer writers is an important intervention in the residual canonicity that fetters the digital cultural record.",
+    "after": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives."
+   },
+   {
+    "loc": 115,
+    "page": "p. 106",
+    "kind": "p",
+    "before": "A critical look at Wikipedia reveals that the level of coverage of the world beyond the United States and western Europe is lacking.",
+    "sentence": "Even within those regions, entries related to ethnic minorities, women, queer communities, and other marginalized groups are comparatively less developed or absent.",
+    "after": "The content that is most widely represented on Wikipedia reflects the interests of Wikipedia editors, the majority of whom are male, middle class, and white."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 310,
+  "input": "7a4f84888ef9",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "",
+    "sentence": "Notions of queering digital work bridges between “Values” and “Embodiment” in this collection, demonstrating just how intrapenetrable such boundary objects can be.",
+    "after": "In their work on lesbian digital humanities, Michelle Schwartz and Constance Crompton argue that digital methodology matters as much to histories of queer bodies and lives as informational content of such study, because “the accumulation of data and the rhetorical structuring of that data (in these examples often as a list) serve as important acts of lesbian self-definition.”"
+   },
+   {
+    "loc": 136,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "",
+    "sentence": "“Queer” is a word with a long history and a complexity of meaning.",
+    "after": "From its origins as a pejorative, it has been reclaimed in recent decades by academic and popular communities alike."
+   },
+   {
+    "loc": 136,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "Not every person whose identities fall within this category identifies as queer, however, and “queer” itself is a contested term.",
+    "sentence": "Within the context of queer studies, the concept of queerness has been interpreted and reinterpreted in manifold ways.",
+    "after": "From across the work of generations of queer theorists, queerness has emerged as a way of being that is complex and contradictory: at once joyful and destructive, hopeful and fierce."
+   },
+   {
+    "loc": 137,
+    "page": "p. 109",
+    "kind": "p",
+    "before": "We are far from alone in calling for an increased investment in social criticism in DH (e.g., Bailey; Crompton, Siemens, Arbuckle, and INKE; Koh; Liu), and others before us, such as Kara Keeling in her writing on a “Queer OS,” have explored ways in which queerness might reimagine the cultural narratives that surround computational technologies.",
+    "sentence": "Our intervention is to build from this work in order to argue for positioning queerness as a central element of DH methodologies.",
+    "after": "When we ask, “Where is the queerness in the digital humanities?,” we are also asking, “What might it mean to do the work of the digital humanities queerly?”"
+   },
+   {
+    "loc": 142,
+    "page": "p. 114",
+    "kind": "p",
+    "before": "A generative starting point is Kara Keeling’s “Queer OS,” which outlines the properties of an imagined queer operating system that itself offers new frameworks for making sense of society and identity.",
+    "sentence": "In Keeling’s formulation, inspired by Tara McPherson, Queer OS is “a project at the interfaces of queer theory, new media studies, and technology studies” that structures itself around the logics of queerness (153).",
+    "after": "Keeling’s Queer OS, should it exist, would understand cultural phenomena like “race, gender, class, citizenship, and ability . . . to be mutually constitutive with sexuality and with media and information technologies.”"
+   },
+   {
+    "loc": 145,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "In “Interferences: [Net.Writing] and the Practice of Codework,” Rita Raley notes that codework allows programming languages to break the surface, rather than simply leveraging them to perform the invisible labors of technology.",
+    "sentence": "This refiguration of code—as elusive, hidden, and ultimately uncontrollable—resonates with queer theory’s notion of queer meaning as similarly submerged and anxiogenic.",
+    "after": "Referring to Jessica Loseby’s net.art work Code Scares Me, Raley notes how it thematizes “anxieties about [the] intrusion, contamination, and uncontrollability” of code (Raley)."
+   },
+   {
+    "loc": 147,
+    "page": "p. 119",
+    "kind": "p",
+    "before": "It acts in opposition to “straight,” but refuses to clarify exactly how; at the same time, it stands to be subsumed by more specific identities as the need arises.",
+    "sentence": "Since “queer” is a reclaimed term, it is not uncommon to meet someone who refutes queerness, who instead feels more comfortable with “gay” or “lesbian” as an identifier.",
+    "after": "This inherent instability “messes up” the labor of description."
+   },
+   {
+    "loc": 147,
+    "page": "p. 119",
+    "kind": "p",
+    "before": "This inherent instability “messes up” the labor of description.",
+    "sentence": "In their essay “Queer Practice as Research: A Fabulously Messy Business,” Alyson Campbell and Stephen Farrier identify the messiness of queerness as a methodology, one in which “messiness is imbricated with queerness and where cleanliness in knowledge production is associated with knowledge forms that have routinely occluded the queer and the non-normative in an effort to tidy up hypotheses and conform to hegemonic forms of ‘rigour’ ” (Campbell and Farrier, 84).",
+    "after": "Queer knowledge, in short, is messy."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 15,
+  "input": "713d7cc6b1b4",
+  "candidates": [
+   {
+    "loc": 55,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "In other words, intersectionality acknowledges the problems of focusing on one form of oppression while excluding another.",
+    "sentence": "Scholars who embrace intersectional approaches to technical communication may look to Black feminist thought and queer theory.",
+    "after": "For example, in discussing his approach to teaching queer rhetorics in technical communication, Cox (2018) reminds us that queer theory accounts for intersections in that it “is not only concerned with whatever is non-normative but also seeks to constantly disrupt the normative as well” (p. 291)."
+   },
+   {
+    "loc": 55,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "Scholars who embrace intersectional approaches to technical communication may look to Black feminist thought and queer theory.",
+    "sentence": "For example, in discussing his approach to teaching queer rhetorics in technical communication, Cox (2018) reminds us that queer theory accounts for intersections in that it “is not only concerned with whatever is non-normative but also seeks to constantly disrupt the normative as well” (p. 291).",
+    "after": "As he asserts, intersectional approaches to TPC require that we “move beyond oversimplified ideas of ‘diversity’ and monolithic categories that do not allow for multiplicity and complexity” (p. 289)."
+   },
+   {
+    "loc": 93,
+    "page": "p. 66",
+    "kind": "p",
+    "before": "Positionality provides a frame for understanding that, perhaps counter-intuitively, many people simultaneously occupy some seemingly contradictory identities: For example, college-educated professional with mental illness and disabilities, rural Southern Christian lesbian, etc. These supposed contradictions among our identity categories create points of tension as we try to live out what it means to be supposedly contradictory things simultaneously.",
+    "sentence": "For example, whereas dominant perspectives may insist upon what Anzaldúa (2007) calls “an absolute despot duality that says we are able to be only one [sex] or the other,” positionality accounts for complexity in which, for example, Anzaldúa (2007) occupies a both/and position, explaining, “But, I, like other queer people, am two in one body, both male and female.",
+    "after": "I am the embodiment of the hieros gamos: the coming together of opposite qualities within” (p. 41)."
+   },
+   {
+    "loc": 96,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "People whose combination of identity markers conflict with mythical norms often have a precarious, dangerous, and/or tense relationship with some of the social groups to which they ascribe.",
+    "sentence": "One example is the utter (often violent) rejection of lesbian, gay, bisexual, transgender, queer (LGBTQ) people from their racial social groups, family social groups, or community social groups: Anzaldúa (2007) explains, “As a lesbian I have no race, my own people disclaim me” (p. 102); she writes similarly about a gay man of color who is rejected, stabbed, and beaten by his “brothers.”",
+    "after": "A less extreme but no-less-burdensome example is detailed by legal scholars Devon Carbado and Mito Gulati (2000)."
+   },
+   {
+    "loc": 162,
+    "page": "p. 135",
+    "kind": "q",
+    "before": "",
+    "sentence": "People’s lives are not comprised of singular identities or concerns…As queer women of color feminists have always shown us, oppression and privilege, power and identity, domination and liberation are experienced in people’s lives in vastly complicated ways.",
+    "after": "We need equally complicated understandings of how people who are committed to social change work to confront these material and symbolic conditions."
+   },
+   {
+    "loc": 198,
+    "page": "p. 171",
+    "kind": "p",
+    "before": "and underrepresented groups in our field.",
+    "sentence": "These groups include colleagues who are racial and ethnic minorities; colleagues who are lesbian, gay, queer, transgender, or bisexual; colleagues with disabilities and colleagues who are neurodiverse; among others.",
+    "after": "You will note, however, the omission of white women from this list, an indication that they are not underrepresented in the field, though we certainly (as members of Women in Technical Communication) acknowledge the ways women continue to face sexism in professional environments and elsewhere."
+   },
+   {
+    "loc": 200,
+    "page": "p. 173",
+    "kind": "p",
+    "before": "Moeggenberg, Z. C. (2018).",
+    "sentence": "14 A Queer Challenge to Repronormativity in the Digital Classroom.",
+    "after": "Getting Personal: Teaching Personal Writing in the Digital Age, 217."
+   },
+   {
+    "loc": 201,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "Unger, D., & Sánchez, F. (2015).",
+    "sentence": "Locating queer rhetorics: Mapping as an inventional method.",
+    "after": "Computers and Composition, 38, 96–112."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 188,
+  "input": "7d7c62acb358",
+  "candidates": [
+   {
+    "loc": 60,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "I will develop this point in chapter 4, exploring how spaces become occupied because of how they are being used.",
+    "sentence": "I have suggested that use can be queer; use can roam around objects.",
+    "after": "Queer use might refer to how things can be used in ways other than how they were intended to be used or by those other than for whom they were intended."
+   },
+   {
+    "loc": 60,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "I have suggested that use can be queer; use can roam around objects.",
+    "sentence": "Queer use might refer to how things can be used in ways other than how they were intended to be used or by those other than for whom they were intended.",
+    "after": "I am now suggesting use can be how things become more restricted in time."
+   },
+   {
+    "loc": 90,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "",
+    "sentence": "Such curious reversals and complex inversions offer another lens with which to explore the queerness of biology.",
+    "after": "Scholars not only have explored queer biology by finding evidence of homosexual pairings in the animal world or by pointing to organisms that can change sex or to nonsexual forms of reproduction but have also shown how these forms of diversity can attune us to other forms of social complexity and creativity (Bagemihl 1999; Roughgarden 2004)."
+   },
+   {
+    "loc": 90,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "Such curious reversals and complex inversions offer another lens with which to explore the queerness of biology.",
+    "sentence": "Scholars not only have explored queer biology by finding evidence of homosexual pairings in the animal world or by pointing to organisms that can change sex or to nonsexual forms of reproduction but have also shown how these forms of diversity can attune us to other forms of social complexity and creativity (Bagemihl 1999; Roughgarden 2004).",
+    "after": "We can follow their lead by using queer biology to refer to what Gould calls a “peculiar reversal in behavior” and a “complex inversion of form.”"
+   },
+   {
+    "loc": 214,
+    "page": "p. 198",
+    "kind": "p",
+    "before": "Considering the queerness of use is an opportunity to reflect on the ethical and political lessons I have learned from attending to the uses of use.",
+    "sentence": "There are risks in taking up “queer use” in the way I am doing.",
+    "after": "I know I could be asking “queer use” to do too much work; that I could be sliding over too many histories."
+   },
+   {
+    "loc": 214,
+    "page": "p. 198",
+    "kind": "p",
+    "before": "There are risks in taking up “queer use” in the way I am doing.",
+    "sentence": "I know I could be asking “queer use” to do too much work; that I could be sliding over too many histories.",
+    "after": "A risk is also a potential: queer use provides me with a way of making connections between histories that might otherwise be assumed to be apart."
+   },
+   {
+    "loc": 215,
+    "page": "p. 199",
+    "kind": "p",
+    "before": "In fact you can find many newspaper articles from the late nineteenth century that use queer use in exactly this way—articles that refer to the queer uses of cups, bicycles, cigars, and cloisters.",
+    "sentence": "One article that appeared in the Los Angeles Herald on August 28, 1899, is titled “Queer Use for Cloisters.”",
+    "after": "It stated: “The cloisters of the Church of St. Ethelreda, Ely palace, Holborn, London, are now being used for a purpose very diff erent from that for which they were originally intended."
+   },
+   {
+    "loc": 225,
+    "page": "p. 209",
+    "kind": "p",
+    "before": "We might use the word family to describe our queer gatherings: queer use as reuse.",
+    "sentence": "I think of Susan Stryker’s description of what was opened up for the “queer family we were building,” when her partner gave birth to their child.",
+    "after": "She describes: “We joke about pioneering on a reverse frontier: venturing into the heart of civilization itself to reclaim biological reproduction from heterosexism and free it for our own uses.”"
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 6,
+  "input": "691b1fc3563f",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "The effects of privilege and oppression are not distributed evenly across all individuals and groups, however.",
+    "sentence": "For some, they become an obvious and unavoidable part of daily life, particularly for women and people of color and queer people and immigrants: the list goes on.",
+    "after": "If you are a member of any or all of these (or other) minoritized groups, you experience their effects everywhere, shaping the choices you make (or don’t get to make) each day."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "We’ve already asserted that gender is a social construct, but what does this phrase really mean?",
+    "sentence": "Queer theorist Judith Butler has long maintained that gender is best understood as a repeated performance, a set of categories that cohere by, for instance, wearing jeans with small pockets (or no pockets at all) or by participating in an activity that is similarly gender-coded, like child-rearing, or—importantly for Butler—having heterosexual sex.",
+    "after": "These performative acts, as she terms them, repeated so many times that they become taken as fact, are what define the gender categories that we have today."
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "(In our teacher voices, we now say: Does anyone note the problem with this binary thinking here?)",
+    "sentence": "Haimson and Hoffman point out that trans and queer people may choose to have multiple online identities, which may be fluid and contextual and possibly necessary to protect themselves.",
+    "after": "As another example, abuse survivors may need to take steps to make themselves unfindable through search, even as they still want to be connected to their loved ones."
+   },
+   {
+    "loc": 141,
+    "page": "PDF p. 141",
+    "kind": "p",
+    "before": "For example, in 2014, twenty-three students filed a complaint against Columbia University, alleging that Columbia was systematically mishandling cases of rape and sexual violence reported by LGBTQ students.",
+    "sentence": "Zoe Ridolfi-Starr, the lead student named in the complaint, told the Daily Beast, “We see complete lack of knowledge about the specific dynamics of sexual violence in the queer community, even from people who really should be trained in those issues.”",
+    "after": ""
+   },
+   {
+    "loc": 183,
+    "page": "PDF p. 183",
+    "kind": "p",
+    "before": "For example, the work of the Center for Spatial Research at Colombia, led by Laura Kurgan, uses a uniquely transdisciplinary approach that includes data science and AI, the humanities, geography, and design to investigate complicated phenomena like urban/rural displacement due to conflict (figure 8.2).",
+    "sentence": "Scholars like Dean Spade are using queer theory to challenge the institutions that wield data.",
+    "after": "And media studies scholars are examining the intersections of race, gender, sexuality, and data, as Shaka McGlotten does through their Black data project."
+   },
+   {
+    "loc": 183,
+    "page": "PDF p. 183",
+    "kind": "p",
+    "before": "The group has even produced digital trading cards for politicians, which it circulates on social media.",
+    "sentence": "And artist-researchers Ron Morrison and Treva Ellison disrupt Boston redlining maps from 1935 with overlays of “black queer, trans, and feminist geographies” created by the Combahee River Collective (figure 8.5).",
+    "after": "These require viewers to put on special glasses called Racialized Space Reduction Lenses (RSRL) to see beneath the surface."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 37,
+  "input": "b14775720142",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "As a nonbinary, trans*, femme-presenting person, my time at the AMC was deeply liberating.",
+    "sentence": "It’s a conference that strives harder than any that I know of to be inclusive of all kinds of people, including queer, trans*, intersex, and gender-non-conforming (QTI/GNC) folks.",
+    "after": "Although it’s far from perfect, and every year inevitably brings new challenges and difficult conversations about what it means to construct a truly inclusive space, it’s a powerful experience."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "It’s Sunday, February 5, 2017, sixteen days since Donald Trump was sworn into office as president of the United States of America.",
+    "sentence": "A crowd of over one thousand queer and trans* folks, immigrant rights activists, and our family, friends, and allies has assembled at Government Center.",
+    "after": "Huge rainbow LGBTQI+ flags and smaller pink, blue, and white trans* flags flap in the frigid February air, alongside the black, red, and white banners of the antifascist action contingent."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "I climb the steps, carrying my djembe; I’ve been asked to help drum and lead chants during the march over to Copley Square.",
+    "sentence": "First, though, five of the protest organizers, each from a diverse intersection of queer, trans*, and other identities —Black, Latinx, Asian, immigrant, Disabled working-class—pass a microphone around and read a collective statement about the reasons for the mobilization:",
+    "after": ""
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "For example, the medical model might seek “solutions” for wheelchair users that would help them stop using wheelchairs, whereas the social-relational model might seek to ensure that buildings, streets, and bathrooms are all constructed to allow mobility for both wheelchair users and non-wheelchair-users.",
+    "sentence": "Disability justice work, developed by queer and trans* people of color (QTPOC), has also developed an analysis of the interlocking nature of able-bodied supremacy, racial capitalism, settler colonialism, and other systems of oppression.",
+    "after": "According to Patty Berne, cofounder and executive director of QTPOC performance collective Sins Invalid, disability justice is built on the principles of intersectionality, leadership of those most impacted, anti-capitalist politic, cross-movement solidarity, recognizing wholeness, sustainability, commitment to cross-disability solidarity, interdependence, collective access, and collective liberation; a disability justice analysis recognizes that “the very understanding of disability experience itself is being shaped by race, gender, class, gender expression, historical moment, relationship to colonization, and more. … We don’t believe human worth is dependent on what and how much a person can produce."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "Disability justice is to the disability rights movement as environmental justice is to mainstream environmentalism.",
+    "sentence": "Scholars, activists, and cultural workers like Patty Berne, the Sins Invalid collective, Alison Kafer, Leah Lakshmi Piepzna- Samarasinha, Aimi Hamraie, and many others have extensively documented this history and have developed tools for intersectional feminist, queer, and Crip analysis and practice.",
+    "after": ""
+   },
+   {
+    "loc": 121,
+    "page": "PDF p. 121",
+    "kind": "p",
+    "before": "The extreme and open racism, misogyny, and xenophobia of the Trump administration galvanized a massive cycle of struggles, including for immigrant rights (#NoWallNoBan and #KeepFamiliesTogether), against rape culture (#MeToo), and more.",
+    "sentence": "These take place at the same time as the increased mainstream cultural visibility of trans* people of color, the spread of intersectional analysis, and the repoliticization of queer struggle.",
+    "after": "It’s in this context that many feel a desire to realign design values, practices, narratives, sites, and pedagogies with explicitly intersectional feminist, queer, antiracist politics."
+   },
+   {
+    "loc": 121,
+    "page": "PDF p. 121",
+    "kind": "p",
+    "before": "These take place at the same time as the increased mainstream cultural visibility of trans* people of color, the spread of intersectional analysis, and the repoliticization of queer struggle.",
+    "sentence": "It’s in this context that many feel a desire to realign design values, practices, narratives, sites, and pedagogies with explicitly intersectional feminist, queer, antiracist politics.",
+    "after": "Design justice thus is part of a broader cycle of struggles."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "LOLspace.",
+    "sentence": "A queer and trans* people of color–centered, social justice–focused makerspace in East Oakland.",
+    "after": "Launched in 2011, merged with Peacock Rebellion in 2017, and led by a crew of hackers, healers, artists, and activists who are queer and trans* people of color."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 7,
+  "input": "aa289d49cdd5",
+  "candidates": [
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "Black Twitter is best understood as a public group of intentional Black Twitter users rather than a Black online public.",
+    "sentence": "That being said, Black Twitter use has coalesced around the activities of critical feminist and queer activists (specifically Black Lives Matter), allowing for the interpretation of Black Twitter as a public—albeit a terribly understudied one.",
+    "after": "Like other Black online activities, Black Twitter would have been considered niche without the intervention of the hashtag or the trending topic."
+   },
+   {
+    "loc": 73,
+    "page": "PDF p. 73",
+    "kind": "p",
+    "before": "In online spaces, ratchetry should also be understood as the willingness to intentionally be Black and perform Blackness in spaces that are still uninterested in recognizing Black agency.",
+    "sentence": "For Black women and queer folk online, race is often no respite from in-group prejudice; being and performing Blackness is often met with Black male misogyny, sexism, and homo- and transphobia, but nevertheless, they persist.",
+    "after": ""
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "Feminist media scholars have been interrogating ratchetry and ratchet behavior since the term entered the popular lexicon from 2000s-era Southern rap.",
+    "sentence": "Ratchet joins a long list of slang terms (e.g., thot, basic) linking Black bodies—often female and/or queer—with “hood” or deviant behavior (Bradley, 2013a, 2013b; Cooper, 2012; Warner, 2015).",
+    "after": "From rap’s perspective, ratchetry revolves around perceptions of crass materialism, promiscuity, rudeness, ignorance, inappropriateness, dishabille, and occasionally violence."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "This marks dogmatic digital practice—and modern respectability with it—as different from previous incarnations of respectability politics.",
+    "sentence": "The petit bourgeois, youth, queer folk, and other Black subcultures can speak back—publicly and vituperatively—to respectability proponents in ways that were unavailable to them even twenty years ago.",
+    "after": "In the guise of respectability, Black pathos, or the epistemological standpoint of Black culture, is often framed as Black excellence but conflicting internal libidinal tensions can derail its engagement with issues that affect the community."
+   },
+   {
+    "loc": 113,
+    "page": "PDF p. 113",
+    "kind": "p",
+    "before": "Moreover, Blackness is associated with a surfeit of passion and sexuality.",
+    "sentence": "Thus when nonwhites, women, queer folk, or other subcultures employ Twitter to dispute Curry’s respectability—often in detail with evidence, citations, and anecdotal experience—they are labeled as SJWs or, in this case, as making inappropriate Black responses.",
+    "after": ""
+   },
+   {
+    "loc": 115,
+    "page": "PDF p. 115",
+    "kind": "p",
+    "before": "As digital practices, #MCM and #WCW can be understood as gendered displays of unrequited attraction and affection that are often but not always sexualized.",
+    "sentence": "Florini (2019) notes that these hashtags “mark a space of play where heteronormative rules don’t apply,” arguing that the practice allows many users to express same-sex affection without being seen as queer.",
+    "after": "The meme consists of an image paired with either a hashtag or a descriptive caption; posting the acronym provides practitioners an opportunity to share or reveal a person, personality, or celebrity that they find attractive."
+   },
+   {
+    "loc": 123,
+    "page": "PDF p. 123",
+    "kind": "p",
+    "before": "For example, “showing the receipts” is one Black postpresent discursive digital practice that situates past transgressive behavior (often recorded in the form of digitized documents, but occasionally in visual or multimedia testimony) in the now (usually via social media) to be “read” as evidence in the moment.",
+    "sentence": "Similarly, one can see the Black postpresent within Black feminist, womanist, and queer Twitter’s digital mobilization to agitate against perceived unjust phenomena and people, also known as “callout culture.”",
+    "after": "Because of callout culture’s desire for debate and its willingness to affront, it is derided by white feminists and technologists and color-blind internet pundits."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 7,
+  "input": "59aad2469ce3",
+  "candidates": [
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "In fundamental U.S. systems of governance, trans women have been deemed deviant and held responsible for the violence and discrimination they face.",
+    "sentence": "In the late 1990s, for example, the gay and trans panic defense became popular among some attorneys seeking to justify their clients’ violent crimes against members of the queer and trans community.",
+    "after": ""
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "Notably, much-publicized critiques of the film’s whitewashing of the Stonewall Rebellion (using the hashtag #NotMyStonewall) led to a boycott of the film and its subsequent failure at the box office.",
+    "sentence": "Many boycotters chose instead to fund Happy Birthday Marsha!, an independent film about Marsha P. Johnson, a Black trans woman who was a central figure in the Stonewall riot and in queer and trans activist circles in New York City.",
+    "after": "Writer and producer of Happy Birthday Marsha!, Tourmaline has gone on to co-author work revealing the surprising statistics that show that the increased visibility of trans women has led to more violence against them in their communities."
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "",
+    "sentence": "In 2012, trans advocate, author, director, and TV host Janet Mock (an interview with whom starts on page 72) was moved to become a more outspoken activist because of the murders and suicides of queer and trans youth.",
+    "after": "She used her cultural capital as a former web editor for Marie Claire and digital tools such as YouTube videos and Twitter, to reach out to other trans women with messages of support and opportunities for community building."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "Mock began the social media initiative with a selfie that read, “I AM JANET writer, woman, lover, friend I am #REDEFININGREALNESS.”",
+    "sentence": "Trans and queer, Black and white, submitted to the Tumblr site for nearly ten months, with more than 120 unique contributions.",
+    "after": "The hashtag encouraged users to say more about themselves than just their gender or sexuality, bringing in their humanity and various social and relational roles."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "Recapitulating much of the community-building and community-celebrating functions of #GirlsLikeUs, contributors discussed their jobs, their favorite qualities about themselves, and their hopes for the future.",
+    "sentence": "The use of the hashtag #RedefiningRealness quickly moved to Twitter, where it is used by trans and queer users to describe ways in which they are redefining gender, by fans of Mock’s posting selfies with the book, and in Mock’s own tweets logging her nationwide travels to promote the book and related projects.",
+    "after": ""
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "At the same time, the digital discourse of #GirlsLikeUs extends the postmodern characteristics of transactivist literature noted by Heather Hundley and J. Scott Rodriguez as various members of the #GirlsLikeUs network share their stories, offer each other support, and advocate for trans histories, worlds, and rights.",
+    "sentence": "This discourse organizes a community through identity construction, encourages polyvocality through recognizing the importance of and celebrating the multiplicity of trans voices, and promotes polysemy as a means by which members of the network can create multivalent appeals to one another and to the larger public. #GirlsLikeUs sparked similar hashtag networks from other related communities, such as #BoysLikeUs for trans men and #FolksLikeUs for gender-nonconforming and nonbinary folks on the queer and transgender spectrum.",
+    "after": ""
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "This, of course, is no accident: Twitter users who connect to online conversations through hashtags and use mentioning and replying to engage high-profile figures understand their ideas and experiences may reach unknown audiences, indicating an awareness among members of the counterpublic that their often personal conversation will be visible to anyone willing to look.",
+    "sentence": "It is also clear that the mainstream visibility of some members of the counterpublic, Mock and Cox in particular, allows a widely visible interrogation of mainstream narratives about gender identity and feminist and queer politics while supporting in-group needs.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 120,
+  "input": "25f86f04870e",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "Similarly, Tonia Sutherland and Drake each argue that community-based approaches to archiving can alter the terms through which marginalized people’s histories are narrated by building alternative systems that make visible the role archives have played in sustaining anti-Black racism.",
+    "sentence": "Community archives organized around gender and sexuality do not always offer these alternatives, and can be complicit in sustaining cis-normative and racist practices within the field, framing queerness as a unifying experience of historical erasure at the cost of attending meaningfully to other axes of difference.",
+    "after": "Syrus Marcus Ware and Rio Rodriguez, each working on activist archives by and for queer and trans Black, Indigenous, and People of Color, have theorized some l gbt q community archives as tools of white supremacy, oriented toward understandings of events, spaces, and documentary practices that systematically erase queer and trans people of color from the historical record."
+   },
+   {
+    "loc": 19,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Jamie A. Lee explains, recognizing and understanding the intricacies of how community archives work differently is necessary for opening up the archives and its methodologies, and experimenting with queer approaches to the digital mediation of stories about the past.",
+    "after": "Similarly, Tonia Sutherland and Drake each argue that community-based approaches to archiving can alter the terms through which marginalized people’s histories are narrated by building alternative systems that make visible the role archives have played in sustaining anti-Black racism."
+   },
+   {
+    "loc": 29,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "Lesbian feminism is not a visible social movement with a fi m set of aesthetic and actionable commitments anymore, yet it continues to guide these projects and the principles of organizations such as the l ha .",
+    "sentence": "Founded in 1974, this archives is staffed not only by women in their sixties and seventies who came to activism during the civil rights and women’s liberation movements, but also by a growing contingent of young folks in their twenties born under the sign of queerness.",
+    "after": "This younger generation often brings commitments to transfeminism or queer politics, even as they revel in “deep-lez” desires to understand and embody butch-femme dynamics and terminologies or wear labrys necklaces without irony."
+   },
+   {
+    "loc": 29,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "Founded in 1974, this archives is staffed not only by women in their sixties and seventies who came to activism during the civil rights and women’s liberation movements, but also by a growing contingent of young folks in their twenties born under the sign of queerness.",
+    "sentence": "This younger generation often brings commitments to transfeminism or queer politics, even as they revel in “deep-lez” desires to understand and embody butch-femme dynamics and terminologies or wear labrys necklaces without irony.",
+    "after": "They are motivated by lesbian activist history even as they do not quite occupy its terms."
+   },
+   {
+    "loc": 167,
+    "page": "p. 163",
+    "kind": "p",
+    "before": "",
+    "sentence": "At the same time, young volunteers are often fresh out of gender studies classrooms, and their work at the archives is steeped in theoretical understandings of queerness as a shifting signifie , often articulated in opposition to categorical identity.",
+    "after": "Queerness weaves its way through the l ha via the broader political milieu in which this service organization operates."
+   },
+   {
+    "loc": 168,
+    "page": "p. 164",
+    "kind": "p",
+    "before": "Cvetkovich holds lesbian feminism’s identitarian commitments in productive tension with the space’s queer archival impulses, documenting the “queer collections and strategies” at work in the grassroots lesbian archives.",
+    "sentence": "Th archives become a site where past, present, and future meet through the rubric of feeling; such is the encounter staged by what she calls “queer lesbian archives.”",
+    "after": "Similarly, Jack Gieseking dismisses the possibility that the “Lesbian Herstory Archives can be read as solely a lesbian, feminist, and/ or lesbian feminist project.”"
+   },
+   {
+    "loc": 168,
+    "page": "p. 164",
+    "kind": "p",
+    "before": "Muñoz theorizes queerness as a future orientation that is perhaps unrealizable in any concrete, here-and-now form.",
+    "sentence": "He writes, “Queerness is a structuring and educated mode of desiring that allows us to see and feel beyond the quagmire of the present.”",
+    "after": "Although Muñoz writes about futurity, his words provide a brilliant take on archives as sites of temporal rupture; queerness becomes an educated mode of desiring history in order to desire a future."
+   },
+   {
+    "loc": 168,
+    "page": "p. 164",
+    "kind": "p",
+    "before": "José Muñoz’s work on futurity further shapes my approach to the archives as a space of encounter between lesbian feminist and queer.",
+    "sentence": "Muñoz theorizes queerness as a future orientation that is perhaps unrealizable in any concrete, here-and-now form.",
+    "after": "He writes, “Queerness is a structuring and educated mode of desiring that allows us to see and feel beyond the quagmire of the present.”"
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 23,
+  "input": "fad41ed6e3e6",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "The biographical fragments of these diverse lives are segmented largely by population and by the nature of their online presence.",
+    "sentence": "For instance, there is a chapter devoted solely to queer black women because their online community is solely black, woman, and queer.",
+    "after": "One chapter is dedicated to the experiences of differently abled black women because it was necessary to carve out that space to discuss their needs."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "Chapter 6, “Queering Intersectional Narratives: Claiming Space and Creating Possibilities,” provides an intersectional exploration into the experiences of black lesbians in digital gaming.",
+    "after": "Significant attention is devoted to lesbian identity development at the intersection of race, gender, class, and sexuality."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "Back then, his opponents didn’t know what they were up against.",
+    "sentence": "But SonicFox knew his own truth: he was queer, he was a furry, and he rocked at fighting games.”",
+    "after": "While SonicFox’s physical reality or “truth” may be that of a black, queer furry, his gaming personality or persona is that of a domineering figure in the competitive fighting community."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "But SonicFox knew his own truth: he was queer, he was a furry, and he rocked at fighting games.”",
+    "sentence": "While SonicFox’s physical reality or “truth” may be that of a black, queer furry, his gaming personality or persona is that of a domineering figure in the competitive fighting community.",
+    "after": "When PewDiePie, a controversial figure in gaming, remarked on his identity, SonicFox tweeted, “Also idrc [I don’t really care] if pewdiepie mentioned me in his vid lol."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "But the immediacy in which the narrators of this study queered Lou and Mickey highlights the limited narratives around queer representations overall in gaming.",
+    "sentence": "This lack of queer representation in gaming does not deter this cohort of lesbian gamers from co-opting heterosexually read characters —from this Far Cry example and others—remixing stories to see themselves represented in gaming culture, navigating their racialized, gendered, and sexual identities.",
+    "after": ""
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "We all were cautiously optimistic, not really knowing then whether this was actually the cover art, if the women were central to the game’s narrative, or even if the art was real.",
+    "sentence": "But the immediacy in which the narrators of this study queered Lou and Mickey highlights the limited narratives around queer representations overall in gaming.",
+    "after": "This lack of queer representation in gaming does not deter this cohort of lesbian gamers from co-opting heterosexually read characters —from this Far Cry example and others—remixing stories to see themselves represented in gaming culture, navigating their racialized, gendered, and sexual identities."
+   },
+   {
+    "loc": 85,
+    "page": "PDF p. 85",
+    "kind": "p",
+    "before": "This perspective centers an additional dimension of identity, the effect of regional differences on lesbian identity development.",
+    "sentence": "Mary L. Gray’s foundational text on queer visibility among youth in rural America highlights the tendency to center urban experiences.",
+    "after": "What is intriguing about making sense of rural experiences is that, in this context, rurality is coded as exclusion and inadequacies, in need of urban outreach and support."
+   },
+   {
+    "loc": 85,
+    "page": "PDF p. 85",
+    "kind": "p",
+    "before": "What is intriguing about making sense of rural experiences is that, in this context, rurality is coded as exclusion and inadequacies, in need of urban outreach and support.",
+    "sentence": "In her statement, xxxTooTriLL4Uxxx decenters metro-normativity (centering the urban), highlighting the isolation common to being queer in rural America.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 2,
+  "input": "5f8a2ac4e53c",
+  "candidates": [
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "As Treva Lindsey (2020) explains, white antirape activists in the 1970s used Black women’s strategies from the 1800s to make their claims.",
+    "sentence": "The #MeToo movement in 2017 initially overlooked the work of Black activist Tarana Burke, and Black trans women like Marsha P. Johnson are often left out of the history of queer activism by mainstream gay and lesbian organizations.",
+    "after": "In the current movement to #DefundThePolice, Lindsey insists, “To re-center the lives and labor of Black women, girls and femmes in the current debate about #DefundThePolice isn’t merely about recognition; it’s about ensuring that we don’t render them as no one” (Lindsey, 2020, para."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "In what began as a discussion of the sexual assault of actor Terry Crews, Jones interjected when a follower suggested she should ignore hate speech from repeat offenders.",
+    "sentence": "On January 24, 2019, Jones tweets, “Some of us feel we’ve been left to fend for ourselves against his [Tariq Nasheed] relentless attacks . . . like ppl simply decide to ignore him and the violence he continued to enact upon BW/queer ppl.",
+    "after": "IDK if leaving him alone works” (Jones, 2019b)."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 186,
+  "input": "a1384dd6dadc",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "pp. 28–29",
+    "kind": "p",
+    "before": "",
+    "sentence": "This book distinguishes itself from other critical work on stereotypes of Black women by privileging queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks’ work and voices.",
+    "after": "Rather than explaining how they differ from those of their heterosexual and cisgender counterparts, I focus on the representations created by queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks for their communities."
+   },
+   {
+    "loc": 25,
+    "page": "pp. 28–29",
+    "kind": "p",
+    "before": "This book distinguishes itself from other critical work on stereotypes of Black women by privileging queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks’ work and voices.",
+    "sentence": "Rather than explaining how they differ from those of their heterosexual and cisgender counterparts, I focus on the representations created by queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks for their communities.",
+    "after": "While Patricia Hill Collins, bell hooks, and Melissa Harris-Perry have critiqued what they call “controlling images,” and scholars such as Paula Giddings, M. Bahati Kuumba, and Brittney Cooper have traced Black women’s activist histories, none have centered queer and trans Black women’s activism as pivotal to the creative strategies that have grown resistance movements."
+   },
+   {
+    "loc": 60,
+    "page": "pp. 103–105",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Janet Mock sought to redefine realness, other Black queer and trans people redefine representations through their own creative processes.",
+    "after": "It is by attending to self that Mock makes room for other trans women."
+   },
+   {
+    "loc": 60,
+    "page": "pp. 103–105",
+    "kind": "p",
+    "before": "It is by attending to self that Mock makes room for other trans women.",
+    "sentence": "Similarly, Black queer and trans artists have sought to write themselves into places where they were not represented.",
+    "after": "Building on queer of color media production and artistic movements from the 1970s, 1980s, and 1990s, younger voices are creating innovative web series, visibility projects, and funding initiatives that reimagine mainstream narratives about their identities."
+   },
+   {
+    "loc": 60,
+    "page": "pp. 103–105",
+    "kind": "p",
+    "before": "Web shows became a popular venue for Black creators because of the difficulty they had accessing mainstream outlets.",
+    "sentence": "Before the viral success of The Misadventures of Awkward Black Girl (2011–2013) encouraged many other Black creators to begin to see the web in a new light, Black queer creators were building audiences online.",
+    "after": "A queer favorite and the first with an all-woman cast, Lovers and Friends (2008–2010) followed a group of Black lesbian friends and all of their drama in late aughts Miami."
+   },
+   {
+    "loc": 60,
+    "page": "pp. 103–105",
+    "kind": "p",
+    "before": "Each show reflects the community in which it was produced, with visual and articulated references to the cities in which they are shot.",
+    "sentence": "Most of these shows are shot in southern cities, which challenges the idea of queer life being possible only in northern queer metropoles like New York or Philadelphia.",
+    "after": "While cities do dominate the web show landscape, they are often southern, and the communities of friends are almost, if not all, Black."
+   },
+   {
+    "loc": 62,
+    "page": "pp. 108–109",
+    "kind": "p",
+    "before": "Skye’s best friend, Taylor, identifies as queer, and when the series begins, she is dating Tyler, a cis straight man, while nursing an unarticulated crush on Skye.",
+    "sentence": "Taylor’s queerness is never questioned despite her current relationship.",
+    "after": "Here, as in the other Black queer web shows I discuss, there is no valorizing of gold star status (the supposedly coveted position of a lesbian who has never had sex with a man) among the characters, reflecting the reality that many of these characters, like the members of the communities they represent, have sexual practices and pasts that are not neatly encapsulated under the label “lesbian.”"
+   },
+   {
+    "loc": 64,
+    "page": "pp. 112–113",
+    "kind": "p",
+    "before": "It is not Skye’s queerness that is the “problem” here or the reason she sought therapy.",
+    "sentence": "In an important pivot away from mainstream media representation, a queer Black woman is in therapy where her queerness is not the reason she is in therapy.",
+    "after": "Mutha Indigo does not care about Skye’s potential love interest’s gender, but they do care about how this potential suitor treats Skye."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 5,
+  "input": "5b5000c9d968",
+  "candidates": [
+   {
+    "loc": 29,
+    "page": "p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "Scholar D: is focusing research on the shaping of queer identities in Peter Ratcliff’s private recordings of performance art of the 1960s in New York City and their influence on popular perception of gay culture when they became available online in the 2000s.",
+    "after": ""
+   },
+   {
+    "loc": 38,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "Our model might need to be modified depending on the purpose for which we are collecting the data—safety, health, or usage—or to justify new furnishings.",
+    "sentence": "Does it matter whether the occupants are male or female, trans or queer, non-binary, and range in age from five to seventy?",
+    "after": "The specifics of the model for creating data in classroom assessment will depend on the purpose."
+   },
+   {
+    "loc": 71,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "If you are putting together materials that are related to each other by a particular theme—an event, site, or topic—thinking through the way they will be described is a significant feature of the intellectual work.",
+    "sentence": "In the case of an archive of queer performance, what fields in a metadata scheme allow that identity to be expressed?",
+    "after": "What types of performance need to be identified and in what vocabulary?"
+   },
+   {
+    "loc": 71,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "Who defines that vocabulary?",
+    "sentence": "What are the politics of characterization of queer identity from within the community and from outside?",
+    "after": "Who speaks in the metadata?"
+   },
+   {
+    "loc": 162,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "However, they are less effective in showing the qualitative experience of space.",
+    "sentence": "Theoretical positions advocating recognition of the situatedness and specificity of spatial experience have been developed in critical race studies, queer theory, feminist work, and disability studies.",
+    "after": "But finding a graphic language to encode the embodied and situated experience of individuals across a wide array of diverse identities has met many challenges."
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 6,
+  "input": "219a2d932954",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "p. 9",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the collection Key Theoretical Frameworks: Teaching Technical Communication in the Twenty-First Century, Angela M. Haas and Michelle F. Eble’s (2018) contributors further illustrate the importance of centralizing interdisciplinary research when imagining possibilities for social justice in technical communication, highlighting research on feminism (Frost 2018), Indigenous rhetorics (Agboka 2018), hip hop (Del Hierro 2018), and queer theory (Cox 2018) to offer new possibilities for the ways technical communication as a field can continue to expand its boundaries in its efforts toward justice and inclusion.",
+    "after": "As Haas (2012) explains in her discussion of how she developed a course on race, rhetoric, and technology in 2009, at a time when the field of technical communication was not yet as “enriched by the recent conversations about race and ethnicity emerging in the discipline today,” she opted to “piece together a curriculum I could believe in by weaving together the scant threads of inquiry on race, rhetoric, and technology in our field with some of the existing strands in cultural, critical race, rhetorical, and feminist studies” (278)."
+   },
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "",
+    "sentence": "Interdependency and intersectionality have long been connected in “care webs” or collectives designed by queer, trans, disabled, Black, and Indigenous peoples and other people of color (Piepzna-Samarasinha 2018, 66).",
+    "after": "For example, intersectionality is listed as the first principle of Disability Justice, “a political movement and many interlocking communities where disability is not defined in white terms, or male terms, or straight terms” (Piepzna-Samarasinha 2018, 22)."
+   },
+   {
+    "loc": 51,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "",
+    "sentence": "Following the work of queer/trans Black, Indigenous, people of color, and disability activists, I bring intersectionality and interdependency together as methodological frameworks for the projects presented in this book, both because I think both frameworks are independently useful and because interdependency and intersectionality function more effectively in relation to one another.",
+    "after": "Many critical disability studies scholars bring attention to the necessity of engaging more deeply with issues of race, intersectionality in particular, within disability studies."
+   },
+   {
+    "loc": 52,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "It becomes a priority to look at Indigenous ways of perceiving and understanding disability, for example.",
+    "sentence": "It becomes a space where we see that disability is all up in Black brown/queer and trans communities—from Henrietta Lacks to Harriet Tubman, from the Black Panther Party’s active support for disabled organizers’ two-month occupation of the Department of Vocational Rehabilitation to force the passage of Section 504, the law mandating disabled access to public spaces and transportation[,] to the chronic illness and disability stories of second wave queer feminists of color like Sylvia Rivera, June Jordan, Gloria Anzaldúa, Audre Lorde, Marsha P. Johnson, and Barbara Cameron, whose lives are marked by bodily difference, trauma-surviving brilliance, and chronic illness but who mostly used the term “disabled” to refer to themselves.",
+    "after": "(22–23)"
+   },
+   {
+    "loc": 79,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "As Gloria Anzaldúa (1987) explains, borderland identity is much more than just a physical boundary across nations; “a borderland is a vague and undetermined place created by the emotional residue of an unnatural boundary” (15).",
+    "sentence": "As such, as Gonzales and Mónica González Ybarra (2020) elaborate, “the borderlands are in-between, highly contested spaces in which marginalized peoples (Black, Indigenous, people of color, women, queer folks, and youth) navigate, survive, and cultivate oppositional consciousness (Sandoval 2013) to resist oppressive structures (de los Ríos 2018; Nuñez 2019)” (228).",
+    "after": "At the same time, as Ariana Brown (2021) illustrates, conversations and discussions of borderland identity often erase Black Mexican experiences, ignoring the anti-Black racism that extends across both sides of the Mexico/US border."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 176,
+  "input": "257f7f676afe",
+  "candidates": [
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "",
+    "sentence": "Studying queer cultures through computational methods, or queer cultural analytics, can be valuable in several ways.",
+    "after": "First, as we will see below, queer theory and queer studies more generally afford cultural analytics (CA) a repertoire of new inspirations."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "Studying queer cultures through computational methods, or queer cultural analytics, can be valuable in several ways.",
+    "sentence": "First, as we will see below, queer theory and queer studies more generally afford cultural analytics (CA) a repertoire of new inspirations.",
+    "after": "Second, queer CA can engender further debates and justifications for claims about the queerness of datasets."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "But queer CA must first exist.",
+    "sentence": "To address the present queer gap in cultural analytics, I would like to propose a research agenda that belongs equally to queer studies and cultural analytics.",
+    "after": "I envision a computational study of queer cultures that can enrich our understanding of queer cultural histories and memories."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "To address the present queer gap in cultural analytics, I would like to propose a research agenda that belongs equally to queer studies and cultural analytics.",
+    "sentence": "I envision a computational study of queer cultures that can enrich our understanding of queer cultural histories and memories.",
+    "after": ""
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "",
+    "sentence": "My coinage of “queer cultural analytics”—as opposed to “queer computational humanities” or “queer quantitative literary studies”—seeks to foreground the central role of queer culture in this line of inquiry and queer cultural artifacts as its primary object of study, as opposed to the (computational or quantitative) methodology deployed.",
+    "after": "Queer cultural analytics can be understood as implicitly rejecting any opposition between quantitative and qualitative work."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "My coinage of “queer cultural analytics”—as opposed to “queer computational humanities” or “queer quantitative literary studies”—seeks to foreground the central role of queer culture in this line of inquiry and queer cultural artifacts as its primary object of study, as opposed to the (computational or quantitative) methodology deployed.",
+    "sentence": "Queer cultural analytics can be understood as implicitly rejecting any opposition between quantitative and qualitative work.",
+    "after": "It exhibits a multivalent inbetween-ness: In terms of subject matter, it works in the intersection of cultural studies and data science (that, again, intersects with machine learning, human-computer interaction, and natural language processing); in terms of research output, it results in argument-driven essays that pursue humanistic questions while maintaining scientific rigor."
+   },
+   {
+    "loc": 76,
+    "page": "pp. 112–113",
+    "kind": "p",
+    "before": "Conceptualization (circle ¶) is often described as a process of translation between abstract theoretical terms and concrete conceptual anchors (Piper, 653), which may not be easily applicable in queer CA.",
+    "sentence": "Queerness is defined not by what it is, but by what it is not, and in this light, even measuring it can seem odd.",
+    "after": "It may be more useful to think of conceptualizing as finding proxies: Ideal proxies are measurable concepts that help us answer our research question."
+   },
+   {
+    "loc": 224,
+    "page": "pp. 367–368",
+    "kind": "p",
+    "before": "As bodies “acquire orientation by repeating some actions over others” (Ahmed, “Orientations,” 553), material and social orientations are produced over time; they are not inherent or immutable qualities of an object or body.",
+    "sentence": "For Ahmed, queerness is best understood as a constant enactment of the self: a constant positioning of oneself toward objects, persons, and concepts within reach and an ongoing production of the spaces inhabited.",
+    "after": "As we reach out to and practice connecting with objects and spaces, those objects and spaces reach back into our bodies, reorienting us."
+   }
+  ]
+ }
+]

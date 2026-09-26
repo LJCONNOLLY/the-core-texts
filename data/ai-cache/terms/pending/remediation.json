@@ -1,0 +1,521 @@
+[
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 29,
+  "input": "1e9d97590bc3",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "First, 1995 was a turning point in the history of the Internet.",
+    "sentence": "In 1995 Netscape Navigator, the ﬁrst widely popular graphical Web browser, had its ﬁrst public stock offering and initiated popular use of the Internet and, most importantly, heralded its transformation from a primarily textual form to an increasingly and irreversibly graphical one that remediates video and other pictorially representational practices such as photography, cartooning, and digital gaming.",
+    "after": "That process has only accelerated in recent years as the Internet converges with nonstatic media forms such as streaming video and television."
+   },
+   {
+    "loc": 41,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "Noting their deployment in old mass-media forms like ﬁlm and television redresses the focus on the remediation of old media forms by new ones that limits Bolter and Grusin’s Remediation, a standard textbook on new media theory.",
+    "sentence": "Bolter and Grusin’s method of understanding new media emphasizes tracing its roots in old media to tease out the ways that the new remediates the old.",
+    "after": "I argue for re-remediation, reading the digital in the nondigital, a method that will become increasingly necessary as media convergence challenges that distinction."
+   },
+   {
+    "loc": 41,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "They are also inextricably tied to the contemporary racial project of producing volitional racial mobility in the service of new forms of capitalism.",
+    "sentence": "Noting their deployment in old mass-media forms like ﬁlm and television redresses the focus on the remediation of old media forms by new ones that limits Bolter and Grusin’s Remediation, a standard textbook on new media theory.",
+    "after": "Bolter and Grusin’s method of understanding new media emphasizes tracing its roots in old media to tease out the ways that the new remediates the old."
+   },
+   {
+    "loc": 49,
+    "page": "p. 38",
+    "kind": "p",
+    "before": "Synchronous or real-time networked textual interaction, from one person to another person, has existed since the early command-line interface days of the Internet.",
+    "sentence": "Unix applications like “chat” and “phone” remediated the most familiar person-to-person form of communication known by most people—the telephone—but with little in the way of graphics; clients could regulate the ﬂow of text streaming down a screen so that it didn’t appear radically fragmented and thus was more readable, but it really was a text-only environment, with the user’s only intervention into it being the size and perhaps style of font displayed.",
+    "after": "These applications also ran in the background of others and could thus be overlooked by a busy user."
+   },
+   {
+    "loc": 50,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "As the transmission of video, animated graphics, and audio over the Internet is improving, these textual applications are threatened.”",
+    "sentence": "They conclude by citing the now-defunct Palace as an example of a “visual MUD” that “remediates the comic book” and mention that other “visual MUDs may remediate cinema and television more effectively, by offering animated ﬁgures or even video images of the participants themselves. . . .",
+    "after": "In our visual culture today, it seems unlikely that any textual representation of the self can hold out long against the remediations of a rival, visual technology.”"
+   },
+   {
+    "loc": 54,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the ﬁrst case, an homage to a star like a Buffy buddy icon works like a photo album that one ﬂips through; the viewer is presented with a selection of photographs of the star in different poses that remediates a traditional slide show in which still images are shown in a particular order, or a “shrine” of photographs that a teenage girl might build as a display in her room.",
+    "after": "Though the order in which these are shown may signify something, we cannot properly call them moving or cinematic images."
+   },
+   {
+    "loc": 74,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "Per Persson describes the transition from early to modern cinema as occurring between 1905 and 1915 and explains the ways in which the drive for cultural legitimation directed the movement of the ﬁlm form toward longer, more narratively complex structures that remediated theater and literature, as opposed to the earlier cinema of attractions, which remediated vaudeville and other lower-class entertainments.",
+    "sentence": "Several theorists have noted the way that new media remediate these earlier media forms: the similarity between digital games and the cinema of attractions, both of which attempt to reproduce an experience rather than tell a conventional story with a beginning, middle, and end, as Persson also follows this line.",
+    "after": "Unlike other scholars, however, Persson is especially interested in the ways that digital space, in particular the computer desktop, remediates early cinema in terms of its conventions regarding the use of backdrops, the rudimentary use of montage, and the visual disposition of human ﬁgures."
+   },
+   {
+    "loc": 74,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "Several theorists have noted the way that new media remediate these earlier media forms: the similarity between digital games and the cinema of attractions, both of which attempt to reproduce an experience rather than tell a conventional story with a beginning, middle, and end, as Persson also follows this line.",
+    "sentence": "Unlike other scholars, however, Persson is especially interested in the ways that digital space, in particular the computer desktop, remediates early cinema in terms of its conventions regarding the use of backdrops, the rudimentary use of montage, and the visual disposition of human ﬁgures.",
+    "after": "Animated GIFs are like ﬁlm in that they are a “push” medium, and like early ﬁlm, they are silent."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 2,
+  "input": "9b0b6fa71e22",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "These human and machine errors are not without consequence, and there are several cases that demonstrate how racism and sexism are part of the architecture and language of technology, an issue that needs attention and remediation.",
+    "after": "In many ways, these cases that I present are specific to the lives and experiences of Black women and girls, people largely understudied by scholars, who remain ever precarious, despite our living in the age of Oprah and Beyoncé in Shondaland."
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "These proindividual, anticommunity ideologies have been central to the antidemocratic, anti-affirmative-action, antiwelfare, antichoice, and antirace discourses that place culpability for individual failure on moral failings of the individual, not policy decisions and social systems.",
+    "sentence": "Discussions of institutional discrimination and systemic marginalization of whole classes and sectors of society have been shunted from public discourse for remediation and have given rise to viable presidential candidates such as Donald Trump, someone with a history of misogynistic violence toward women and anti-immigrant schemes.",
+    "after": "Despite resistance to this kind of vitriol in the national electoral body politic, society is also moving toward greater acceptance of technological processes that are seemingly benign and decontextualized, as if these projects are wholly apolitical and without consequence too."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 10,
+  "input": "21cd6f17b2e1",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "These “new” methodologies, however, are not conjured out of thin air by digital humanities practitioners, but are built on the histories and traditions of humanities knowledge production that have been deeply implicated in both colonialism and neocolonialism.",
+    "sentence": "In response, postcolonial digital humanities attends to the practices necessary for engaging faculty, librarians, students, and those employed by galleries and museums in the vital work of deconstructing these influences and remediating the digital cultural record.",
+    "after": ""
+   },
+   {
+    "loc": 25,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "While moving beyond the frame of disruption is essential, thinking beyond representation as a method for postcolonial digital humanities is critical as well.",
+    "sentence": "It is tempting to think that an additive approach to the digital cultural record is sufficient for remediating the disruptions that characterize the digital cultural record.",
+    "after": "When considering many of the digital humanities projects that have been created, maintained, and financially supported over decades, it becomes apparent that they skew heavily towards canonical authors and histories within the Global North."
+   },
+   {
+    "loc": 28,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "",
+    "sentence": "Examining the contemporary landscape of digital humanities, this book explores the practices of postcolonial digital humanities that interrogate the ongoing influences of colonialism and neocolonialism within the digital cultural record and reimagine the practices necessary for remediating it.",
+    "after": "By invoking the term “postcolonial,” I draw on the intellectual tradition of postcolonial theory and its critiques of colonialism in the cultural record to make the case that digital humanities practitioners of the Global North must redress their practices and that postcolonial scholars have an important role to play in constructing the digital cultural record."
+   },
+   {
+    "loc": 56,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "",
+    "sentence": "Among postcolonial approaches to digital humanities, there are significant opportunities to develop digital archives that remediate colonial violence, write back to colonial histories, and fill gaps in knowledge that remain a legacy of colonialism.",
+    "after": "As the case of the British Colonial Office archives suggests, digital archives are always limited by what has and has not been preserved in the cultural record."
+   },
+   {
+    "loc": 58,
+    "page": "p. 49",
+    "kind": "p",
+    "before": "",
+    "sentence": "As this episode suggests, the promise of digital archives for remediating the absences in the digital cultural record is always beset by the limits of preservation and representation.",
+    "after": "While the effects of colonial violence on the archives of the British Empire are quite obvious in this case, scholars of postcolonial studies have examined the insidious ways that texts and archives have played a role in colonial violence as well."
+   },
+   {
+    "loc": 60,
+    "page": "p. 51",
+    "kind": "p",
+    "before": "And yet, this is not only a repetition of colonial violence within the cultural record; rather, it fosters that violence in the digital cultural record.",
+    "sentence": "Thus, an important dimension of postcolonial digital humanities focuses on uncovering and remediating the ways that digital humanities has contributed to the epistemic violence of colonialism and is implicated in colonial forms of knowledge production.",
+    "after": ""
+   },
+   {
+    "loc": 63,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "The archive is specifically engaged in making legible the untold stories and unheard voices of the Caribbean, particularly in the nineteenth century.",
+    "sentence": "As a result, it demonstrates how embracing building in digital humanities can write back to and remediate colonial violence perpetuated in digital humanities projects like NINES.",
+    "after": ""
+   },
+   {
+    "loc": 65,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "By contributing to the proliferation of knowledge in the digital cultural record, digital humanities risks conjuring the world making of the colonial project in digital form, as NINES shows.",
+    "sentence": "The opportunity to build and to share enables participation in remediating the digital cultural record and writing back to the role that colonialism continues to play through it.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 8,
+  "input": "3a60df2225cb",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "We urge our fellow digital humanists to think through the implications of ubiquitous computing in particular and to consider undertaking the analysis of new objects of study rather than merely focus their scholarship on the cultural artifacts of the screen, page, or canvas (as well as their digital remediations).",
+    "after": "After all, mobile and wearable devices exist in intimate proximity to our persons, and embedded sensing systems in our “smart” cities and designed environments monitor our interactions."
+   },
+   {
+    "loc": 258,
+    "page": "p. 230",
+    "kind": "p",
+    "before": "",
+    "sentence": "story of medieval to digital remediation, but a remediation that has remarkable feed-",
+    "after": ""
+   },
+   {
+    "loc": 262,
+    "page": "p. 234",
+    "kind": "p",
+    "before": "Thus, the book of the future explodes with different arrays and angles of possibility.",
+    "sentence": "It will include reading, writing, annotation, social media; image, sound, tactility; text process, text analytics; small and large data mining and data mapping; the abilities to search, link, visualize, reroute, reconfigure texts and textualities; indexing, displaying; close analysis of pixels and biological properties of vellum and paper and the distance reading of a thousand years of a word—all within a multimodal, multiplatform, intermedial, and remediated digital environment.",
+    "after": "Drucker writes,"
+   },
+   {
+    "loc": 267,
+    "page": "p. 239",
+    "kind": "p",
+    "before": "What will shift when we move beyond just visual pleasures and consider how the other senses—taste, tactility, and sound—will change the terrain of reading?",
+    "sentence": "If the current book is “a momentary slice through a complex stream of many networked conversations, versions, and fields of debate and reference across a wide variety of times and places,” and it is but a “temporary intervention in a living field of language, images, and ideas” in which “each instantiation re-codifies the image of a book as an icon—whether mythic or banal, a treasure or an ordinary object of daily use,” the future book already has taken these intersections and expanded, bent, reformed, and remediated this vision.",
+    "after": "But for the future book, it cannot just remain fixed on the form of the medieval codex."
+   },
+   {
+    "loc": 270,
+    "page": "p. 242",
+    "kind": "p",
+    "before": "",
+    "sentence": "I now wish to turn to the AEME to consider how this medieval DH project remediates medieval manuscript textuality into digital textuality and what that world looks like for the history of the book, for multimodal reading, for the postcolonial archive stories of the building of this medieval manuscript archive, and finally, what the theoretical implications are of building this world.",
+    "after": "What does the AEME’s choices in digital database design say about decolonial, feminist material, and multivocal archive building?"
+   },
+   {
+    "loc": 277,
+    "page": "p. 249",
+    "kind": "p",
+    "before": "We wish to build a digital portal that fulfills the possibilities of interface “in-betweeness” where speaker and spoken are created.",
+    "sentence": "We want to create a mise-en-système that critically remediates the mise-en-système/mise-en-page of medieval manuscripts, their somatic reading practices, their worlds.",
+    "after": "We want to create an ecology that can be a provocative catalyst for cascades of intra-action between participant, text, community, image, sound, and so on."
+   },
+   {
+    "loc": 292,
+    "page": "p. 264",
+    "kind": "p",
+    "before": "Some DH centers and activities have evolved from or remain tied to instruction or technical support initiatives, and libraries, with their strong ethos of service and crucial position in the provision of scholarly infrastructure for the humanities, have been and remain central to the growth of the field.",
+    "sentence": "For the purposes of this essay, cognizant of the myriad definitions of service that have grown from its original meaning of duty or work performed for a superior or master (Oxford English Dictionary Online) ranging from “Help, benefit, advantage, use” to “Friendly or professional assistance,” I would define service in the digital humanities as activities of practical benefit to others, including but not limited to providing expertise, guidance, and training related to specific skills, methods, or tools; structuring, manipulating, transforming, or remediating data; creating, distributing, and maintaining software; building, caring for, and sustaining platforms for hosting and disseminating digital datasets, assets, software, and scholarship; administering and managing digital humanities entities such as centers, programs, or projects; and establishing and running scholarly and professional networks and events, including conferences.",
+    "after": "Virtually everyone in the digital humanities participates to a greater or lesser extent in such activities, in contexts ranging from drop-in encounters at service desks to ongoing collaborations among teams of scholars."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 1,
+  "input": "5f66536ad784",
+  "candidates": [
+   {
+    "loc": 199,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "Alexander, P., Chabot, K., Cox, M., DeVoss, D. N., Gerber, B., Perryman-Clark, S., … & Wendt, M. (2012).",
+    "sentence": "Teaching with technology: Remediating the teaching philosophy statement.",
+    "after": "Computers and Composition, 29(1), 23–38."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "82c76b53825a",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "One of the central claims of this book is that the predominance of what Crenshaw calls single-axis analysis, in which race, class, or gender is considered as an independent construct, continually undermines the intentions of well-meaning designers who hope to challenge bias through the objects, systems, or environments they design.",
+    "sentence": "In law, as Crenshaw points out, “the single-axis framework erases Black women in the conceptualization, identification and remediation of race and sex discrimination by limiting inquiry to the experiences of otherwise-privileged members of the group.",
+    "after": "In other words, in race discrimination cases, discrimination tends to be viewed in terms of sex- or class-privileged Blacks; in sex discrimination cases, the focus is on race- and class-privileged women."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "86db61f80c6b",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "Instead, they offer insight into the heterogeneity of Black online existences.",
+    "sentence": "Examining Black digitality mediated by the interface rather than focusing on remediated content posted online fosters an inductive, empirical approach to Black technocultural practice and the digital performance of Blackness.",
+    "after": "In chapter 2, I turn to the Blackbird browser, which is specifically targeted to Black users, to unpack how software applications and beliefs shape Black identity from a technocultural framework."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 5,
+  "input": "e59b1bf070a5",
+  "candidates": [
+   {
+    "loc": 47,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "“Network” stands in for an idea of what a large, organized feminist movement could do.",
+    "sentence": "As Elisabeth Jay Friedman has argued, queer feminist counterpublic organizing through online interfaces such as listservs extends and remediates existing feminist communications networks and their strategies.",
+    "after": "Similarly, Cassius Adair and Lisa Nakamura’s research on the publication history of This Bridge Called My Back (1981) connects the networked pedagogies of 1980s women of color feminism to digital archival work by feminists of color on social media sites such as Tumblr."
+   },
+   {
+    "loc": 125,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "From this heading, a user learns that Out and About (Seattle) published many articles about Cuban lesbians.",
+    "sentence": "The circle’s strategies reflected lesbian feminism’s concern for difference within its ranks and understood that a subject index could remediate lesbian as an identity category.",
+    "after": ""
+   },
+   {
+    "loc": 150,
+    "page": "p. 146",
+    "kind": "p",
+    "before": "",
+    "sentence": "Computing affordances such as revision and automated sorting remediate the paper index, but cards are also favored for their editability.",
+    "after": "Cards are singular, modular entries that can be reordered, edited, replaced, shuffled, sorted, and re-sorted."
+   },
+   {
+    "loc": 166,
+    "page": "p. 162",
+    "kind": "p",
+    "before": "In other words, digital media are not a neutral site exempt from the l ha ’s lesbian-feminist politics, past and present.",
+    "sentence": "Choices about interface design, hardware and software, the selection of materials to digitize, and classification schemes remediate the purposeful and always political design of information infrastructures by lesbian-feminist activists in the 1970s, ’80s, and ’90s.",
+    "after": ""
+   },
+   {
+    "loc": 198,
+    "page": "p. 194",
+    "kind": "p",
+    "before": "Digitization requires volunteers to create metadata that describes objects and makes them findable in the archives’ databases.",
+    "sentence": "Ostensibly simple choices about how to describe the people in a photograph or the topics discussed on an oral history tape become complicated because they remediate how lesbian and queer identity politics change over time.",
+    "after": "New descriptive interfaces such as the archives’ online photo collection and in-progress online catalog are substantial digital access provisions that reflect these confli ts."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "1684d99a1a5a",
+  "candidates": [
+   {
+    "loc": 159,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Breaux synthesized key historic movements and influences that help establish the lineage of maker culture as we know it today.",
+    "sentence": "Through assemblage/ remediation, craft, and hacking theories, Breaux enacted a strong intersection between making and a subfield of writing studies—computers and writing.",
+    "after": "Breaux then drew three major implications of making for writing: 1) making expands the constructions of literacy, 2) making shines a spotlight on underrepresented groups in technology studies, and 3) making supports democratization of technology (production and consumption)."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 22,
+  "input": "e93e7390b7e4",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "",
+    "sentence": "The fundamental activities that take the materials through processing and into presentation are mediation/remediation, datafication/modelling, processing/analytics, presentation/display, and sustainability/preservation.",
+    "after": "Understanding the ways in which each aspect of these activities engages technical as well as ethical considerations helps shape responsible work in digital projects."
+   },
+   {
+    "loc": 17,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "MATERIALS have to be put into digital formats so that they are computationally tractable.",
+    "sentence": "This requires mediation/remediation and data modeling, creation of files, development of metadata for description and use, and other decisions that will have implications for intellectual property, access, sustainability, and use.",
+    "after": "The way in which materials become digital matters."
+   },
+   {
+    "loc": 18,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "This work involves either making analog materials—such as maps, manuscripts, archaeological remains, specific editions, or primary documents of historical or recent events—available in a digital format or creating and using born-digital materials.",
+    "sentence": "Taking information in one form into another is the activity of remediation.",
+    "after": "The information in one medium (paper, film, stone, etc.) is remade in digital form."
+   },
+   {
+    "loc": 19,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "",
+    "sentence": "Remediation/mediation, datafication/modeling, processing/analytics, presentation/display, and sustainability/preservation are the fundamental activities of digital humanities research.",
+    "after": "Each involves a series of decisions and tasks that will be described in the sections ahead in more detail."
+   },
+   {
+    "loc": 20,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "But computational methods are largely discipline agnostic.",
+    "sentence": "We can use the concepts just described (e.g. remediation or analytics) to do work in biology, ecology, history, geography, performing arts, or economics and political work as easily as in the study of novels, poetry, or philosophy.",
+    "after": ""
+   },
+   {
+    "loc": 20,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "",
+    "sentence": "The underlying activities just noted—remediation, datafication, processing, presentation, and sustainability—remain central to digital work and methods in the humanities and other fields.",
+    "after": "The chapters break these activities into more specific tasks, so they will be referenced throughout in the sequence that follows the workflow from materials through processing to presentation stages."
+   },
+   {
+    "loc": 22,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "Many are built on existing tools and platforms, rather than in customized environments.",
+    "sentence": "Remediation/mediation, datafication/modeling, processing/analytics, presentation/display, and sustainability/preservation are the fundamental activities of digital humanities research.",
+    "after": "Learning how these components then a set of imaginary examples will be introduced to make the principles from the last section more concrete."
+   },
+   {
+    "loc": 28,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "If the latter, then the controlled vocabulary should be offered to the viewer.",
+    "sentence": "If the full text of the ballads and broadsheets is going to be made accessible, they will have to be remediated (automatically, with correction by hand, or keyboarded).",
+    "after": "The intellectual decisions by which moral judgments are modeled should be documented."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "7fd038ca9b1f",
+  "candidates": [
+   {
+    "loc": 59,
+    "page": "pp. 100–101",
+    "kind": "p",
+    "before": "",
+    "sentence": "Despite metaphors such as “information superhighway,” which seemed to remediate metaphors of physical road-building that recalled the infrastructural nineteenth century, a twenty-first-century American public, including many critical humanist academics, had come to rely on a set of metaphors that emphasized virtual space.",
+    "after": "The promise of cyberspace in its most transcendent forms animated a range of Euro-American projects, from cyberpunk fiction to media studies."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 3,
+  "input": "961bba478420",
+  "candidates": [
+   {
+    "loc": 26,
+    "page": "pp. 27–28",
+    "kind": "p",
+    "before": "There are numerous names for the people who perform this work: “digitization specialist,” “imaging technician,” “lab assistant,” and “scanning operator” to offer just a few examples.",
+    "sentence": "For our purposes, we use “digitizer” as a shorthand for the workers who, in many different roles, remediate analog materials into digitally accessible formats.",
+    "after": ""
+   },
+   {
+    "loc": 199,
+    "page": "pp. 326–327",
+    "kind": "p",
+    "before": "Though our center, the Roy Rosenzweig Center for History and New Media, was founded in 1994, we did not start consistently adding subtitles or closed captions to videos and screencasts until 2015.",
+    "sentence": "Since then, we have endeavored to make new videos more accessible but have not had the resources to completely remediate our older materials.",
+    "after": "We are not the only ones."
+   },
+   {
+    "loc": 199,
+    "page": "pp. 326–327",
+    "kind": "p",
+    "before": "A quick scan of recent winners of the Roy Rosenzweig Prize for Innovation in Digital History, completed using the WAVE Web Accessibility Evaluation Tool, flagged accessibility issues in every site’s home page.",
+    "sentence": "Some issues are easily remediated, such as changing font colors or adding alt-text.",
+    "after": "But others are baked into the project design."
+   }
+  ]
+ }
+]

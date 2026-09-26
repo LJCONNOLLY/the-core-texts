@@ -1,0 +1,1428 @@
+[
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 4,
+  "input": "3d750fa96edf",
+  "candidates": [
+   {
+    "loc": 195,
+    "page": "p. 169",
+    "kind": "p",
+    "before": "Another critical aspect of the social relations of the new technologies is the reformulation of expectations, culture, work, and reproduction for the large scientific and technical work-force.",
+    "sentence": "A major social and political danger is the formation of a strongly bimodal social structure, with the masses of women and men of all ethnic groups, but especially people of colour, confined to a homework economy, illiteracy of several varieties, and general redundancy and impotence, controlled by high-tech repressive apparatuses ranging from entertainment to surveillance and disappearance.",
+    "after": "An adequate socialist-feminist politics should address women in the privileged occupational categories, and particularly in the production of science and technology that constructs scientific-technical discourses, processes, and objects.”!"
+   },
+   {
+    "loc": 196,
+    "page": "p. 170",
+    "kind": "p",
+    "before": "",
+    "sentence": "Market: Women’s continuing consumption work, newly targeted to buy the profusion of new production from the new technologies (especially as the competitive race among industrialized and industrializing nations to avoid dangerous mass unemployment necessitates finding ever bigger new markets for ever less clearly needed commodities); bimodal buying power, coupled with advertising targeting of the numerous affluent groups and neglect of the previous mass markets; growing importance of '' informal markets in labour and commodities parallel to high-tech, affluent market structures; surveillance systems through electronic funds transfer; intensified market abstraction (commodification) of experience, resulting in ineffective utopian or equivalent cynical theories of community; extreme mobility (abstraction) of marketing/financing systems; interpenetration of sexual and labour markets; intensified sexualization of abstracted and alienated consumption.",
+    "after": ""
+   },
+   {
+    "loc": 197,
+    "page": "p. 171",
+    "kind": "p",
+    "before": "",
+    "sentence": "State: Continued erosion of the welfare state; decentralizations with increased surveillance and control; citizenship by telematics; imperialism and political power broadly in the form of information rich/information poor differentiation; increased high-tech militarization increasingly opposed by many social groups; reduction of civil service jobs as a result of the growing capital intensification of office work, with implications for occupational mobility for women of colour; growing privatization of material and ideological life and culture; close integration of privatization and militarization, the high-tech forms of bourgeois capitalist personal and public life; invisibility of different social groups to each other, linked to psychological mechanisms of belief in abstract enemies.",
+    "after": ""
+   },
+   {
+    "loc": 214,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "The instruments of visualization in multinationalist, postmodernist culture have compounded these meanings of dis-embodiment.",
+    "sentence": "The visualizing technologies are with- '' out apparent limit; the eye of any ordinary primate like us can be endlessly enhanced by sonography systems, magnetic resonance imaging, artificial intelligence-linked graphic manipulation systems, scanning electron microscopes, computer-aided tomography scanners, colour enhancement techniques, satellite surveillance systems, home and office VDTs, cameras for every purpose from filming the mucous membrane lining the gut cavity of a marine worm living in the vent gases on a fault between continental plates to mapping a planetary hemisphere elsewhere in the solar system.",
+    "after": "Vision in this technological feast becomes unregulated gluttony; all perspective gives way to infinitely mobile vision, which no longer seems just mythically about the god-trick of seeing everything from nowhere, but to have put the myth into ordinary practice."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 2,
+  "input": "aa54fad8d718",
+  "candidates": [
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "On the contrary, it is precisely this move that gives the Panopticon its force, for when the bodies of the disciplinarians seem to disappear into the technology, the limitations of corporeality are hidden.",
+    "sentence": "Although the bodies of the disciplined do not disappear in Foucault’s account, the specificities of their corporealities fade into the technology as well, becoming a universalized body worked upon in a uniform way by surveillance techniques and practices.",
+    "after": "When actual situations involving embodied agents are considered, limits appear that are obscured when the Panopticon is considered only as an abstract mechanism."
+   },
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "The assimilation of embodiment into discourse has the additional disadvantage of making it difficult to understand exactly how certain practices spread through a society.",
+    "sentence": "Foucault delineates the transformations that occurred when corporeal punishment gave way to surveillance, but the engine driving these changes remains obscure.",
+    "after": "Focusing on embodiment would help to clarify the mechanisms of change, for it links a changing technological landscape with the instantiated enactments that create feedback loops between materiality and discourse."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 9,
+  "input": "aec8235429da",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "But more recently, many writers addressing these issues argued that the visual is central to the cultural construction of social life in contemporary Western societies.",
+    "sentence": "We are, of course, surrounded by different sorts of visual technologies — photography, film, video, digital graphics, television, acrylics, for example — and the images they show us - TV programmes, advertisements, snapshots, public sculpture, movies, surveillance video footage, newspaper pictures, paintings.",
+    "after": "All these different sorts of technologies and images offer views of the world; they render the world in visual terms."
+   },
+   {
+    "loc": 20,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "Other writers have made other arguments for the importance of the visual to modern societies.",
+    "sentence": "The work of Michel Foucault explores the way in which many nineteenth century institutions depended on various forms of surveillance (1977) (Chapters 7 and 8 here examine the methodological implications of his work); and in his study of nineteenth century world fairs and exhibitions, Timothy Mitchell (1988) shows how European societies represented the whole world as an exhibition.",
+    "after": "Deborah Poole (1997) has traced how visions of that modernity were thoroughly racialized in the same period."
+   },
+   {
+    "loc": 138,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "Reverse shots often establish which character’s view the camera is showing.",
+    "sentence": "In Vertigo, the camera persistently shows the spectator what Scottie sees during his surveillance of the mysterious woman he is following.",
+    "after": "Moreover, the audience never sees what she sees as she sees it: we are only given a good look when Scottie goes to look at it too."
+   },
+   {
+    "loc": 191,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "‘Hence the major effect of the Panopticon: to induce in the inmate a state of conscious and permanent visibility that assures the automatic functioning of power’ (Foucault 1977: 210).",
+    "sentence": "This sort of visuality, in which one subject is seen without ever seeing, and the other sees without surveillance ever being seen, Foucault called surveillance, and he argued that, since it was an efficient means of producing social order, it became a dominant form of visuality throughout modern capitalist societies.",
+    "after": "Through its operation, says Foucault (1977: 200) (in an echo of Lacan), ‘visibility is a trap’."
+   },
+   {
+    "loc": 199,
+    "page": "p. 182",
+    "kind": "p",
+    "before": "In ways he less-than-convincingly demonstrates, he argues that both sorts of institutions disciplined their visitors into what were seen as civilized ways of behaving.",
+    "sentence": "Bennett again pays some attention to the visual and spatial aspects of museums and galleries when making this argument, examining architectural plans and noting the way that surveillance of other visitors was often built into the designs of these institutions; he also reproduces some contemporary photographs of museums and exhibitions taken from positions which he claims again articulate the sur-veillant quality of these spaces.",
+    "after": "He thus suggests that museums and galleries worked to regulate social behaviour by producing docile bodies."
+   },
+   {
+    "loc": 208,
+    "page": "p. 191",
+    "kind": "p",
+    "before": "From his historical work, he argues that the contemplation of art and the appreciation of museums’ knowledge was expected to involve particular ways of visiting these places, and Bennett (1995) argues that these ways were policed not only by rules and warders but also by other visitors.",
+    "sentence": "That is, he reworks Foucault’s discussion of the way surveillance makes the operation of power ‘automatic’ by suggesting that the regulation of social behaviour in these museums is conducted as much by the visitors’ knowledge that they are being watched by other visitors, as it is by more obvious forms of discipline.",
+    "after": ""
+   },
+   {
+    "loc": 212,
+    "page": "p. 195",
+    "kind": "q",
+    "before": "",
+    "sentence": "Key terms include discourse, power/knowledge, surveillance, apparatus and technology.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 1,
+  "input": "018ecfb94b7c",
+  "candidates": [
+   {
+    "loc": 111,
+    "page": "PDF p. 111",
+    "kind": "p",
+    "before": "To designate this first category of landmarks, I propose to use the word oligopticon as the generic term, reserving the expression of ‘centers of calculation’ for the sites where literal and not simply metaphorical calculations are made possible by the mathematical or at least arithmetic format of the documents being brought back and forth.",
+    "sentence": "As every reader of Michel Foucault knows, the ‘panopticon’, an ideal prison allowing for a total surveillance of inmates imagined at the beginning of the 19ᵗʰ century by Jeremy Bentham, has remained a utopia, that is, a world of nowhere to feed the double disease of total paranoia and total megalomania.",
+    "after": "We, however, are not looking for utopia, but for places on earth that are fully assignable."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 31,
+  "input": "b962b1ff371e",
+  "candidates": [
+   {
+    "loc": 30,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "In Jennifer Lopez’s music video “If You Had My Love” (1999) the singer portrays herself as the object, not the subject, of the volitional mobility afforded the Web user.",
+    "sentence": "Shots of Lopez tracked by surveillance cameras alternate with her image as represented in a Web site: she shares the stage and gaze with the new media design interfaces in which she is embedded in an extremely overt way.",
+    "after": "This puts a new spin on the traditional female position as object of the gaze."
+   },
+   {
+    "loc": 42,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "In chapter 3, I examine science ﬁction ﬁlms’ objects of interactivity: what is the visual culture set up by the world of such ﬁlms that moves into the world of the Internet and its interfaces?",
+    "sentence": "In Gattaca (1997), The Matrix trilogy (1999–2004), and Minority Report (2002), the Internet and other networking communications and imaging technologies create a culture of surveillance of the body via databased biometric technologies such as retinal printing, genetic mapping, and other types of body and racial proﬁling.",
+    "after": "In Minority Report and The Matrix I trace the ways that black and white interfaces are deﬁned, and the ways that the Asian American body functions as a liminal space between the two."
+   },
+   {
+    "loc": 43,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "Films that use digital interfaces in such central ways require a method of reading that takes their particular histories, functionalities, and visual cultures into account.",
+    "sentence": "Just as “seeing” in the context of media consumption today means “seeing through” the apparatus of the interface, so too does the “seeing” of race in these contexts entail “seeing through” the lens of science as a mode of bodily surveillance that deﬁnes race as a function of biometric measures and databases.",
+    "after": ""
+   },
+   {
+    "loc": 106,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "As I note in the introduction to this book, as well as in other chapters, the massiﬁcation of the Internet as an everyday technology for many people has resulted in the creation and exhibition of innumerable telegenic ﬁctional and “real” interfaces as a ubiquitous feature in genres like science ﬁction, action/thriller, and military ﬁlms, and they are increasingly common in mainstream ﬁlm genres like romances, such as in You’ve Got Mail and Something’s Got to Give, music videos, and dramas set in contemporary times.",
+    "sentence": "These scenes allow insight into both the characters that use them and the ways in which information, surveillance, and visualization function in the realm of the ﬁlm and in society at large.",
+    "after": "The proper relationship to the interface is codiﬁed quite clearly: competency or mastery is deﬁned by the level of immediacy the user experiences in relation to it."
+   },
+   {
+    "loc": 130,
+    "page": "p. 119",
+    "kind": "p",
+    "before": "",
+    "sentence": "“[Computers] simulate surveillance in the sense that they precede and redouble the means of observation.",
+    "after": "Computer proﬁling . . . is understood best not just as a technology of surveillance, but as a kind of surveillance in advance of surveillance, a technology of ‘observation before the fact.’”"
+   },
+   {
+    "loc": 132,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "Dataveillant technologies that proﬁle users’ engagements with consumer databases in effect predict what we will buy, and in the case of the preprinted coupons, turn that prediction into fact (users are much more likely to use coupons that they already own).",
+    "sentence": "Computing proﬁling or “surveillance in advance of surveillance” maps well onto the operations of our contemporary informational state, one that asserts its color blindness but continues to racially proﬁle citizens and noncitizens, often with fatal results.",
+    "after": ""
+   },
+   {
+    "loc": 136,
+    "page": "p. 125",
+    "kind": "p",
+    "before": "Both Blade Runner and Minority Report begin with extreme close-up shots of eyes, and as Kaja Silverman writes of Blade Runner: “However, if the opening shots work in an anticipatory way to break down the dichotomy between replicants and humans by focusing on an eye which could represent either, it is because that organ represents precisely the site at which difference is ostensibly discernible within the world of Blade Runner.”",
+    "sentence": "Minority Report’s ubiquitous shots of eyes being scanned in shopping malls, subways, housing projects, and workplaces expands this notion of retinal surveillance to the public sphere in its entirety.",
+    "after": "The eye becomes the sole signiﬁer of identity in this panoptic future."
+   },
+   {
+    "loc": 136,
+    "page": "p. 125",
+    "kind": "p",
+    "before": "Far from the celebratory mestiza subject of Gloria Anzaldúa’s writings, however, this one comes from a lack of empathy rather than a plurality of it—Anderton only needs to take the position of the raced, hunted, marginalized person of color into account, he only needs to really see it, at the moment that he begins his new life as a fugitive from justice.",
+    "sentence": "Hence cyberculture enables a privileged view of image and race as code and takes it away: the same computers that allow Anderton to “scrub” the image make him permanently vulnerable to their surveillance.",
+    "after": "This unprecedented vulnerability to techno-surveillance is, however, part of what it means to be a person of color in the “integrated circuit,” to use Haraway’s eloquent formulation."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 30,
+  "input": "6ffa8f396206",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Further, given the ephemerality of digital information, how has electronic memory become conflated with storage?",
+    "sentence": "It takes a lot of work— at the very least the U.S. National Security Agency, social media sites that foster cross-platform “unique identifiers,” and vast server farms that contribute to global climate change—to make the Internet the basis for worldwide surveillance.",
+    "after": "If the phrase “once it’s there, it’s there to stay” makes any sense, it is because surveillance is now co-produced transnationally by states and private corporations."
+   },
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "It takes a lot of work— at the very least the U.S. National Security Agency, social media sites that foster cross-platform “unique identifiers,” and vast server farms that contribute to global climate change—to make the Internet the basis for worldwide surveillance.",
+    "sentence": "If the phrase “once it’s there, it’s there to stay” makes any sense, it is because surveillance is now co-produced transnationally by states and private corporations.",
+    "after": ""
+   },
+   {
+    "loc": 27,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Clearly, this spread and wane of the private extends far beyond social media and the Internet.",
+    "sentence": "The Internet, however—with all the hype portraying it as ideal public sphere, ultimate surveillance machine, hotbed of radicalism, and/or dangerous pornographic badlands—remains central to understanding how this depraved and deprived privacy is negotiated and implemented.",
+    "after": "New media call into question the separation between publicity and privacy at various levels: from technical protocols to the Internet’s emergence as a privately owned public medium, from Google.com’s privatization of surveillance to social networking’s redefinition of “friends.”"
+   },
+   {
+    "loc": 27,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "The Internet, however—with all the hype portraying it as ideal public sphere, ultimate surveillance machine, hotbed of radicalism, and/or dangerous pornographic badlands—remains central to understanding how this depraved and deprived privacy is negotiated and implemented.",
+    "sentence": "New media call into question the separation between publicity and privacy at various levels: from technical protocols to the Internet’s emergence as a privately owned public medium, from Google.com’s privatization of surveillance to social networking’s redefinition of “friends.”",
+    "after": "As I explain in chapter 3, social media are driven by a profound confusion of the private and public."
+   },
+   {
+    "loc": 75,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "Agre argues that capture systems, because they are focused on grammars of action, are not surveillance systems.",
+    "after": "He explains that surveillance systems employ visual/territorial metaphors and are centralized systems linked to state power; capture-based systems, in contrast, are linked to private corporations."
+   },
+   {
+    "loc": 75,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "Agre argues that capture systems, because they are focused on grammars of action, are not surveillance systems.",
+    "sentence": "He explains that surveillance systems employ visual/territorial metaphors and are centralized systems linked to state power; capture-based systems, in contrast, are linked to private corporations.",
+    "after": "Capture and surveillance systems also differ in terms of their base unit of analysis."
+   },
+   {
+    "loc": 76,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "They seek to create new, more optimal habits; they record habitual actions in order to change them.",
+    "sentence": "Surveillance, and the older notions of privacy, remain through our habits, which are also central to discipline.",
+    "after": "They remain in how we situate, or inhabit, our actions."
+   },
+   {
+    "loc": 76,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "They remain in how we situate, or inhabit, our actions.",
+    "sentence": "Contra Agre, surveillance and capture also intersect as processes of intervention.",
+    "after": "The next chapter examines the confluence of surveillance and capture through the temporality of networks as crisis, crisis, crisis."
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 16,
+  "input": "47879b635dc4",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "But code is taking on many of the jobs we previously assigned to writing and documentation.",
+    "sentence": "To name a big (brother) example, the surveillance project of government, which could scale up with the help of writing and records, can scale up again.",
+    "after": "A U.S. National Security Administration data center that opened in 2013 in Utah can store perhaps a yottabyte of data such as phone numbers, e-mails, and contacts on its servers."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "The use of code can allow us to accelerate aspects of surveillance, law, finance, information, and bureaucracy, but, perhaps less frighteningly, it can also facilitate greater accountability in governance.",
+    "after": "Applications designed to monitor spending and political donations can lead to more transparent governance, in the same way that text can serve not only to keep records on citizens but also as paper trails for government officials."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "While writing substituted for certain functions of personal relationships during different historical eras, it did more than that: it facilitated new modes of interaction between individuals and between citizens and their governments.",
+    "sentence": "Authority ascribed to literary texts, letters written to family members far away (aiding in immigration), and complex modes of surveillance were all not simply replacements for earlier oral interactions.",
+    "after": "No one knew at first what computers were meant for —they were universal machines, technologies upon which we could inscribe all sorts of things: educational value, home uses, play, and so forth."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "And yet, subjects depicted in negative ways still have very little control over their portrayal.",
+    "sentence": "Aneesh Aneesh describes how workplace surveillance programs can intervene between employees and supervisors, cataloging errors or forbidden behavior and otherwise “shaping an environment in which there are no alternatives to performing the work as desired.”",
+    "after": ""
+   },
+   {
+    "loc": 45,
+    "page": "PDF p. 45",
+    "kind": "p",
+    "before": "Lenin was a great champion of literacy for these reasons and sought a nonauthoritarian approach to schooling that would tap into learners’ interests and overthrow the existing social order.",
+    "sentence": "In contrast, Stalin tightened censorship and surveillance at the time of the education ramp-up in the 1930s.",
+    "after": "Just as Martin Luther had warned about in the sixteenth century, elites in the USSR feared unchecked literacy—literacy decoupled from proper values."
+   },
+   {
+    "loc": 97,
+    "page": "PDF p. 97",
+    "kind": "p",
+    "before": "In developed nations such as the United States, code increasingly supports our information and communication infrastructure.",
+    "sentence": "As computational devices become more portable and more deeply embedded in our physical surroundings and as more spheres are subjected to computation—consumer buying habits, facial recognition, employee performance evaluations, and national security infrastructure and surveillance—we are increasingly controlled and defined by the computation enacted through computer programming.",
+    "after": "Historian Michael Mahoney writes, “From the early 1950s down to the present, various communities of computing have translated large portions of our world—our experience of it and our interaction with it—into computational models to be enacted on computers, not only the computers that we encounter directly but also the computers that we have embedded in the objects around us to make them ‘intelligent.’”"
+   },
+   {
+    "loc": 107,
+    "page": "PDF p. 107",
+    "kind": "p",
+    "before": "The traditional bureaucratic structure of centralized government was an analog precursor to the computer, argues Jon Agar.",
+    "sentence": "For Agar, the British Empire’s embrace of the “symbolic abstraction of writing and the surveillance of facts” led to the concept of the computer as a means to systematize government bureaucracy.",
+    "after": "Government funding, organization, and enforcement helped boost the technologies of code and computation through modeling and funding, just as it had with writing."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Paperwork could facilitate surveillance.",
+    "sentence": "Surveillance of government would abolish corruption, and surveillance of citizens would ensure efficiency and fairness in governance.",
+    "after": "At least, these were the ostensible objectives of this emphasis on documentation."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 9,
+  "input": "b11254a789ad",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "However, what is missing from the extant work on Google is an intersectional power analysis that accounts for the ways in which marginalized people are exponentially harmed by Google.",
+    "sentence": "Since I began writing this book, Google’s parent company, Alphabet, has expanded its power into drone technology, military-grade robotics, fiber networks, and behavioral surveillance technologies such as Nest and Google Glass.",
+    "after": "These are just several of many entry points to thinking about the implications of artificial intelligence as a human rights issue."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "From serving as a browser of the Internet to handling personal email or establishing Wi-Fi networks and broadband projects in municipalities across the United States, Google, unlike traditional telecommunications companies, has unprecedented access to the collection and provision of data across a variety of platforms in a highly unregulated marketplace and policy environment.",
+    "sentence": "We must continue to study the implications of engagement with commercial entities such as Google and what makes them so desirable to consumers, as their use is not without consequences of increased surveillance and privacy invasions and participation in hidden labor practices.",
+    "after": "Each of these enhances the business model of Google’s parent company, Alphabet, and reinforces its market dominance across a host of vertical and horizontal markets."
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "The public is minimally aware of these shifts in the cultural power and import of algorithms.",
+    "sentence": "In a 2015 study by the Pew Research Center, “American’s Privacy Strategies Post-Snowden,” only 34% of respondents who were aware of the surveillance that happens automatically online through media platforms, such as search behavior, email use, and social media, reported that they were shifting their online behavior because of concerns of government surveillance and the potential implications or harm that could come to them.",
+    "after": "Little of the American public knows that online behavior has more importance than ever."
+   },
+   {
+    "loc": 85,
+    "page": "PDF p. 85",
+    "kind": "p",
+    "before": "It also plays a key role in developing and implementing Google’s security policies and standards.",
+    "sentence": "At the data centers themselves, we have access controls, guards, video surveillance, and perimeter fencing to physically protect the sites at all times.",
+    "after": ""
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "",
+    "sentence": "The goal of elevating these conversations is to recognize and name the neoliberal communication strategies used by Google to circumvent or suppress its record keeping of the public through surveillance, particularly in its privacy policies and responses to “right to be forgotten” public policy.",
+    "after": "Google’s control and circumvention of privacy and the right to be forgotten intensifies damage to vulnerable populations."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "As users engage with technologies such as search engines, they dynamically co-construct content and the technology itself.",
+    "sentence": "Online information and content available in search is also structured systemically by the infusion of advertising revenue and the surveillance of user searches, which the subjects of such practices have very little ability to reshape or reformulate.",
+    "after": "Lack of attention to the current exploitative nature of online keyword searches only further entrenches the problematic identities in the media for women of color, identities that have been contested since the advent of commercial media such as broadcast, print, and radio."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "The notion that Google/Alphabet has the potential to be a democratizing force is certainly laudable, but the contradictions inherent in its projects must be contextualized in the historical conditions that both create it and are created by it.",
+    "sentence": "Thinking about the specifics of who benefits from these practices—from hiring to search results to technologies of surveillance—these are problems and projects that are not equally experienced.",
+    "after": "I have written, for example, with my colleague Sarah T. Roberts about the myriad problems with a project such as Google Glass and the problems of class privilege that directly map to the failure of the project and the intensifying distrust of Silicon Valley gentrifiers in tech corridors such as San Francisco and Seattle."
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "I have written, for example, with my colleague Sarah T. Roberts about the myriad problems with a project such as Google Glass and the problems of class privilege that directly map to the failure of the project and the intensifying distrust of Silicon Valley gentrifiers in tech corridors such as San Francisco and Seattle.",
+    "sentence": "The lack of introspection about the public wanting to be surveilled at the level of intensity that Google Glass provided is part of the problem: centuries-old concepts of conquest and exploration of every landscape, no matter its inhabitants, are seen as emancipatory rather than colonizing and totalizing for people who fall within its gaze.",
+    "after": "People on the street may not characterize Google Glass as a neocolonial project in the way we do, but they certainly know they do not like seeing it pointed in their direction; and the visceral responses to Google Glass wearers as “Glassholes” is just one indicator of public distrust of these kinds of privacy intrusions."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 39,
+  "input": "dd423882d4a4",
+  "candidates": [
+   {
+    "loc": 7,
+    "page": "pp. 6–8",
+    "kind": "p",
+    "before": "That data acts to reinforce their marginality when it is used to target them for suspicion and extra scrutiny.",
+    "sentence": "Those groups seen as undeserving are singled out for punitive public policy and more intense surveillance, and the cycle begins again.",
+    "after": "It is a kind of collective red-flagging, a feedback loop of injustice."
+   },
+   {
+    "loc": 51,
+    "page": "pp. 118–119",
+    "kind": "p",
+    "before": "Officer Joseph attends coordinated entry meetings at Lamp Community, participates in street cleaning campaigns with the Health Department, and, he said, “shows these social service providers where the most chronically homeless are.”",
+    "sentence": "He sees community policing, integration into the community’s social service networks, and surveillance as mutually reinforcing.",
+    "after": "“I’ll go out, walk a foot beat, go right into the missions, into the courtyard where people are sleeping, tell them about what is happening in the area,” he said."
+   },
+   {
+    "loc": 51,
+    "page": "pp. 118–119",
+    "kind": "p",
+    "before": "I’ll go and do consensual encounters to meet people, talk to them to gather information, if they are willing to give it to me.”",
+    "sentence": "The relationships he develops through community policing bring him intelligence: informants seek him out, the missions and other social service agencies share their surveillance camera footage.",
+    "after": "He believes in community policing, he says, because “it helps me solve crimes."
+   },
+   {
+    "loc": 52,
+    "page": "pp. 120–122",
+    "kind": "p",
+    "before": "",
+    "sentence": "To understand coordinated entry as a system of surveillance, it is crucial to differentiate between “old” and “new” surveillance.",
+    "after": "Older analog systems of surveillance required individualized attention: a small number of law enforcement or intelligence personnel would compile a dossier by identifying a target, tracking her, and recording her movements and activities."
+   },
+   {
+    "loc": 52,
+    "page": "pp. 120–122",
+    "kind": "p",
+    "before": "To understand coordinated entry as a system of surveillance, it is crucial to differentiate between “old” and “new” surveillance.",
+    "sentence": "Older analog systems of surveillance required individualized attention: a small number of law enforcement or intelligence personnel would compile a dossier by identifying a target, tracking her, and recording her movements and activities.",
+    "after": "The targets of older forms of surveillance were often chosen because of their group membership: COINTELPRO (the COunter INTELligence PROgram of the FBI), for example, focused on civil rights activists for both their race and their political activism."
+   },
+   {
+    "loc": 52,
+    "page": "pp. 120–122",
+    "kind": "p",
+    "before": "",
+    "sentence": "In contrast, in new data-based surveillance, the target often emerges from the data.",
+    "after": "The targeting comes after the data collection, not before."
+   },
+   {
+    "loc": 53,
+    "page": "pp. 123–124",
+    "kind": "p",
+    "before": "But increasingly, it only requires finer sifting of data that already exists.",
+    "sentence": "If the old surveillance was an eye in the sky, the new surveillance is a spider in a digital web, testing each connected strand for suspicious vibrations.",
+    "after": ""
+   },
+   {
+    "loc": 82,
+    "page": "pp. 194–196",
+    "kind": "p",
+    "before": "",
+    "sentence": "The digital poorhouse facilitates government interference, scrutiny, and surveillance, undermining freedom from.",
+    "after": "The rise of high-tech tools has increased the collection, storage, and sharing of data about the behavior and choices of poor and working-class people."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 3,
+  "input": "7fe88fbe6672",
+  "candidates": [
+   {
+    "loc": 40,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "Just as humanities computing came up in the Cold War context, the heyday of digital humanities has coincided with the “Long War”—the name coined by United States military leaders for the so-​called War on Terror.",
+    "sentence": "The war has brought with it untold technological terrors to fuel its colonial project: armed drone warfare, the PRISM surveillance program, automatic biometric scanners, and backscatter X-​ray technology for body scanning at airports.",
+    "after": "While Cold War technologies, as McCarty argues, seem to have made humanities scholars run in the other direction from humanities computing, recently humanities scholars have been willing to engage with digital humanities, even if only to critique it."
+   },
+   {
+    "loc": 40,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "Perhaps the ubiquity, convenience, and user-​ friendliness of computer technology and digital media have transformed the Cold War’s fear into the Long War’s morbid curiosity.",
+    "sentence": "After all, using one’s thumbprint to unlock a phone may desensitize individuals to the distressing potential of privacy violations and surveillance promised by biometric technology.",
+    "after": "Perhaps humanities scholars are resigned to the fact that they are inevitable producers of Big Data, the rapidly proliferating structured and unstructured data that humans are producing with their digital footprints."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 9,
+  "input": "12b2c5e264ef",
+  "candidates": [
+   {
+    "loc": 34,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "The reference is meant to be playful but also to evoke the gender politics of the mid-twentieth century, pre-Roe United States in which the show’s mother character is a doctor (of biochemistry) whose story lines, infuriatingly, hardly deviate from the gender roles ascribed to other 1960s television mothers.",
+    "sentence": "In addition, the reference evokes the automated state of constant surveillance of the robot, drawing parallels to contemporary practices of big data mining and algorithmic profiling.",
+    "after": "After all, “Danger, Jane Roe!” is wearable data visualization."
+   },
+   {
+    "loc": 94,
+    "page": "p. 66",
+    "kind": "q",
+    "before": "A “straightforward” relationship to finances, names, and economic transactions is a privilege enjoyed by very few folks.",
+    "sentence": "Form-filling stress and complicated relationships with economic transactions are often generated by personal histories of poverty and racialized financial surveillance and criminalization.",
+    "after": "Sometimes it is because you are undocumented or because of a precarious labor status in the country you are working in, that is, international students and other workers, or because your name registered with the governmental tax agency is not the same name that you use in everyday life."
+   },
+   {
+    "loc": 100,
+    "page": "p. 72",
+    "kind": "p",
+    "before": "DH is nothing less than an unintentionally rightist vehicle for techno-utopianism, drawing from the same font as Massive Open Online Courses (MOOCs) and complicit in their devaluing of education, diversity, and academic labor.",
+    "sentence": "It is equally complicit in furthering both the surveillance state and the surveillance economy, exemplified in its stunning lack of response to the Snowden leaks.",
+    "after": "As a progeny of the computer sciences, digital humanities has inherited the same lack of gender and racial diversity, and any attempt to remedy the situation is met with incredible resistance."
+   },
+   {
+    "loc": 159,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "This listing, or amassing of data, situates lesbian researchers as the heirs of the history that they create.",
+    "sentence": "This ordering of data in self-definitional work, even in the face of the increased attention, or even surveillance, that it might bring, is an important corrective to lesbian histories that are often framed as an afterthought in gay men’s histories, or worse, are ignored altogether.",
+    "after": ""
+   },
+   {
+    "loc": 203,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "In this essay, I focus on how my experiences with #FergusonSyllabus made me aware of the way that online and digital engagement offers a window into how you spend your time, and the ways colleagues and advisors evaluate your use of this time in the academy.",
+    "sentence": "This type of surveillance heightened my career worries and forced me to think about the way the academy evaluates and devalues collective, activist work.",
+    "after": "Additionally, my sudden entry into the world of digital scholarship regarding teaching about race and social justice, and the lack of clarity on how public engagement fits within the rigid hierarchy of research-service-and-then-teaching, made me think about the ways black women’s voices can be muffled or altogether silenced in the very moments their insights are needed."
+   },
+   {
+    "loc": 278,
+    "page": "p. 250",
+    "kind": "p",
+    "before": "Archives, in the words of Michel Foucault, were “documents of exclusion” and “monuments to particular configurations of power.”",
+    "sentence": "And the archive itself is both potentially a “mundane workplace and a panopticon of intense surveillance.”",
+    "after": "It is from postcolonial studies where we have seen the archive used politically and socially and often becoming a “technology of imperial power, conquest, and hegemony.”"
+   },
+   {
+    "loc": 421,
+    "page": "p. 393",
+    "kind": "p",
+    "before": "These visual data have been popularly interpreted as an emblem of a deeply racist and classist system that produces its programmed outcome of black subjugation, as journalists and scholars have suggested in looking at the local history of Ferguson itself.",
+    "sentence": "In regard to the culture of Ferguson, Black Lives Matter makes the argument that Brown’s death represents the overindexed exposure of black communities to policing (surveillance, stop and search, etc.) supported by over forty years of legislation since the Nixon administration’s original “war on drugs” (Alexander).",
+    "after": "The punitive policing of poor black neighborhoods is a matter of record."
+   },
+   {
+    "loc": 484,
+    "page": "p. 456",
+    "kind": "p",
+    "before": "Subsequent revisions of the game have introduced additional challenges and consequences, especially when health and happiness metrics get too low, to create a more nuanced portrayal of the difficult choices sex workers are often forced to make.",
+    "sentence": "For example, we added a random number generator to both Toronto and Vancouver in order to recognize the constant potential for police surveillance.",
+    "after": "One script in Vancouver involving a police officer specifically referenced helping Andrea get “cleaned up”:"
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 45,
+  "input": "e21f619cb252",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "For instance, in a recent audit of California’s gang database, not only do Blacks and Latinxs constitute 87 percent of those listed, but many of the names turned out to be babies under the age of 1, some of whom were supposedly “self-described gang members.”",
+    "sentence": "So far, no one ventures to explain how this could have happened, except by saying that some combination of zip codes and racially coded names constitute a risk.'!° Once someone is added to the database, whether they know they are listed or not, they undergo even more surveillance and lose a number of rights.!!",
+    "after": ""
+   },
+   {
+    "loc": 92,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "At a recent workshop sponsored by a grassroots organization called Stop LAPD Spying, the facilitator explained that community members with whom she works might not know what algorithms are, but they know what it feels like to be watched.",
+    "sentence": "Feelings and stories of being surveilled are a form of “evidence,” she insisted, and community testimony is data.’",
+    "after": "As part of producing those data, the organizers interviewed people about their experiences with surveillance and their views on predictive policing."
+   },
+   {
+    "loc": 92,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "Feelings and stories of being surveilled are a form of “evidence,” she insisted, and community testimony is data.’",
+    "sentence": "As part of producing those data, the organizers interviewed people about their experiences with surveillance and their views on predictive policing.",
+    "after": "They are asked, for example: “What do you think the predictions are based on?”"
+   },
+   {
+    "loc": 123,
+    "page": "p. 111",
+    "kind": "p",
+    "before": "In social theorist Michel Foucault’s classic formulation, “visibility is a trap.”",
+    "sentence": "Foucault explained how power is exercised through techniques of surveillance in which people are constantly watched and disciplined, “the object of information, never a subject of communication.”",
+    "after": "The less obvious the mechanism, the more powerful the disciplinary function of surveillance."
+   },
+   {
+    "loc": 123,
+    "page": "p. 111",
+    "kind": "p",
+    "before": "Foucault explained how power is exercised through techniques of surveillance in which people are constantly watched and disciplined, “the object of information, never a subject of communication.”",
+    "sentence": "The less obvious the mechanism, the more powerful the disciplinary function of surveillance.",
+    "after": "It is tempting to point to the smart recording devices we carry around in our pockets and exclaim that “we are all caught inside the digital dragnet!”"
+   },
+   {
+    "loc": 133,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "The term itself is misleading.",
+    "sentence": "Pre-Emptive Policing, the more accurate term, emphasizes surveillance and seizures of individuals before a criminal ‘predicate’ exists.”",
+    "after": "While some, including the authors of this report, may note that pre-emptive policing is hardly “compatible with American Constitutional principles such as the presumption of innocence and the warrant requirement,” we can also consider how, as Simone Browne has shown, the practice is consistent with the long history of racial surveillance endured by Black people.*”"
+   },
+   {
+    "loc": 133,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "Pre-Emptive Policing, the more accurate term, emphasizes surveillance and seizures of individuals before a criminal ‘predicate’ exists.”",
+    "sentence": "While some, including the authors of this report, may note that pre-emptive policing is hardly “compatible with American Constitutional principles such as the presumption of innocence and the warrant requirement,” we can also consider how, as Simone Browne has shown, the practice is consistent with the long history of racial surveillance endured by Black people.*”",
+    "after": ""
+   },
+   {
+    "loc": 139,
+    "page": "p. 127",
+    "kind": "p",
+    "before": "This might look like Mamie Till-Mobley, mother of slain teenager Emmett Till, choosing to expose the mutilated body of her son because “I think everybody needs to know what happened.”",
+    "sentence": "It could also look like the organization Stop LAPD Spying Coalition, exposing the lies of law enforcement officials who claim not to know about the very surveillance techniques that the organization records them using.",
+    "after": "Organizers participate in community events, public rallies, and protests and proceed to “watch the watchers.”"
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 5,
+  "input": "1a8fda0ddd70",
+  "candidates": [
+   {
+    "loc": 143,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "Although laws may shift, the implementation of those laws may not be so quickly enacted or, because of the disciplinary domain of power, they might not be enacted at all.",
+    "sentence": "Collins draws specific attention to the way power relations rely “on bureaucratic hierarchies and techniques of surveillance” (p. 289) to control individuals or groups.",
+    "after": "As such, the disciplinary domain can shift the ways technical communicators think about documentation, enrollment policies, and other forms of reporting that might unwittingly expose members of the community to undue scrutiny and function as an oppressive activity."
+   },
+   {
+    "loc": 144,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "",
+    "sentence": "For Collins, the disciplinary domain requires us to consider not only organizational processes but also surveillance practices that can harm individuals forced to engage with bureaucracies and other governmental organizations.",
+    "after": "As such, the disciplinary domain can shift the ways technical communicators think about documentation, enrollment policies, and other forms of reporting that might unwittingly expose members of the community to undue scrutiny and function as an oppressive activity."
+   },
+   {
+    "loc": 144,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "As such, the disciplinary domain can shift the ways technical communicators think about documentation, enrollment policies, and other forms of reporting that might unwittingly expose members of the community to undue scrutiny and function as an oppressive activity.",
+    "sentence": "Scott (2003) offers an example of the ways technical documents—in his case HIV tests—function as a form of surveillance.",
+    "after": "Although HIV tests provided some semblance of empowerment for those tested, “[c]ase identification, especially when it involves name-based reporting, allows for various forms of institutional surveillance and regulation” (p. 52)."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 1,
+  "input": "898b294a75df",
+  "candidates": [
+   {
+    "loc": 139,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "",
+    "sentence": "This is not to say the monitorial system is simply or only about identification with the master or that it is simply or only about surveillance.",
+    "after": "The idea is also that the monitor by teaching the other students had the lesson more firmly impressed upon his own mind: “The repetition of one word by the monitor, serves to rivet it firmly on the minds of each one of the class, and also on his own memory; thus he cannot possibly teach the class without improving himself at the same time” (Lancaster [1803] 1807, 47)."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 3,
+  "input": "e2b0e41fb5d6",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "pp. 29–30",
+    "kind": "p",
+    "before": "According to a 2008 study, “Approximately 70% of the digital universe is created by individuals.”",
+    "sentence": "In other words, the size of media created by users competes well with the amounts of data collected and created by computers (surveillance systems, sensor-based applications, data centers supporting “cloud computing,” etc.).",
+    "after": ""
+   },
+   {
+    "loc": 41,
+    "page": "pp. 59–60",
+    "kind": "p",
+    "before": "One part of media analytics—the practices of gathering and algorithmic analysis of user interaction data (i.e., digital traces)—has received significant attention.",
+    "sentence": "However, most discussions of these practices are focused on political and social issues such as privacy, surveillance, access rights, discrimination, fairness, and biases, as opposed to the history and theory of technological media.",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "pp. 90–91",
+    "kind": "p",
+    "before": "",
+    "sentence": "One reason for this is the existence of censorship and government surveillance (real, imagined, or both) that pushes cultural and intellectual life and communication to global social networks and messaging apps.",
+    "after": "For example, in 2019, intellectuals in Russia were publishing whole journals on Telegram (an instant messaging service), while posts of Russian users on Instagram often included long reflective texts."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 13,
+  "input": "ba5e45002ed9",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "It passes through the eugenics movement, in the late nineteenth and early twentieth centuries, which sought to employ data to quantify the superiority of white people over all others.",
+    "sentence": "It continues today in the proliferation of biometrics technologies that, as sociologist Simone Browne has shown, are disproportionately deployed to surveil Black bodies.",
+    "after": ""
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "For example, PredPol, a so-called predictive policing company founded in 2012 by an anthropology professor at the University of California, Los Angeles, has been employed by the City of Los Angeles for nearly a decade to determine which neighborhoods to patrol more heavily, and which neighborhoods to (mostly) ignore.",
+    "sentence": "But because PredPol is based on historical crime data and US policing practices have always disproportionately surveilled and patrolled neighborhoods of color, the predictions of where crime will happen in the future look a lot like the racist practices of the past.",
+    "after": "These systems create what mathematician and writer Cathy O’Neil, in Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, calls a “pernicious feedback loop,” amplifying the effects of racial bias and of the criminalization of poverty that are already endemic to the United States."
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "In another example, journalist Amy Hawkins details how CloudWalk, a startup in China in need of more images of faces of people of African descent, signed a deal with the Zimbabwean government for it to provide the images the company was lacking.",
+    "sentence": "In return for sharing its data, Zimbabwe will receive a national facial database and “smart” surveillance infrastructure that it can install in airports, railways, and bus stations.",
+    "after": ""
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "Better detection of faces of color cannot be characterized as an unqualified good.",
+    "sentence": "More often than not, it is enlisted in the service of increased oppression, greater surveillance, and targeted violence.",
+    "after": "Buolamwini understands these potential harms and has developed an approach that works across all four domains of the matrix of domination to address the underlying issues of power that are playing out in facial analysis technology."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "",
+    "sentence": "Far too often, the problem is not that data about minoritized groups are missing but the reverse: the databases and data systems of powerful institutions are built on the excessive surveillance of minoritized groups.",
+    "after": "This results in women, people of color, and poor people, among others, being overrepresented in the data that these systems are premised upon."
+   },
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "",
+    "sentence": "How did we get to the point where data science is used almost exclusively in the service of profit (for a few), surveillance (of the minoritized), and efficiency (amidst scarcity)?",
+    "after": "It’s worth stepping back to make an observation about the organization of the data economy: data are expensive and resource-intensive, so only already powerful institutions—corporations, governments, and elite research universities—have the means to work with them at scale."
+   },
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "These resource requirements result in data science that serves the primary goals of the institutions themselves.",
+    "sentence": "We can think of these goals as the three Ss: science (universities), surveillance (governments), and selling (corporations).",
+    "after": "This is not a normative judgment (e.g., “all science is bad”) but rather an observation about the organization of resources."
+   },
+   {
+    "loc": 47,
+    "page": "PDF p. 47",
+    "kind": "p",
+    "before": "And those goals are neither neutral nor democratic—in the sense of having undergone any kind of participatory, public process.",
+    "sentence": "On the contrary, focusing on those three Ss—science, surveillance, and selling—to the exclusion of other possible objectives results in significant oversights with life-altering consequences.",
+    "after": "Consider the Target example as the flip side of the missing data on maternal health outcomes."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 16,
+  "input": "622e4584d2de",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "Popular narratives of design, technology, and social change are dominated by techno-utopian hype about ever-more-powerful personal devices, “intelligent” systems, and “Twitter revolutions,” on the one hand, and totalizing, pessimistic accounts of digital surveillance, disinformation, and algorithmic injustice, on the other.",
+    "after": "This book strives to ground our understanding of design, technology, and social change in the daily practices of activists and community organizers, who have always struggled to amplify the voices of their communities “by any media necessary.”"
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "Of course, sometimes designers do intentionally design objects, spaces, and systems that are explicitly oppressive.",
+    "sentence": "For example, as surveillance scholar Simone Browne excavates in her brilliant text Dark Matters: On the Surveillance of Blackness, the designers of slave ships used for the transatlantic slave trade intentionally designed, planned, and participated in the construction of ships, ship modifications, and cargo hold instruction manuals to afford the transport of the greatest possible number of enslaved African human beings per voyage.",
+    "after": "Designers of prisons and detention centers today also participate in explicitly oppressive projects."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "On the one hand, this approach has real potential to escape the reproduction of existing social categories as variables that are used to shape experience; it may destabilize existing social categories and replace them with truly personalized, behavior-driven user experience (UX) and UI customization.",
+    "sentence": "However, in practice this approach also leads to the reproduction and reification of existing social categories through algorithmic surveillance, tracking users across sites, gathering and selling their data, and the development of filter bubbles (only showing users content that we believe they are comfortable with).",
+    "after": ""
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "",
+    "sentence": "Universalization erases difference and produces self-reinforcing spirals of exclusion, but personalized and culturally adaptive systems too often are deployed in ways that reinforce surveillance capitalism.",
+    "after": "Design justice doesn’t propose a “solution” to this paradox."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "Dialed In includes units about cellular towers, multimedia messaging, and gateways between the mobile telephony system and the internet.",
+    "sentence": "It also includes learning modules about mobile surveillance technologies and examples of how social movements use mobile technology for emancipatory ends.",
+    "after": ""
+   },
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "",
+    "sentence": "For example, in 2014, the course focused on surveillance and privacy.",
+    "after": "Teams worked to design countersurveillance projects, grounded in the needs of communities most heavily targeted by state, military, and corporate surveillance."
+   },
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "For example, in 2014, the course focused on surveillance and privacy.",
+    "sentence": "Teams worked to design countersurveillance projects, grounded in the needs of communities most heavily targeted by state, military, and corporate surveillance.",
+    "after": "Projects and partner organizations included SpideyApp, an Android-based Stingray detector, with the American Civil Liberties Union of Massachusetts and the Guardian Project; graphics for the Surveillance Self-Defense Guide, with the Electronic Frontier Foundation; I Am Not A Dot, a project about the sex offender registry, with Citizens United for Rehabilitation of Errants; IPVTech, a research portal about the use of mobile technology by perpetrators of intimate partner violence, with Transition House and The Tor Project; the UYC SMS Survey Initiative, an SMS survey system to gather data about students and their experiences of surveillance and police abuse inside New York City high schools, with Urban Youth Collaborative; Infiltrated, an interactive, web based documentary about federal infiltration of social movements in the United States, with SoMove (the Social Movements Oral History Tour); and Bedtime Stories, an interactive documentary microsite that raises awareness about the injustices of the US immigration detention and deportation system by focusing on the detention bed quota, with Detention Watch Network."
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "The SpideyApp team felt that their biggest challenge was “overcoming people’s preconceived ideas about privacy and educating them about the problem and why they should care.”",
+    "sentence": "This team was frustrated by state narratives about the necessity of surveillance, as well as by many people’s sentiments that they “have nothing to hide.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 12,
+  "input": "6a22c13f9f09",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "This chapter, then, articulates my concern about Black digital practice as vitality, energy, and occasionally, joy.",
+    "sentence": "While these libidinal impulses may become commodified or surveilled, the embodied cognition expressed preexists the digital platforms on which they are visible, published, and deemed appropriate for consumption.",
+    "after": ""
+   },
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "Black digital practice challenges these norms through displacement, performativity, pathos, and the explicit use of Black cultural commonplaces.",
+    "sentence": "These practices are optimized for communicative efficiency on their respective media, drawing from a pleasure in creative linguistic expression and the historical, discursive practices and experiences of evading white racial surveillance in plain sight.",
+    "after": "An externality of Black digital practice—thanks to the codifying, broadcast, and textual qualities of networked digital media—is the uptake of Black digital content by out-group audiences."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "As Byrne (2007) pointed out, BlackPlanet.com’s sixteen million users serve as evidence that sites promoting Black cultural interactivity can become enormously popular.",
+    "sentence": "Similarly, Banks (2006) writes, “Black participation on [BlackPlanet] also begins to show the ways cyberspace can serve as a cultural underground that counters the surveillance and censorship that always seem to accompany the presence of African American speaking, writing, and designing in more public spaces” (p. 69).",
+    "after": "Accordingly, Black Twitter can be understood as a user-generated source of culturally relevant online content, combining social network elements and broadcast principles to share information."
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "Deploying text messaging (hereafter referred to as short-message service, or SMS) to support and enact political resistance resulted in a decentralized communicative structure that was of great benefit for organizers, demonstrators, and those wishing to lend support.",
+    "sentence": "Notably, upon its release, TXTmob immediately fell under the scrutiny of various police surveillance teams.",
+    "after": "For example, the Giuliani-era authoritarian NYPD was increasingly invested in monitoring (and silencing) all political and civil unrest following the events of September 11, 2001."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "Here, however, my focus is on the smaller, distributed, more insidious effects of structural racism on Black online life.",
+    "sentence": "Racism as a libidinal frame references Black online discourses engendered by micro- and macroaggressions—from the algorithmically driven social media sharing of Black death at the hands of the state, to the constant reality of being surveilled and judged, to the reflexive pleasure and pathos involved in eating fried chicken in public spaces.",
+    "after": ""
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "By conforming to a specific set of white cultural norms, Black respectability proponents felt that an emphasis on “home training” and service-sector employment would demonstrate the capacity to rationally address whites regarding the inequities confronting the Black community.",
+    "sentence": "To this end, they put into action assimilation discourses of technology as modernity, social control, and domination—surveillance, near-eugenic reproductive control, disparagement of libidinal folk culture, and techniques of personal and environmental hygiene to achieve their ends—ensuring that “formal technical rationality [turned] into material political rationality” (Marcuse, 1964, p. 10).",
+    "after": ""
+   },
+   {
+    "loc": 118,
+    "page": "PDF p. 118",
+    "kind": "p",
+    "before": "As such, Black Twitter’s policing is emblematic of a satellite public sphere.",
+    "sentence": "A growing number of researchers are now interested in examining Twitter’s surveillance capabilities and arguing for the platform as a coercive, invasive space, but I ask you to consider Twitter’s cultural capacity as a coercive force as well, mediated by Twitter’s specific affordances.",
+    "after": ""
+   },
+   {
+    "loc": 120,
+    "page": "PDF p. 120",
+    "kind": "p",
+    "before": "I agree: while I recognize possibilities for emancipation through radical and decolonizing digital practices, my pressing concern for Black technoculture is to make manifest the vitality and joy of Black uses of ICTs.",
+    "sentence": "While these libidinal impulses may become commodified or surveilled, they are paraontological—that is, the embodied cognition they express preexists the platforms on which they are published, visible, and deemed appropriate for consumption.",
+    "after": "The digital mediates culture—in this case Blackness, but otherwise typically white Western—in ways that allow for sociality despite commodification."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 7,
+  "input": "a5164c84cf07",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "African American journalism is an often highlighted exemple of the influence counterpublics can have on the mainstream public sphere, even under conditions of extreme inequality and surveillance.",
+    "after": "The African American journalist and suffragist Ida B. Wells, for example, famously engaged in a careerlong antilynching campaign at the turn of the twentieth century."
+   },
+   {
+    "loc": 85,
+    "page": "PDF p. 85",
+    "kind": "p",
+    "before": "This mainstream attention is important as it draws more Americans into conversations about police profiling and racial violence.",
+    "sentence": "Yet it also poses a danger for activists as since 2012, and especially since 2014, law enforcement bodies have developed increasingly sophisticated ways of tracking Black activists organizing online—a continuation of the anti-Black surveillance documented by such scholars as Simone Browne.",
+    "after": ""
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "In a particularly salient example, Jeffrey Juris has described how he and his colleagues at the Independent Media Center were targeted by Italian police seeking to destroy digital footage of police violence during the anti-G8 protests in Genoa in 2001.",
+    "sentence": "More recently, Simone Browne has charted the way technologies of surveillance have a history rooted in enslavement in the United States and continue to be used to enforce state violence that is disproportionally visited on Black bodies.",
+    "after": ""
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "",
+    "sentence": "As we presented earlier versions of our work, several activists we spoke to described their experiences with surveillance and resistance to it, from being electronically followed by law enforcement during protests to deliberately altering or deleting content to avoid inadvertently revealing protest plans.",
+    "after": "Even without the explicit cooperation of social media platforms, state agencies increasingly make use of social media content to surveil activists."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "As we presented earlier versions of our work, several activists we spoke to described their experiences with surveillance and resistance to it, from being electronically followed by law enforcement during protests to deliberately altering or deleting content to avoid inadvertently revealing protest plans.",
+    "sentence": "Even without the explicit cooperation of social media platforms, state agencies increasingly make use of social media content to surveil activists.",
+    "after": "Nashville police, for example, claim that their creation of fake user profiles on Facebook is a way to ensure public safety, even though activists allege these profiles are used to monitor their activities."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "Over one million people checked in at Standing Rock on Facebook, and even more used the hashtags #NoDAPL and #StandWithStandingRock across platforms, making it difficult to ascertain who was really protesting at the site.",
+    "sentence": "This shows how the interconnectedness of platforms and the solidarity built in digital spaces can also be used to address activist concerns in the wake of heightened surveillance.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "7e407b913b94",
+  "candidates": [
+   {
+    "loc": 99,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "It is also possible that this caller was a trans woman under suspicion because of the sound of her voice.",
+    "sentence": "Essential ideas about gendered embodiment manifested in the everyday surveillance of lesbian-identified trans women and the denial of their access to basic information.",
+    "after": "For transgender callers seeking to access services over the phone, having one’s voice heard in the wrong way was, and is, a precursor to rejection."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 3,
+  "input": "d95409d72e04",
+  "candidates": [
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "I want to add nuance to their perception of their collective power while exploring how they perceive their identities (collectively and individually).",
+    "sentence": "They often evoke themes that are present in the collective lives of black men: racial discrimination, police surveillance and harassment, incarceration, and mediated depictions.",
+    "after": "The power of their narratives influences collective black identity development in the gaming space."
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "As Nicholas Mirzoeff argues, from a US-centric perspective, the resulting “plantation complex of visuality” enjoyed hegemonic dominance from the start of the transatlantic slave trade in the mid-seventeenth century until the end of the Civil War in 1865 (before being overtaken by the dominance of the “imperial” and then “military-industrial” complexes of visuality).",
+    "sentence": "For two centuries, the plantation complex quite literally kept African slaves and their descendants “in their place” as little more than tools in plantation operations, with fairly sophisticated divisions of labor and surveilled by a sovereign overseer, an object to the gaze of white supremacy and capital.",
+    "after": ""
+   },
+   {
+    "loc": 73,
+    "page": "PDF p. 73",
+    "kind": "p",
+    "before": "Unassuming.",
+    "sentence": "Capturing and surveilling everything.",
+    "after": "“Facial recognition.”"
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "d7ebb1bd6a81",
+  "candidates": [
+   {
+    "loc": 26,
+    "page": "pp. 30–31",
+    "kind": "p",
+    "before": "I explore their engagement with the platform, their experiences of misogynoir on- and offline and how conversations through the platform helped them create a community for themselves that enabled them to transform misogynoir.",
+    "sentence": "In the book’s conclusion, I end by suggesting what my line of inquiry opens for future research, including the potential impact of increased surveillance of digital media and feminist cultural productions and processes in digital spaces.",
+    "after": ""
+   },
+   {
+    "loc": 27,
+    "page": "pp. 32–33",
+    "kind": "p",
+    "before": "I decided not to provide active links to this content for both the users’ privacy and the likely probability that these links would no longer work by the time of publication.",
+    "sentence": "As digital humanist Simone Browne notes, researchers must be suspicious of surveillance given its deeply anti-Black origins and development.",
+    "after": "The line between accurately citing the social media content I procured and exposing the users who created that content to uninvited scrutiny is one I travel with care."
+   },
+   {
+    "loc": 71,
+    "page": "pp. 127–128",
+    "kind": "p",
+    "before": "Choosing not to engage the police is one way to work toward reducing the harm that the criminal (in)justice system causes.",
+    "sentence": "That this group of Black queer women friends struggle with the choice before them illustrates the concerns that multiply marginalized communities face while trying to mitigate the excessive surveillance and targeting of their communities.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 5,
+  "input": "ad3f0b942a92",
+  "candidates": [
+   {
+    "loc": 85,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "The phrase “big data” is bandied about constantly, and it conjures images of nearly infinite amounts of information codified in discrete units that make it available for analysis and research in realms of commerce, medicine, surveillance, population research, epidemiology, and political opinion, to name just a few domains.",
+    "after": "To reiterate what has been stated earlier, all data starts with decisions about how it is made."
+   },
+   {
+    "loc": 136,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "In whose interest is it to do data mining of images or social media?",
+    "sentence": "Art historians, or police surveillance units?",
+    "after": "And music?"
+   },
+   {
+    "loc": 158,
+    "page": "p. 143",
+    "kind": "p",
+    "before": "It allows instant views of any place as if they were all equally accessible (Madrigal 2012).",
+    "sentence": "Google Maps is constantly being updated, which means that information about the built environment (street views, routes, etc.) is always being surveilled by Google.",
+    "after": ""
+   },
+   {
+    "loc": 237,
+    "page": "p. 222",
+    "kind": "p",
+    "before": "The right to privacy is a protection from intrusion into personal matters or domains, including one’s home.",
+    "sentence": "Another form of privacy includes the right not to be surveilled in public space.",
+    "after": "Privacy also involves the liberty to make decisions over areas like religious faith, political affiliation, moral values and such without government coercion or intervention."
+   },
+   {
+    "loc": 237,
+    "page": "p. 222",
+    "kind": "p",
+    "before": "",
+    "sentence": "Eavesdropping, searches, and public scrutiny are all activities that are limited by privacy statutes, but these become more difficult to control in an era of electronic surveillance.",
+    "after": "Many websites and companies collect data about purchase, activities, sites visited, medications, and many other details of individuals."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 41,
+  "input": "255b37c69e8b",
+  "candidates": [
+   {
+    "loc": 44,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "",
+    "sentence": "A proposition: no one today knows exactly how or why actually existing, large-scale networks behave in the ways they do, and in the meanwhile, surveillance has become the quiet coin of the realm: the logics of surveillance, by contrast, are well understood.",
+    "after": "Surveillance online today is not some benign anonymized monitoring that feeds and informs public understanding about our own behavior on networks."
+   },
+   {
+    "loc": 44,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "A proposition: no one today knows exactly how or why actually existing, large-scale networks behave in the ways they do, and in the meanwhile, surveillance has become the quiet coin of the realm: the logics of surveillance, by contrast, are well understood.",
+    "sentence": "Surveillance online today is not some benign anonymized monitoring that feeds and informs public understanding about our own behavior on networks.",
+    "after": "No, our networks exist in an age when surveillance services compete to buy and sell information about you, without your wishing it, and every other “you” to the highest bidder."
+   },
+   {
+    "loc": 50,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "These protocols have been celebrated for smartening peer-to-peer, end-to-end communication across dumb networks for more than thirty years—that’s not necessarily wrong, although in the same period the protocols have grown too smart: the consequences of fragile bottlenecks in decentralized networks pale in comparison to the fact that now every node in a network can be leveraged and exploited through smart backdoors built into recent editions of the internet protocol.",
+    "sentence": "The internet protocol works by letting each node make microdecisions about how to reroute packets in real time; however, as media scholar Florian Sprenger has argued, the microdecisions protocols have let corporate and state spies introduce deep-packet inspection and off-the-record access points to each node, shepherding in mass network surveillance.",
+    "after": "Network technologies now permit the simultaneously location and addressing of mobile devices and their users worldwide."
+   },
+   {
+    "loc": 50,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "Network technologies now permit the simultaneously location and addressing of mobile devices and their users worldwide.",
+    "sentence": "This means that surveillance networks are not the territory they map, nor, as these histories show, are networks the map itself.",
+    "after": "The fact issues a stirring wake-up call: the protocol once celebrated as solving the problem of hierarchical control has proven the very vehicle for ushering in the current era of private network surveillance."
+   },
+   {
+    "loc": 51,
+    "page": "pp. 87–88",
+    "kind": "p",
+    "before": "The network vocabulary inherited from the Cold War also needs a serious update: the oppositions between capitalism and socialism, private corporation and public state do not adequately describe the complex institutional practices that supported computer networks in Cold War mixed economies or today’s global network economy.",
+    "sentence": "Understanding the Cold War as an ideological battle between social freedoms and fairness, it is clearer in the wake of Edward Snowden’s revelations of the NSA’s global surveillance and the Russian hacking of the 2016 US elections that the very technology thought to herald the end of that conflict and to usher in an age of information freedom —global computer networks—has actually left no clear victor among our multipolar world of networked citizens and migrants.",
+    "after": "Instead, the sure victors of the last half century of network history have been large organizations—telecommunication companies, surveillance states, big tech (Amazon, Apple, Facebook, Google), internet providers, cybersecurity organizations, data broker services (SAS and SalesForce), and other technologically powerful few that, fueled by data breaches and the fumes of modern privacy, sort, toll, and monitor our many network traffic bottlenecks."
+   },
+   {
+    "loc": 73,
+    "page": "pp. 125–126",
+    "kind": "p",
+    "before": "",
+    "sentence": "Critically, the digital forensics software programs I discuss here are surveillance technologies that flow between corporate and law enforcement institutions.",
+    "after": "For example, Amazon is implementing its proprietary Rekognition software to perform real-time image-recognition analysis on live video footage; at the time of this writing, police departments in Florida and Oregon have purchased the software."
+   },
+   {
+    "loc": 73,
+    "page": "pp. 125–126",
+    "kind": "p",
+    "before": "For example, Amazon is implementing its proprietary Rekognition software to perform real-time image-recognition analysis on live video footage; at the time of this writing, police departments in Florida and Oregon have purchased the software.",
+    "sentence": "Image surveillance technologies sort through the massive amounts of text, image, and video data uploaded online every day and work in collaboration with content moderators to keep the internet secure and “clean.”",
+    "after": "There is a certain pleasure in this mode of surveillance."
+   },
+   {
+    "loc": 75,
+    "page": "pp. 129–130",
+    "kind": "p",
+    "before": "Simone Browne, in her searing historical analysis of biometric surveillance, argues that the inability of computer vision software to distinguish dark skin tones is perilously paired with a hypervisibility tying the history of surveillance to the history of the surveillance of Blackness.",
+    "sentence": "Child pornography is often seen as a “limit case” justifying expanded surveillance.",
+    "after": "But what would increased accuracy in recognizing Black and brown skin tones mean for the policing of other types of online content?"
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 1,
+  "input": "7f0afb6f6302",
+  "candidates": [
+   {
+    "loc": 22,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "As Tuck (2009) warns, if researchers only use a community’s failure or oppression to justify its existence and needs for support, then these damage-based frameworks will ultimately define an entire community, consequently ignoring the multifaceted qualities all communities possess and sustain across space and time.",
+    "sentence": "In Race after Technology: Abolitionist Tools for the New Jim Code, Ruha Benjamin (2019) further explains that damage-based ideologies regarding communities of color perpetuate “coded inequity” masked as “technological benevolence” through the design of surveillance technologies that code Black, poor, immigrant, disabled communities as “unwanted,” “second-class,” “criminals” (9).",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 80,
+  "input": "529afe64a318",
+  "candidates": [
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "",
+    "sentence": "We use the word weaponization to underscore how surveillance systems can exacerbate the violence that results from structural oppression.",
+    "after": "While marginalized groups—Black and Indigenous communities, women, 2SLGBTQIA+ people, and others—have long experienced the effects of surveillance (Browne; Eubanks; Noble), the field of surveillance studies is relatively new and, like digital humanities, has many origins and influences."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "We use the word weaponization to underscore how surveillance systems can exacerbate the violence that results from structural oppression.",
+    "sentence": "While marginalized groups—Black and Indigenous communities, women, 2SLGBTQIA+ people, and others—have long experienced the effects of surveillance (Browne; Eubanks; Noble), the field of surveillance studies is relatively new and, like digital humanities, has many origins and influences.",
+    "after": "Most significantly, the field is responsible for conceptualizing surveillance as encompassing the range of material and digital ecosystems used to track, trace, and monitor human behavior."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "",
+    "sentence": "As users, educators, promoters, and distributors of digital tools, digital humanists are inherently tied to the surveillance ecosystem.",
+    "after": "Even in developing and sharing open-source tools— an oft-promoted method for avoiding commercial offerings anchored in surveillance—links to surveillance systems regularly occur through reliance on third-party supporting technologies, such as website analytics through Google Analytics, code base storage in Microsoft’s GitHub, and other remote scripts and stylesheets."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "As users, educators, promoters, and distributors of digital tools, digital humanists are inherently tied to the surveillance ecosystem.",
+    "sentence": "Even in developing and sharing open-source tools— an oft-promoted method for avoiding commercial offerings anchored in surveillance—links to surveillance systems regularly occur through reliance on third-party supporting technologies, such as website analytics through Google Analytics, code base storage in Microsoft’s GitHub, and other remote scripts and stylesheets.",
+    "after": "As such, we must be particularly aware of how the field is being subsumed by surveillance mechanisms and how we are foisting these same tools onto our colleagues and communities."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "Digital humanists risk further contributing to corporate surveillance by creating digital tools that rely on these risky third-party software systems and by using these and other surveillance technologies in their research and pedagogy.",
+    "sentence": "At the same time, digital humanists are uniquely poised to intervene in harmful practices of surveillance because they are often trained to think about the historical, social, political, and cultural context of digital technology as well as its design and implementation.",
+    "after": "Existing critical approaches in the digital humanities that engage these concerns, such as postcolonial digital humanities, anti-colonial digital humanities, Ethical EdTech, and minimal computing, provide models for how DH might address the ethics and risks posed by surveillance technologies to the field and the academy writ large (Risam; Boulay et al.; Minimal Computing)."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "",
+    "sentence": "Digital humanists risk further contributing to corporate surveillance by creating digital tools that rely on these risky third-party software systems and by using these and other surveillance technologies in their research and pedagogy.",
+    "after": "At the same time, digital humanists are uniquely poised to intervene in harmful practices of surveillance because they are often trained to think about the historical, social, political, and cultural context of digital technology as well as its design and implementation."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "",
+    "sentence": "We understand our method as “operationalizing” surveillance studies for the digital humanities, or making visible the often-invisible underpinnings of surveillance within our field, demonstrating how our tools can and do produce harm.",
+    "after": "In what follows, we first turn to the field of geography for an example of the insidious history of surveillance technology in academia, before unpacking the problematic legacies of some of the technologies that are used in digital humanities scholarship today."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 176–177",
+    "kind": "p",
+    "before": "We understand our method as “operationalizing” surveillance studies for the digital humanities, or making visible the often-invisible underpinnings of surveillance within our field, demonstrating how our tools can and do produce harm.",
+    "sentence": "In what follows, we first turn to the field of geography for an example of the insidious history of surveillance technology in academia, before unpacking the problematic legacies of some of the technologies that are used in digital humanities scholarship today.",
+    "after": "In so doing, we lay bare how these tools extend the reach of the surveillance machine, posing significant risks to our work and our communities."
+   }
+  ]
+ }
+]

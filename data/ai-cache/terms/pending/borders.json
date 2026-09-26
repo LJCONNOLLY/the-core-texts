@@ -1,0 +1,1316 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 4,
+  "input": "966ba4565b9d",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Upright beside his canvas, his attention entirely taken up by his model, the painter is unable to see this looking-glass shining so softly behind him.",
+    "sentence": "The other figures in the picture are also, for the most part, turned to face what must be taking place in front – towards the bright invisibility bordering the canvas, towards that balcony of light where their eyes can gaze at those who are gazing back at them, and not towards that dark recess which marks the far end of the room in which they are represented.",
+    "after": "There are, it is true, some heads turned away from us in profile: but not one of them is turned far enough to see, at the back of the room, that solitary mirror, that tiny glowing rectangle which is nothing other than visibility, yet without any gaze able to grasp it, to render it actual, and to enjoy the suddenly ripe fruit of the spectacle it offers."
+   },
+   {
+    "loc": 47,
+    "page": "PDF p. 47",
+    "kind": "p",
+    "before": "It is merely empiricism in its most unrefined form; like Hobbes, one can no longer ‘regard it as being a part of philosophy’, unless it has first been erased in its inexact form of resemblance and transformed by knowledge into a relationship of equality or order.",
+    "sentence": "And yet similitude is still an indispensable border of knowledge.",
+    "after": "For no equality or relation of order can be established between two things unless their resemblance has at least occasioned their comparison."
+   },
+   {
+    "loc": 47,
+    "page": "PDF p. 47",
+    "kind": "p",
+    "before": "",
+    "sentence": "At the border of knowledge, similitude is that barely sketched form, that rudimentary relation which knowledge must overlay to its full extent, but which continues, indefinitely, to reside below knowledge in the manner of a mute and ineffaceable necessity.",
+    "after": ""
+   },
+   {
+    "loc": 161,
+    "page": "PDF p. 161",
+    "kind": "p",
+    "before": "Man and the unthought are, at the archaeological level, contemporaries.",
+    "sentence": "Man has not been able to describe himself as a configuration in the episteme without thought at the same time discovering, both in itself and outside itself, at its borders yet also in its very warp and woof, an element of darkness, an apparently inert density in which it is embedded, an unthought which it contains entirely, yet in which it is also caught.",
+    "after": "The unthought (whatever name we give it) is not lodged in man like a shrivelled-up nature or a stratified history; it is, in relation to man, the Other: the Other that is not only a brother but a twin, born, not of man, nor in man, but beside him and at the same time, in an identical newness, in an unavoidable duality."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 3,
+  "input": "ec97caf3e3bd",
+  "candidates": [
+   {
+    "loc": 78,
+    "page": "PDF p. 78",
+    "kind": "p",
+    "before": "Chirographic control of space tends to be ornamental, ornate, as in calligraphy.",
+    "sentence": "Typographic control typically impresses more by its tidiness and inevitability: the lines perfectly regular, all justified on the right side, everything coming out even visually, and without the aid of the guidelines or ruled borders that often occur in manuscripts.",
+    "after": "This is an insistent world of cold, non-human, facts."
+   },
+   {
+    "loc": 83,
+    "page": "PDF p. 83",
+    "kind": "p",
+    "before": "Once a letterpress forme is closed, locked up, or a photolithographic plate is made, and the sheet printed, the text does not accommodate changes (erasures, insertions) so readily as do written texts.",
+    "sentence": "By contrast, manuscripts, with their glosses or marginal comments (which often got worked into the text in subsequent copies) were in dialogue with the world outside their own borders.",
+    "after": "They remained closer to the give-and-take of oral expression."
+   },
+   {
+    "loc": 99,
+    "page": "PDF p. 99",
+    "kind": "p",
+    "before": "Romances are the product of chirographic culture, creations in a new written genre heavily reliant on oral modes of thought and expression, but not consciously imitating earlier oral forms as the 'art' epic did.",
+    "sentence": "Popular ballads, as the Border ballads in English and Scots, develop on the edge of orality.",
+    "after": "The novel is clearly a print genre, deeply interior, de-heroicized, and tending strongly to irony."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 4,
+  "input": "4c4b34e309cd",
+  "candidates": [
+   {
+    "loc": 176,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "The cyborg is a. condensed image of both imagination and material reality, the two joined centres structuring any possibility of historical transformation.",
+    "sentence": "In the traditions of ‘Western’ science and politics — the tradition of racist, male-dominant capitalism; the tradition of progress; the tradition of the appropriation of nature as resource for the productions of culture; the tradition of feproduction of the self from the reflections of the other the relation between organism and machine has been a border war.",
+    "after": "The stakes in the border war have been the territories of production, reproduction, and imagination."
+   },
+   {
+    "loc": 176,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "In the traditions of ‘Western’ science and politics — the tradition of racist, male-dominant capitalism; the tradition of progress; the tradition of the appropriation of nature as resource for the productions of culture; the tradition of feproduction of the self from the reflections of the other the relation between organism and machine has been a border war.",
+    "sentence": "The stakes in the border war have been the territories of production, reproduction, and imagination.",
+    "after": "This chapter is an argument for pleasure in the confusion of boundaries and for responsibility in their construction."
+   },
+   {
+    "loc": 192,
+    "page": "p. 166",
+    "kind": "p",
+    "before": "Work is being redefined as both literally female and feminized, whether performed by men or women.",
+    "sentence": "To be feminized means to be made extremely vulnerable; able to be disassembled, reassembled, exploited as a reserve labour force; seen less as workers than as servers; subjected to time arrangements on and off the paid job that make a mockery of a limited work day; leading an existence that always borders on being obscene, out of place, and reducible to sex.",
+    "after": "Deskilling is an old strategy newly applicable to formerly privileged workers."
+   },
+   {
+    "loc": 242,
+    "page": "p. 216",
+    "kind": "p",
+    "before": "Units are only good enough to sustain the technology of copying.",
+    "sentence": "Like the replicons’ borders, the boundaries of other strategic assemblages are not fixed either — it all has to do with the broad net cast by strategies of replication in a world where self and other are very much at stake.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 4,
+  "input": "93cce23f3907",
+  "candidates": [
+   {
+    "loc": 68,
+    "page": "PDF p. 68",
+    "kind": "p",
+    "before": "",
+    "sentence": "Border crossings accomplished through analogy include the separation between flesh and world (sense perception), the transition between one discipline and another (for example, moving from the physiology of living organisms to the electrical engineering of a cybernetic machine), and the transformation of embodied experience, noisy with error, into the clean abstractions of mathematical pattern.",
+    "after": "Even the prostheses that Wiener designed can be understood as operating through analogy, for they transformed information from one modality into another."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "War, acknowledged and covert, is the repressed trauma that threatens to erupt throughout Limbo.",
+    "sentence": "But this is war transfigured, so compounded with neocortical forays and cybernetic refashionings that the terrains on which it is fought include synapses and circuits as well as checkpoints and borders.",
+    "after": "Although the novel is set in 1990, Wolfe asserts in an afterword: “Anybody who ‘paints a picture’ of some coming year is kidding—he’s only fancying up something in the present or past, not blueprinting the future."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "In Pure War, Paul Virilio argues that postmodern technologies, especially global information networks and supersonic transport, have changed how military organizations conceptualize the enemy.",
+    "sentence": "Whereas a country’s borders were previously presumed adequate to distinguish between citizen and alien, in the post-World War II period the distinction between inside and outside ceased to signify in the same way.",
+    "after": "The military no longer thought of its task as protecting the body politic against an exterior enemy."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "",
+    "sentence": "These multiple confusions are reenacted when J. R., already operating in the borderland between hallucination and reality, rushes to the empathy box after the tidal wave of kipple engulfs his apartment.",
+    "after": "As he grabs the handles, he plays out the scenario that Mercer endlessly repeats in a landscape hovering ambiguously between the internal and external worlds."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 2,
+  "input": "ae84e5b61484",
+  "candidates": [
+   {
+    "loc": 71,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "It is an example of an unmarked cut, where one image ends and another starts.",
+    "sentence": "Other sorts of connections are the fade, where an image fades to black, the dissolve, which superimposes a fade in over a fade out, the iris, in which the image is reduced in size by an encroaching border circle, and the wipe, mentioned in the previous section, where one image removes another.",
+    "after": "Ocean’s Eleven has a striking dissolve cut too, which fades out of focus (not to black) on a bunch of red balloons being sold in a street in Las Vegas and fades in again to the same bunch of balloons being carried through a casino."
+   },
+   {
+    "loc": 264,
+    "page": "p. 247",
+    "kind": "p",
+    "before": "One theme that recurs in discussions about making photos as part of social science research projects is that photos are particularly good at capturing the ‘texture’ of places.",
+    "sentence": "Whether the place is the homes and classrooms of Blinn and Harrist’s (1991) study of women returning to college, or the gentrified neighbourhoods of Suchar’s (1997, 2004) studies, or the borders, hostels and factories of Berger and Mohr’s (1975) book, photos can convey the ‘feel’ of specific locations very effectively.",
+    "after": "This is partly because photos can carry so much visual information; they can show us details in a moment that it would take pages of writing to describe."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 4,
+  "input": "dbbaf9729ff0",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "In the Computer section, the writer mocks the attachment of Macintosh users to their utterly marginal machines and puts forward a ‘cultural interpretation’ for what he calls a form of ‘techno-fanaticism’.",
+    "sentence": "Further down an editorialist predicts that Iraq, though its borders are fairly recent, will exist as a nation and will not split up along the older dividing lines of religion and historical ‘zones of influence’.",
+    "after": "Another column mocks the accusation that those against the war in Iraq are ‘anti-American’."
+   },
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "This use of a shorthand is not tautological, but it is dangerously misleading since there is no empirical way to decide how all that stuff has been mobilized any longer—and worst of all, there is no way to know if such a load is still active.",
+    "sentence": "The idea of a society has become in the hands of later-day ‘social explainers’ like a big container ship which no inspector is permitted to board and which allows social scientists to smuggle goods across national borders without having to submit to public inspection.",
+    "after": "Is the cargo empty or full, healthy or rotten, innocuous or deadly, newly made or long disused?"
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "To follow the social links even when they weave their way through non-social objects might be difficult for a reason that has nothing to do with theory.",
+    "sentence": "For the social scientists, there were some serious motives behind the need to ceaselessly patrol the border separating the ‘symbolic’ from the ‘natural’ domain, namely a good—that is, a bad—polemical argument.",
+    "after": "To carve out a little niche for themselves, they had abandoned, early in the 19ᵗʰ century, things and objects to the scientists and engineers."
+   },
+   {
+    "loc": 68,
+    "page": "PDF p. 68",
+    "kind": "p",
+    "before": "This is what makes him at odds with sociologists like Durkheim: ‘All these thinkers trained in sociology and classics, however, no matter how productive their ideas, commit a characteristic error.",
+    "sentence": "They exhibit an excessive respect, bordering on pious reverence for scientific facts’.",
+    "after": "(Fleck 1981: 47)"
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 9,
+  "input": "74b442d6b2ba",
+  "candidates": [
+   {
+    "loc": 67,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "This formulation is also useful because it can be read in reference to the process of diasporic and gender identity creation, particularly under the sign of new media: just as the assemblage of digital “objects” continually references the independence of their parts, so too do the signs of identity in late capitalism consist of recombinations of aspects rendered discrete by categories of racialization, gender, and nationality.",
+    "sentence": "Because AIM buddies are put together from already-existing body parts, clothes, fonts, borders, decorations, and other graphical “pieces,” they are hybrid images that sometimes radically violate the principles of aesthetic and media continuity.",
+    "after": "Some of this radical fragmentation is accounted for by the purpose of these buddies: unlike corporate desktop images, these images overtly highlight extremely varied political positionalities, geographic locations, religions, and sometimes-occluded nationalities not covered in the conventional IM query requesting age, sex, and location: “A/S/L?”"
+   },
+   {
+    "loc": 84,
+    "page": "p. 73",
+    "kind": "p",
+    "before": "It is precisely because Navajos, once citizens of a fully autonomous sovereign nation located in the United States of America, had become scarce even within its bounds as a result of a national policy of racial, cultural, and, in particular, linguistic genocide that their code possessed value.",
+    "sentence": "The lack of a written language, the crushing poverty that prevented travel outside national borders, the disenfranchisement of the Navajo within the U.S. school system, and the cultural devaluation of their spoken language all contributed to making their language work as a code.",
+    "after": "It went from being worse than worthless to becoming national security information worth killing for to protect; indeed, the existence of Navajo codetalkers and their service in decisive battles in the Paciﬁc theater, such as Saipan and Iwo Jima, was classiﬁed information and remained a secret until 1965."
+   },
+   {
+    "loc": 89,
+    "page": "p. 78",
+    "kind": "p",
+    "before": "My position is that rather than resulting in successful racial proﬁling, the site provides more occasions for racial misrecognitions, thus exposing the active process of the reiﬁcation of race.",
+    "sentence": "I end the chapter with an assessment of postcolonial theoretical stances regarding Internet adoption across ethnic and national borders.",
+    "after": "Clearly there is much at stake in this debate: the Internet is feared by many postcolonial media and technology critics partly because they see it as an obstacle to the preservation of rare or endangered languages."
+   },
+   {
+    "loc": 93,
+    "page": "p. 82",
+    "kind": "p",
+    "before": "Then again, they could be those in Uzbekistan forcefully moved there by the Russians 50 years ago, or those in eastern China.",
+    "sentence": "What about the Mongolians or Manchurians who came across the border to North Korea. .",
+    "after": "Korean??"
+   },
+   {
+    "loc": 137,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "A consortium of human rights and civil liberties groups opposes these measures on the grounds that they violate the right to privacy of movement, as well as helping to create “interconnecting databases that, according to E.U. privacy ofﬁcials, ‘could lead to detailed proﬁles of an individual’s habits both in the public and in the private sector.’”",
+    "sentence": "In particular, the letter notes the inaccuracy of facial recognition systems, which contain a high likelihood of “false non-matches” (where valid individuals are refused border entry because the technology fails to recognize them) and false matches (where an individual is matched to another individual incorrectly) and also “may reveal racial or ethnic origin.”",
+    "after": "It also notes that “the U.S. General Accounting Ofﬁce warns that facial recognition is the only biometric that can be used for other surveillance applications, such as pinpointing individuals ﬁlmed on video cameras.”"
+   },
+   {
+    "loc": 160,
+    "page": "p. 149",
+    "kind": "p",
+    "before": "There is a link to “Nadia Simone’s” nursery pictures on another site, should the viewer care to see them, but the photograph of the nursery that is present in the signature provides a wealth of detail.",
+    "sentence": "The coordinated wallpaper border, curtain, valance, mobile, crib, crib bumper, quilt, and linens all attest to an anticipatory and privatized vision of the future that the ultrasound promises.",
+    "after": "Their extensive coordination and use of colorful ornament and pattern exempliﬁes exactly the type of “ﬂufﬁness” condemned as excessive and lower class by nursery modernists."
+   },
+   {
+    "loc": 161,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "However, unlike many other pregnant posters to this site, she does not represent her own avatar as pregnant or “having a belly.”",
+    "sentence": "Tattie’s signature, also shown here, positions her pregnant avatar within a tableau arranged in a circle bordered by animated sparkling purple stars and bubbles.",
+    "after": "Entitled “Tattie and Stan,” it depicts her pregnant avatar wearing a white T-shirt that says “baby” in large letters with an arrow pointing to her swollen abdomen; in the background and slightly to the left is an image of her husband, “Stan,” who is carrying a snowboard and wearing baggy cargo pants and a short haircut."
+   },
+   {
+    "loc": 164,
+    "page": "p. 153",
+    "kind": "p",
+    "before": "There are signiﬁcant clashes in styles and textures between images on the same signature, especially when compared to the orderly ACSII sigs of the text-only days of the early-nineties Internet.",
+    "sentence": "These are riotous combinations of bumpers, animated GIFs, blinkies, photos, borders, cartoons, and other combinations of text and image, many or most of them acquired from other sites or shared between self-styled “siggy girls” who possess graphical imaging skills.",
+    "after": "These exuberantly informational and richly multimediated images of identity exemplify a visual style created to signify identities in process, literally often in transition between the social and bodily states of “woman” and “mother” that cannot be integrated into one sign or signature."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 1,
+  "input": "4ed70c38a3a6",
+  "candidates": [
+   {
+    "loc": 172,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "This hatred organizes bodies and spaces.",
+    "sentence": "Hate is registered on the skin: through hate, the skin becomes a collective border: “It is through how others impress upon us that the skin of the collective begins to take shape.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 5,
+  "input": "2ea2d342e070",
+  "candidates": [
+   {
+    "loc": 46,
+    "page": "PDF p. 46",
+    "kind": "p",
+    "before": "Literacy became a moving target.",
+    "sentence": "Brandt explains, “Whereas at one time literacy might have been best achieved by attending to traditional knowledge and tight locuses of meaning, literacy in an advanced literate period requires an ability to work the borders between tradition and change, and ability to adapt and improvise and amalgamate.”",
+    "after": "What gets included under the rubric of this dynamic literacy expands rapidly with postwar technologies."
+   },
+   {
+    "loc": 81,
+    "page": "PDF p. 81",
+    "kind": "p",
+    "before": "From a design standpoint, we can think of their various affordances.",
+    "sentence": "Although the arguments above indicate that it is difficult to distinguish between speech, writing, and programming at their borders, we still must attempt to take code on its own terms, rather than as a poor substitute for speech or writing.",
+    "after": "Below, I point to some of the affordances of code’s form for representing and scaling up as well as for creative purposes."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "The Chef programming language is another example of double-coding: Chef programs are simultaneously recipes and machine instructions.",
+    "sentence": "The point of SPL, Chef, and other weird languages is not to provide ways to solve problems effectively in code, but to play with the borders between human and computational interpretations of code.",
+    "after": "As Geoff Cox and Alex McLean argue, these languages show that “rendering speech or code as mere written words fails to articulate the richness of human-machine expression.”"
+   },
+   {
+    "loc": 134,
+    "page": "PDF p. 134",
+    "kind": "p",
+    "before": "A status of “In a relationship” marks a social relationship that may not have been so starkly and publicly formalized offline.",
+    "sentence": "Even the newer “It’s complicated” designation for relationships erects borders around the previously amorphous beginnings and endings of romantic entanglements.",
+    "after": ""
+   },
+   {
+    "loc": 138,
+    "page": "PDF p. 138",
+    "kind": "p",
+    "before": "Networks built on top of the Web and Internet have been destabilizing in political ways, too: consider the roles of Facebook and Twitter in the Moldovan and Iranian elections of 2009 and the Arab Spring beginning in Tunisia in 2010.",
+    "sentence": "These networks helped people organize both physical and online protests across national borders and largely without high-profile leaders.",
+    "after": "And despite trying to block Internet traffic, states were unable to fully shut down these lines of communication."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 3,
+  "input": "7d207fdd57d4",
+  "candidates": [
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "The move of community-based assets and culture to private hands is arguably a crisis that has rolled back the common good, but there are still possible strategies that can be explored for maintaining what can remain in the public domain.",
+    "sentence": "Commercial control over the Internet, often considered a “commons,” has moved it further away from the public through a series of national and international regulations and intellectual and commercial borders that exist in the management of the network.",
+    "after": "Beyond the Internet and the control of the network, public information—whether delivered over the web or not—continues to be outsourced to the private sphere, eroding the public information commons that has been a basic tenet of U.S. democracy."
+   },
+   {
+    "loc": 83,
+    "page": "PDF p. 83",
+    "kind": "p",
+    "before": "Such legal protections are not yet available in the United States, where greater encroachments on personal information privacy thrive and where vulnerable communities and individuals are less likely to find recourse when troublesome or damaging information exists and is indexed by a commercial search engine.",
+    "sentence": "However, Google is still indexing and archiving links about people and groups within the EU on its domains outside of Europe, such as on google.com, opening up new challenges to the notion of national boundaries of the web and to how national laws extend to information that is digitally available beyond national borders.",
+    "after": "These laws, however, generally ignore the record keeping that Google does on individuals and organizations that are archived and shared with third parties beyond Google’s public-facing search results."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "Indeed, we can and should imagine search with a variety of other possibilities.",
+    "sentence": "In my own imagination and in a project I am attempting to build, access to information on the web could be designed akin to the color-picker tool or some other highly transparent interface, so that users could find nuanced shades of information and easily identify the borderlands between news and entertainment, or entertainment and pornography, or journalism and academic scholarship.",
+    "after": "In this scenario, I might also be able to quickly identify the blogosphere and personal websites."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 8,
+  "input": "673b10458d35",
+  "candidates": [
+   {
+    "loc": 7,
+    "page": "pp. 6–8",
+    "kind": "p",
+    "before": "",
+    "sentence": "Marginalized groups face higher levels of data collection when they access public benefits, walk through highly policed neighborhoods, enter the health-care system, or cross national borders.",
+    "after": "That data acts to reinforce their marginality when it is used to target them for suspicion and extra scrutiny."
+   },
+   {
+    "loc": 27,
+    "page": "pp. 57–59",
+    "kind": "p",
+    "before": "The case hinged on the understanding, expressed by Justice William Brennan, that abrupt termination of aid deprives poor people of both their means of survival and their ability to mount an adequate challenge to government decisions.",
+    "sentence": "“From its founding, the Nation’s basic commitment has been to foster the dignity and well-being of all persons within its borders,” Brennan wrote.",
+    "after": "“Public assistance, then, is not mere charity, but a means to ‘promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity.’”"
+   },
+   {
+    "loc": 40,
+    "page": "pp. 89–91",
+    "kind": "p",
+    "before": "The boundary between downtown and Skid Row slipped east from Main Street to Los Angeles Street, and then another block to Maple, as loft-style housing for the creative class expanded.",
+    "sentence": "The spread of the Little Tokyo neighborhood put similar pressure on Skid Row’s northern border, which moved from 3rd Street to below 4th.",
+    "after": "Skid Row lost about 16 square blocks—a third of its size—in ten years."
+   },
+   {
+    "loc": 85,
+    "page": "pp. 201–203",
+    "kind": "p",
+    "before": "J. Edgar Hoover’s FBI took particular interest in the campaign, mounting a counterinsurgency effort against the 3,000 poor people living in a “Resurrection City” they built on the National Mall.",
+    "sentence": "According to Gerald McKnight’s 1998 book, The Last Crusade, the camp was subject to around-the-clock surveillance not only by the FBI, but by US Army Intelligence, Border Patrol, National Park Police, and the Metropolitan Police Department.",
+    "after": "Paid informants from the Interdivisional Intelligence Unit of the Justice Department and COINTELPRO agents infiltrated the encampment, fomenting violence and dissent."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 204–205",
+    "kind": "p",
+    "before": "",
+    "sentence": "But poverty is not an island; it is a borderland.",
+    "after": "There’s quite a lot of movement in the economic fringes, especially across the fuzzy boundary between the poor and the working class."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 204–205",
+    "kind": "p",
+    "before": "There’s quite a lot of movement in the economic fringes, especially across the fuzzy boundary between the poor and the working class.",
+    "sentence": "Those who live in the economic borderlands are pitted against one another by policies that squeeze every possible dime from the wallets of the working class at the same time that they cut social programs for the poor and absolve the professional middle class and wealthy of their social obligations.",
+    "after": "There is a lot of self-blame and horizontal violence in the borderlands, but there is also a lot of shared experience."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 4,
+  "input": "a9a78e2cdf9a",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Ali argues that even progressive approaches to computing, like postcolonial computing, have paid insufficient attention to systemic racism and white supremacy, which Mills argues subtends the social contract.",
+    "sentence": "A decolonial approach to computing, Ali proposes, works from the peripheries rather than the European center and underscores delinking and the border, with emphasis on embodiment and situated knowledge within the Global South.",
+    "after": "In the context of digital humanities, decolonial computing calls attention to relationships between race, colonialism, and neocolonialism, which are shaping the digital cultural record."
+   },
+   {
+    "loc": 33,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "The lack of a centralized archive poses a barrier to making these materials and the history of Chicanx activism legible for both historians and the public.",
+    "sentence": "Thus, the project engages in a politics of representation that challenges the colonial dimensions of the Mexico–United States border as it preserves and disseminates these untold stories of Chicanx communities in the digital cultural record.",
+    "after": "In spite of important projects like Chicana por mi Raza, race, gender, sexuality, class, nation, and other axes of identity and oppression are unexplored, unspoken, and undertheorized in the digital cultural record."
+   },
+   {
+    "loc": 111,
+    "page": "p. 102",
+    "kind": "p",
+    "before": "As Lisa Miller argues, digital storytelling engages a range of educational learning objectives: iterative idea development, organizing, synthesizing, analyzing, evaluating, and assessing composition choices.",
+    "sentence": "Mariela Nuñez-​Janes, Aaron Thornburg, and Angela Booker suggest that digital storytelling facilitates the telling of stories that “identify borderlands and challenge or blur instantiations of state and institutional power that demarcate borders and invalidate the hybrid experiences of those who inhabit them.”",
+    "after": "In this vein, digital stories and remix videos offer students a chance to demonstrate their understanding or interpretation of postcolonial texts in creative ways and showcase their own voices while reinforcing their roles as creators of digital texts who can make their own contributions to the digital cultural record."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 13,
+  "input": "7a9975e3c709",
+  "candidates": [
+   {
+    "loc": 55,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "",
+    "sentence": "Decolonial theorist Walter Mignolo builds on Gloria Anzaldúa’s concept of con-sciencia de la mestiza to develop a concept of border thinking that challenges the concept of the universality of the human by proposing that the physical body of the thinker and its geographic location are inextricable from the capacities of thought, which he calls geo-body-politics.",
+    "after": "His formulation returns to Lorde’s formulation and leads me to ask, can tools be repurposed when used in different places, by different people, for different ethical outcomes?"
+   },
+   {
+    "loc": 57,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "Writing and scholarship can produce and disseminate the means of survival for groups threatened by necropolitics, a term Achille Mbembe has used to describe the ways that death is intentionally distributed under neoliberalism.",
+    "sentence": "What is at stake in the definition of humanity, and the humanities, is the life or death of those who live near the borders of the definition of humanity, and the decision to choose a particular tool for analyses of the humanities can shape those outcomes.",
+    "after": ""
+   },
+   {
+    "loc": 62,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "mobile phone, since most transgender women are killed by their intimate partners (Human Rights Campaign).",
+    "sentence": "Other tips advise protecting the information on your phone from Immigrations and Customs Enforcement and Border Patrol by using a passcode instead of Touch ID.",
+    "after": "Another post considers the dangers of artificial intelligence (AI) agents such as Alexa and Siri, who are always listening, and whose recordings of conversations have already been used by law enforcement agencies for prosecutions (Wang)."
+   },
+   {
+    "loc": 62,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "For people using direct action and civil disobedience to work for justice, these devices can put them in serious danger of incarceration.",
+    "sentence": "The project emerged from a need for more security as many people began newly mobilizing after the election of Trump, and the administration began to enact even more invasive measures, such as requiring social media logins at border checkpoints (Cope).",
+    "after": "Holdyourboundaries.com is an example of algorithmic analysis of the dangerous AI entities that populate many people’s daily lives today, which produced a set of resistant algorithms to aid people in surviving the unelected administration and to support organizing against Trump."
+   },
+   {
+    "loc": 261,
+    "page": "p. 233",
+    "kind": "p",
+    "before": "A digital mise-en-système is a digital ecology in which the main question posed is how the interface iteratively and at various moment can “enunciate” the subject/ user/reader.",
+    "sentence": "Interface, then, is a “border zone between cultural systems and human subjects”; it is the codependent space where “speaker and spoken are created.”",
+    "after": "This interaction in this border zone also pushes back against cinema’s one-directional view of theories of visual pleasure and the gaze into a different model."
+   },
+   {
+    "loc": 261,
+    "page": "p. 233",
+    "kind": "p",
+    "before": "Interface, then, is a “border zone between cultural systems and human subjects”; it is the codependent space where “speaker and spoken are created.”",
+    "sentence": "This interaction in this border zone also pushes back against cinema’s one-directional view of theories of visual pleasure and the gaze into a different model.",
+    "after": "I believe feminist materialism and the work of Karen Barad on entanglement theory would name this interface site the space of “intra-action.”"
+   },
+   {
+    "loc": 301,
+    "page": "p. 273",
+    "kind": "p",
+    "before": "Yet consideration of delivery seldom enters into DH scholarship despite evidence that user interfaces are among the most influential factors in the adoption of digital humanities tools and services beyond their immediate community.",
+    "sentence": "Matthew G. Kirschenbaum (“ ‘So the Colors’ ”) argues that it is precisely because of anxieties about liminality, borders, and embodiment that interface work is so often neglected, despite the insistence within the humanities generally on the inextricability of form and content.",
+    "after": "Given their alignment with liminality, delivery, and materiality, charged as they are with service, affect, and sensitivity, it hardly seems surprising that women have been more often involved in human-computer-interaction or interface work, project management, or service-oriented digital librarianship than in coding and tool building, or that such work has been seen as marginal, tangential, incidental to the field."
+   },
+   {
+    "loc": 302,
+    "page": "p. 274",
+    "kind": "p",
+    "before": "The encounter between a subject and an interface need not be understood mechanistically.",
+    "sentence": "We can think beyond representational models to understand interface as an ecology, a border zone between cultural systems and human subjects” (Graphesis, 148).",
+    "after": "In stressing the imbrication of subjectivity and interface, this situated perspective highlights the complex and evolving dynamics at work in human interactions with machines, paving the way for new ways of thinking about the productive apparatus and processes of delivery work, and that work’s experiential impacts in particular engagements with technologies."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 13,
+  "input": "e8c291ef4b68",
+  "candidates": [
+   {
+    "loc": 50,
+    "page": "p. 38",
+    "kind": "p",
+    "before": "Shifting from nineteenth-century England to late twenty-first-century Mexico, sci-fi filmmaker Alex Rivera wrestles with a similar predicament of a near future in which workers are not simply displaced but inhabited by technology.",
+    "sentence": "Sleep Dealer (2008) is set in a dystopian world of corporate-controlled water, militarized drones, “aqua-terrorists” (or water liberators, depending on your sympathies), and a walled-off border between Mexico and the United States.",
+    "after": "The main protagonist, Memo Cruz, and his co-workers plug networked cables into nodes implanted in their bodies."
+   },
+   {
+    "loc": 82,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "Many of these come wrapped in the packaging of progress.",
+    "sentence": "And, while the idiom of the New Jim Code draws on the history of racial domination in the United States as a touchstone for technologically mediated injustice, our focus must necessarily reach beyond national borders and trouble the notion that racial discrimination is isolated and limited to one country, when a whole host of cross-cutting social ideologies make that impossible.",
+    "after": ""
+   },
+   {
+    "loc": 141,
+    "page": "p. 129",
+    "kind": "p",
+    "before": "",
+    "sentence": "In 2009, the UK Border Agency (UKBA) initiated the Human Provenance Pilot Project (HPPP), with the aim of using genetic ancestry testing and isotope analysis to vet asylum claims.’!",
+    "after": "If, over the course of a standard interview, caseworkers grew suspicious of an applicant’s story, they would request samples of saliva, nails, and hair."
+   },
+   {
+    "loc": 142,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "",
+    "sentence": "The Borders Agency is clearly making huge and unwarranted assumptions about population structure in Africa; the extensive research needed to determine population structure and the ability or otherwise of DNA to pinpoint ethnic origin in this region simply has not been done.",
+    "after": "Even if it did work (which I doubt), assigning a person to a population does not establish nationality — people move!"
+   },
+   {
+    "loc": 142,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "",
+    "sentence": "Janet Montgomery, an isotope specialist at Durham University, explained that, “unless the border between Somalia and Kenya represented some major geological or hydrological division, I cannot see how isotopes will discriminate between people living there let alone living at/on the border.”",
+    "after": "Montgomery insisted: “Isotopes do not respect national borders or convey some inherent national attribute."
+   },
+   {
+    "loc": 143,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "Janet Montgomery, an isotope specialist at Durham University, explained that, “unless the border between Somalia and Kenya represented some major geological or hydrological division, I cannot see how isotopes will discriminate between people living there let alone living at/on the border.”",
+    "sentence": "Montgomery insisted: “Isotopes do not respect national borders or convey some inherent national attribute.",
+    "after": "They are not passports.”"
+   },
+   {
+    "loc": 143,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "Ancestral DNA testing will not be used alone but will combine with language analysis, investigative interviewing techniques and other recognized forensic disciplines.",
+    "sentence": "The results of the combination of these procedures may indicate a person’s possible origin and enable the UK Border Agency to make further enquiries leading to the return of those intending on abusing the UK’s asylum system.",
+    "after": "This project is working with a number of leading scientists in this field who have studied differences in the genetic backgrounds of various population groups.*°"
+   },
+   {
+    "loc": 144,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "Also essential to this discussion is the fact that such technologies of identity do not simply offer more objective means of confirming or disconfirming conventional identity claims; they actually redefine the social categories of identity on which immigration and asylum decisions are based.",
+    "sentence": "The HPPP stands as a salutary warning about the ways in which supposedly objective technologies of identification are increasingly being used at international borders to disempower the already vulnerable still further.*?",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 4,
+  "input": "e3641e2a7293",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "",
+    "sentence": "of positionality in her articulation of the borderland, but her work has not been",
+    "after": ""
+   },
+   {
+    "loc": 94,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "The ambivalence from the clash of voices results in mental and emotional states of perplexity.",
+    "sentence": "Internal strife results in insecurity and indecisiveness. […] Cradled in one culture, sandwiched between two cultures, straddling all three cultures and their value systems, la mestiza undergoes a struggle of flesh, a struggle of borders, an inner war.",
+    "after": ""
+   },
+   {
+    "loc": 94,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "In addition to allowing for contradictions, positionality also accounts for how combinations of identity markers affect meaning.",
+    "sentence": "For example, Anzaldúa (2007) makes it clear that to understand what it means for her to be Chicana means considering her ethnicity alongside what it means for her to be a lesbian, to be a writer and artist, to be from the Texas/Mexico border, and her identity",
+    "after": ""
+   },
+   {
+    "loc": 112,
+    "page": "p. 85",
+    "kind": "p",
+    "before": "What is normal, what is expected, shifts and changes as well.",
+    "sentence": "As such, the default assumptions interwoven in a society’s fabric—and upon which privilege is based—are fluid and dynamic; they can change across cultures, across generations, across geographical borders, and over time.",
+    "after": "The instability of privilege can make it difficult to pin down and discuss, but it functions as a fundamental concept for understanding TPC’s role in oppressive structures and our potential for intervening in injustices."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 6,
+  "input": "54cc742c2dd1",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "pp. 13–14",
+    "kind": "p",
+    "before": "The goal of this book is not to draw a boundary around the field or to claim that we are the only ones who did research on particular topics.",
+    "sentence": "Cultural analytics for me is the instrument to question all categorical boundaries, so certainly it also would not be wise to draw a border around all cultural analytics research taking place across many academic and professional fields.",
+    "after": ""
+   },
+   {
+    "loc": 132,
+    "page": "pp. 223–224",
+    "kind": "p",
+    "before": "I can use standard graphing techniques such as a line graph to display how the proportions of covers in these two categories change over time of publication (see figure 10.1).",
+    "sentence": "But I can also create a media visualization that shows all cover images and uses color borders or some other technique to label categories.",
+    "after": "Since such a visualization shows the content of all images, potentially it will let us notice many more patterns than a graph that shows the same information but without any images."
+   },
+   {
+    "loc": 139,
+    "page": "p. 236",
+    "kind": "p",
+    "before": "Spatial sampling involves selecting parts of images according to a chosen procedure.",
+    "sentence": "For example, our visualization of Time covers used spatial sampling because we cropped some of the images to get rid of the repeating red borders that the magazine employed for decades.",
+    "after": "Because of their saturated color, these borders attract the attention of a viewer, making it harder to see patterns in the rest of the covers."
+   },
+   {
+    "loc": 139,
+    "page": "p. 236",
+    "kind": "p",
+    "before": "For example, our visualization of Time covers used spatial sampling because we cropped some of the images to get rid of the repeating red borders that the magazine employed for decades.",
+    "sentence": "Because of their saturated color, these borders attract the attention of a viewer, making it harder to see patterns in the rest of the covers.",
+    "after": "Therefore, we removed these red parts from all images prior to rendering the final visualization."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 4,
+  "input": "3a7a5bb9a139",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "A counterdata initiative in the spirit of Wells is taking place just south of the US border, in Mexico, where a single woman is compiling a comprehensive dataset on femicides—gender-related killings of women and girls.",
+    "after": "María Salguero, who also goes by the name Princesa, has logged more than five thousand cases of femicide since 2016."
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "The issue of femicide in Mexico rose to global visibility in the mid-2000s with widespread media coverage about the deaths of poor and working-class women in Ciudad Juárez.",
+    "sentence": "A border town, Juárez is the site of more than three hundred maquiladoras: factories that employ women to assemble goods and electronics, often for low wages and in substandard working conditions.",
+    "after": "Between 1993 and 2005, nearly four hundred of these women were murdered, with around a third of those murders exhibiting signs of exceptional brutality or sexual violence."
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "Even within big tech itself, there is evidence of an increasing sense of reflexivity among employees for their role in creating harmful data systems.",
+    "sentence": "Employees have pushed back against Google’s work with the Department of Defense (DoD) on Project Maven, which uses AI to improve drone strike accuracy; Microsoft’s decision to take $480 million from the Department of Defense to develop military applications of its augmented reality headset HoloLens; and Amazon’s contract with US Immigration and Customs Enforcement (ICE) to develop its Rekognition platform for use in targeting individuals for detention and deportation at US borders.",
+    "after": "This pushback has led to the cancelling of the Google and Microsoft projects, as well as political consciousness raising across the sector, which we discuss further in the book’s conclusion."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "The matrix of domination, which we introduced in chapter 1, describes how race, gender, and class (among other things) intersect to enhance opportunities for some people and constrain opportunities for others.",
+    "sentence": "Under the matrix of domination, normative bodies pass through scanners, borders, and bathrooms with ease; these systems have been designed by people like them, for people like them, with an aim—sometimes explicit—of keeping people not like them out.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 3,
+  "input": "950bc657e349",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "q",
+    "before": "Trump claims that he wants to protect the LGBTQ community from oppression (!!!)",
+    "sentence": "But … the unconstitutional #MuslimBan impacts millions of people including Queer and Trans people; border walls and militarization means more deaths in the desert, including QT deaths; expanding raids and detention and deportations affects all of us and especially increases the violence that Undocuqueer folks experience; the return of the Global Gag Rule undermines reproductive justice; attacks on Native sovereignty through reopening #KeystoneXL and #NoDAPL are attacks on all Native people including Two-Spirit people; threats to implement voter ID laws in all 50 states, because Trump lost the popular vote, mean disenfranchisement for marginalized voters; Trump’s promise to take Stop and Frisk nationwide will target Black and Brown people in every community, and we know that Queer, Trans, and Gender Non- Conforming Black and Brown people are among those MOST targeted by racist police violence. … We’re here for Black, Muslim, Native, Immigrant, Queer, Disabled, Women, POC communities, and for all those who live at the intersections of many of these communities at the same time!",
+    "after": "We are here for each other, because our liberation is bound up together."
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "Most recently, there is a debate within the American Institute of Architects over whether architects should participate in the redesign of immigration detention facilities to improve conditions for people who are held in them, or whether architects have an ethical responsibility to boycott such work entirely.",
+    "sentence": "Nearly two hundred design, engineering, and construction firms bid for contracts to build the Trump administration’s xenophobic border wall.",
+    "after": "In the final chapter of this book, we will return to this conversation in the form of the #TechWontBuildIt movement."
+   },
+   {
+    "loc": 113,
+    "page": "PDF p. 113",
+    "kind": "p",
+    "before": "",
+    "sentence": "At Salesforce, workers used the hashtag #CancelTheContract to call for an end to a database services agreement with US Customs and Border Protection (CBP).",
+    "after": "Hundreds of workers signed a petition, and dozens protested at the Salesforce HQ in the Bay Area on Monday, July 9, 2018."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "0950336a66a3",
+  "candidates": [
+   {
+    "loc": 96,
+    "page": "PDF p. 96",
+    "kind": "p",
+    "before": "",
+    "sentence": "While one reading of #CrimingWhileWhite tweets might locate them in the tradition of activist consciousness raising—that is, educating potential supporters and legitimizers of a movement about the political and collective meanings of their experiences (in this case, experiences with privilege)—other tweets suggest a navel-gazing that recenters (and borders on celebrating) whiteness.",
+    "after": "Within both the network and the discourse of the hashtag it is often difficult to tell whether particular users are, in fact, allies of the larger movement for Black lives and familiar with the Eric Garner case (which spurred the hashtag’s creation)."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "5211d8263f06",
+  "candidates": [
+   {
+    "loc": 190,
+    "page": "p. 186",
+    "kind": "p",
+    "before": "The white, working-class southern writer did information technology–related work by day and thought the archives should choose a machine called the Eagle Spirit, because it would be great for converting their paper card catalog into a computer database.",
+    "sentence": "She described the computer with affection, bordering on lust, using some pretty colorful language.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 7,
+  "input": "18835f49ed3b",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "It was immediately evident that Gamergate would continue the practice of demarcating gamers of color in particular by rendering them invisible, while continuing the assault on women who dare to criticize the culture. #BlackLivesMatter would be privileged in alternative media spaces, including Twitter, while mainstream outlets would continue the practice of reporting black and brown pain and death with little analysis or drawing of connections to larger structural inequalities.",
+    "sentence": "The digital praxis of black users, or intersectional tech, reveals a particular power, illuminating the remix of visual, textual, and oral traditions in social media, affording different opportunities to communicate and interact across boundaries and borders.",
+    "after": "Intersectionality, rooted in black feminist intellectual thought, allows us to map the digital practices with the physical realities of marginalized populations."
+   },
+   {
+    "loc": 49,
+    "page": "PDF p. 49",
+    "kind": "p",
+    "before": "",
+    "sentence": "“Without the monstrous body to demarcate the borders of the generic, without the female body to",
+    "after": ""
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "The significance of the body for intersectional tech demonstrates the contested constructions around and through the body (the policing of the black body and the liberation of the white body).",
+    "sentence": "By policing an unequally permeable racialized border (created in the physical world and sustained in the digital), I am able to draw parallels with the discursive marking of the black body as well as the associated discursive practices around the fears and anxieties created by the racialized body.",
+    "after": ""
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "They even started crackin’ on our accents and shit.",
+    "sentence": "They said something like our social security numbers started with letters and we need to get south of the border.",
+    "after": "And then all hell broke loose."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "landscape, are bordered by the practices to relegate women to the margins.",
+    "after": ""
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "",
+    "sentence": "Broadly speaking, there are only a handful of disabled characters in video games: Adam Jensen from Deus Ex, Master Rahm Kota from Star Wars: The Force Unleashed II, Bentley from Sly Cooper, Taimi from Guild Wars 2, Sir Alistair Hammerlock from Borderlands 2, and Master Sergeant Frank Woods from Call of Duty: Black Ops.",
+    "after": "Of these games, I have only played Call of Duty: Black Ops, but I have enough knowledge of these games from reading reviews and watching playthroughs to get a general idea of the characters."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "Take gaming, for example, where the relevant social group usually is defined as the white masculine users.",
+    "sentence": "Women who insert themselves into the “digital locker room” meet with resistance from the “boys’ club” for violating the invisible borders of the space.",
+    "after": "Although most would agree that responses to women in these spaces are not overtly violent, the oppressive nature of this marginalization and exclusion over time has led to the devaluation of women in particular."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "59b10d51510b",
+  "candidates": [
+   {
+    "loc": 62,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "I few into Atlanta mid-July, got myself an Airbnb, and paid a visit to the Invention Studio at Georgia Tech (https://inventionstudio.gatech.edu).",
+    "sentence": "The Invention Studio was a 4,500-square-foot facility housed in the Manufacturing Related Disciplines Complex near the border of the campus, administered by the George W. Woodruff School of Engineering.",
+    "after": "The makerspace was founded in 2009, and has evolved over the years based on student and faculty use of the space."
+   },
+   {
+    "loc": 79,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "• International technical communication happens within the United States.",
+    "sentence": "There are over five hundred sovereign indigenous nations independent from the United States but are located within United States national borders.",
+    "after": "And this international technical communication can and does happen independent from United States and other “first-world” involvement."
+   },
+   {
+    "loc": 79,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "",
+    "sentence": "• Intercultural technical communication happens within and across national borders given ethnic and other cultural diversity.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "bee69327ec9e",
+  "candidates": [
+   {
+    "loc": 94,
+    "page": "PDF p. 94",
+    "kind": "p",
+    "before": "To be ashy is to not care about self-presentation or the expectations of one’s community.",
+    "sentence": "A person or event can be ashy if they are not quite right in their display, bordering on laughable or disdain inducing.",
+    "after": "Ashiness is also indicative of those who spurn others in their community, specifically Black men who are hostile to Black women."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 5,
+  "input": "0e8a445577aa",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "pp. 1–3",
+    "kind": "p",
+    "before": "The motion picture genre is characterized by its dark and sometimes sexually charged undercurrents; examples include films like The Maltese Falcon (1941) and Sunset Boulevard (1950).",
+    "sentence": "Like “film noir,” “misogynoir” originally described American media but similarly grew to transcend borders to describe an unfortunately global phenomenon.",
+    "after": "Whether in film, television, or as I examine extensively in this book, digital media, misogynoir has found a home in each of the communication advancements of the last two centuries."
+   },
+   {
+    "loc": 24,
+    "page": "pp. 26–27",
+    "kind": "p",
+    "before": "",
+    "sentence": "While the Internet has been celebrated for its ability to traverse national borders and make countries seem more porous through information exchange, social media platforms maintain demographic segregation that belies this perceived fluidity.",
+    "after": "I still find a US-centrism in the Black women’s digital media I examined for this project."
+   },
+   {
+    "loc": 24,
+    "page": "pp. 26–27",
+    "kind": "p",
+    "before": "The examples of misogynoir I detail build on US history and inform the way misogynoir is manifest contemporarily in the digital spaces I examine.",
+    "sentence": "However, misogynoir’s virulence does not heed geopolitical borders.",
+    "after": "I am awed and saddened by the term’s uptake beyond the United States—awed that Black women and their supporters have found the word useful in a number of contexts and saddened that people find it necessary to use so frequently in all corners of the globe."
+   },
+   {
+    "loc": 56,
+    "page": "pp. 96–97",
+    "kind": "p",
+    "before": "She uplifted other women of color, including Sage Smith, who went missing in November 2012 before being presumed murdered four years later in 2016.",
+    "sentence": "McDonald posted a request to support a woman identified only as Estrellita, who was described as trying to seek asylum in the United States, only to be detained in Arizona by border patrol.",
+    "after": "McDonald asked supporters to donate funds in support of her bond so that she could leave the detention center."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 6,
+  "input": "6fe049250ad0",
+  "candidates": [
+   {
+    "loc": 54,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "",
+    "sentence": "border: 0;",
+    "after": ""
+   },
+   {
+    "loc": 55,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "",
+    "sentence": "The elements in this style sheet tell the browser to display the largest header, h1, as 24 pt type with a margin of .67 em and to display images with a border of 0 width.",
+    "after": "Any element in the html file can be given style attributes in the head, inline in the file, or in a style sheet to which the file is linked by an href."
+   },
+   {
+    "loc": 147,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "Does it show roads and transportation networks or physical features of the landscape?",
+    "sentence": "Are administrative borders and boundaries marked, cities and towns, or elevation and other topographical details?",
+    "after": "Is it a historical map or a recent one?"
+   },
+   {
+    "loc": 148,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "Humanists also study maps as cultural artifacts, interpreting their representation of spatial and geographical phenomena.",
+    "sentence": "Early maps of exploration, for instance, tend to favor detail about coastline features, rather than knowledge of a landmass’s interior, while Indigenous mapping may have very little information about coasts and borders and focus instead on pathways and ritual sites.",
+    "after": "GIS systems were not made to accommodate the rhetorical specifics of many of these maps or the spatial experience they record."
+   },
+   {
+    "loc": 161,
+    "page": "p. 146",
+    "kind": "p",
+    "before": "epidemics, humanistic geographers are working to reconceptualize the role of space in every area of geopolitics.",
+    "sentence": "One project where these approaches have found considerable traction is in Mapping Borderlands, focused on charged arenas of cultural exchange whose shifting status emerges from and greatly impacts human populations.",
+    "after": ""
+   },
+   {
+    "loc": 166,
+    "page": "p. 151",
+    "kind": "p",
+    "before": "They are frequently the creation of purely digital simulations, images that are not based in observed reality, but created from remains or records to provide an idea of what these might have been.",
+    "sentence": "The very capacity for an image to be complete, or even replete, makes it seductive in ways that can border on deception, inaccuracy, or promote entertainment values over scholarly ones.",
+    "after": "Many specific properties of visual images in a 3-D rendering work create overly finished and homogenous objects."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 4,
+  "input": "8b3bfaf25942",
+  "candidates": [
+   {
+    "loc": 63,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "While Stephenson follows a cable ethnographically, Mathew asks: how can one study a protocol ethnographically?",
+    "sentence": "In his exploration of the Border Gateway Protocol and the maintenance labor that goes into internet exchange points, he offers us a more complex narrative of the internet.",
+    "after": "Both authors follow a technological object that cannot be pinned down to one point in space and time."
+   },
+   {
+    "loc": 63,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "The ability to display massive data sets to viewers fundamentally alters the historical and geographical picture brought by designers to the general public.",
+    "sentence": "Lyon’s visualizations retain maximalist forms of route data, incorporating data dumps from the Border Gateway Protocol, which he calls “the Internet’s true routing table.”",
+    "after": "The project has been displayed in Boston’s Museum of Science and New York City’s Museum of Modern Art."
+   },
+   {
+    "loc": 99,
+    "page": "pp. 175–176",
+    "kind": "p",
+    "before": "By contrast, in Germany, collective bargaining occurs between employer associations and labor union representatives in a given industry at the state level, and larger companies have works councils and labor directors with a say in decisions concerning labor, such as the introduction of new work processes and technologies.",
+    "sentence": "While an international labor movement will benefit from the solidarity of employees across national borders, differences in labor legislation and culture across countries pose a challenge.",
+    "after": ""
+   },
+   {
+    "loc": 109,
+    "page": "pp. 191–192",
+    "kind": "p",
+    "before": "As Alper observes, “the values, desires, and ideals of dominant cultural groups are systematically privileged over others in societies, and these biases are built into the structures of organizations, institutions, and networks.”",
+    "sentence": "As a result, our current speech technologies represent the values, ideals and desires of the Global North and as tools of digital imperialism, they bear “cultural freight as they cross borders.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 122,
+  "input": "77ebca5ef8ed",
+  "candidates": [
+   {
+    "loc": 44,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "My own language practices and presumptions led me to believe that I would be facilitating conversation with and perhaps even honoring the language practices of my participants by using my knowledge of Spanish to begin this conversation.",
+    "sentence": "Yet, as Eduardo and the other men in his flea market booth that day showed me, I made these assumptions without recognizing the broad linguistic practices of the borderland region and without acknowledging the racist, colonial ideologies that have worked for centuries to actively erase Spanish and multiple Indigenous languages from being spoken on that colonized land.",
+    "after": "Raciolinguistic ideologies may connect Brown Mexican bodies in the US to Spanish, erasing the impacts of racialization, migration, colonization, ongoing racism, and general language plurality that exist in the world today."
+   },
+   {
+    "loc": 76,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "The two research sites I introduce in this chapter represent communities of people I had the privilege to work with as part of a larger collaborative project focused on localizing healthcare on the Mexico/ US borderland through a multilingual user experience design (Durá, Gonzales, and Solis 2019).",
+    "after": "Along with my collaborator Lucía Durá, we developed a multi-site study geared toward developing linguistically and culturally sustainable tools and technologies for facilitating health-related communication and interventions for bilingual populations in the borderland city of El Paso."
+   },
+   {
+    "loc": 79,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "As many borderland scholars demonstrate, while residents of the Mexico/US border engage in fluid language practice across varieties of Englishes and Spanishes on a regular basis, these fluid linguistic movements represent rhetorical choices that can stem from long histories of colonization and racial violence (Anzaldúa 1987; Mignolo 2000).",
+    "sentence": "As Gloria Anzaldúa (1987) explains, borderland identity is much more than just a physical boundary across nations; “a borderland is a vague and undetermined place created by the emotional residue of an unnatural boundary” (15).",
+    "after": "As such, as Gonzales and Mónica González Ybarra (2020) elaborate, “the borderlands are in-between, highly contested spaces in which marginalized peoples (Black, Indigenous, people of color, women, queer folks, and youth) navigate, survive, and cultivate oppositional consciousness (Sandoval 2013) to resist oppressive structures (de los Ríos 2018; Nuñez 2019)” (228)."
+   },
+   {
+    "loc": 79,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "Instead, language fluidity, particularly for racialized borderland residents who experience racism and xenophobia from both the US and Mexico, is rhetorical action grounded in lived experience.",
+    "sentence": "As Gonzales and González Ybarra (2020) explain, drawing on Walter Mignolo’s (2000) concept of “border thinking,” language practices on the Mexico/US borderland, and in El Paso specifically, can offer “a reframing of knowledge production that centers those living in and on the margins—those who have knowledge and experience resisting and navigating colonial dominance” (228).",
+    "after": "For some, to translanguage, or move fluidly across Spanishes and Englishes, in this borderland context can be an act of resistance to standardized language ideologies imposed on borderland residents while also being the consequence of long-standing discriminatory practices against Mexican Americans in both the US and Mexico (Nuñez 2019)."
+   },
+   {
+    "loc": 80,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "",
+    "sentence": "According to Oscar Jáquez Martínez (1994), “A border is a line that separates one nation from another or, in the case of internal entities, one province or locality from another.",
+    "after": "The essential functions of a border are to keep people in their own space and to prevent, control, or regulate interactions among them."
+   },
+   {
+    "loc": 80,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "The essential functions of a border are to keep people in their own space and to prevent, control, or regulate interactions among them.",
+    "sentence": "A borderland is a region that lies adjacent to a border” (5).",
+    "after": "As Margarita Hidalgo (1986) clarifies, El Paso and Ciudad Juárez are “two border cities [that] share a common life that dates back to the seventeenth century, when the two communities, known as Paso del Norte, were one."
+   },
+   {
+    "loc": 81,
+    "page": "p. 65",
+    "kind": "p",
+    "before": "For example, Patricia MacGregor-Mendoza (1999) examined how English-only policies embraced in school settings resulted in the loss of the Spanish language for many US residents of Mexican descent.",
+    "sentence": "Linguists such as Roberto A. Galván and Richard V. Teschner (1977) conducted longitudinal studies on “border language,” developing the Dictionary of Chicano Spanish, which includes over 9,000 Spanish terms and idioms developed in the borderland region.",
+    "after": "As Peñalosa (1980) explains, “The study of the Chicano’s use of language, in both historical background and social context, has long been a concern of scholars, practitioners, and many average citizens” and could, as I demonstrate in this chapter, be then adapted to influence the successful design and localization of borderland health tools and technologies (1)."
+   },
+   {
+    "loc": 103,
+    "page": "p. 87",
+    "kind": "p",
+    "before": "From a translation and localization perspective, the data narratives I presented from La Escuelita and the Diabetes Garage can render several implications about how communication designers can design for and with borderland communities.",
+    "sentence": "For example, findings point to the fact that technologies for borderland communities should mirror the languaging practices of borderland residents, resulting in websites that are, as La Escuelita participants suggested, not divided into two sections, one in Spanish and one in English.",
+    "after": "In addition, participants in both La Escuelita and the Diabetes Garage emphasized the value of visual communication in multilingual design, which also echoes long-standing research about the importance of visuals in health communication (Bloom-Pojar and DeVasto 2019)."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 34,
+  "input": "a35a84d4398f",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "pp. 12–13",
+    "kind": "p",
+    "before": "DH has been at the forefront of recent political engagement in the public sphere, too.",
+    "sentence": "Political responses are visible in projects such as Torn Apart/Separados, which responded to state-sponsored abduction of immigrant children at the U.S.–Mexico border; the Visionary Futures Collective around academic responses to the pandemic; the COVID Black taskforce’s analysis of the pandemic as it affects the Black community; or the “rapid response” project known as Nimble Tents.",
+    "after": "DH is uniquely poised to produce important scholarly projects that respond to current events directly."
+   },
+   {
+    "loc": 95,
+    "page": "pp. 147–148",
+    "kind": "p",
+    "before": "Christy Hyman’s foray into recovering African Americans’ tarnished lineages to the Great Dismal Swamp landscape necessitated that she immerse herself in the contested interpretations of African-descended ties to the land and how those ties mattered in marking sites of memory in the swamp.",
+    "sentence": "The Great Dismal Swamp, located along the North Carolina/Virginia border, was a haven for enslaved fugitives in the eighteenth and nineteenth centuries, yet there are no physical sites that mark this revolutionary action of self-liberation.",
+    "after": "To begin to recover that erasure using digital media, Hyman created a short video that sought to capture the moments of fear, dread, and hope in the process of enslaved flight."
+   },
+   {
+    "loc": 154,
+    "page": "pp. 247–248",
+    "kind": "p",
+    "before": "We face hate crimes and gun violence, with memories of the vitriol brought about by the Trump administration never far from our minds.",
+    "sentence": "Even in the administration of President Joseph Biden, large-scale movements across borders remain controlled and exploited for profit by governments and corporations.",
+    "after": "We need more urgent conversations and collaborations grounded in transnational solidarities, relations of mutual support, and recognition that connects communities beyond borders to alter our future course."
+   },
+   {
+    "loc": 154,
+    "page": "pp. 247–248",
+    "kind": "p",
+    "before": "Even in the administration of President Joseph Biden, large-scale movements across borders remain controlled and exploited for profit by governments and corporations.",
+    "sentence": "We need more urgent conversations and collaborations grounded in transnational solidarities, relations of mutual support, and recognition that connects communities beyond borders to alter our future course.",
+    "after": ""
+   },
+   {
+    "loc": 154,
+    "page": "pp. 247–248",
+    "kind": "p",
+    "before": "The purpose of creating our DH project Front|eras was not to simply represent “transnationalism” but rather to illuminate the conditions that inspire transnational solidarity, when people form relationships and networks of care that exceed the logic of national boundaries.",
+    "sentence": "The game’s storyline emphasizes decision making that is not solely focused on transnational solidarity as a form of resistance and survival but as a method of community building and “home-making” across borders.",
+    "after": "By emphasizing future transnational possibilities of resistance and solidarity in Front|eras, we call attention to how fraught the concept of transnationalism can be when forming meaningful connections among communities."
+   },
+   {
+    "loc": 155,
+    "page": "pp. 249–250",
+    "kind": "p",
+    "before": "By emphasizing future transnational possibilities of resistance and solidarity in Front|eras, we call attention to how fraught the concept of transnationalism can be when forming meaningful connections among communities.",
+    "sentence": "Often, transnationalism is seen as purely transactional, tied to social, political, and economic advantages possible when relationships are developed across borders, typically only to serve the powerful and privileged.",
+    "after": "However, in creating Front|eras and characters such as Maria, we sought to reimagine how transnationalism can be based on reciprocity and care."
+   },
+   {
+    "loc": 155,
+    "page": "pp. 249–250",
+    "kind": "p",
+    "before": "Although we have not been assigned to teach formal digital humanities classes, we insist on modifying our syllabi when teaching literature and history to include digital humanities projects and approaches.",
+    "sentence": "Our engagement with Latinx community college students and our own experiences as women of color community college alumnae in the San Diego/Tijuana border region inspired the Front|eras characters we created.",
+    "after": "It was important for us to create characters that represented people we see every day and to critique the intersecting issues of border crossing, technology, labor exploitation, immigration, and displacement that we learned from our students’ personal stories."
+   },
+   {
+    "loc": 156,
+    "page": "pp. 251–252",
+    "kind": "p",
+    "before": "We argue that the same choices to center Indigenous community priorities and relationships based on respect for nature and reciprocity are necessary to show transnational solidarity in DH and lay the groundwork for decolonial and sustainable futures.",
+    "sentence": "Digital humanists can create DH projects that work in service of underrepresented and underresourced communities internationally and within national borders as a method of (transnational) solidarity and decolonial DH.",
+    "after": "While we do not have a clear blueprint for what decolonial futures should look like, a decolonial analysis of DH can gesture away from the violent and unsustainable modes of existence underwritten by settler colonialism and move toward reinvestments in different options for the future."
+   }
+  ]
+ }
+]

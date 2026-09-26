@@ -1,0 +1,1944 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 31,
+  "input": "701294ef8c16",
+  "candidates": [
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "All languages must therefore be renewed; in other words, explained and judged according to that analytic order which none of them now follows exactly; and readjusted if necessary so that the chain of knowledge may be made visible in all its clarity, without any shadows or lacunae.",
+    "sentence": "It is thus part of the very nature of grammar to be prescriptive, not by any means because it is an attempt to impose the norms of a beautiful language obedient to the rules of taste, but because it refers the radical possibility of speech to the ordering system of representation.",
+    "after": "Destutt de Tracy once observed that the best treatises on logic, in the eighteenth century, were written by grammarians: this is because the prescriptions of grammar at that time were of an analytic and not an aesthetic order."
+   },
+   {
+    "loc": 174,
+    "page": "PDF p. 174",
+    "kind": "p",
+    "before": "Lastly, on the projected surface of language, man’s behaviour appears as an attempt to say something; his slightest gestures, even their involuntary mechanisms and their failures, have a meaning; and everything he arranges around him by way of objects, rites, customs, discourse, all the traces he leaves behind him, constitute a coherent whole and a system of signs.",
+    "sentence": "Thus, these three pairs of function and norm, conflict and rule, signification and system completely cover the entire domain of what can be known about man.",
+    "after": ""
+   },
+   {
+    "loc": 174,
+    "page": "PDF p. 174",
+    "kind": "p",
+    "before": "",
+    "sentence": "It must not be supposed, however, that any of these pairs of concepts remains localized on the projected surface on which it may have appeared: function and norm are not psychological concepts exclusively; conflict and rule do not have an application limited wholly to the sociological domain; signification and system are not valid solely for phenomena more or less akin to language.",
+    "after": "All these concepts occur throughout the entire volume common to the human sciences and are valid in each of the regions included within it: hence the frequent difficulty in fixing limits, not merely between the objects, but also between the methods proper to psychology, sociology, and the analysis of literature and myth."
+   },
+   {
+    "loc": 175,
+    "page": "PDF p. 175",
+    "kind": "p",
+    "before": "Thus a vast shift has led the human sciences from a form more dense in living models to another more saturated with models borrowed from language.",
+    "sentence": "But this shift was paralleled by another: that which caused the first term in each of the constituent pairs (function, conflict, signification) to recede, and the second term (norm, rule, system) to emerge with a correspondingly greater intensity and importance: Goldstein, Mauss, Dumezil may be taken to represent, as near as makes no difference, the moment at which the reversal took place within each of the models.",
+    "after": "Such a reversal has two series of noteworthy consequences: as long as the functional point of view continued to carry more weight than the normative point of view (as long as it was not on the basis of the norm and the interior of the activity determining that norm that the attempt was made to understand how a function was performed), it was of course necessary, de facto, to share the normal functions with the non-normal; thus a pathological psychology was accepted side by side with normal psychology, but forming as it were an inverted image of it (hence the importance of the Jacksonian notion of disintegration in Ribot or Janet); in the same way, a pathology of societies (Durkheim), of irrational and quasi-morbid forms of belief (Lévy-Bruhl, Blondel) was also accepted; similarly, as long as the point of view of conflict carried more weight than that of the rule, it was supposed that certain conflicts could not be overcome, that individuals and societies ran the risk of destroying themselves by them; finally, as long as the point of view of signification carried more weight than that of system, a division was made between significant and nonsignificant: it was accepted that there was meaning in certain domains of human behaviour or certain regions of the social area, but not in others."
+   },
+   {
+    "loc": 176,
+    "page": "PDF p. 176",
+    "kind": "p",
+    "before": "By pluralizing itself – since systems are isolated, since rules form closed wholes, since norms are posited in their autonomy – the field of the human sciences found itself unified: suddenly, it was no longer fissured along its former dichotomy of values.",
+    "sentence": "And bearing in mind that Freud more than anyone else brought the knowledge of man closer to its philological and linguistic model, and that he was also the first to undertake the radical erasure of the division between positive and negative (between the normal and the pathological, the comprehensible and the incommunicable, the significant and the non-significant), it is easy to see how he prefigures the transition from an analysis in terms of functions, conflicts, and significations to an analysis in terms of norms, rules, and systems: thus all this knowledge, within which Western culture had given itself in one century a certain image of man, pivots on the work of Freud, though without, for all that, leaving its fundamental arrangement.",
+    "after": "But even so, it is not here – as we shall see later on – that the most decisive importance of psychoanalysis lies."
+   },
+   {
+    "loc": 176,
+    "page": "PDF p. 176",
+    "kind": "p",
+    "before": "The conflict/rule pair ensures the representability of need (of the need that economics studies as an objective process in labour and production) and the representability of the unthought that is unveiled by the analytic of finitude.",
+    "sentence": "Lastly, the concept of function has the role of showing how the structures of life may give rise to representation (even though they are not conscious), and the concept of norm how function provides its own conditions of possibility and the frontiers within which it is effective.",
+    "after": ""
+   },
+   {
+    "loc": 176,
+    "page": "PDF p. 176",
+    "kind": "p",
+    "before": "",
+    "sentence": "In any case, this transition to the point of view of the norm, the rule, and the system brings us to a problem that has been left in suspense: that of the role of representation in the human sciences.",
+    "after": "It might already appear extremely contestable to include the human sciences (as opposed to biology, economics, and philology) within the space of representation: was it not already necessary to point out that a function can be performed, a conflict can develop its consequences, a signification can impose its intelligibility, without passing through the stage of explicit consciousness?"
+   },
+   {
+    "loc": 181,
+    "page": "PDF p. 181",
+    "kind": "p",
+    "before": "This means that, unlike the human sciences, which, even while turning back towards the unconscious, always remain within the space of the representable, psychoanalysis advances and leaps over representation, overflows it on the side of finitude, and thus reveals, where one had expected functions bearing their norms, conflicts burdened with rules, and significations forming a system, the simple fact that it is possible for there to be system (therefore signification), rule (therefore conflict), norm (therefore function).",
+    "sentence": "And in this region where representation remains in suspense, on the edge of itself, open, in a sense, to the closed boundary of finitude, we find outlined the three figures by means of which life, with its function and norms, attains its foundation in the mute repetition of Death, conflicts and rules their foundation in the naked opening of Desire, significations and systems their foundation in a language which is at the same time Law.",
+    "after": "We know that psychologists and philosophers have dismissed all this as Freudian mythology."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 4,
+  "input": "3d96a872c254",
+  "candidates": [
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "",
+    "sentence": "A modern grapholect such as 'English', to use the simple term which is commonly used to refer to this grapholect, has been worked over for centuries, first and most intensively, it seems, by the chancery of Henry V (Richardson 1980), then by normative theorists, grammarians, lexicographers, and others.",
+    "after": "It has been recorded massively in writing and print and now on computers so that those competent in the grapholect today can establish easy contact not only with millions of other persons but also with the thought of centuries past, for the other dialects of English as well as thousands of foreign languages are interpreted in the grapholect."
+   },
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "Where grapholects exist, 'correct' grammar and usage are popularly interpreted as the grammar and usage of the grapholect itself to the exclusion of the grammar and usage of other dialects.",
+    "sentence": "The sensory bases of the very concept of order are largely visual (Ong 1967b, pp. 108, 136–7), and the fact that the grapholect is written or, a fortiori, printed encourages attributing to it a special normative power for keeping language in order.",
+    "after": "But when other dialects of a given language besides the grapholect vary from the grammar of the grapholect, they are not ungrammatical: they are simply using a different grammar, for language is structure, and it is impossible to use language without a grammar."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "Print established the climate in which dictionaries grew.",
+    "sentence": "From their origins in the eighteenth century until the past few decades, dictionaries of English have commonly taken as their norm for language only the usage of writers producing text for print (and not quite all of them).",
+    "after": "The usage of all others, if it deviates from this typographic usage, has been regarded as 'corrupt'."
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "Little has thus far been done, however, to understand reader response in terms of what is now known of the evolution of noetic processes from primary orality through residual orality to high literacy.",
+    "sentence": "Readers whose norms and expectancies for formal discourse are governed by a residually oral mindset relate to a text quite differently from readers whose sense of style is radically textual.",
+    "after": "The nineteenth-century novelists' nervous apostrophes to the 'dear reader', as has already been noted, suggest that the typical reader was felt by the writer to be closer to the old-style listener than most readers commonly are felt to be today."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 5,
+  "input": "ba4035647604",
+  "candidates": [
+   {
+    "loc": 80,
+    "page": "p. 66",
+    "kind": "p",
+    "before": "",
+    "sentence": "Biology as an Engineering Science Machine (production) Control Engineering machine as organism functionalism adjustment, inventory, and normalization of diversity machine as cybernetic communication, expanded integration, system information redesign Key biologies: physiology, cell and developmental biology, molecular biology Key machine subsystems: nervous system, reproductive system (mind and sex, culture and nature, intelligence and instinct)",
+    "after": ""
+   },
+   {
+    "loc": 143,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "These readings were directed to fictions in which we all had considerable stakes — the publishers’, Emecheta’s, Ogunyemi’s, Christian’s, mine, each of the students’, and those of anonymous readers of thousands of paperbacks in several nations.",
+    "sentence": "I wanted us to watch how those stakes locate readers in a '' map of women’s self-consciously liberatory discourses, including constructions, such as ‘womanism’, that place ‘feminism’ under erasure and propose a different normative genealogy for women’s movement.",
+    "after": "The goal was to make these critically reflexive readings open up the complexities of location and affinities in partially allied, partially oppositional drawings of maps of women’s consciousness in the local/global, personal/political webs of situated knowledges. | First, let us examine how Ogunyemi (1985, pp. 66-7) read — or declined to read — Emecheta in an essay published for a largely non-African audience in Signs: Journal of Women in Culture and Society, a major scholarly organ of feminist theory in the US."
+   },
+   {
+    "loc": 145,
+    "page": "p. 119",
+    "kind": "p",
+    "before": "On this specific publishing occasion, Ogunyemi problematized Emecheta’s ‘authenticity’ as a returned emigrant writer.",
+    "sentence": "In Ogunyemi’s archaeology of African anglophone literature, socialism, feminism, and lesbianism all stood explicitly for an immature moment, perhaps recuperable later, but for the moment not incorporable within the voices of the ‘co-wives’, who figured a normative kind of black women’s unity.",
+    "after": "Womanism meant that the demands of ‘culture’ take precedence over those of ‘sexual politics’."
+   },
+   {
+    "loc": 158,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "",
+    "sentence": "Current Problematic The gender identity paradigm The story of the political reformulations of gender by post-1960s Western feminists must pass through the construction of meanings and technologies of sex and gender in normalizing, liberal, interventionist-therapeutic, empiricist, and functionalist life sciences, principally in the United States, including psychology, psychoanalysis, medicine, biology, and sociology.",
+    "after": "Gender was located firmly in an individualist '' problematic within the broad ‘incitement to discourse’ (Foucault, 1976) on sexuality characteristic of bourgeois, male-dominant, and racist society."
+   },
+   {
+    "loc": 237,
+    "page": "p. 211",
+    "kind": "p",
+    "before": "The body is conceived as a strategic system, highly militarized in key arenas of imagery and practice.",
+    "sentence": "Sex, sexuality, and reproduction are theorized in terms of local investment strategies; the body ceases to be a stable spatial map of normalized functions and instead emerges as a highly mobile field of strategic differences.",
+    "after": "The biomedical-biotechnical body is a semiotic system, a complex meaning-producing field, for which the discourse of immunology, that is, the central biomedical discourse on recognition/misrecognition, has become a high-stakes practice in many senses."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 12,
+  "input": "4248f4d87660",
+  "candidates": [
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "“Philosophy has always considered itself a discipline concerned primarily or exclusively with ideas, concepts, reason, judgment—that is, with terms clearly framed by the concept of mind, terms which marginalize or exclude considerations of the body” (p. 4).",
+    "sentence": "Even those philosophers who do take embodiment seriously tend unreflectingly to take the male body as the norm, as Grosz shows in discussing a range of theorists, including Merleau-Ponty, Freud, Lacan, Nietzsche, Foucault, and Deleuze and Guattari.",
+    "after": "Reading these male writers to find resources for a feminist understanding of embodiment, she offers as a model a Möbius strip in which outside becomes inside becomes outside."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "To delineate this field, let me begin by clarifying what I mean by embodiment, an understanding that aligns itself with Grosz’s comment that “there is no body as such; there are only bodies.”",
+    "sentence": "Embodiment differs from the concept of the body in that the body is always normative relative to some set of criteria.",
+    "after": "To explore how the body is constructed within Renaissance medical discourse, for example, is to investigate the normative assumptions used to constitute a particular kind of social and discursive concept."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Embodiment differs from the concept of the body in that the body is always normative relative to some set of criteria.",
+    "sentence": "To explore how the body is constructed within Renaissance medical discourse, for example, is to investigate the normative assumptions used to constitute a particular kind of social and discursive concept.",
+    "after": "Normalization can also take place with someone’s particular experiences of embodiment, converting the heterogeneous flux of perception into a reified stable object."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Funes, blessed or cursed by a head injury that enables him to remember each sensation and thought in all its particularity and uniqueness, proposes that each number be assigned a unique, nonsystematic name bearing no relation to the numbers that come before and after it.",
+    "sentence": "If embodiment could be articulated separate from the body—an impossibility for several reasons, not least because articulation systematizes and normalizes experiences in the act of naming them—it would be like Funes’s numbers, a froth of discrete utterances registering the continuous and infinite play of difference.",
+    "after": ""
+   },
+   {
+    "loc": 127,
+    "page": "PDF p. 127",
+    "kind": "p",
+    "before": "How does the inscription/incorporation coupling relate to body/embodiment?",
+    "sentence": "Like the body, inscription is normalized and abstract, in the sense that it is usually considered as a system of signs operating independently of any particular manifestation.",
+    "after": "In Foucault’s analysis of Linnaeus’s biological taxonomies, it does not matter whether the taxonomies were originally printed in Gothic or Roman type; their significance derives from the concepts they express, not from the medium in which they appear."
+   },
+   {
+    "loc": 127,
+    "page": "PDF p. 127",
+    "kind": "p",
+    "before": "Conversely, when the focus shifts to embodiment, a specific material experience emerges out of the abstraction of the body, just as the particularities of an incorporating practice emerge out of the abstraction of inscription.",
+    "sentence": "Embodiment cannot exist without a material structure that always deviates in some measure from its abstract representations ; an incorporating practice cannot exist without an embodied creature to enact it, a creature who always deviates in some measure from the norms.",
+    "after": "One path into further understanding the articulation between embodiment and the body, then, is to explore the connection between inscribing and incorporating practices."
+   },
+   {
+    "loc": 128,
+    "page": "PDF p. 128",
+    "kind": "p",
+    "before": "Indeed, it is difficult to see what essentialism would mean in the context of embodiment.",
+    "sentence": "Essentialism is normative in its impulse, denoting qualities or attributes shared by all human beings.",
+    "after": "Though it is true that all humans share embodiment, embodied experience is dispersed along a spectrum of possibilities."
+   },
+   {
+    "loc": 134,
+    "page": "PDF p. 134",
+    "kind": "p",
+    "before": "The idea of two entities trying to occupy the same space is further reinforced by the vertical “divide line” crossing the body, the physically marked line in bone, muscle, and skin where the neural canal of the month-old fetus closes to create the beginnings of the torso.",
+    "sentence": "The early point at which the “divide line” is imprinted on human flesh suggests how deeply implicated into the organism are the prerecordings that socialize it into community norms.",
+    "after": "In one scene the narrator sees his body “on the operating table split down the middle,” while a “doctor with forceps was extracting crab parasites from his brain and spine—and squeezing green fish parasites from the separated flesh.”"
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 6,
+  "input": "d00ef12df1c3",
+  "candidates": [
+   {
+    "loc": 98,
+    "page": "p. 81",
+    "kind": "p",
+    "before": "To what extent does an advert do this?",
+    "sentence": "Or does it normalize whiteness by making it invisible (see Dyer 1997)?",
+    "after": ""
+   },
+   {
+    "loc": 130,
+    "page": "p. 113",
+    "kind": "p",
+    "before": "Many feminists reject psychoanalysis outright because they see Freud’s account as naturalizing the inferiority of girls or women by affirming them as lacking on biological grounds.",
+    "sentence": "Many gay and lesbian theorists reject psychoanalysis on the grounds that it assumes that heterosexuality established through the castration complex is the norm and that homosexuality is a deviation from it.",
+    "after": "And many black feminists reject psychoanalysis as a colonizing theory that simply erases race as an analytical and political category (see for example Iginla 1992)."
+   },
+   {
+    "loc": 155,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Indeed, Gaines (1988) argues that racialized aspects of subjectivity are not just neglected by psychoanalysis, but actively erased from consideration, particularly in generalizing accounts of the so-called ‘male gaze’.",
+    "sentence": "Gaines suggests that the erasure of ‘race’ from psychoanalytic film theory is produced by the white middle-class norms of family relations that psychoanalysis implicitly assumes; and in her discussion of the film Mahogany starring Diana Ross, she shows that the only men whose gaze at Ross is sanctioned by the film are white.",
+    "after": "‘Race’, she insists, must therefore intersect with sexual difference in accounts of spectatorship, but Gaines (1988) sees psychoanalyisis as actively unhelpful in this regard."
+   },
+   {
+    "loc": 196,
+    "page": "p. 179",
+    "kind": "q",
+    "before": "",
+    "sentence": "the museum, in providing a new setting for works of culture, also functioned as a technological environment which allowed cultural artefacts to be refashioned in ways that would facilitate their deployment for new purposes as part of governmental programmes aimed at reshaping general norms of social behaviour.",
+    "after": "(Bennett 1995: 6)"
+   },
+   {
+    "loc": 217,
+    "page": "p. 200",
+    "kind": "p",
+    "before": "In making this argument, Hall was drawing above all on the work of the Marxist theorist Antonio Gramsci, who, living in Fascist Italy in the 1930s, argued that political, economic, social and cultural order was maintained not only by the coercive power of the state - its police and army — but also by the dominant meanings and values of a society.",
+    "sentence": "This sort of power, maintained by culturally constituted norms, was hegemony termed hegemony by Gramsci.",
+    "after": "Gramsci also argued that there would be resistance to hegemony, resistance that he called counter-hegemony."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 3,
+  "input": "7686a9d403f8",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "Novels, plays, and films from classical tragedy to comics provide a vast playground to rehearse accounts of what makes us act.",
+    "sentence": "For this reason, once the difference between actant and agency is understood, various sentences such as ‘moved by your own interest’, ‘taken over by social imitation’, ‘victims of social structure’, ‘carried over by routine’, ‘called by God’, ‘overcome by destiny’, ‘made by your own will’, ‘held up my norms’, and ‘explained by capitalism’ become fully comparable.",
+    "after": "They are simply different ways to make actors do things, the diversity of which is fully deployed without having to sort in advance the ‘true’ agencies from the ‘false’ ones and without having to assume that they are all translatable in the repetitive idiom of the social."
+   },
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "Sociologists will claim that when they appeal to the durability of social ties they bring in something that really possesses the necessary durability, solidity, and inertia.",
+    "sentence": "It is ‘society’, or ‘social norm’, or ‘social laws’, or ‘structures’, or ‘social customs’, or ‘culture’, or ‘rules’, etc., they argue, which have enough steel in them to account for the way it exerts its grip over all of us and accounts for the unequal landscape in which we are toiling.",
+    "after": "It is, indeed, a convenient solution but does not explain where their ‘steely’ quality is coming from that reinforces the weak connections of social skills."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "But, contrary to the scholastic proverb, there is science only of the particular.",
+    "sentence": "If connections are established between sites, it should be done through more descriptions, not by suddenly taking a free ride through all-terrain entities like Society, Capitalism, Empire, Norms, Individualism, Fields, and so on.",
+    "after": "A good text should trigger in a good reader this reaction: ‘Please, more details, I want more details.’"
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 22,
+  "input": "2932422cc54a",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "p. 14",
+    "kind": "p",
+    "before": "Since then, the Internet’s user populations have become much more diverse.",
+    "sentence": "This has resulted in an explosion of use that has all but eliminated the sense of a default normative identity in all parts of cyberspace; there are many Internet spaces, such as pregnancy bulletin boards, blogs, and livejournals that may now assume a default female user, and others such as petition and dating Web sites that assume users of color.",
+    "after": ""
+   },
+   {
+    "loc": 45,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "Much of Fiske’s work establishing this theoretical position was formulated before the popularization of the Internet, much less its increasing adoption by users of color and women.",
+    "sentence": "Perhaps an examination of the deployment of the Internet as a racial and gendered visual cultural practice might help us to take a closer look at the ways that cultural resistance to normative gender, racial, and national narratives might be enabled in new digitally interactive spaces.",
+    "after": "While Jennifer Lopez is probably not the ﬁrst media ﬁgure that comes to mind when pondering the potential of the Internet as a space of resistant digital practice, the uneasy balance between viewer and viewed, ethnically marked and ethnically neutral, producer and produced, commodity and gift, and user and used that we can see in “If You Had My Love” posits a future in which there are no easy answers to the question of identity in the representational world of the Internet."
+   },
+   {
+    "loc": 68,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "On the other hand, the “nation” category does have the effect of including whiteness, a category that would generally be omitted from the “race” category even if it were offered.",
+    "sentence": "While it fails to challenge the idea of whiteness as a normative social identity on IM, it does work to question the idea that whiteness has no relation to ethnicity or geographic location.",
+    "after": "Latvians, Irish, Italians, Poles, and other nationalities appear in the same category as Puerto Ricans, Salvadorans, and “Asians,” a term that might normally appear under “race” if such a category existed."
+   },
+   {
+    "loc": 73,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Thus the animation of the female body shown from top to bottom is sutured to a virtual signboard that uses the same hybrid alphanumerical discourse as “usachick,” which then loops back to the image of another, less modest than “Muslim,” but equally observant religious body— that of the American Christian girl.",
+    "sentence": "Her clothing does not signify her identity in the same way; rather, it signiﬁes the notion that the “uniform” of American Christianity has less to do with ethnicity and its attendant signs, like the chador and a lack of exposed skin, and more to do with normative teenage fashions for American girls.",
+    "after": "This is the default fashion ensemble of American girls: rather than the abbreviated starred and striped top and shorts of “usachick,” the Christian girl keeps her legs covered, albeit with formﬁtting jeans, and does not wear her religion on her virtual body."
+   },
+   {
+    "loc": 80,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "These users are quite likely to be relative newcomers to the Internet, as young people are one of the fastest-growing groups of Internet users, as are people of color.",
+    "sentence": "Thus it is especially important that their creation of a visual culture in a networked communication form that is assumed not to have one—Instant Messenger—be examined carefully and considered in light of its ability to express identities that are resistant to normativity and presented alternatively to commercially produced images of the networked body.",
+    "after": "It is the conﬂuence of textual and visual discourses that makes IM and its AIM buddies distinctive: while the conversation in IM rambles on in its distinctively disjointed, abbreviated, and free-associative way, the AIM buddy remains ﬁxed in place, either marching through its predetermined frames, which simulate repetitive iconic movement, or standing still."
+   },
+   {
+    "loc": 80,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "It is the conﬂuence of textual and visual discourses that makes IM and its AIM buddies distinctive: while the conversation in IM rambles on in its distinctively disjointed, abbreviated, and free-associative way, the AIM buddy remains ﬁxed in place, either marching through its predetermined frames, which simulate repetitive iconic movement, or standing still.",
+    "sentence": "The cinematic space of the animated AIM buddy anatomizes the use of gesture in the construction of gendered identities: winks, wiggles, and smiles direct the viewer to a performance of femininity that is far from resistant to gender norms.",
+    "after": "The containment of this digital image of identity creates a subject of interactivity who remains ﬁxed within a small space, a space that cannot expand and is permanently supplementary to the performance of “live” conversation."
+   },
+   {
+    "loc": 171,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "The radical possibilities that new media offer to digitally create “other” bodies, other iterations of “woman” and “man” that elude the dichotomies between interior and exterior, white and nonwhite, and female and male, are especially evident in digital visualizations of bodies, that is to say, avatars.",
+    "sentence": "Sites like Victoria Vesna’s “bodies incorporated” are the darling of cyberfeminist and other new media theorists because they allow for interactive body play in the realm of the absurd; avatars made of chocolate with human and machine parts certainly challenge paradigms of normative bodies.",
+    "after": "The commercialization of the Internet has led many Internet utopians to despair of its potential as a site to challenge institutional authority and tired media scripts, and they often look to artists to provide that bit of resistance or subversion which new media theorists so badly need."
+   },
+   {
+    "loc": 172,
+    "page": "p. 161",
+    "kind": "p",
+    "before": "As Grant Farred writes regarding the use of the vernacular: “The vernacular is the transcription of the popular (subaltern) experience into political oppositionality.”",
+    "sentence": "“Vernacular” assemblages created by subaltern users, in this case pregnant women, create impossible bodies that critique normative ones but without an overt artistic or political intent.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 22,
+  "input": "8875ea8d12ee",
+  "candidates": [
+   {
+    "loc": 32,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "Chapter 2, Crisis, Crisis, Crisis, or The Temporality of Networks (Habit + Crisis = Update), addresses how networks make crises habitual.",
+    "sentence": "It argues that crisis is new media’s critical difference: its norm and its exception.",
+    "after": "New media thrive on crises, which are now both everyday occurrences and extraordinary occasions."
+   },
+   {
+    "loc": 32,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "This chapter places crises in the context of automated habits and codes (indeed, habit as code), which have been designed supposedly for our safety, and it reveals that crises and codes are complementary because they are both central to the emergence of what appears to be their antithesis: user empowerment and agency.",
+    "sentence": "Codes and crises together produce (the illusion of) mythical and mystical sovereign subjects, who weld together word with action, norm with reality.",
+    "after": "To combat this and to exhaust exhaustion, this chapter ends by emphasizing the plasticity of habits and memory."
+   },
+   {
+    "loc": 85,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "As an interruption of habit, crises have been crucial to the emergence of new media as ‘new.’",
+    "sentence": "Starting from an analysis of the rhetorical and theoretical constructions of the Internet as critical, this chapter exposes crisis as new media’s critical difference: its norm and its exception.",
+    "after": "Crises cut through the constant stream of information, differentiating the temporally and temporarily valuable from the mundane, offering its users a taste of real-time responsibility and empowerment."
+   },
+   {
+    "loc": 85,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "Habit supports a worldview driven by automation and automatic codes, which reduces the future to the past, or more precisely, a past anticipation of the future.",
+    "sentence": "Rather than being antithetical, though, codes/habits and crises together produce (the illusion of) mythical and mystical human and machinic sovereign subjects who weld together word with action, norm with reality.",
+    "after": "Exceptional crises justify states of exception that undo the traditional democratic separation of the executive branch from the legislative one."
+   },
+   {
+    "loc": 95,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "He notes that one of the essential characteristics of the state of exception is “the provisional abolition of the distinction among legislative, executive, and judicial powers.”",
+    "sentence": "This provisional granting of “full powers” to the executive suspends a norm, such as the constitution, in order to better apply it.",
+    "after": "Agamben describes the state of exception, which responds to a crisis that challenges the efficacy of norms, as"
+   },
+   {
+    "loc": 95,
+    "page": "p. 80",
+    "kind": "q",
+    "before": "the opening of a space in which application and norm reveal their separation and a pure force-of-law realizes (that is, applies by ceasing to apply …) a norm whose application has been suspended.",
+    "sentence": "In this way, the impossible task of welding norm and reality together, and thereby constituting the normal sphere, is carried out in the form of the exception, that is to say, by presupposing their nexus.",
+    "after": "This means that in order to apply a norm it is ultimately necessary to suspend its application, to produce an exception."
+   },
+   {
+    "loc": 95,
+    "page": "p. 80",
+    "kind": "q",
+    "before": "In this way, the impossible task of welding norm and reality together, and thereby constituting the normal sphere, is carried out in the form of the exception, that is to say, by presupposing their nexus.",
+    "sentence": "This means that in order to apply a norm it is ultimately necessary to suspend its application, to produce an exception.",
+    "after": "In every case, the state of exception marks a threshold at which logic and praxis blur with each other and a pure violence without logos claims to realize an enunciation without any real reference."
+   },
+   {
+    "loc": 95,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "",
+    "sentence": "The state of exception thus reveals that norm and reality are usually separate—it responds to the moment of their greatest separation.",
+    "after": "In order to bring them together, force without law or logos—a living sovereign— authorizes a norm “without any reference to reality.”"
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 6,
+  "input": "9ba2a5c7ce42",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "Desktop image-editing software puts new emphasis on visual design literacy, online social media platforms generate combined textual/social/visual literacies, and digital audio-mixing programs give new life and possibilities to sound literacies.",
+    "sentence": "Thus, current practice in literacy research is to talk about literacies rather than a monolithic literacy, which often presumes a static, elite literacy to be the norm.",
+    "after": "As these so-called new literacies multiply, it has become increasingly difficult to sort out which literacies matter most, and how any of them are related to the paradigmatic core of literacy: reading and writing human symbols."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "When he fails to fully account for one of these audiences, the community will police the infraction in writing on the collective listserv.",
+    "sentence": "Enforcement of shared procedural discourse norms can contribute to the sense of community.",
+    "after": "Mike explains, “I never got my hand slapped too badly."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "You know I really felt like I was part of a community.”",
+    "sentence": "In this statement, we can see how Mike connects the enforcement of community norms to the identity of the community itself.",
+    "after": ""
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "In the mid-twelfth century, for example, King Henry II displaced the Anglo-Saxon ruling style of personally settling disputes with “a system of standardized writs to automate and depersonalize the legal process.”",
+    "sentence": "Stock observes that during this time, “a complex set of human relations was eventually reduced to a body of normative legislation.”",
+    "after": "Feudal relationships established personally between lord and vassal were increasingly formalized in the eleventh through thirteenth centuries."
+   },
+   {
+    "loc": 123,
+    "page": "PDF p. 123",
+    "kind": "q",
+    "before": "",
+    "sentence": "Our twentieth century western form of literacy is not an invariable norm; it is as culture-bound and shaped by available technologies (computers, most obviously) as medieval manuscript literacy was.",
+    "after": "Comparing medieval norms with modern ones puts current questions about literacy in perspective."
+   },
+   {
+    "loc": 123,
+    "page": "PDF p. 123",
+    "kind": "q",
+    "before": "Our twentieth century western form of literacy is not an invariable norm; it is as culture-bound and shaped by available technologies (computers, most obviously) as medieval manuscript literacy was.",
+    "sentence": "Comparing medieval norms with modern ones puts current questions about literacy in perspective.",
+    "after": "The best way of understanding the modern western literate mentality is to see where it came from."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 28,
+  "input": "90fa0d13f6f1",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "It has direct impact on users and on our lives beyond using Internet applications.",
+    "sentence": "While I have spent considerable time researching Google, this book tackles a few cases of other algorithmically driven platforms to illustrate how algorithms are serving up deleterious information about people, creating and normalizing structural and systemic isolation, or practicing digital redlining, all of which reinforce oppressive social and economic relations.",
+    "after": ""
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "",
+    "sentence": "Search happens in a highly commercial environment, and a variety of processes shape what can be found; these results are then normalized as believable and often presented as factual.",
+    "after": "The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:"
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "Search happens in a highly commercial environment, and a variety of processes shape what can be found; these results are then normalized as believable and often presented as factual.",
+    "sentence": "The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:",
+    "after": ""
+   },
+   {
+    "loc": 49,
+    "page": "PDF p. 49",
+    "kind": "p",
+    "before": "In order to fully interrogate this persistent phenomenon, a lesson on race and racialization is in order, as these processes are structured into every aspect of American work, culture, and knowledge production.",
+    "sentence": "To understand representations of race and gender in new media, it is necessary to draw on research about how race is constituted as a social, economic, and political hierarchy based on racial categories, how people are racialized, how this can shift over time without much disruption to the hierarchical order, and how White American identity functions as an invisible “norm” or “nothingness” on which all others are made aberrant.",
+    "after": ""
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "These search engine results for women whose identities are already maligned in the media, such as Black women and girls, only further debase and erode efforts for social, political, and economic recognition and justice.",
+    "sentence": "These practices instantiate limited, negative portrayals of people of color in the media—a defining and normative feature of American racism.",
+    "after": "Media scholars have studied ways in which the public is directly impacted by these negative portrayals."
+   },
+   {
+    "loc": 65,
+    "page": "PDF p. 65",
+    "kind": "p",
+    "before": "",
+    "sentence": "Part of the socialization of Black women as sexual object is derived from historical constructions of African women living under systems of enslavement and economic dependency and exploitation— systems that included the normalization of rape and conquest of Black bodies and the invention of fictions about Black women.",
+    "after": "The constitution of rape culture, formed during the enslavement of Africans in the Americas, is at the intersection of patriarchy, slavery, and violence. bell hooks’s canonical essay “Selling Hot Pussy” in Black Looks: Race and Representation turned a Black feminist theoretical tradition toward the marketplace of culture, ideas, and representations of Black women."
+   },
+   {
+    "loc": 65,
+    "page": "PDF p. 65",
+    "kind": "p",
+    "before": "The constitution of rape culture, formed during the enslavement of Africans in the Americas, is at the intersection of patriarchy, slavery, and violence. bell hooks’s canonical essay “Selling Hot Pussy” in Black Looks: Race and Representation turned a Black feminist theoretical tradition toward the marketplace of culture, ideas, and representations of Black women.",
+    "sentence": "Her work details the ways in which Black women’s bodies have been commodified and how these practices are normalized in everyday experiences in the cultural marketplace of our society.",
+    "after": "Women’s bodies serve as the site of sexual exploitation and representation under patriarchy, but Black women serve as the deviant of sexuality when mapped in opposition to White women’s bodies."
+   },
+   {
+    "loc": 66,
+    "page": "PDF p. 66",
+    "kind": "p",
+    "before": "One of many conditions of a racialized and gendered social structure in the United States, among other aspects of social oppression, is the way in which Black women and girls are systemically disenfranchised.",
+    "sentence": "Patriarchy, racism, and rape culture are part of the confluence of social practices that normalize Black women and girls as a sexual commodity, an alienated and angry/pathetic other, or a subservient caretaker and helpmate to White psychosocial desires.",
+    "after": "Lerner points to the consequences of adopting the hegemonic narratives of women, particularly those made normative by the “symbol systems” of a society:"
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 1,
+  "input": "17d44dccba5e",
+  "candidates": [
+   {
+    "loc": 87,
+    "page": "pp. 206–208",
+    "kind": "p",
+    "before": "Those organizations genuinely led by poor and working people face unique difficulties attracting resources, because foundations rarely trust that the poor can manage money.",
+    "sentence": "They are often marginalized in progressive coalitions that include professional middle-class activists because their language and behavior do not always fit prevailing norms of movement culture.",
+    "after": "Their actions and policy recommendations are rarely reported in the mainstream media."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 17,
+  "input": "df57c9ebc411",
+  "candidates": [
+   {
+    "loc": 60,
+    "page": "p. 51",
+    "kind": "p",
+    "before": "However, the authors and texts aggregated in NINES primarily derive from the United States, United Kingdom, and, to a lesser extent, Canada.",
+    "sentence": "Within these national contexts, the material housed in NINES privileges canonical writers and voices that hew to the norms of the dominant national culture of the nineteenth century.",
+    "after": "A look at the digital projects featured on the front page indicates the inclusion of the likes of Dante Gabriel Rossetti, Herman Melville, Willa Cather, Matthew Arnold, Edgar Allen Poe, and William Blake."
+   },
+   {
+    "loc": 88,
+    "page": "p. 79",
+    "kind": "p",
+    "before": "Nishant Shah proposes, for example, that scholars in India have undertaken digital humanities scholarship for decades without using the recent term, locating this trend in particularities of India’s post-​independence history.",
+    "sentence": "Such instances, which may be more the norm than the exception, raise the question of how we value and interpret digital humanities scholarship as the term itself gains more currency around the world.",
+    "after": ""
+   },
+   {
+    "loc": 125,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "Positions like those of Brennan not only turn digital humanities into a repository of anxiety over the relevance of the humanities, but also distract from the more essential questions that need to be addressed in light of the role of digital humanities in the digital cultural record: Who are the presumed subjects of digital humanities scholarship?",
+    "sentence": "And how is digital humanities participating in re-​instantiating a normative human subject in the digital cultural record?",
+    "after": "These issues warrant inquiry into the forms of the human that are represented, legitimated, and ultimately, sanctioned in digital humanities by virtue of its technologies, methods, goals, and assumptions."
+   },
+   {
+    "loc": 131,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "Just as Spivak suggests that “there can be no universalist claims in the human sciences,” there can be none in digital humanities either.",
+    "sentence": "Recourse to the universal reinscribes the power dynamics that shape and provide value to human subjectivities across the Global North and Global South, devaluing the humanity of the Global South for its deviation from the normative universal subject brought into being through the epistemological power of the Global North.",
+    "after": ""
+   },
+   {
+    "loc": 132,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "And yet, the humanities are important sources of knowledge about the effects of identity on technology.",
+    "sentence": "At the heart of postcolonial digital humanities is the belief that failing to address these dimensions of the human and their embeddedness in digital humanities praxis gives rise to the notion that the human in the context of technology is universal, while it is instead reproducing normative subjectivity in the digital cultural record.",
+    "after": "This raises an important question: How can we reconstitute the human in digital humanities, while avoiding reproducing normative forms of the human embedded in the epistemologies of the Global North?"
+   },
+   {
+    "loc": 132,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "At the heart of postcolonial digital humanities is the belief that failing to address these dimensions of the human and their embeddedness in digital humanities praxis gives rise to the notion that the human in the context of technology is universal, while it is instead reproducing normative subjectivity in the digital cultural record.",
+    "sentence": "This raises an important question: How can we reconstitute the human in digital humanities, while avoiding reproducing normative forms of the human embedded in the epistemologies of the Global North?",
+    "after": ""
+   },
+   {
+    "loc": 134,
+    "page": "p. 125",
+    "kind": "p",
+    "before": "At stake is the way that universalist framings of the “human” are produced through natural language-​processing software, machine learning, and algorithms.",
+    "sentence": "For digital humanities, using these technologies raises the question of complicity with the reproduction and amplification of normative forms of human subjectivity.",
+    "after": "The forms of the “human” that are authorized and sanctioned by the processes subtending developments in machine learning and artificial intelligence are exclusionary ones drawn on the presumptions behind the Enlightenment subject: white, male, and European."
+   },
+   {
+    "loc": 134,
+    "page": "p. 125",
+    "kind": "p",
+    "before": "The forms of the “human” that are authorized and sanctioned by the processes subtending developments in machine learning and artificial intelligence are exclusionary ones drawn on the presumptions behind the Enlightenment subject: white, male, and European.",
+    "sentence": "As a result, they reinforce the notion that there are normative and singular ways of being human in the twenty-​first century.",
+    "after": "This is primarily evident in the use of natural language-​processing software and algorithms in digital humanities research."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 78,
+  "input": "816717e08f5c",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "After all, historians of technology such as Janet Abbate have observed that the importance of gender dynamics in computational history more generally is often devalued.",
+    "sentence": "Abbate specifically asserts that the norms of how work is gendered can be surprisingly fluid, particularly when a new field, like computer programming, develops.",
+    "after": "In her book Recoding Gender, she reasons that the obvious presence of a large female labor force of human “computers” at the dawn of the information age led to a form of “reverse engineering” that caused programming to be associated with feminine traits and occupations."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Although programming would ultimately be allied with masculine disciplines like mathematics and engineering, during its embryonic phase computer science was far from an exclusively masculine domain.",
+    "sentence": "Similarly, the accounts of women of color in computer programming recounted in books like Hidden Figures describe different norms about racial inclusion in STEM (science, technology, engineering, and math) fields than the ones we have today.",
+    "after": "Digital humanities origin stories may well still be seen as protean; perhaps if we can avoid or more rapidly correct the revisionist exclusions visited upon other disciplines, then we may be able to practice DH as one of the more welcoming fields in university culture."
+   },
+   {
+    "loc": 40,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "So far it has only been worn on my body, one that is deciphered as curvy, overworked, middle-aged, formerly homeless, first to go to college, upwardly mobile, heterosexual, nonreproductive, multiply tattooed, frequently flying, bilocated, white.",
+    "sentence": "In other words, a body inscribed as normative and privileged in some ways, and transgressive or othered in other ways.",
+    "after": "In the past, I have debated quite a bit about whether to actually wear the shirt during conference presentations."
+   },
+   {
+    "loc": 40,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "My sense is that in doing so, I am arranging a certain encounter with my body in what is supposed to be a disembodied zone of intellect, an idea that carries its own set of oppressions.",
+    "sentence": "The only body that can be transcended in such a way is the dominant, normative body.",
+    "after": "Othered bodies are always inscribed as such through the social and psychical processes described by Grosz."
+   },
+   {
+    "loc": 68,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "",
+    "sentence": "As digital humanities scholarship continues to embrace natural language processing software and machine learning in its methodologies, the tensions between human and computer influence scholarly output; yet this matter has not received the attention it requires to ensure that digital humanities projects are not unthinkingly reproducing the normative white, male, European subjectivity inherited from the Enlightenment.",
+    "after": "This raises several important questions: Who is the presumed subject of digital humanities scholarship?"
+   },
+   {
+    "loc": 68,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "This raises several important questions: Who is the presumed subject of digital humanities scholarship?",
+    "sentence": "And how is digital humanities reinstanti-ating a normative human subject in the digital cultural record?",
+    "after": "This essay takes up these questions by considering how an exclusionary universal subject is encoded in the technologies that subtend digital humanities scholarship and, in turn, is represented, legitimated, and ultimately sanctioned by digital humanities."
+   },
+   {
+    "loc": 360,
+    "page": "p. 332",
+    "kind": "p",
+    "before": "Philomena Essed described cultural cloning in her 2002 article, “Cloning Cultural Homogeneity While Talking Diversity.”",
+    "sentence": "In later work, Essed and David Theo Goldberg focused on how the normativity of cultural cloning excludes “deviants”: “The notion of cultural cloning, initially used to problematize the systemic reproduction of white, masculine homogeneity in high status positions, brings into focus another side of exclusion.",
+    "after": "Yet, same-kind preference reproducing white (Euro) masculine privileges in terms of race, ethnicity, gender, or profession is not countered with the same force of indignation as we find in the case of the suggestion of biological cloning” (1068)."
+   },
+   {
+    "loc": 360,
+    "page": "p. 332",
+    "kind": "p",
+    "before": "The cause of the stability of the situation in academia which Essed has so clearly described is the “positive prejudice in favor of specific individuals or group members based on a sense of closeness or familiarity” for which “certain values have been ingrained as more crucial, more human, and more valuable” (Essed, “Cloning amongst Professors”).",
+    "sentence": "We must worry about the fact that “cultural cloning is predicated on the taken-for-granted desirability of certain types to fit the often-unconscious tendency to comply with normative standards, and the subsequent rejection of those who are perceived as deviant” (121).",
+    "after": "This suggests that when white, heterosexual, Anglophone maleness is the norm, anything that departs from it becomes deviance."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 24,
+  "input": "612b85852cbd",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "But the presumed blandness of White American culture is a crucial part of our national narrative.",
+    "sentence": "Scholars describe the power of this plainness as the invisible “center” against which everything else is compared and as the “norm” against which everyone else is measured.",
+    "after": "Upon further reflection, what appears to be an absence in terms of being “cultureless” works more like a superpower."
+   },
+   {
+    "loc": 31,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "Then there is the steady stream of hits coming out of Shondaland that deliberately buck the Hollywood penchant for typecasting.",
+    "sentence": "In response to questions about her approach to shows like Grey’s Anatomy and Scandal, Shonda Rhimes says she is not trying to diversify television but to normalize it: “Women, people of color, LGBTQ people equal way more than 50 percent of the population.",
+    "after": "Which means it ain’t out of the ordinary."
+   },
+   {
+    "loc": 36,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "And, while the use of social media to amplify and spread obvious forms of racial hatred is an ongoing problem that requires systematic interventions, it is also the most straightforward to decode, literally.",
+    "sentence": "For example, White supremacists routinely embed seemingly benign symbols in online content, cartoon characters or hand signs, that disseminate and normalize their propaganda.",
+    "after": "However, these are only the most visible forms of coded inequity in which we can identify the intentions of self-proclaimed racists."
+   },
+   {
+    "loc": 47,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "If zip codes are a relatively low-tech device for instituting racism, how might we apply this insight to computer codes?",
+    "sentence": "How do they reinforce racist norms and structures without explicitly invoking race?",
+    "after": "And can we develop a race-conscious orientation to emerging technology, not only as a mode of critique but as a prerequisite for designing technology differently?"
+   },
+   {
+    "loc": 166,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "",
+    "sentence": "Drawing upon the widely accepted practice of “race correction . . . the idea of racial difference in lung capacity” — so normalized that there is a button for it on the spirometer that produces different measurements of normalcy by race — the company made it more difficult for Black workers to qualify for workers’ compensation.",
+    "after": "Black workers were required to demonstrate worse lung function and more severe clinical symptoms than White workers owing to this feature of the spirometer, whose developer, Dr. John Hutchinson, was employed by insurance companies in the mid-1800s to minimize payouts."
+   },
+   {
+    "loc": 167,
+    "page": "p. 155",
+    "kind": "p",
+    "before": "Black workers were required to demonstrate worse lung function and more severe clinical symptoms than White workers owing to this feature of the spirometer, whose developer, Dr. John Hutchinson, was employed by insurance companies in the mid-1800s to minimize payouts.",
+    "sentence": "Such discriminatory design normalizes environmental racism — not as an aberration from “business as usual,” but as a racial-economic imperative that is built in to the machine.",
+    "after": ""
+   },
+   {
+    "loc": 169,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "",
+    "sentence": "As the analogy with technological systems suggests, racial logics are readily embedded in social systems when underlying normative assumptions and social biases are ignored.",
+    "after": "The denial of racial-ethnic categories may very well lead to some of the most sinister and systemic forms of racism, with very little recourse."
+   },
+   {
+    "loc": 169,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "This is especially the case when people refuse to acknowledge and to challenge how such logics structure the development and deployment of technoscience and, by extension, access to resources and the rights associated with such initiatives.",
+    "sentence": "Likewise, as Chapter 2 argued, in thinking about the function of racialized codes within algorithms, it is important not to assume that they are simply unintended glitches.*’ The “productive” (in the generic sense of producing things, not in the normative sense of necessarily beneficial) function of race within technical systems should not be underestimated.",
+    "after": "That is, computer programs that are not “tuned in” to the racism of the humans with whom they are meant to interact are akin to children who do not speak the language of their parents."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 93,
+  "input": "6fc71c249662",
+  "candidates": [
+   {
+    "loc": 46,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "These instantiations of marginalization can help us to recognize who is at the center: In this case, cisgender able-bodied people.",
+    "sentence": "For feminist civil rights activist Audre Lorde, this centralization can be understood as the “mythical norm,” in which the experiences of white, straight, male, middle class, and Christian are the assumed, the de facto, and the “right.”",
+    "after": "This mythical norm, with the addition of able-bodied and cisgender characterizes the center in broad strokes, challenging those who do not adhere to these norms (or even those who do not appear to adhere to these norms) to have a say, to have a space, to occupy a meaningful position in contemporary society."
+   },
+   {
+    "loc": 119,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "Privilege acts upon difference in complex and seemingly paradoxical ways: those with privilege (or whose way of being in the world is accepted without question or aligns with default assumptions) are both visible and invisible due to their sociocultural identity markers.",
+    "sentence": "Those with more privilege are de facto visible because they fit the “slot” and meet the norm.",
+    "after": "Their experiences and existence are seen and valued."
+   },
+   {
+    "loc": 119,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "Yet, at the same time, those with more privilege are also invisible, albeit in a very different way, because they can “fly under the radar” and do not stand out in negative or disruptive ways due to their differences.",
+    "sentence": "In the example above, a student who aligns with the mythical norm can more easily present alternative approaches without being seen as disruptive; rather he may be seen as an individual or innovative scholar.",
+    "after": "Importantly, those with privilege can render invisible the difference of needs, strengths, and wholeness of those unlike them, those farther removed from the mythical norm."
+   },
+   {
+    "loc": 126,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "Another way questioning and critical interrogation manifests is through ideals about what is normative and what is deviant.",
+    "sentence": "Normative/deviant questioning occurs when those with more privilege question people, behaviors, beliefs, and attitudes that are seen to be outside of the accepted “norm.”",
+    "after": "Someone may ask, for example, “Why would a man paint his nails red?”"
+   },
+   {
+    "loc": 126,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "",
+    "sentence": "Another way questioning and critical interrogation manifests is through ideals about what is normative and what is deviant.",
+    "after": "Normative/deviant questioning occurs when those with more privilege question people, behaviors, beliefs, and attitudes that are seen to be outside of the accepted “norm.”"
+   },
+   {
+    "loc": 150,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "and small interpersonal norms, like the ways gender is constructed as binary or fluid reflect the hegemonic domain, co-construct the patterns of power, and function to structure algorithms, forms, and other kinds of documents.",
+    "sentence": "Indeed, exclusion and marginalization happens through language use and through norms of language.",
+    "after": "In Inclusion and Democracy, Young (2002) provides a helpful example about the way language functions to exclude particular people."
+   },
+   {
+    "loc": 150,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "In Inclusion and Democracy, Young (2002) provides a helpful example about the way language functions to exclude particular people.",
+    "sentence": "“A norm of ‘articulateness,’” she writes, “devalues the speech of those who make claims and give reasons, but not in a linear fashion that makes logical connections explicit.",
+    "after": "A norm of dispassionateness dismisses and devalues embodied forms of expression, emotion, and figurative expressions."
+   },
+   {
+    "loc": 151,
+    "page": "p. 124",
+    "kind": "p",
+    "before": "But the domains of power help us see more clearly how power “works as a mode of directionality” (p. 43).",
+    "sentence": "In Living a Feminist Life, Ahmed explains that norms structure our lives, creating patterns, paths, and flows that direct our actions, our lives.",
+    "after": "“A norm,” she writes, “is also a way of living, a way of connecting with others over or around something."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 17,
+  "input": "0aa908fa7dc9",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "p. 9",
+    "kind": "p",
+    "before": "Utility is a use word albeit one that is given a narrow philosophical pedigree.",
+    "sentence": "Utilitarianism has tended to be understood primarily as a branch of moral philosophy or normative ethics with a distinct canon founded upon the work of Henry Sidgwick, Jeremy Bentham, and John Stuart Mill, who are usually described as classical utilitarians.",
+    "after": "Mill defines utilitarianism as “the creed which accepts as the foundation of morals ‘utility’ or ‘the greatest happiness principle’ holds that actions are right in proportion as they tend to promote happiness; wrong as they tend to produce the reverse of happiness” (Mill [1863] 2001, 7)."
+   },
+   {
+    "loc": 59,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "We can think of comfortable chairs.",
+    "sentence": "In earlier work, I suggested that social norms can operate rather like comfortable chairs (Ahmed 2004, 148).",
+    "after": "Comfort can be about the fit between body and object: my comfortable chair might be awkward for you with your differently shaped body."
+   },
+   {
+    "loc": 76,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "In an earlier article, Garland-Thomson describes misfitting as “an incongruent relationship between two things: a square peg in a round hole” (2011, 592–93).",
+    "sentence": "When you try to fit a norm that is not shaped to fit your body, you create an incongruity.",
+    "after": "I have already noted that even when intentions do not exhaust possible uses of a thing, the uses of a thing are restricted by its material."
+   },
+   {
+    "loc": 92,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "",
+    "sentence": "If norms become forms in time, then norms are not always forms.",
+    "after": "Organisms become more attuned to their environment over time, which means nonattunement—not fitting the requirements—is a necessary part of a struggle for existence."
+   },
+   {
+    "loc": 146,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "Indeed, it is given that this association between employment and happiness is so strong that Bentham can argue for making relief to the poor painful and unpleasant.",
+    "sentence": "This position, in other words, was not an exceptional moment of cruelty in an otherwise liberal archive but an expression of normative commitments.",
+    "after": "Reflecting on this association between happiness and employment has led me to conclude that my critique of happiness in The Promise of Happiness (2010) was, if anything, understated."
+   },
+   {
+    "loc": 166,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "Simply put: those who are less represented are used more to represent the organization.",
+    "sentence": "The further away you are from the norm, the more you have to appear.",
+    "after": "Being used more needs to be understood as political as well as emotional labor."
+   },
+   {
+    "loc": 222,
+    "page": "p. 206",
+    "kind": "p",
+    "before": "comes a built-in design, which is to say, as that which is facilitated by the body.",
+    "sentence": "We might consider how reproduction quickly becomes the point, repro-normativity, a norm and an end: as what you are supposed to reach, the point of sex; the point, even, of life itself.",
+    "after": ""
+   },
+   {
+    "loc": 231,
+    "page": "p. 215",
+    "kind": "p",
+    "before": "Queer use might describe this potential for an explosion, how small deviations, a loosening of a requirement, the creation of an exit point, opening a door to allow something to escape, can lead to more and more coming out.",
+    "sentence": "Of course, this is why professional norms are so often about “keeping a lid on it.”",
+    "after": "Institutional loyalty is performed as silence in case of institutional damage."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 12,
+  "input": "f4824065cf16",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "pp. 45–46",
+    "kind": "p",
+    "before": "Each has different goals, different research methods, and different ways to evaluate the originality of research.",
+    "sentence": "When researchers study cultural data, what they do with it and how they do it reflects the assumptions and norms of these paradigms.",
+    "after": "In fact, if we know these norms, we may expect that research in each paradigm will develop in its own direction."
+   },
+   {
+    "loc": 33,
+    "page": "pp. 45–46",
+    "kind": "p",
+    "before": "When researchers study cultural data, what they do with it and how they do it reflects the assumptions and norms of these paradigms.",
+    "sentence": "In fact, if we know these norms, we may expect that research in each paradigm will develop in its own direction.",
+    "after": "Thus, computer scientists can be expected to be searching for general laws that describe patterns in large cultural data and creating quantitative models that can predict future patterns, particularly in relation to user behaviors online (following recommendations, disseminating information, purchasing, etc.)."
+   },
+   {
+    "loc": 33,
+    "page": "pp. 45–46",
+    "kind": "p",
+    "before": "",
+    "sentence": "In this section, I will further look at some of the assumptions and norms of humanities, qualitative social sciences, and computer science and will discuss how cultural analytics can potentially combine them.",
+    "after": "To get started, let’s ask a question: What types of cultural data so far have been analyzed in computer science and the humanities?"
+   },
+   {
+    "loc": 35,
+    "page": "p. 49",
+    "kind": "p",
+    "before": "And given that we can now see daily the cultural choices of millions of individuals on social networks, is it still necessary to divide people in socioeconomic groups and look for differences between cultural preferences and behaviors of these groups?",
+    "sentence": "The idea that a group or a single person has consistent cultural behaviors and tastes made sense in ancient and modern societies, when taste was governed by prescriptive aesthetic norms.",
+    "after": "(This was the society of Kant and of Pierre Bourdieu.)"
+   },
+   {
+    "loc": 71,
+    "page": "pp. 113–114",
+    "kind": "p",
+    "before": "However, is it a “soft” pressure that does not completely determine the outcomes, and this is why in our distribution the values are widely spread out around the two peaks.",
+    "sentence": "Finally, we see that the representational norms in selfie genre are not universal.",
+    "after": "The distributions vary in certain ways from city to city, pointing to the existence of cultural differences and different conventions."
+   },
+   {
+    "loc": 116,
+    "page": "pp. 195–196",
+    "kind": "p",
+    "before": "However, we should also keep in mind the evolution of visual display technologies, which constrain what is possible at any given time.",
+    "sentence": "Only in the 1990s, when people started using computers to design and present visualizations on computer monitors, did color become the norm.",
+    "after": "Color printing is still significantly more expensive than using a single color—so even today many academic journals are printed in black and white."
+   },
+   {
+    "loc": 148,
+    "page": "pp. 249–250",
+    "kind": "p",
+    "before": "",
+    "sentence": "Can we pay equal attention to the norms and the exceptions?",
+    "after": "Our common histories of culture often focused too much on the original elements and the new inventions."
+   },
+   {
+    "loc": 148,
+    "page": "pp. 249–250",
+    "kind": "p",
+    "before": "Our common histories of culture often focused too much on the original elements and the new inventions.",
+    "sentence": "This focus on the avant-garde in human history comes at the expense of the norm, the typical, the conventional.",
+    "after": "Use of bigger cultural data and quantitative methods are well suited for the study of these norms."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 14,
+  "input": "8a8e0f13cf85",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "Of course, this inaction would not have been tolerated without the assistance of the hegemonic domain—the realm of media and culture—which presents men as strong and women as subservient, men as public and women as private, trans people as deviating from “essential” norms, and nonbinary people as nonexistent altogether.",
+    "after": "Indeed, government agencies have used their public platforms to blame victims."
+   },
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "We can think of these goals as the three Ss: science (universities), surveillance (governments), and selling (corporations).",
+    "sentence": "This is not a normative judgment (e.g., “all science is bad”) but rather an observation about the organization of resources.",
+    "after": "If science, surveillance, and selling are the main goals that data are serving, because that’s who has the money, then what other goals and purposes are going underserved?"
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "Irth illustrates the fact that “doing good with data” requires being deeply attuned to the things that fall outside the dataset—and in particular to how datasets, and the data science they enable, too often reflect the structures of power of the world they draw from.",
+    "sentence": "In a world defined by unequal power relations, which shape both social norms and laws about how data are used and how data science is applied, it remains imperative to consider who gets to do the “good” and who, conversely, gets someone else’s “good” done to them.",
+    "after": ""
+   },
+   {
+    "loc": 79,
+    "page": "PDF p. 79",
+    "kind": "p",
+    "before": "This flawed belief is what provoked renowned cardiologist Dr. Nieca Goldberg to title her book Women Are Not Small Men because she found that heart disease in women unfolds in a fundamentally different way than in men.",
+    "sentence": "The vast majority of scientific studies—not just of heart disease, but of most medical conditions—are conducted on men, with women viewed as varying from this “norm” only by their smaller size.",
+    "after": "The key to fixing this problem is to acknowledge that all science, and indeed all work in the world, is undertaken by individuals."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "",
+    "sentence": "Any knowledge community inevitably places certain things at the center and casts others out, in the same way that male bodies are almost always taken as the norm in scientific studies while female bodies are viewed as deviations, or that abled bodies are almost always taken as primary design cases while disabled bodies require a design retrofit.",
+    "after": "Feminist human-computer interaction (HCI) scholar Shaowen Bardzell asserts designers should look first to those at the margins: the people pushed to the margins in any particular design context demonstrate who and what the system is trying to exclude."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "That human decision loads the algorithmic profile for either male bodies or female ones, against which your body’s measurements are compared.",
+    "sentence": "If your measurements diverge from the statistical norm of that gender’s body—whether the discrepancy is because you’re concealing a deadly weapon, because your body doesn’t fit neatly into either of the two categories that the system has provided, or because the TSA agent simply made the wrong choice—you trigger a “risk alert.”",
+    "after": "Then, in an act of what legal theorist Dean Spade terms administrative violence, you are subjected to the same full-body pat-down as a potential terrorist."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "The matrix of domination, which we introduced in chapter 1, describes how race, gender, and class (among other things) intersect to enhance opportunities for some people and constrain opportunities for others.",
+    "sentence": "Under the matrix of domination, normative bodies pass through scanners, borders, and bathrooms with ease; these systems have been designed by people like them, for people like them, with an aim—sometimes explicit—of keeping people not like them out.",
+    "after": ""
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "Not necessarily, and here’s why: In a world in which quantification always leads to accurate representation, and accurate representation always leads to positive change, then always counting gender identities outside the binary makes perfect sense.",
+    "sentence": "But being represented also means being made visible, and being made visible to the matrix of domination—which continuously develops laws, practices, and cultural norms to police the gender binary—poses significant risks to the health and safety of minoritized groups.",
+    "after": "Under the current administration in the United States, for example, transgender people are banned from serving in the military and, once identified as such, denied access to certain forms of healthcare."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 59,
+  "input": "b4ee733f4f96",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "Since my gender presentation is nonbinary femme, usually the operator selects Female.",
+    "sentence": "However, the three-dimensional contours of my body, at millimeter resolution, differ from the statistical norm of female bodies as understood by the data set and risk algorithm designed by the manufacturer of the millimeter wave scanner (and its subcontractors), and as trained by a small army of clickworkers tasked with labeling and classification (as scholars Lilly Irani, Nick Dyer-Witheford, Mary Gray, and Siddharth Suri, among others, remind us).",
+    "after": "If the agent selects Male, my breasts are large enough, statistically speaking, in comparison to the normative male body-shape construct in the database, to trigger an anomaly warning and a highlight around my chest area."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "However, the three-dimensional contours of my body, at millimeter resolution, differ from the statistical norm of female bodies as understood by the data set and risk algorithm designed by the manufacturer of the millimeter wave scanner (and its subcontractors), and as trained by a small army of clickworkers tasked with labeling and classification (as scholars Lilly Irani, Nick Dyer-Witheford, Mary Gray, and Siddharth Suri, among others, remind us).",
+    "sentence": "If the agent selects Male, my breasts are large enough, statistically speaking, in comparison to the normative male body-shape construct in the database, to trigger an anomaly warning and a highlight around my chest area.",
+    "after": "If they select Female, my groin area deviates enough from the statistical female norm to trigger the risk alert."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "The point of this story is to provide a small but concrete example from my own daily lived experience of how larger systems—including norms, values, and assumptions—are encoded in and reproduced through the design of sociotechnical systems, or in political theorist Langdon Winner’s famous words, how “artifacts have politics.”",
+    "after": "In this case, cis-normativity is enforced at multiple levels of a traveler’s interaction with airport security systems."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "The male/female gender selector UI is binary and cis-normative.",
+    "sentence": "The assignment of a male or female TSA agent to perform the additional, more invasive search is cis-normative and binary-gender normative as well.",
+    "after": "At each stage of this interaction, airport security technology, databases, algorithms, risk assessment, and practices are all designed based on the assumption that there are only two genders, and that gender presentation will conform with so-called biological sex."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "That call resonated very deeply with me because as a nonbinary trans* feminine person, I walk through a world that has in many ways been designed to deny the possibility of my existence.",
+    "sentence": "The same cisnormative, racist, and ableist approach that is used to train the models of the millimeter wave scanners is now being used to develop AI in nearly every domain.",
+    "after": "From my standpoint, I worry that the current path of AI development will reproduce systems that erase those of us on the margins, whether intentionally or not, through the mundane and relentless repetition of reductive norms structured by the matrix of domination (a concept we’ll return to later), in a thousand daily interactions with AI systems that, increasingly, weave the very fabric of our lives."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "The same cisnormative, racist, and ableist approach that is used to train the models of the millimeter wave scanners is now being used to develop AI in nearly every domain.",
+    "sentence": "From my standpoint, I worry that the current path of AI development will reproduce systems that erase those of us on the margins, whether intentionally or not, through the mundane and relentless repetition of reductive norms structured by the matrix of domination (a concept we’ll return to later), in a thousand daily interactions with AI systems that, increasingly, weave the very fabric of our lives.",
+    "after": "My concerns about how the design of AI reproduces structural inequality extend more broadly to all areas of design, and these concerns are shared by a growing community."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "Many, or most, of the power dynamics that we would like to critique and transform in the latter also often operate within the former.",
+    "sentence": "For example, an auto workshop may be a site for the development, expression, and sharing of sociotechnological knowledge and skills between working-class men while simultaneously reproducing heteropatriarchal norms of gendered technical knowledge and skills that exclude women and femmes.",
+    "after": "Or it may be a site where those norms are challenged or transformed."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "For example, an auto workshop may be a site for the development, expression, and sharing of sociotechnological knowledge and skills between working-class men while simultaneously reproducing heteropatriarchal norms of gendered technical knowledge and skills that exclude women and femmes.",
+    "sentence": "Or it may be a site where those norms are challenged or transformed.",
+    "after": "Similarly, a fashion design studio may be a site where highly technical knowledge about apparel design and production is developed and shared and may (or may not) be an inclusive space along lines of race, gender identity, and/or sexual orientation."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 26,
+  "input": "ae6c217acdb3",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Distributed Blackness is also a reference to the methodology used throughout this text: critical technocultural discourse analysis (CTDA).",
+    "sentence": "I devised CTDA as a corrective to normative and analytic research on cultural digital practice.",
+    "after": "It decenters the Western deficit perspective on minority technology use to instead prioritize the epistemological standpoint of underrepresented groups of technology users."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "It marks a way station (never an end point) for my thinking about how Black folk “make it do what it dew” on these internet streets.",
+    "sentence": "In doing so, I sketch out and fill in blank spots vis-à-vis Blackness online, from the infrastructural utopia of “bridging the digital divide,” to the elision of Black digital practice in the BlackVoices/BlackPlanet era, to the ongoing conceptual lacunae normalizing whiteness as cultural information use in the English-speaking West.",
+    "after": "My approach is methodological and theoretical—a doubly conscious corrective to Western misconceptions of Black subjectivity and agency in online spaces."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "CTDA was designed to counter the epistemological drawbacks of normative, instrumental, and theoretical approaches to studying information technology.",
+    "after": "To do so, it operates as a discourse-hermeneutic analysis (Wodak, 2000) of the practices and users of information and communication technologies."
+   },
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "This text situates Black culture within a Western—specifically American—ideological context, where Blackness operates as a cultural and social nadir in the white racial frame (Feagin, 2013).",
+    "sentence": "Black information technology use highlights Black technical and cultural capital while disrupting the white, male, middle-class norms of Western technoculture.",
+    "after": "Black digital practice challenges these norms through displacement, performativity, pathos, and the explicit use of Black cultural commonplaces."
+   },
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "Black information technology use highlights Black technical and cultural capital while disrupting the white, male, middle-class norms of Western technoculture.",
+    "sentence": "Black digital practice challenges these norms through displacement, performativity, pathos, and the explicit use of Black cultural commonplaces.",
+    "after": "These practices are optimized for communicative efficiency on their respective media, drawing from a pleasure in creative linguistic expression and the historical, discursive practices and experiences of evading white racial surveillance in plain sight."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "In the case of Blackness, the group identity is applied indiscriminately to denigrate individual bodies, whereas whiteness operates as an individual identity and as a designation for “people” and humanity.",
+    "sentence": "One sees this happen in the context of internet and computer use: the default internet identity is anecdotally white, male, and middle class, but there is surprisingly little research on how internet practice enacts these normative identity markers.",
+    "after": "Jessie Daniels’s (2009, 2013) groundbreaking research on white supremacist websites affixes an extreme racial and racist identity to white digital practice, but the vast majority of new media and internet research references white bodies without remarking on their whiteness as a constituent factor for their internet practice."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Escaping this instrumental conundrum requires a different understanding of technology as well as a revised epistemological and methodological stance to unpack how culture affects technology use and design.",
+    "sentence": "Ronald Day (2007) argues that social informatics has three strands: normative, analytic, and critical.",
+    "after": "In response to Day’s argument, my research builds out an interpretive critical approach to social informatics, pulling from science and technology studies and cultural studies."
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "The application known as the web browser is the result of countless semiotic decisions about practice, visual interface elements, and display.",
+    "sentence": "These stipulations, which are normative and seemingly implacable, become clearer when race is brought to the forefront as a design imperative.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 20,
+  "input": "e275b1d9f4ea",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "Such examples of counterpublics at work are usually presented to assess the historical shape of the U.S. public sphere, with less emphasis placed on the role counterpublics continue to play in shaping U.S. politics in the modern era.",
+    "sentence": "In fact, some have suggested that counterpublics, and the alternative meaning-making processes they further, have waned as U.S. institutions that formerly excluded marginalized voices have normalized, at least on the surface, their inclusion.",
+    "after": "Since the 1980s, and well into the supposedly “color-blind” Obama era, neoliberal narratives of inclusion and diversity insisted America has achieved or is near achieving its democratic ideals."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "His tweet would be the catalyst for the ongoing evolution of hashtags as a method to thread conversations, people, and movements together.",
+    "sentence": "Since this user-created innovation in 2007, hashtags have been so normalized by Twitter users that their use has spread beyond the platform and been incorporated into other social media spaces such as Facebook, Instagram, and Tumblr.",
+    "after": "More and more people have adopted hashtags as a way to connect multiple sites of shared interest, and mainstream media outlets and politicians, noting their ubiquity, have used them to engage on a range of topics and debates."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "Moreover, the specific mathematical properties we drew on, including degree centrality and betweenness centrality, are unevenly distributed within networks, such that selecting cases for analysis that exemplify these properties results in selecting tweets that are disproportionately more likely to be seen by, and to have influence over, the greatest part of the network.",
+    "sentence": "Focusing on importance and influence is, of course, a normative choice, though one informed by the everyday users in these networks whose communicative actions (retweeting, mentioning) collectively created the measures of networked importance that guided our selection.",
+    "after": "Borrowing Zizi Papacharissi and Maria de Fatima Oliveira’s idea of crowdsourced elites in online activism, we transformed the tweets in our samples into networks, which allowed us to highlight important people and conversations based on the individual and collective properties of their networked communication."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "Gendered violence has been framed as an individual problem in public discourse in a multitude of ways.",
+    "sentence": "From questions about women’s dress and behavior to laws that eschew the possibility that wives can be raped by their husbands, U.S. culture is rife with narratives that blame victims and normalize violence against them.",
+    "after": "As a result, men are rarely held accountable for their violent behavior, and when they are, they are understood to be individual bad actors."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "Feminist activists and scholars have been central to critiquing this culture.",
+    "sentence": "For example, Ana Clarissa Rojas argues that domestic and intimate partner violence is “medicalized” when it becomes an individual issue managed by law enforcement and doctors rather than a social problem predicated on long-entrenched social norms of gender.",
+    "after": "Andrea Ritchie’s groundbreaking work Invisible No More charts how the sexual violence that Black girls experience in their youth contributes to their likely incarceration years later."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "While many early tweets in the network framed the Isla Vista shooting as an example of the consequences of permitting a misogynistic culture, the network later became much broader, with few of the most popular tweets overall mentioning the shooting.",
+    "sentence": "Members of the network used the tag to connect issues of gender inequality across economic, health care, criminal justice, and business contexts to misogynistic violence and used illustrative language to show how the prevalence of this inequality normalizes sexual violence against women.",
+    "after": "For example, the hashtag was used alongside those related to equal pay for women in Hollywood and the renewal of the Violence Against Women Act by congress."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "For example, the hashtag was used alongside those related to equal pay for women in Hollywood and the renewal of the Violence Against Women Act by congress.",
+    "sentence": "Together, the users in the #YesAllWomen hashtag provided a cultural intervention that refused to accept the violence perpetrated by Elliot Rodgers as an aberration, instead connecting it to the various way misogyny is normalized and even celebrated in U.S. culture and the diverse ways the everyday violence of this misogyny is experienced by women.",
+    "after": ""
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "This is the norm in conversations about rape and sexual assault.",
+    "after": "Misplaced blame and deflection are often the order of the day, and both at the expense of victims."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 24,
+  "input": "09f763cf4aa3",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Dylan Mulvin’s history of the Lena test image, a torn-out Playboy centerfold used to develop image compression algorithms, shows how women’s sexualities became a form of communicative exchange in computer engineering labs.",
+    "sentence": "Similarly, Alana Cattapan and Quinn DuPont’s history of “Alice and Bob,” characters used as standard prototypes in computer engineering problems, uncovers the heteronormative relationship dynamics at the heart of how students who go on to develop new computing technologies are trained.",
+    "after": "Even as prototypes, stand-ins, or what Mulvin calls “proxies,” women such as Lena and Alice do deeply cultural, communicative work that matters in how technological systems are established."
+   },
+   {
+    "loc": 29,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "Put broadly, this scholarship asks what historical feminisms do in the present when we remember, study, or otherwise enliven them.",
+    "sentence": "Here, ambivalent feelings about feminisms of the past are held open: accusations of essentialism, normativity, single-issue politics, and racism leveled at lesbian feminism become potentially productive obstacles because of their continued relevance and pressure in the present.",
+    "after": "As Victoria Hesford explores, it is precisely these antagonisms and the ambivalence they engender that give the women’s liberation movement boundaries and contours, making it nameable as a phenomenon both during its operation and from the present."
+   },
+   {
+    "loc": 35,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "The digitization protocols accommodate the unusual, queer cultural material and ephemera that constitute the l ha ’s unique collections.",
+    "sentence": "Digitization presents the archives with the opportunity to consider the ways their unfolding technological choices might challenge the normative imperatives that often accompany digital media practices, including the ways that lesbian-feminist lives, and diverse gendered ways of being, scramble the categorical logics of structured databases.",
+    "after": ""
+   },
+   {
+    "loc": 35,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "I consider how trans subjects within the archives’ holdings are described in online databases, framing digitization as a process through which lesbian-feminist social movement organizations build trans-inclusive systems.",
+    "sentence": "Digitization presents the archives with the opportunity to consider how the historical representations of gender and sexuality they house challenge the normative imperatives that can accompany digital media practices, including sexuality and gender’s difficult fit with structured databases.",
+    "after": ""
+   },
+   {
+    "loc": 40,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "These newsletters were published between the early 1970s and the mid 1990s, bracketed by the Women in Print Movement and the popular adoption of online communication.",
+    "sentence": "Feminists took political advantage of new access to communications media and printing technologies, including less expensive off et printing presses, and the normalization of copying machines in workplaces, used covertly by women workers.",
+    "after": "Networks have been critical to the construction of lesbian histories."
+   },
+   {
+    "loc": 58,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "Larger practices of citation can be read across these publications through what Eichhorn calls “archival proximity,” the way in which archival documents make a certain kind of sense insofar as they are ordered in relation to one another.",
+    "sentence": "By tracing citations across publications, classified-style “ads” for archives that might otherwise seem unremarkable construct norms about the kind of work thought to be worthy of attention as they are recirculated through wider networks.",
+    "after": "Community archives had to make choices about what collections to highlight in these generally short announcements, anticipating what would be of widest “research value.”"
+   },
+   {
+    "loc": 68,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "Jay explained in a follow-up letter that her publisher had provided the excerpt to Penthouse without her permission.",
+    "sentence": "While lesbian-feminist values guided how Matrices circulated information, interventions from outsiders contravened network norms.",
+    "after": "Here, a network’s open structure and lack of oversight is too promiscuous for a sexual public with real concerns about the privacy and safety of its members."
+   },
+   {
+    "loc": 170,
+    "page": "p. 166",
+    "kind": "p",
+    "before": "",
+    "sentence": "As a hegemonic operation, what I call the “digital imperative” relies on the construction of norms of practice in archives.",
+    "after": "Perceptions of what institutional archives are doing with digitization becomes a standard against which other institutions measure themselves."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 34,
+  "input": "f713bebf98ee",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "Intersectional tech implores us to render visible the force of discursive practices that position practices within (dis)orderly social hierarchies and arrangements.",
+    "sentence": "The explicit formulations of the normative order sometimes disagree with the concrete human condition and are inconsistent with the consumption and production practices that constitute black digital labor.",
+    "after": "It is, in fact, these practices that inform the theoretical underpinnings of black performances, cultural production, exploited labor, and resistance strategies inside oppressive technological structures in which black users reside."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Although gender issues make up the bulk of conversations about identity, very little has been written about race and racial minorities in gaming, confirming that black folk are still a hyperphysical, hypervisible (in the sports genre), invisible (due to limited narratives), overlooked population.",
+    "sentence": "The assumed white masculine norm in gaming heavily focuses on toxic masculinity, failing to capture other, more marginalized masculinities.",
+    "after": ""
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "By looking for certain behaviors and traits, one can distinguish fans from casual viewers and the wider public.",
+    "sentence": "For example, Jenkins describes fans as the citizens of “fandom,” which he defines as “a cultural community, one which shares a common mode of reception, a common set of critical categories and practices, a tradition of aesthetic production, a set of social norms and expectations.",
+    "after": "The relationship between fan and text encompasses activity and identity; it requires expenditures of time, effort and money, as well as an emotional and intellectual investment.”"
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Although there are only a few differently abled characters in games, the ones that are present fit within certain tropes, with the underlying narrative privileging an abled body, suggesting that the disabled body is always in need of being “fixed” to resume “normal” functioning.",
+    "sentence": "The social meanings and stigmas attached to disability identity reveal the systems of exclusion, oppression, and normativity created around particular abled bodies.",
+    "after": "I explore these narratives to provide context for the landscape of accessibility in gaming technologies, mostly through the narratives of black deaf women."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "The ableist normativity pervading the culture affects the development and design of gaming technologies.",
+    "after": "Thus, chapter 5 morphs into a discussion of inclusive design, highlighting various design approaches to increasing accessibility in all technologies."
+   },
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "",
+    "sentence": "It is necessary to critically deconstruct the “normative” invisibility of whiteness and its functioning in mainstream games.",
+    "after": "Going beyond individual expressions of whiteness in and around gaming culture, this provocation has everything to do with systemic issues of representation, cultural construction, and observation of the visual politics at play as it relates to an ideological construction of whiteness."
+   },
+   {
+    "loc": 90,
+    "page": "PDF p. 90",
+    "kind": "p",
+    "before": "This system thrives on the symbolic transference, from the physical to the digital, of oppressive systems that are perceived to be legitimate power structures.",
+    "sentence": "Those who continue to exist in gaming culture perceive this maltreatment as normalized, so this symbolic violence continues to be enacted while the pervading power relations operate in obscurity.",
+    "after": "This often makes them unrecognizable or causes them to be misrecognized as something else."
+   },
+   {
+    "loc": 90,
+    "page": "PDF p. 90",
+    "kind": "p",
+    "before": "This often makes them unrecognizable or causes them to be misrecognized as something else.",
+    "sentence": "Anita Sarkeesian’s Tropes vs. Women in Video Games YouTube series, highlighting a system that has remained unchecked, created such a break in the normalized system that the backlash was swift and immediate.",
+    "after": "The unchecked gender imbalance and discrimination that has been ever present in gaming has fostered a climate of inequality and complicity in oppression."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "135d79c14fb1",
+  "candidates": [
+   {
+    "loc": 159,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "This print article was the fifth iteration of the Chair’s Address given by Carter, 2016 CCCC Chair, at the national convention in Houston.",
+    "sentence": "Carter urged writing scholars and instructors to consider themselves as makers and innovators who have always-already disrupted so-called norms.",
+    "after": "Carter provided examples of in-house innovations—those produced by “writing” scholars and have made a difference in teaching and learning, publishing, and even manufacturing."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 18,
+  "input": "53717cf9a88b",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "In 2019, the BBC, Washington Post, GQ, and other news outlets reported that Russian internet trolls targeted African Americans to reduce voter turnout in the 2016 presidential election.",
+    "sentence": "Even as Black women influencers pushed platforms and challenged norms in the industry, Adweek admitted in 2020, “We’re Sorry for Not Listening to Black Influencers before: We Expect to Be Called Out” (Pomponi, 2020).",
+    "after": "As the headlines bear out, Black women are already at the center of digital studies whether our research has followed suit."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "I find the word feminist, whether modified by Black or not, to have the disruptive effect that I want” (Coleman et al., 2006, p. 92).",
+    "sentence": "For Coleman, Black feminism is powerful because it disrupts political forces of oppression, including heteronormativity, transphobia, homophobia, and biphobia.",
+    "after": "The intentional disruption and discomfort the term feminism provokes are precisely what makes digital Black feminism a useful term."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "“Whites and Blacks, males and females, thought and feelings are not contemporary counterparts—they are fundamentally different entities related only through their definitions as opposites” (Collins, 2009, p. 77).",
+    "sentence": "Gender and racial binaries have provided a basis in the U.S. for laws, norms, expectations, opportunities, and even identity construction.",
+    "after": "Gender norms in the early Americas imposed codes of conduct for white women, which white men used to justify the women’s lessened resources, privileges, laws, and possibilities."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "Gender and racial binaries have provided a basis in the U.S. for laws, norms, expectations, opportunities, and even identity construction.",
+    "sentence": "Gender norms in the early Americas imposed codes of conduct for white women, which white men used to justify the women’s lessened resources, privileges, laws, and possibilities.",
+    "after": "The fluidity of gender that existed (and still exists) in Indigenous societies, parts of western Africa, Indonesia, India, and ancient Greece (Zimman et al., 2014) was shunned in the construction of Americanized constructs of masculinity and femininity."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the Americas, European colonizers crafted the idea of “women’s work” in the late seventeenth and early eighteenth centuries from English norms.",
+    "after": "Gender in the territories that would become the U.S. initially mirrored what early slave-holding colonists experienced in Europe, leaving many patriarchal norms intact."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "In the Americas, European colonizers crafted the idea of “women’s work” in the late seventeenth and early eighteenth centuries from English norms.",
+    "sentence": "Gender in the territories that would become the U.S. initially mirrored what early slave-holding colonists experienced in Europe, leaving many patriarchal norms intact.",
+    "after": "White men expected their wives to contribute to the household through domestic labor, with white women’s economic lives confined to their homes (Norton, 1984)."
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "In this era, Black feminist bloggers relied heavily on named participation among readers by using avatars, screen names, and “about” pages to create familiarity among readers.",
+    "sentence": "When the Black blogosphere began to explode, Black feminist bloggers took cues from popular social networking sites in establishing new norms on their platforms.",
+    "after": "Transferring their social networking skills from sites like BlackPlanet, Myspace, or Facebook required participants to create a profile, including a name and personal information."
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "Social networking sites and blogs provide users with repeated practice using screen names, images, and profiles to identify themselves to other users.",
+    "sentence": "Logging in, creating an avatar, and selecting and changing a handle or username is a normative part of social interaction for those who came of age with social networking services.",
+    "after": "When geographic proximity is lacking, online communities share values, practices, or beliefs to build community."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 34,
+  "input": "b272e8820a3f",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "pp. 1–3",
+    "kind": "p",
+    "before": "Black feminist theory clearly articulates the power of the image to serve the hegemony of “white supremacist capitalist patriarchy” by controlling the way society views marginalized groups and how we view ourselves.",
+    "sentence": "Black feminist theorist bell hooks discusses the importance of producing images that counter the normalizing force of stereotypes, but also exposes the danger of reactionary positive images that can constrain and confine.",
+    "after": "We need complex images that break the good/bad, white/Black dichotomy."
+   },
+   {
+    "loc": 48,
+    "page": "pp. 79–80",
+    "kind": "p",
+    "before": "Initial reporting in the local paper, the Plain Dealer, used Acoff’s legal name, misgendered her, and also highlighted previous unrelated arrests.",
+    "sentence": "User @Cisnormativity tweeted, “Criminalizing the body of a trans woman of colour.",
+    "after": "This day must be ending with a y. #MsAcoffRIP #girlslikeus #twoc #nolessvalid.”"
+   },
+   {
+    "loc": 48,
+    "page": "pp. 79–80",
+    "kind": "p",
+    "before": "This day must be ending with a y. #MsAcoffRIP #girlslikeus #twoc #nolessvalid.”",
+    "sentence": "Cisnormativity acknowledged the ubiquity of violence and unjust treatment trans women of color experience as a daily occurrence.",
+    "after": "The Plain Dealer implied that Acoff was responsible for her own murder because she was trans. The paper painted her as someone unworthy of sympathy because of her past interactions with the law."
+   },
+   {
+    "loc": 62,
+    "page": "pp. 108–109",
+    "kind": "p",
+    "before": "Telusma offers viewers the narrative that they might be familiar with, one in which the more masculine person is assumed to be the one who wears the strap, but then challenges that narrative through what Skye witnesses and then recounts.",
+    "sentence": "By having Taylor serve as a foil to this homonormative assumption of sexual gender roles, Skye’s the Limit introduces the possibility of another option, where sexual roles and gender roles do not have to be aligned.",
+    "after": "Taylor is not concerned about Jay’s masculinity or her sexual proclivities; she focuses on the hurt Jay caused Skye."
+   },
+   {
+    "loc": 62,
+    "page": "pp. 108–109",
+    "kind": "p",
+    "before": "Her recap of the previous night’s events is designed to make Skye question her interest in Jay, given the disrespect Jay has shown by forcing her to hide in a closet and sneak out of the apartment when Maya arrives unexpectedly.",
+    "sentence": "Cassie’s naivete as the “straight girl” in the scene provides an opportunity to reflect homonormative messages that queer viewers might have internalized through the cover of an out-group member.",
+    "after": "Telusma cleverly uses Taylor’s responses to open a conversation about gender and sexuality in a community that may generally regard itself as progressive when it comes to sex."
+   },
+   {
+    "loc": 63,
+    "page": "pp. 110–111",
+    "kind": "p",
+    "before": "That Taylor and Cassie are both feminine Black women having a sexual encounter makes the scene disappointingly unique for two reasons: it is rare in Black queer media for feminine women to be partnered together, and it is equally rare for Black characters in traditional media to have Black romantic partners.",
+    "sentence": "Lena Waithe’s Master of None (2015–2017) character Denise and Bre-Z’s Coop on All American (2010–present) have Black love interests, but these love interests are more feminine than their counterparts, maintaining a subtle homonormative relationship dynamic.",
+    "after": "For most of the Black lesbians on mainstream television now, white lovers are the norm."
+   },
+   {
+    "loc": 63,
+    "page": "pp. 110–111",
+    "kind": "p",
+    "before": "Lena Waithe’s Master of None (2015–2017) character Denise and Bre-Z’s Coop on All American (2010–present) have Black love interests, but these love interests are more feminine than their counterparts, maintaining a subtle homonormative relationship dynamic.",
+    "sentence": "For most of the Black lesbians on mainstream television now, white lovers are the norm.",
+    "after": "Pretty Little Liars (2010–2017) featured the only other Black lesbian/Black lesbian pairing; also bucking the generally homonormative system, both characters are feminine."
+   },
+   {
+    "loc": 96,
+    "page": "pp. 180–181",
+    "kind": "p",
+    "before": "Sixteen-year-old Derrion Albert was beaten to death by other teens on the street in the late summer of 2009.",
+    "sentence": "Of his passing and its connection to queer theoretical interventions Cohen offered the following: “Derrion and other young folks of color operate as queer subjects, the targets of racial normalizing projects intent on pathologizing across the dimensions of race, class, gender, and sexuality.",
+    "after": "By normalizing their degradation, marginalization, and invisibility, it becomes something to which we no longer pay attention.”"
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 29,
+  "input": "5eb7d3eff3e8",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "",
+    "sentence": "Right now we are seeing the complete upending of ethical, privacy, political, and economic norms by powerful Silicon Valley corporations who are almost singlehandedly deciding what counts as misinformation, what counts as hate speech, and how much privacy you are allowed to have.",
+    "after": "In some cases, single individuals are making these decisions: as in the case of Mark Zuckerberg’s decision to leave a president’s incitement to violence up on Facebook during civil unrest (while Twitter, for the first time, attached a warning and filter)."
+   },
+   {
+    "loc": 16,
+    "page": "pp. 19–20",
+    "kind": "p",
+    "before": "These were not accidents or bugs in the system, but examples of business as usual.",
+    "sentence": "As Halcyon Lawrence describes later in this volume, technologies have long built on existing power relationships—particularly ones that extend and normalize empire, colonialism, and the cultural control that comes with imperial domination.",
+    "after": "If early electronic computers were powerful political tools, ones that determined the course of a world war, is it any wonder that ever more advanced electronic computers have been helpful for consolidating and wielding power?"
+   },
+   {
+    "loc": 17,
+    "page": "pp. 21–22",
+    "kind": "p",
+    "before": "",
+    "sentence": "We are witnessing a period in which it is becoming ever more urgent to recognize that technological progress without social accountability is not real progress—and that in fact it is destructive to the democratic institutions and norms we have long held up as ideals.",
+    "after": "As Sarah T. Roberts shows in her chapter in this book, the fiction that platforms that are our main arbiters of information are also somehow neutral has effectively destroyed the public commons."
+   },
+   {
+    "loc": 38,
+    "page": "pp. 62–63",
+    "kind": "p",
+    "before": "Whereas Section 230 had long been the principle under which Silicon Valley–based social media firms approached their content obligations to the world, this privilege is no longer afforded to them in a variety of contexts.",
+    "sentence": "For social media firms wishing to enter a given marketplace, demonstrating a willingness and ability to respond to local norms, mores, and legal obligations when deciding what is allowed to stand and what is removed has become important, and not doing so can come at a significant financial cost.",
+    "after": "More and more, state actors are asserting their expectation that their local jurisdictional authority be recognized, and they are willing to impose fines, restrict business, and even block an entire platform or service as they see fit."
+   },
+   {
+    "loc": 122,
+    "page": "pp. 213–215",
+    "kind": "p",
+    "before": "Did they never wonder whether the technology, and its designers, might be the main issue?",
+    "sentence": "This chapter surveys twentieth-century efforts to redesign Arabic-script typewriter layouts to fit English-language typist norms.",
+    "after": "It then chronicles some of the attempts to frame the challenges of letter form and width, as well as key placement and type bar alignment, as problems that led to delays in rolling out Arabic-script word-processing programs, and as bugs that prevent toggling between Arabic and Roman scripts."
+   },
+   {
+    "loc": 122,
+    "page": "pp. 213–215",
+    "kind": "p",
+    "before": "It then chronicles some of the attempts to frame the challenges of letter form and width, as well as key placement and type bar alignment, as problems that led to delays in rolling out Arabic-script word-processing programs, and as bugs that prevent toggling between Arabic and Roman scripts.",
+    "sentence": "This chapter argues that talk of such technical glitches and bugs obscures underlying hegemonic norms.",
+    "after": "The history of Arabic word-processing talk rehearses much older European-origin assumptions about the incompatibility not only of scripts but also of the social worlds that support them."
+   },
+   {
+    "loc": 123,
+    "page": "pp. 216–217",
+    "kind": "p",
+    "before": "",
+    "sentence": "That English became the norm was a historical accident, but it stuck.",
+    "after": "American typewriter designers privileged English language, not just Roman scripts, even when celebrating typewriter designs for other languages."
+   },
+   {
+    "loc": 123,
+    "page": "pp. 216–217",
+    "kind": "p",
+    "before": "But, it added, even Romance languages posed their own difficulties: “French, Spanish, and Scandinavian machines are like ours except that the keyboards contain certain accents that are not needed by us,” the article stated.",
+    "sentence": "Anything other than English, even if typed in Roman script, was a deviation from the norm.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 6,
+  "input": "43205f3ff54c",
+  "candidates": [
+   {
+    "loc": 46,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "I believe that multilingual research requires an attunement to interlocking oppressions and accessibility; and intersectional, interdependent methodologies, drawing from work in both critical race studies and critical disability studies, can help technical communication researchers make more informed methodological decisions when working with multilingual communities (Collins 2019; Pimentel 2008; Medina 2014; Piepzna-Samarasinha 2018).",
+    "sentence": "Through intersectional, interdependent orientations, technical communication researchers can move away from the “damage-based” perceptions of multilingual communities—those that position speakers of non-normative languages (e.g., standard white English) as less capable, less articulate, less intellectual than the norm.",
+    "after": "This does not mean I advocate for the positioning of multilingualism as a disability."
+   },
+   {
+    "loc": 67,
+    "page": "p. 51",
+    "kind": "p",
+    "before": "As Simmons (2008) explains, traditional interview protocols need to be adjusted in civic and community contexts: “Technically complex public issues complicate the traditional notion of discourse because technical experts claim ownership of the technical issues and close off public debate even though these issues affect the public in very concrete ways” (10).",
+    "sentence": "Furthermore, as Margaret Price and Stephanie L. Kerschbaum (2016) explain, “When disability is assumed to be an important part of the qualitative interview situation (rather than something external that ‘enters’ the situation and then must be accommodated or compensated for), the interview’s normative framework is both exposed and challenged” (20).",
+    "after": "As technical communication researchers, we can (perhaps unintentionally) close off discourse and conversation through individual interactions with stakeholders if we come into projects with assumptions about how participants should respond or participate."
+   },
+   {
+    "loc": 92,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "Like participants in the Diabetes Garage who made language suggestions using colloquial terminology such as “checa” within the group of participants, La Escuelita participants also created translations that reflected their own fluid borderland practices.",
+    "sentence": "For both sets of participants, however, placing their translations on public-facing platforms like a website or a brochure for public distribution meant the fluid borderland language practices should be (at least partially) replaced by standardized Spanish and English norms—a linguistic choice that echoes what borderland communities have been hearing and experiencing in formal education and communication spaces that function through a standardized, binary, and white/Western linguistic framework.",
+    "after": ""
+   },
+   {
+    "loc": 115,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "",
+    "sentence": "My presence as a Western academic teaching in Nepal was also normalized through the initial agreement between Nepal and the East India Company, where Western-based academics became positioned as intellectual experts with a claim to reside in Nepal.",
+    "after": "As Bista, Sharma, and Larby (2019) continue, “In this brief history of Nepal’s higher education, politics and political economy remain the most potent shaping forces,” also contributing to the increased number of Nepali students seeking graduate education in the United States (135)."
+   },
+   {
+    "loc": 123,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "This echoes other work showing that usability methods developed primarily from a Western perspective affect responses in usability evaluations, especially when participants and researchers are from non-Western cultures (Vatrapu and Pérez-Quiñones 2006; Winschiers and Fendler 2007).",
+    "sentence": "Participatory design methods need to be adjusted to respect local knowledge, norms, and communication styles (see Chavan 2005; Clemmensen 2011).",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 30,
+  "input": "d7db4d94793f",
+  "candidates": [
+   {
+    "loc": 77,
+    "page": "pp. 114–115",
+    "kind": "p",
+    "before": "The interpretation circle (#) can be the place to raise such questions as: What counts as scholarship and evidence in queer CA?",
+    "sentence": "In what ways can or should queer CA deviate from regular norms in research practices?",
+    "after": "Just as QueerOS welcomes crashes (Barnett et al., 54) and good describers embrace “stray details” (Marcus et al., 11), ideally, queer CA will not shy away from either obscure or contestable patterns."
+   },
+   {
+    "loc": 82,
+    "page": "pp. 123–125",
+    "kind": "p",
+    "before": "In this section, we offer four individually authored reflections that illustrate how the Manifest-NO’s principles are broadly applicable to digital humanities (DH) work and useful for challenging the settler colonial logics of data generation, collection, and analysis.",
+    "sentence": "Looking to Indigenous scholarship, Rault reflects on principle 11 and presents refusal as a generative modality for developing DH research that encompasses a more robust understanding of consent than is conveyed through settler colonial forms of governance, research norms, and technologies.",
+    "after": "Writing on principle 9, Cowan discusses compulsory heterosexuality and able-bodiedness and illustrates how feminist, queer, crip, and anti-racist thinking helps us see how contemporary “accept only” data collecting practices mirror the formation of familiar disciplinary norms."
+   },
+   {
+    "loc": 83,
+    "page": "pp. 126–127",
+    "kind": "p",
+    "before": "Looking to Indigenous scholarship, Rault reflects on principle 11 and presents refusal as a generative modality for developing DH research that encompasses a more robust understanding of consent than is conveyed through settler colonial forms of governance, research norms, and technologies.",
+    "sentence": "Writing on principle 9, Cowan discusses compulsory heterosexuality and able-bodiedness and illustrates how feminist, queer, crip, and anti-racist thinking helps us see how contemporary “accept only” data collecting practices mirror the formation of familiar disciplinary norms.",
+    "after": "Sutherland considers principles 3 and 4 through the lens of the mass digitization of slavery-era archives, arguing that data created and used in perpetuity carries an agency divorced from the lives and lived experiences of those who were enslaved and urging DH scholars to consider this lack of agency in both their data mining and descriptive practices."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 131–132",
+    "kind": "p",
+    "before": "There is no option to not have your user data collected and collated for the financial gain of others—either you access that information or you don’t.",
+    "sentence": "Acquiescing to the normative relations of data collection is a prerequisite for belonging, for having access to the culture.",
+    "after": "In addition to the ways that the production of these “bad” choices, these non-seamless ways of inhabiting this data regime, constitute the seamlessness of the regime itself, the “disciplinary formation” of the regime coheres—modeled on systems of compulsory heterosexuality, able-bodiedness, whiteness, cisgender-ness, citizen-ness—as its “origins . . . are now obscured . . . emanating from everywhere and nowhere” (McRuer, 92)."
+   },
+   {
+    "loc": 165,
+    "page": "p. 267",
+    "kind": "p",
+    "before": "",
+    "sentence": "Instead of stable, permanent jobs, temporary and contract work without benefits has progressively become the new norm for workers in almost all industries and only threatens to grow as a consequence of the economic disruptions resulting since 2020 and the Covid-19 pandemic.",
+    "after": "These disruptions disproportionately affect people of color and women, which provides an important reminder of the interrelatedness of racism, misogyny, and labor precarity."
+   },
+   {
+    "loc": 165,
+    "page": "p. 267",
+    "kind": "p",
+    "before": "In addition to interrogating other costs of precarity, we must acknowledge how the ability to be flexible is unevenly distributed—particularly since the global pandemic has drawn attention to the continued inequities in parental labor expectations.",
+    "sentence": "It is useful to attend to how “always on” connectivity colonizes leisure hours with work and with play that is hard to distinguish from work, adds a second shift of playbour to ever-expanding groups of people, and either adds a third shift for the women already doing what sociologist Arlie Hochschild has termed a “second shift” as caretakers or excludes them from participation altogether in the rapidly developing new norm.",
+    "after": "These labor inequities (and their costs to people of color and white women) must be centered not only in games but in every field, particularly in the wake of the ongoing Covid-19 crisis."
+   },
+   {
+    "loc": 214,
+    "page": "pp. 351–352",
+    "kind": "p",
+    "before": "",
+    "sentence": "Whereas the final form of Sharpe’s dissertation was affected by issues of copyright, LeBlanc and Wieringa were shaped by disciplinary and departmental norms in their work.",
+    "after": "LeBlanc had ongoing discussions with her committee about how her technical work would be included in the final dissertation, but she was consistently counseled to adhere to traditional dissertation norms."
+   },
+   {
+    "loc": 214,
+    "page": "pp. 351–352",
+    "kind": "p",
+    "before": "Whereas the final form of Sharpe’s dissertation was affected by issues of copyright, LeBlanc and Wieringa were shaped by disciplinary and departmental norms in their work.",
+    "sentence": "LeBlanc had ongoing discussions with her committee about how her technical work would be included in the final dissertation, but she was consistently counseled to adhere to traditional dissertation norms.",
+    "after": "This advice was intended to help LeBlanc avoid timing out of her degree program, but it also resulted in significant aspects of her dissertation work not being included in the final product."
+   }
+  ]
+ }
+]

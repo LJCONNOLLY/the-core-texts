@@ -1,0 +1,1520 @@
+[
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 3,
+  "input": "e9cc41fb91e8",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "To reach fully developed form, it required the assistance of powerful computers.",
+    "sentence": "This move starts from simplified abstractions and, using simulation techniques such as genetic algorithms, evolves a multiplicity sufficiently complex that it can be seen as a world of its own.",
+    "after": "The two moves thus make their play in opposite directions."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Called the “Catholic Turing Test,” the simulation invited the viewer to make a confession by choosing selections from the video screen; it even had a bench on which the viewer could kneel.",
+    "sentence": "On one level, the installation alluded to the triumph of science over religion, for the role of divinely authorized interrogation and absolution had been taken over by a machine algorithm.",
+    "after": "On another level, the installation pointed to the intransigence of conditioned behavior, for the machine’s form and function were determined by its religious predecessor."
+   },
+   {
+    "loc": 129,
+    "page": "PDF p. 129",
+    "kind": "p",
+    "before": "",
+    "sentence": "If embodiment is not essentialist, it is also not algorithmic.",
+    "after": "This conclusion has important implications for debates over what difference embodiment makes to thinking and learning."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 20,
+  "input": "bde5b9653223",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "We are forever trying to catch up, updating to remain (close to) the same; bored, overwhelmed, and anxious all at once.",
+    "sentence": "In response to this rapidly cycling and possibly manic depressive time scale, much analytic, creative, and commercial effort has concentrated on anticipating or creating the future, the next big thing: from algorithms that sift through vast amounts of data in order to suggest or predict future purchases to scholarly analyses that assess the impact of technologies that do not yet exist.",
+    "after": "What matters most: figuring out what will spread and who will spread it fastest."
+   },
+   {
+    "loc": 69,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "A ij ={1 if there vertices i and j are connected; 0 if they are not} In many matrices, rather than a simple 1 for a connection or 0 for not, the edges are weighted in terms of significance—for instance, in relation to the number of groups nodes have in common; the weights thus reveal the likelihood of being connected in the future.",
+    "sentence": "Intriguingly, two of the most popular network algorithms are based on academic measurements (themselves a result of the bureaucratization of the university and the quantification of research): the citation index (which lies at the heart of Google.com’s search algorithm) and the coauthor index (which has inspired various affiliation network analyses).",
+    "after": "In a citation network, the more citations a paper has, the more important it is considered to be; a coauthor network is a bipartite network that tracks both papers and authors to determine the level of affiliation between both entities (that is, to see how ‘alike’ various nodes are)."
+   },
+   {
+    "loc": 69,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "In a citation network, the more citations a paper has, the more important it is considered to be; a coauthor network is a bipartite network that tracks both papers and authors to determine the level of affiliation between both entities (that is, to see how ‘alike’ various nodes are).",
+    "sentence": "Collaborative filtering algorithms such as the Netflix prize algorithm, discussed in chapter 3, move from analysis to prediction by building ‘neighborhoods’ based on strong similarities (and differences) between the reactions of users to films.",
+    "after": ""
+   },
+   {
+    "loc": 95,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "Habits, like programs, are forms of automaticity: processes linking certain behaviors to cues that are central to human prediction and function.",
+    "sentence": "Unlike most computer programs (that is, outside of machine learning algorithms), habits develop slowly over time.",
+    "after": "However, once established, they are “strongly and reliably activated,” regardless of any initial rewards or goals."
+   },
+   {
+    "loc": 96,
+    "page": "p. 81",
+    "kind": "p",
+    "before": "Importantly, habit learning is nonconscious.",
+    "sentence": "As Ann Graybiel has argued in her influential article “The Basal Ganglia and Chunking of Action Repertoires,” habit learning in humans “is characterized by two key features: lack of awareness of the algorithm learned, and a slow rate of acquisition.”",
+    "after": "Habits are trained algorithms, stored in involuntary memory."
+   },
+   {
+    "loc": 96,
+    "page": "p. 81",
+    "kind": "p",
+    "before": "",
+    "sentence": "The habit “algorithm” is intriguingly both the source of action and the action itself, the source of learning and what is learned.",
+    "after": "As Graybiel puts it: a “paradox in the learning literature is that the basal ganglia are at once thought to be important for the production of habitual or ‘automatic’ responses and yet are thought to be important for new S–R learning."
+   },
+   {
+    "loc": 96,
+    "page": "p. 81",
+    "kind": "p",
+    "before": "Graybiel resolves this paradox by arguing for the basal ganglia as central to the construction of performance units (and other models hypothesize two pathways connecting sensory association areas to the premotor cortex, thus making the basal ganglia loop central to the training of direct cortico-cortical pathways, rather than the place where habitual behaviors are stored).",
+    "sentence": "However, habit, as Clare Carlisle points out, is oddly both source (or neurocomputationally speaking, algorithm) and action: I perform a habit out of habit.",
+    "after": "Even further, because I perform a habit, I must like it."
+   },
+   {
+    "loc": 134,
+    "page": "p. 119",
+    "kind": "p",
+    "before": "To improve its recommendation system, Netflix.com famously issued a challenge: it offered a large chunk of its database and a lot of money to whoever could improve its recommendation system by 10 percent.",
+    "sentence": "The winning algorithm employed the average rating and factors to compensate for user and movie bias; and, most importantly, it created “neighborhoods” based on the relationship between films and users.",
+    "after": "Intriguingly, a “neighborhood predictor” factored in both strong likes and strong dislikes—what mattered was how much a user deviated most from the norm with others."
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 31,
+  "input": "03f90d75610a",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "“Computational thinking”—problem analysis and decomposition, algorithmic thinking, algorithmic expression, abstraction, modeling, stepwise fault isolation—is central to an increasingly broad array of fields.",
+    "after": "Programming is not just an incredibly valuable skill (although it certainly is that)—it is the hands-on inquiry-based way that we teach computational thinking."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "The fact that the stock market and banking are now relying heavily on computational processes sometimes leads to strange glitches like the flash crash of May 6, 2010.",
+    "sentence": "Amid high volatility and worries about the Greek economy, a firm executed a large trade with a computer-implemented trading algorithm, which used variable inputs to determine what to buy and sell.",
+    "after": "This kind of trade just months earlier would have taken 5 hours to execute, but the algorithm sped it up to just 20 minutes."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Amid high volatility and worries about the Greek economy, a firm executed a large trade with a computer-implemented trading algorithm, which used variable inputs to determine what to buy and sell.",
+    "sentence": "This kind of trade just months earlier would have taken 5 hours to execute, but the algorithm sped it up to just 20 minutes.",
+    "after": "The other algorithms of high-frequency trading firms then kicked in and traded huge volumes of stock back and forth rapidly, leading to a spiral in prices that plummeted the New York Stock Exchange in just minutes."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "A recent controversy about Facebook’s adjustment of their opaque “news feed” algorithm for (perhaps dubious) research purposes is only one of many moments when the control that algorithms exert over our lives has risen to the surface.",
+    "sentence": "Wryly commenting on this incident, comic artist Randall Munroe points out that regardless of the ethical merits of this “research,” Facebook’s algorithm has always been controlling (see figure 2).",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "What right do we have to poke around in Facebook’s private affairs like that?”",
+    "sentence": "While our primary experience of a social networking site such as Facebook or Tumblr or Instagram is text and audiovisual material, behind our personalized “feed” are black-boxed, proprietary algorithms.",
+    "after": "These algorithms are constantly tweaked by the companies in charge of them, sometimes amid loud protests from users."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "While our primary experience of a social networking site such as Facebook or Tumblr or Instagram is text and audiovisual material, behind our personalized “feed” are black-boxed, proprietary algorithms.",
+    "sentence": "These algorithms are constantly tweaked by the companies in charge of them, sometimes amid loud protests from users.",
+    "after": "Their results are rarely fully automatic; they are adjusted by human readers, apparently to account for human bias or for political reasons."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "What does it mean that our relationships are now at least partially embedded in proprietary algorithms?",
+    "after": "What’s the line between private and public or between human and algorithmic bias when we trust much of our private affairs to programs run by companies like Facebook?"
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "What does it mean that our relationships are now at least partially embedded in proprietary algorithms?",
+    "sentence": "What’s the line between private and public or between human and algorithmic bias when we trust much of our private affairs to programs run by companies like Facebook?",
+    "after": "An EU law scheduled to go into effect in 2018 gives people a “right to explanation” for an algorithmic decision that was made about them."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 109,
+  "input": "2ec7711b0d60",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "",
+    "sentence": "This book is about the power of algorithms in the age of neoliberalism and the ways those digital decisions reinforce oppressive social relationships and enact new modes of racial profiling, which I have termed technological redlining.",
+    "after": "By making visible the ways that capital, race, and gender are factors in creating unequal conditions, I am bringing light to various forms of technological redlining that are on the rise."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "Inevitably, a book written about algorithms or Google in the twenty-first century is out of date immediately upon printing.",
+    "after": "Technology is changing rapidly, as are technology company configurations via mergers, acquisitions, and dissolutions."
+   },
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "As a scholar of information and power, I am most interested in communicating a series of processes that have happened, which provide evidence of a constellation of concerns that the public might take up as meaningful and important, particularly as technology impacts social relations and creates unintended consequences that deserve greater attention.",
+    "sentence": "I have been writing this book for several years, and over time, Google’s algorithms have admittedly changed, such that a search for “black girls” does not yield nearly as many pornographic results now as it did in 2011.",
+    "after": "Nonetheless, new instances of racism and sexism keep appearing in news and social media, and so I use a variety of these cases to make the point that algorithmic oppression is not just a glitch in the system but, rather, is fundamental to the operating system of the web."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "",
+    "sentence": "To conclude, I move the discussion beyond Google, to help readers think about the impact of algorithms on how people are represented in other seemingly benign business transactions.",
+    "after": "I look at the “colorblind” organizing logic of Yelp and how business owners are revolting due to loss of control over how they are represented and the impact of how the public finds them."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "Here, I share an interview with Kandis from New York, whose livelihood has been dramatically affected by public-policy changes such as the dismantling of affirmative action on college campuses, which have hurt her local Black-hair-care business in a prestigious college town.",
+    "sentence": "Her story brings to light the power that algorithms have on her everyday life and leaves us with more to think about in the ecosystem of algorithmic power.",
+    "after": "The book closes with a call to recognize the importance of how algorithms are shifting social relations in many ways—more ways than this book can cover—and should be regulated with more impactful public policy in the United States than we currently have."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "Marginalized and oppressed people are linked to the status of their group and are less likely to be afforded individual status and insulation from the experiences of the groups with which they are identified.",
+    "sentence": "The political nature of search demonstrates how algorithms are a fundamental invention of computer scientists who are human beings—and code is a language full of meaning and applied in varying ways to different types of information.",
+    "after": "Certainly, women and people of color could benefit tremendously from becoming programmers and building alternative search engines that are less disturbing and that reflect and prioritize a wider range of informational needs and perspectives."
+   },
+   {
+    "loc": 111,
+    "page": "PDF p. 111",
+    "kind": "p",
+    "before": "Indeed, several times when I thought I was clicking on reviews of her small business or getting more information, I was instead clicking on competitors and led away from the business I was investigating.",
+    "sentence": "I share Kandis’s experience to demonstrate the way that both the interface and the algorithmic design is taking on new dimensions of control and influence over her representation and access to information about her business.",
+    "after": "She has so little ability to impact the algorithm, and when she tries, the company subverts her ability to be racially and gender recognized—a type of recognition that is essential to her success as a business owner."
+   },
+   {
+    "loc": 111,
+    "page": "PDF p. 111",
+    "kind": "p",
+    "before": "I share Kandis’s experience to demonstrate the way that both the interface and the algorithmic design is taking on new dimensions of control and influence over her representation and access to information about her business.",
+    "sentence": "She has so little ability to impact the algorithm, and when she tries, the company subverts her ability to be racially and gender recognized—a type of recognition that is essential to her success as a business owner.",
+    "after": "The attempts at implementing a colorblind algorithm in lieu of human decision making has tremendous consequences."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 37,
+  "input": "a16bb86e20f8",
+  "candidates": [
+   {
+    "loc": 5,
+    "page": "pp. 1–3",
+    "kind": "p",
+    "before": "It was possible that the missing start date was the result of an errant keystroke in a call center.",
+    "sentence": "But my instinct was that an algorithm had singled us out for a fraud investigation, and the insurance company had suspended our benefits until their inquiry was complete.",
+    "after": "My family had been red-flagged."
+   },
+   {
+    "loc": 6,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "Today, we have ceded much of that decision-making power to sophisticated machines.",
+    "sentence": "Automated eligibility systems, ranking algorithms, and predictive risk models control which neighborhoods get policed, which families attain needed resources, who is short-listed for employment, and who is investigated for fraud.",
+    "after": ""
+   },
+   {
+    "loc": 6,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "The insurance company repeatedly told me that the problem was the result of a technical error, a few missing digits in a database.",
+    "sentence": "But that’s the thing about being targeted by an algorithm: you get a sense of a pattern in the digital noise, an electronic eye turned toward you, but you can’t put your finger on exactly what’s amiss.",
+    "after": "There is no requirement that you be notified when you are red-flagged."
+   },
+   {
+    "loc": 6,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "There is no sunshine law that compels companies to release the inner details of their digital fraud detection systems.",
+    "sentence": "With the notable exception of credit reporting, we have remarkably limited access to the equations, algorithms, and models that shape our life chances.",
+    "after": ""
+   },
+   {
+    "loc": 9,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "During the twentieth century, they were investigated by caseworkers, treated like criminals on trial.",
+    "sentence": "Today, we have forged what I call a digital poorhouse from databases, algorithms, and risk models.",
+    "after": "It promises to eclipse the reach and repercussions of everything that came before."
+   },
+   {
+    "loc": 54,
+    "page": "pp. 125–126",
+    "kind": "p",
+    "before": "But it doesn’t build houses, and it may not prove sufficient to overcome deep-seated prejudice against the poor, especially poor people of color.",
+    "sentence": "“Algorithms are intrinsically stupid,” said public interest lawyer, homeless advocate, and emeritus professor of law at UCLA Gary Blasi.",
+    "after": "“You can’t build any algorithm that can handle as many variables, and levels of nuance, and complexity as human beings present.”"
+   },
+   {
+    "loc": 54,
+    "page": "pp. 125–126",
+    "kind": "p",
+    "before": "“Algorithms are intrinsically stupid,” said public interest lawyer, homeless advocate, and emeritus professor of law at UCLA Gary Blasi.",
+    "sentence": "“You can’t build any algorithm that can handle as many variables, and levels of nuance, and complexity as human beings present.”",
+    "after": "While coordinated entry may minimize some of the implicit bias of individual homeless service providers, Blasi reflected, that doesn’t mean it is a good idea."
+   },
+   {
+    "loc": 78,
+    "page": "pp. 184–186",
+    "kind": "p",
+    "before": "The digital poorhouse is hard to understand.",
+    "sentence": "The software, algorithms, and models that power it are complex and often secret.",
+    "after": "Sometimes they are protected business processes, as in the case of the IBM and ACS software that denied needy Hoosiers access to cash benefits, food, and health care."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 39,
+  "input": "2d915d23afcc",
+  "candidates": [
+   {
+    "loc": 71,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Savvy users understand the complications and intricacies of this apparent flatness.",
+    "sentence": "On Facebook, algorithms produce the visual display of what a given user sees, based on calculations and automated reasoning that account for usage, likes, and user interaction.",
+    "after": "Twitter introduced optional algorithms in 2015, coupling the flat timeline with tweets that may be of interest to users based on their previous interactions."
+   },
+   {
+    "loc": 137,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "",
+    "sentence": "Studies that seek to automate cognitive processes through algorithms and machine learning are also instructive examples of the risks inherent in uncritically embracing them without theorizing their implications for constructing human subjectivity.",
+    "after": "A reading of “Large-​Scale Image Memorability,” or LaMem, developed by the Massachusetts Institute of Technology, illustrates the implications of these issues for digital humanities because it deploys a database of images and machine learning algorithms in its methods."
+   },
+   {
+    "loc": 137,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "Studies that seek to automate cognitive processes through algorithms and machine learning are also instructive examples of the risks inherent in uncritically embracing them without theorizing their implications for constructing human subjectivity.",
+    "sentence": "A reading of “Large-​Scale Image Memorability,” or LaMem, developed by the Massachusetts Institute of Technology, illustrates the implications of these issues for digital humanities because it deploys a database of images and machine learning algorithms in its methods.",
+    "after": "LaMem is artificial intelligence software that is reported to have a “near-​human” accuracy for memory, applying predictive algorithms designed to identify images that are most “memorable.”"
+   },
+   {
+    "loc": 140,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "This has repercussions for digital humanities projects that use them.",
+    "sentence": "As Rob Kitchin notes, “Algorithms search, collate, sort, categorise, group, match, analyze, profile, model, simulate, visualize and regulate people, processes, and places.",
+    "after": "They shape how we understand the world, and they do work in and make the world through their execution as software, with profound consequences.”"
+   },
+   {
+    "loc": 141,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "",
+    "sentence": "And yet, the ways that computing affects the lives and experiences of users suggest that both big data and the algorithms marshalled to engage with that data are subject to biases that already persist.",
+    "after": "When we consider the variety of ways in which algorithms are deployed to assist with conclusions that might otherwise be drawn by people alone—such as banking and loan decisions, likely recidivism for criminals, or employee hiring—the stakes of algorithms are high."
+   },
+   {
+    "loc": 141,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "When we consider the variety of ways in which algorithms are deployed to assist with conclusions that might otherwise be drawn by people alone—such as banking and loan decisions, likely recidivism for criminals, or employee hiring—the stakes of algorithms are high.",
+    "sentence": "The lack of transparency and the seemingly black-​box nature of algorithms obscure the fact that they are subject to biases, in spite of myths that suggest their objectivity.",
+    "after": "When they are deployed for subjective decision-​making, there are no guarantees of accuracy and they function as gatekeepers of information."
+   },
+   {
+    "loc": 141,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "",
+    "sentence": "These algorithms and their effects are increasingly influencing digital humanities as well.",
+    "after": "James Dobson suggests that the applications of these algorithms in digital humanities scholarship reflects a nostalgia for structuralist literary criticism and a disavowal of post-​structuralist thought."
+   },
+   {
+    "loc": 141,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "These algorithms and their effects are increasingly influencing digital humanities as well.",
+    "sentence": "James Dobson suggests that the applications of these algorithms in digital humanities scholarship reflects a nostalgia for structuralist literary criticism and a disavowal of post-​structuralist thought.",
+    "after": "Such moves are evident in projects like heureCLÉA, a “digital heuristic” for identifying “narratologically salient features in textual narratives.”"
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 81,
+  "input": "68a77d61623d",
+  "candidates": [
+   {
+    "loc": 53,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "The show makes the stakes of the question of who gets to be human very clear, from the start.",
+    "sentence": "In the scenes quoted above, Maeve sees a display of the algorithms that control her on a screen, and awakens further, turning against her creators.",
+    "after": "The concept of the human has historically been used to delineate who is less than human, who is disposable, who is killable."
+   },
+   {
+    "loc": 53,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "I take up a line of thought from Donna Haraway’s cyborg feminism to Jasbir Puar’s assemblage theory.",
+    "sentence": "I add to this set of tools with [ 25 my own method of algorithmic analysis, using the figure of the android from science fiction.",
+    "after": "I relate to androids as a nonreproductive trans woman who is hacking her own internal algorithms."
+   },
+   {
+    "loc": 57,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "Elsewhere, I have built on the assemblage model proposed by Jasbir Puar to develop an algorithmic model of analysis, and this example expands the notion of a tool to consider the algorithms the tool runs, or the uses to which it is put, its recipes or rituals of usage (cárde-nas).",
+    "sentence": "Digital humanities scholars can extend their work to be more accessible to low-income people, and to considerations of nondigital technologies, by abstracting the concept of algorithms to include recipes and rituals.",
+    "after": "Additionally, this puts digital humanities scholars studying algorithms in dialogue with performance studies, which questions both the usage and the context of embodied gestures in making and communicating meaning."
+   },
+   {
+    "loc": 57,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "Digital humanities scholars can extend their work to be more accessible to low-income people, and to considerations of nondigital technologies, by abstracting the concept of algorithms to include recipes and rituals.",
+    "sentence": "Additionally, this puts digital humanities scholars studying algorithms in dialogue with performance studies, which questions both the usage and the context of embodied gestures in making and communicating meaning.",
+    "after": ""
+   },
+   {
+    "loc": 60,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "An android is made from the master’s tools, both in the sense of being made of parts like silicone breast implants and in the sense of being made of concepts like man, woman, and human.",
+    "sentence": "An android runs on algorithms, from digital media to methods of survival, and the analysis of these algorithms is an approach that can extend intersectional and assemblage analyses of categories including gender, race, and personhood.",
+    "after": "An algorithmic analysis can use either high-tech tools or low-tech ones, as algorithms can be seen in ancient forms of ritual and recipe, and in DNA."
+   },
+   {
+    "loc": 60,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "An android runs on algorithms, from digital media to methods of survival, and the analysis of these algorithms is an approach that can extend intersectional and assemblage analyses of categories including gender, race, and personhood.",
+    "sentence": "An algorithmic analysis can use either high-tech tools or low-tech ones, as algorithms can be seen in ancient forms of ritual and recipe, and in DNA.",
+    "after": "In 2017 researchers demonstrated that they could encode algorithms into actual DNA code, which when decoded in a sequencer were able to break out of the sequencer and exploit resources on the host computer (Greenberg)."
+   },
+   {
+    "loc": 75,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "This has repercussions for digital humanities projects that use them.",
+    "sentence": "As Rob Kitchin notes, “Algorithms search, collate, sort, categorise, group, match, analyze, profile, model, simulate, visualize and regulate people, processes, and places.",
+    "after": "They shape how we understand the world and they do work in and make the world through their execution as software, with profound consequences.”"
+   },
+   {
+    "loc": 75,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "",
+    "sentence": "However, considering the variety of ways in which algorithms are deployed to assist with conclusions that might otherwise be drawn by people alone—banking and loan decisions, likely recidivism for criminals, or employee hiring—the stakes of algorithms are high.",
+    "after": "The lack of transparency and the seeming black box nature of algorithms obscure the fact that they are subject to biases, in spite of myths that suggest their objectivity."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 84,
+  "input": "c9639aac387e",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "Yet, rather than challenging or overcoming the cycles of inequity, technical fixes too often reinforce and even deepen the status quo.",
+    "sentence": "For example, a study by a team of computer scientists at Princeton examined whether a popular algorithm, trained on human writing online, would exhibit the same biased tendencies that psychologists have documented among humans.",
+    "after": "They found that the algorithm associated White-sounding names with “pleasant” words and Black-sounding names with “unpleasant” ones.’"
+   },
+   {
+    "loc": 17,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "For example, a study by a team of computer scientists at Princeton examined whether a popular algorithm, trained on human writing online, would exhibit the same biased tendencies that psychologists have documented among humans.",
+    "sentence": "They found that the algorithm associated White-sounding names with “pleasant” words and Black-sounding names with “unpleasant” ones.’",
+    "after": ""
+   },
+   {
+    "loc": 23,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "Problem solving is at the heart of tech.",
+    "sentence": "An algorithm, after all, is a set of instructions, rules, and calculations designed to solve problems.",
+    "after": "Data for Black Lives co-founder Yeshimabeit Milner reminds us that “[t]he decision to make every Black life count as three-fifths of a person was embedded in the electoral college, an algorithm that continues to be the basis of our current democracy.”!?"
+   },
+   {
+    "loc": 23,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "An algorithm, after all, is a set of instructions, rules, and calculations designed to solve problems.",
+    "sentence": "Data for Black Lives co-founder Yeshimabeit Milner reminds us that “[t]he decision to make every Black life count as three-fifths of a person was embedded in the electoral college, an algorithm that continues to be the basis of our current democracy.”!?",
+    "after": "Thus, even just deciding what problem needs solving requires a host of judgments; and yet we are expected to pay no attention to the man behind the screen.”°"
+   },
+   {
+    "loc": 28,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "",
+    "sentence": "In fact the author of The Art of Computer Programming, the field’s bible (and some call Knuth himself “the Yoda of Silicon Valley”), recently commented that he feels “algorithms are getting too prominent in the world.",
+    "after": "It started out that computer scientists were worried nobody was listening to us."
+   },
+   {
+    "loc": 124,
+    "page": "p. 112",
+    "kind": "p",
+    "before": "They found that “[t]he databases they use are disproportionately African American, and the software is especially bad at recognizing Black faces, according to several studies.”*4 What’s more, the different global settings in which AI is taught to “see” impacts the technical settings designed to identify individuals from various groups.",
+    "sentence": "It turns out that algorithms “developed in China, Japan, and South Korea recognized East Asian faces far more readily than Caucasians.",
+    "after": "The reverse was true for algorithms developed in France, Germany, and the United States, which were significantly better at recognizing Caucasian facial characteristics.”°5 This suggests that the political-geographic setting augments the default setting of Whiteness."
+   },
+   {
+    "loc": 124,
+    "page": "p. 112",
+    "kind": "p",
+    "before": "It turns out that algorithms “developed in China, Japan, and South Korea recognized East Asian faces far more readily than Caucasians.",
+    "sentence": "The reverse was true for algorithms developed in France, Germany, and the United States, which were significantly better at recognizing Caucasian facial characteristics.”°5 This suggests that the political-geographic setting augments the default setting of Whiteness.",
+    "after": "The ethnoracial makeup of the software design team, the test photo databases, and the larger population of users influence the algorithms’ capacity for recognition, though not in any straightforward sense."
+   },
+   {
+    "loc": 155,
+    "page": "p. 143",
+    "kind": "p",
+    "before": "The danger of New Jim Code impartiality is the neglect of ongoing inequity perpetuated by colorblind designs.",
+    "sentence": "In this context, algorithms may not be just a veneer that covers historical fault lines.",
+    "after": "They also seem to be streamlining discrimination — making it easier to sift, sort, and justify why tomorrow’s workforce continues to be racially stratified."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 7,
+  "input": "486602519c35",
+  "candidates": [
+   {
+    "loc": 137,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "",
+    "sentence": "By working from the margins, Noble is able to poke holes in the seemingly neutral algorithmic rhetorics dominating search engines.",
+    "after": "Like Noble, we adopt a Black feminist approach to power because we (like Black feminists) are not attempting to shift power as the end goal; rather, the end goal of this project is to achieve equity for those who are not part of dominant groups and address the forms of oppression that emerge from practices in TPC."
+   },
+   {
+    "loc": 142,
+    "page": "p. 115",
+    "kind": "p",
+    "before": "rithms function to describe and create the world.",
+    "sentence": "Though algorithms span",
+    "after": ""
+   },
+   {
+    "loc": 142,
+    "page": "p. 115",
+    "kind": "p",
+    "before": "",
+    "sentence": "with power” (p. 171)), the algorithms function to transmit knowledge in a structure pre-determined by the developer as they order the world and make some versions of the world visible.",
+    "after": "If these are the only versions “retrieved” by the algorithm, then the other perspectives on the world remain invisible, hidden, and suppressed."
+   },
+   {
+    "loc": 143,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "with power” (p. 171)), the algorithms function to transmit knowledge in a structure pre-determined by the developer as they order the world and make some versions of the world visible.",
+    "sentence": "If these are the only versions “retrieved” by the algorithm, then the other perspectives on the world remain invisible, hidden, and suppressed.",
+    "after": "The difficulty with this domain of power is that the undergirding ideologies of the structures and infrastructures are difficult to identify and connect."
+   },
+   {
+    "loc": 150,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "",
+    "sentence": "and small interpersonal norms, like the ways gender is constructed as binary or fluid reflect the hegemonic domain, co-construct the patterns of power, and function to structure algorithms, forms, and other kinds of documents.",
+    "after": "Indeed, exclusion and marginalization happens through language use and through norms of language."
+   },
+   {
+    "loc": 180,
+    "page": "p. 153",
+    "kind": "p",
+    "before": "reinforce or reify existing oppressions.",
+    "sentence": "As Noble (2018) reveals in Algorithms of",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 133,
+  "input": "25b49796a405",
+  "candidates": [
+   {
+    "loc": 41,
+    "page": "pp. 59–60",
+    "kind": "p",
+    "before": "",
+    "sentence": "The second part of media analytics—the practices of algorithmic analysis of all types of online media content by the industry, including images, videos, and music—has received less attention in comparison.",
+    "after": "However, only if we consider the two parts of media analytics together—analysis of user interaction data and analysis of media content—does the magnitude of the shift that gradually took place between 1995 and 2010 become fully apparent."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 63–64",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although the word algorithms and the term algorithmic culture are convenient, they can be also misleading—and that is why I use analytics instead.",
+    "after": "The most frequently used technology for big data analysis and prediction is supervised machine learning that uses neural networks, and it is quite different from our common understanding of an algorithm as a finite sequence of steps executed to accomplish some task."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 63–64",
+    "kind": "p",
+    "before": "Although the word algorithms and the term algorithmic culture are convenient, they can be also misleading—and that is why I use analytics instead.",
+    "sentence": "The most frequently used technology for big data analysis and prediction is supervised machine learning that uses neural networks, and it is quite different from our common understanding of an algorithm as a finite sequence of steps executed to accomplish some task.",
+    "after": "Some machine learning applications are interpretable, but many are not."
+   },
+   {
+    "loc": 78,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "",
+    "sentence": "Now imagine that we have used computer algorithms to automatically measure the composition, colors, and texture of these paintings and detect their genres.",
+    "after": "And if paintings show human figures and faces, we can also detect them and measure body positions and facial expressions."
+   },
+   {
+    "loc": 78,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "These are examples of features.",
+    "sentence": "In contrast to metadata that already exists as part of a dataset or a collection, features are new information created via algorithmic analysis of the objects.",
+    "after": "Often features are represented as numbers, but they can also use other data formats."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 140–141",
+    "kind": "p",
+    "before": "",
+    "sentence": "ImageNet is an international competition in which the top research labs working on computer vision algorithms compete every year in different categories.",
+    "after": "In the competitions that ran in the 2010s, the performance of algorithms was compared in each of three tasks: image classification (algorithms identify object categories present in the image), object detection (algorithms identify all objects and their position in an image), and single object localization (algorithms identifies one example of each type of content present)."
+   },
+   {
+    "loc": 87,
+    "page": "pp. 142–143",
+    "kind": "p",
+    "before": "",
+    "sentence": "Feature extraction using algorithms is a fundamental component of modern data science, enabled by digital computers.",
+    "after": "In the next chapter, we will continue exploring the topic of features."
+   },
+   {
+    "loc": 129,
+    "page": "p. 219",
+    "kind": "p",
+    "before": "",
+    "sentence": "But most importantly, in computer science, articles and conference papers are usually supposed to present new algorithms or refinements of existing algorithms rather than applications.",
+    "after": "So the majority of papers in an image collection exploration area (just as in other areas of computer science related to cultural analytics) describe such algorithms and demonstrate their application to one or a few datasets."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 63,
+  "input": "7583a413cd07",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "That Darden and Champine were able to view their work as a success despite these inherent constraints underscores even more the importance of listening to and learning from people whose lives and voices are behind the numbers.",
+    "sentence": "No dataset or analysis or visualization or model or algorithm is the result of one person working alone.",
+    "after": "Data feminism can help to remind us that before there are data, there are people—people who offer up their experience to be counted and analyzed, people who perform that counting and analysis, people who visualize the data and promote the findings of any particular project, and people who use the product in the end."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "Angwin and her coauthors used data science to challenge data science.",
+    "sentence": "By collecting missing data and reverse-engineering the algorithm that was judging each defendant’s risk, they were able to prove systemic racial bias.",
+    "after": "This analysis method is called auditing algorithms and it is being increasingly used in journalism and in academic research in order show how the harms and benefits of automated systems are differentially distributed."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "By collecting missing data and reverse-engineering the algorithm that was judging each defendant’s risk, they were able to prove systemic racial bias.",
+    "sentence": "This analysis method is called auditing algorithms and it is being increasingly used in journalism and in academic research in order show how the harms and benefits of automated systems are differentially distributed.",
+    "after": "Computational journalism researcher Nicholas Diakopoulos has proposed that work like this become formalized into an algorithm accountability beat, which would help to make the practice more widespread."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "As the examples discussed thus far in this book clearly demonstrate, one of the most dangerous outcomes of the tools of data and data science being consolidated in the hands of dominant groups is that these groups are able to obscure their politics and their goals behind their technologies.",
+    "sentence": "Benjamin, whose book Race after Technology: Abolitionist Tools for the New Jim Code (mentioned earlier), describes this phenomenon as the “imagined objectivity of data and technology” because data-driven systems like redlining and risk assessment algorithms are not really objective at all.",
+    "after": "Her concept of imagined objectivity emphasizes the role that cultural assumptions and personal preconceptions play in upholding this false belief: one imagines (wrongly) that datasets and algorithms are less partial and less discriminatory than people and thus more “objective.”"
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "Benjamin, whose book Race after Technology: Abolitionist Tools for the New Jim Code (mentioned earlier), describes this phenomenon as the “imagined objectivity of data and technology” because data-driven systems like redlining and risk assessment algorithms are not really objective at all.",
+    "sentence": "Her concept of imagined objectivity emphasizes the role that cultural assumptions and personal preconceptions play in upholding this false belief: one imagines (wrongly) that datasets and algorithms are less partial and less discriminatory than people and thus more “objective.”",
+    "after": "But as we discuss in chapter 1, these data products seem objective only because the perspectives of those who produce them—elite, white men and the institutions they control—pass for the default."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "Media theorist and designer Sasha Costanza-Chock proposes a restorative approach to data justice.",
+    "sentence": "Drawing from theories of restorative justice—meaning that decisions should be made in ways that recognize and rectify any harms of the past—Costanza-Chock asserts that any notion of algorithmic fairness must also acknowledge the systematic nature of the unfairness that has long been perpetrated by certain groups on others.",
+    "after": "They give the example of college admissions—a topic that always seems to be in the news, not the least because it’s a major mechanism of protecting privilege."
+   },
+   {
+    "loc": 63,
+    "page": "PDF p. 63",
+    "kind": "p",
+    "before": "Designing datasets and data systems that dismantle oppression and work toward justice, equity, and co-liberation requires new tools in our collective toolbox.",
+    "sentence": "We have some good starting points; building more understandable algorithms is a laudable, worthy research goal.",
+    "after": "And yet what we need to explain and account for are not only the inner workings of machine learning, but also the history, culture, and context that lead to discriminatory outputs in the first place."
+   },
+   {
+    "loc": 63,
+    "page": "PDF p. 63",
+    "kind": "p",
+    "before": "For example, it is not an isolated incident that facial analysis software couldn’t “see” Joy Buolamwini’s face, as we discussed in chapter 1.",
+    "sentence": "It is not an isolated incident that the “Lena” image used to test most image-processing algorithms was the centerfold from the November 1972 issue of Playboy, cropped demurely at the shoulders.",
+    "after": "It is not an isolated incident that the women who worked on the ENIAC computer were not invited to the fiftieth anniversary celebration in 1995."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 109,
+  "input": "d18aded6c991",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "Most pragmatically, single-axis (in other words, nonintersectional) algorithmic bias audits are insufficient to ensure algorithmic fairness (let alone justice).",
+    "sentence": "While there is rapidly growing interest in algorithmic bias audits, especially in the fairness, accountability, and transparency in machine learning (FAT*) community, most are single-axis: they look for a biased distribution of error rates only according to a single variable, such as race or gender.",
+    "after": "This is an important advance, but it is essential that we develop a new norm of intersectional bias audits for machine learning systems."
+   },
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "This is an important advance, but it is essential that we develop a new norm of intersectional bias audits for machine learning systems.",
+    "sentence": "Toward that end, Joy Buolamwini of the Algorithmic Justice League has produced a growing body of work that demonstrates the ways that machine learning is intersectionally biased.",
+    "after": "In the project Gender Shades, Buolamwini and researcher Timnit Gebru show how facial analysis tools trained on “pale male” data sets perform best on images of white men and worst on images of Black women."
+   },
+   {
+    "loc": 35,
+    "page": "PDF p. 35",
+    "kind": "p",
+    "before": "For example, feminist and antiracist currents within science and technology studies have gone beyond a bias frame to unpack the ways that intersecting forms of oppression, including patriarchy, white supremacy, ableism, and capitalism, are constantly hard-coded into designed objects, platforms, and systems.",
+    "sentence": "STS scholars and activists, such as those affiliated with the Center for Critical Race and Digital Studies, have explored these dynamics across many design domains, from consumer electronics to agricultural technologies, from algorithm design in banking, housing, and policing to search engines and the affordances of popular social media platforms.",
+    "after": "To take one recent example, the organizing that took place around Facebook’s “real name” policy illustrates how white supremacy and settler colonialism become instantiated in sociotechnical systems."
+   },
+   {
+    "loc": 35,
+    "page": "PDF p. 35",
+    "kind": "p",
+    "before": "As feminist blogger and cartoonist Alli Kirkham notes, “Native Americans, African Americans, and other people of color are banned disproportionately because, to Facebook, a ‘real’ name sometimes means ‘traditionally European.’”",
+    "sentence": "This happens, in part, because the algorithms that are used to flag likely “fake” names were trained on “real name” datasets that overrepresent European names, using machine-learning and natural-language-processing techniques.",
+    "after": "A Native American user thus may experience a microaggression if their name is flagged as fake by Facebook’s Eurocentric fake name algorithm."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "",
+    "sentence": "One of the most urgent areas in which to apply design justice principles is algorithmic decision support systems.",
+    "after": "There is a growing awareness of algorithmic bias, both in popular discourse and in computer science as a field."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "One of the most urgent areas in which to apply design justice principles is algorithmic decision support systems.",
+    "sentence": "There is a growing awareness of algorithmic bias, both in popular discourse and in computer science as a field.",
+    "after": "An ever-growing body of journalism and scholarship demonstrates that algorithms unintentionally reproduce racial and/or gendered bias (less attention has been focused so far on algorithms and ableism, and questioning algorithmic reproduction of class inequality is barely on the table since financial risk calculation is so deeply normalized as to be hegemonic)."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "",
+    "sentence": "For example, Safiya Noble, in her work Algorithms of Oppression, focuses our attention on the ways that search algorithms reproduce the matrix of domination through misrepresentation of marginalized subjects, especially through the circulation of hypersexualized images of Black girls and women (what Patricia Hill Collins calls controlling images).",
+    "after": "Virginia Eubanks, in Automating Inequality, unpacks how algorithmic decision support systems that punish poor people were implemented as a right-wing strategy to limit and roll back hard-fought access to social welfare programs that were won by organized poor people’s movements."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "For example, Safiya Noble, in her work Algorithms of Oppression, focuses our attention on the ways that search algorithms reproduce the matrix of domination through misrepresentation of marginalized subjects, especially through the circulation of hypersexualized images of Black girls and women (what Patricia Hill Collins calls controlling images).",
+    "sentence": "Virginia Eubanks, in Automating Inequality, unpacks how algorithmic decision support systems that punish poor people were implemented as a right-wing strategy to limit and roll back hard-fought access to social welfare programs that were won by organized poor people’s movements.",
+    "after": "Kate Crawford and the AI Now Institute at NYU are producing a steady stream of critical work."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 39,
+  "input": "503b0ccf028e",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "I titled this book Distributed Blackness to evoke how Blackness has expertly utilized the internetwork’s capacity for discourse to build out a social, cultural, racial identity.",
+    "sentence": "Black online culture and sociality are more easily visualized today thanks not only to the hashtag and other algorithmic means but also to the near infrastructural use of social networking services as well as older online artifacts, such as messaging services, blogs, and bulletin boards, where one could see articulations of Black identity across digital networks.",
+    "after": "My subtitle, African American Cybercultures, speaks to this text’s theoretical and rhetorical thinking about how and why Blackness and Black culture are easily and pungently performed, absent embodiment, when mediated by technologies— specifically information technologies, the online, and the digital."
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "The hashtag is a user-created metadiscourse convention (# + keyword, often a phrase absent any spaces between words) that was coined to coordinate Twitter conversations by providing topical coherence (Messina, 2007).",
+    "sentence": "Although Messina recounts that he pitched the concept to Twitter, the company chose to filter topics computationally, a process that became known as the trending topic algorithm.",
+    "after": "The hashtag (# + topic) was initially deployed to filter and organize multiple tweets on a particular topic (Messina, 2008)."
+   },
+   {
+    "loc": 86,
+    "page": "PDF p. 86",
+    "kind": "p",
+    "before": "Weak-tie racism is an extension of Granovetter’s (1973) explanation of the generative sociality of weak tie relationships, arguing that the “emphasis on weak ties lends itself to discussion of relations between groups” (p. 1360; emphasis original).",
+    "sentence": "In my formulation, the machine, network, and/or algorithm is the distancing catalyst and the bond between entities, demanding its own interaction and reciprocity to sustain the relationship between user and network (Haythornthwaite, 2002).",
+    "after": "Granovetter (1973) states, “The strength of the tie is a combination of the amount of time, the emotional intensity, the intimacy, and the reciprocal services which characterize the tie” (p. 1361)."
+   },
+   {
+    "loc": 86,
+    "page": "PDF p. 86",
+    "kind": "p",
+    "before": "Likes and reposts alone are not microaggressive acts even though they may denote affiliation or recognition in a social space that is counter to one’s own beliefs or affiliations (pace hate-watching).",
+    "sentence": "When the aggregation of likes causes one’s feed to be populated by racist content, however, this demonstrates that weak-tie racism occurs through the reproduction of banal social signals that are deemed important through minute traces of social interaction promoted by algorithmic means.",
+    "after": ""
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "Similarly, algorithms are also discursive forces.",
+    "sentence": "Gillespie (2014) notes that “algorithms need not be software: in the broadest sense, they are encoded procedures for transforming input data into a desired output, based on specified calculations” (p. 167).",
+    "after": "In this inquiry, by algorithm, I am referring to data-mining processes that attempt to infer patterns of human activity."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "Gillespie (2014) notes that “algorithms need not be software: in the broadest sense, they are encoded procedures for transforming input data into a desired output, based on specified calculations” (p. 167).",
+    "sentence": "In this inquiry, by algorithm, I am referring to data-mining processes that attempt to infer patterns of human activity.",
+    "after": "Algorithms are similar to actuarial tables, which are used by financial entities (e.g., insurers or banks) to predict risk based on the statistical analysis of data sets of observed social behaviors."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "",
+    "sentence": "Ott (2004) offers a valuable way to understand algorithmic contributions to weak-tie racism.",
+    "after": "Citing Barthes, he argues that “the Text is experienced only in an activity of production” (p. 202) in the name of pleasure."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "Each iteration—reposts and shares—is yet another moment of production; each interactant has a different interpretation.",
+    "sentence": "Thus the algorithmic post is a multidimensional collaboration among the corporation, the computer, the network, the content, the post’s originator, and the audience.",
+    "after": "Far from being a single-authored artifact, the algorithmic feed is an intertextual moment for all, inscribing meaning on the viewer while deprecating his or her understanding of self as a unified subject (Ott, 2004)."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 14,
+  "input": "783bfa6a2684",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "Next, methods from digital humanities allowed us to study this massive corpus of tweets in two ways.",
+    "sentence": "We used Stephen Ramsay’s construct of algorithmic criticism and humanities critical theories, such as feminist and critical race theories, to fully explore the significance of the data.",
+    "after": "It is by bridging between digital quantitative data and humanities theorizing that the unique story of the power of these tweets can be told."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "There is no reason to believe that the contemporary online struggle for racial justice is any different.",
+    "sentence": "Indeed, in light of the tendency toward demographic clustering online and algorithmic filtering online, and the finding that online activism works best when a committed core of activists and a large periphery of supporters work together, supportive white allies that help advance messages of racial justice across demographic and ideological groups may be more important than ever.",
+    "after": ""
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "As Tarleton Gillespie explains in his book on social media moderation, this is partly because the available options for identifying, preventing or removing objectionable content are not especially good.",
+    "sentence": "Professional moderation and editorial review cannot scale up sufficiently to cover the overwhelming quantity of data on social media platforms; relying on users to flag questionable content is reactive and can be used to unfairly target and harass people; and algorithmic detection technology is still limited, especially for the photos and videos that dominate most modern social media platforms.",
+    "after": ""
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "The capitalist decisions of billion-dollar social media corporations are often mired in the same racism and sexism that hashtag activists are addressing in society.",
+    "sentence": "Work by scholars such as Safiya Noble, who describes how algorithms absorb and replicate the racial and gender biases of their programmers and users, and Joy Buolamwini, whose work highlights intersectional gaps in standard algorithmic training sets, exemplifies the deeply embedded nature of platform prejudice.",
+    "after": "Although Twitter CEO Jack Dorsey and other social media CEOs vociferously deny actively coding prejudice into their platforms, not specifically coding racism, sexism, and other forms of hate into platforms is insufficient."
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "",
+    "sentence": "While Twitter has publicly made moves that seem to align with Black Lives Matter activism—such as creating a corresponding emoji image (or hashflag) that automatically appears alongside the hashtag—their algorithms, policies, and business practices have come under scrutiny for what Ariadna Matamoros-Fernández calls “platformed racism.”",
+    "after": "For example, despite the disproportionate use of and creation on the platform by African American women, in 2015 Twitter boasted zero Black women employees."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "",
+    "sentence": "While the particulars of how and why items trend on Twitter are proprietary, Twitter representatives have confirmed that the algorithm preferences hashtags that are novel, used across multiple subgroups, and accelerate in popularity over a short period of time.",
+    "after": "To the extent that racial and gender justice hashtags tend to center on particular events (with novel keywords and short timeframes) and draw in a coalition of activists and everyday people, they may appeal to algorithmic features not specifically designed for their benefit."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "While the particulars of how and why items trend on Twitter are proprietary, Twitter representatives have confirmed that the algorithm preferences hashtags that are novel, used across multiple subgroups, and accelerate in popularity over a short period of time.",
+    "sentence": "To the extent that racial and gender justice hashtags tend to center on particular events (with novel keywords and short timeframes) and draw in a coalition of activists and everyday people, they may appeal to algorithmic features not specifically designed for their benefit.",
+    "after": "That said, the hashtags examined in this book also exemplify a survivorship bias insofar as we selected on success when we chose hashtags to include."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 3,
+  "input": "0a65101f7ce0",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "By centering “minor players” in media histories we become attuned to how sexuality and emotion make technological systems work smoothly.",
+    "sentence": "Dylan Mulvin’s history of the Lena test image, a torn-out Playboy centerfold used to develop image compression algorithms, shows how women’s sexualities became a form of communicative exchange in computer engineering labs.",
+    "after": "Similarly, Alana Cattapan and Quinn DuPont’s history of “Alice and Bob,” characters used as standard prototypes in computer engineering problems, uncovers the heteronormative relationship dynamics at the heart of how students who go on to develop new computing technologies are trained."
+   },
+   {
+    "loc": 114,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "Online indexes and databases to journals and primary source materials similarly index printed matter by subject, partly through the attribution of keywords.",
+    "sentence": "These digital indexes are algorithmic infrastructures whose inner workings are generally invisible to us.",
+    "after": "Google is an index that “crawls” the web to render information findable through online search retrieval."
+   },
+   {
+    "loc": 114,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "Crawling is, of course, a metaphor for what bots do; far from arbitrary, “crawling” evokes the kind of careful, thorough, and tiring process any decent indexing job requires.",
+    "sentence": "Search algorithms index materials according to instructions from the engineers who design them, and their indexing methods reflect human cultural biases, just like paper indexes.",
+    "after": "Although computing is imagined to be objective and nearly instantaneous, the use of slow and cumbersome imagery with the term “crawling” references indexing’s paper roots and hints at the fact that computer databases aren’t always so expedient or neutral, either."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 9,
+  "input": "07daa7637792",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "",
+    "sentence": "Programming, software, code, machine learning algorithms, facial and voice recognition technologies, and more have been continually criticized for their capacities to produce and reproduce racial and gendered prejudice.",
+    "after": "Some argue that these inequalities are new and unpredictable; others argue that this is the design."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Safiya Umoja Noble boldly claims in her groundbreaking text Algorithms of Oppression: How Search Engines Reinforce Racism, practices around information and access to information are deeply embedded in racial and gendered exclusionary practices.",
+    "after": "Building on a framework of black feminist technology studies, Noble roots media, information, and technological industries within systems of white supremacy, showing historical and contemporary manifestations of these practices in the everydayness of technology use."
+   },
+   {
+    "loc": 40,
+    "page": "PDF p. 40",
+    "kind": "p",
+    "before": "",
+    "sentence": "silentassassin321: Get ya algorithms right, nigga!",
+    "after": ""
+   },
+   {
+    "loc": 78,
+    "page": "PDF p. 78",
+    "kind": "p",
+    "before": "",
+    "sentence": "This explanation did nothing to ease the worries of black gamers who placed this experience in a long line of discriminatory practices in technology, from algorithmic bias, to biased artificial intelligence, to inaccessible controls, to stereotypical representations—data-driven discrimination that continues to relegate nonwhite, nonmasculine bodies to the margins.",
+    "after": "There were similar concerns with Hewlett-Packard’s face-tracking webcams and with iPhone X’s inability to discern Chinese users."
+   },
+   {
+    "loc": 78,
+    "page": "PDF p. 78",
+    "kind": "p",
+    "before": "There were similar concerns with Hewlett-Packard’s face-tracking webcams and with iPhone X’s inability to discern Chinese users.",
+    "sentence": "Facial recognition software often is programmed to work according to contrast recognition algorithms, which are calibrated to white faces and fail to recognize darker-skinned folks as a person to be engaged.",
+    "after": "Google Photos’ image recognition software provides the most pertinent example, illustrated in Safiya Noble’s text Algorithms of Oppression."
+   },
+   {
+    "loc": 79,
+    "page": "PDF p. 79",
+    "kind": "p",
+    "before": "",
+    "sentence": "The power of data to influence our perceptions and negatively impact our everyday realities is directly related to the biases of algorithmic information, whether we are searching the internet for the terms “black girls” or “black-on-white crime” or encountering racially biased reviews on Yelp. danah boyd uncovered how immersive virtual environments are a discriminatory embodiment of technology, producing a sexist effect in which men are able to be seamlessly transplanted into virtual worlds (such as Oculus Rift) but most women are excluded, unable to allow their bodies to disappear into virtual embodiment because of the nausea that motion parallax imaging often produces in their physical bodies—a condition that disparately affects women users but could be rectified through inclusive design.",
+    "after": ""
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "I was truly inspired by the powerful narratives offered in Algorithms of Oppression, by Safiya Umoja Noble.",
+    "sentence": "In this groundbreaking text, Noble says, “Algorithmic oppression is not just a glitch in the system but, rather, is fundamental to the operating system of the web.”",
+    "after": "In the tradition of other critical technocultural scholars who have demonstrated the inherent white masculine practices of the internet, Noble and others examine the persistence of racism, sexism, heterosexism, ableism, and more embedded in the core of technology."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "Notable works include the groundbreaking compilation Intersectional Internet (edited by Safiya Umoja Noble and Brendesha M. Tynes); Programmed Inequality (Mar Hicks); Distributed Blackness (André Brock Jr.); the provocative text Beyond Hashtags: Racial Politics and Black Digital Networks (Sarah Florini); Black Code (special issue of The Black Scholar, edited by Jessica Marie Johnson and Mark Anthony Neal); and Race after Technology (Ruha Benjamin).",
+    "sentence": "I was truly inspired by the powerful narratives offered in Algorithms of Oppression, by Safiya Umoja Noble.",
+    "after": "In this groundbreaking text, Noble says, “Algorithmic oppression is not just a glitch in the system but, rather, is fundamental to the operating system of the web.”"
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "766796456345",
+  "candidates": [
+   {
+    "loc": 83,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "",
+    "sentence": "in the case of racist algorithms.",
+    "after": "Joy Buolamwini, while a grad student at MIT,"
+   },
+   {
+    "loc": 83,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "",
+    "sentence": "selling book, Algorithm of Oppression, revealed the influences of human biases and",
+    "after": ""
+   },
+   {
+    "loc": 159,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Carter provided examples of in-house innovations—those produced by “writing” scholars and have made a difference in teaching and learning, publishing, and even manufacturing.",
+    "sentence": "Carter equated writing to coding by demonstrating the similarities between argumentation schematics, linguistic diagramming, poetry, and algorithm programming.",
+    "after": "Carter argued that making, disrupting, and innovating should not be seen as anomalies in writing studies."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 8,
+  "input": "e9db4c56b72c",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Now, perhaps more than ever, it is imperative that we attune our gaze to digital Black feminism.",
+    "sentence": "As the public is becoming more aware of algorithmic bias, influencer culture, the gig economy, fake news online, and social media harassment, researchers continue to point to a disproportionate impact on Black women.",
+    "after": "Safiya Noble (2018) began her inquiry into algorithmic bias with a simple question: What happens when you google search “Black girls”?"
+   },
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "As the public is becoming more aware of algorithmic bias, influencer culture, the gig economy, fake news online, and social media harassment, researchers continue to point to a disproportionate impact on Black women.",
+    "sentence": "Safiya Noble (2018) began her inquiry into algorithmic bias with a simple question: What happens when you google search “Black girls”?",
+    "after": "In Algorithms of Oppression, she details how the creation and utilization of algorithms in nearly every aspect of our digital lives perpetuate anti-Black racism and misogynoir."
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "Clarke explains braiding as a technology with a rule structure like that of an algorithm.",
+    "after": ""
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "Design and fabrication tools perform aesthetic gestures based preset commands and algorithms.",
+    "after": "The execution and repetition of a series procedures produces the patterns we see as braids."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Braiding requires sophisticated design decisions and technical expertise.",
+    "sentence": "As Nettrice Gaskins (2014) explains, “Certain patterns are amenable or open to algorithmic modeling— but ‘amenable’ need not connote the simple—a square is easier to simulate and repeat but the process of braiding, knitting or weaving these shapes into designs is more about complexity arising from simplicity.",
+    "after": "In other words, it is not the braid itself but the act of interweaving shapes that form the intricate patterns that unify the design” (para."
+   },
+   {
+    "loc": 116,
+    "page": "PDF p. 116",
+    "kind": "p",
+    "before": "In writing this book, I intend to send up a flare to those who study and report on digital culture about the glaring absence of Black women in their work.",
+    "sentence": "For those studying online harassment and trolling, algorithmic bias, and digital activism, Black women must be included in your work.",
+    "after": "As Sarah Florini concludes in her book Beyond Hashtags, “There is a direct link from trolls harassing Black feminists on Twitter in 2012 to the emergence of the ‘Alt-Right’” (Florini, 2019, p. 186)."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "c77ed9070d3f",
+  "candidates": [
+   {
+    "loc": 22,
+    "page": "pp. 21–23",
+    "kind": "p",
+    "before": "As I have illustrated, negative representations of Black women existed for centuries before the digital age, but these representations have been able to circulate more quickly with the advent of the Internet.",
+    "sentence": "Communications scholar Safiya Noble’s book Algorithms of Oppression traces the disturbing phenomena of early Google search engine results that equated any search for Black women and girls with a search for porn.",
+    "after": "The first images that resulted from these searches are of websites that show Black women engaged in sexual activity."
+   },
+   {
+    "loc": 22,
+    "page": "pp. 21–23",
+    "kind": "p",
+    "before": "Noble’s findings challenge the widely held belief that the Internet is a democratizing force of good for all.",
+    "sentence": "The algorithms reflect the biases of our society and are not inoculated from them as initially postulated.",
+    "after": ""
+   },
+   {
+    "loc": 34,
+    "page": "pp. 49–50",
+    "kind": "p",
+    "before": "On Monday, July 21, 2014, the hashtag #RuinABlackGirlsMonday began to trend on Twitter.",
+    "sentence": "Though it was used in fewer than ten thousand tweets, the hashtag still managed to capture the attention of Twitter algorithms and ended up in the day’s “trending topics.”",
+    "after": "User @DInHerFriends led tweeters of the hashtag to post images of white women with round butts, ample chests, and long hair, suggesting that these images would ruin a Black girl’s day because these white women had features that Black women seemingly solely possessed."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 10,
+  "input": "fba661591ebe",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "Here they will be explored in detail.",
+    "sentence": "Keep in mind that that term digital refers to information in binary form while computational refers to processes performed by algorithms.",
+    "after": ""
+   },
+   {
+    "loc": 19,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "Each involves a series of decisions and tasks that will be described in the sections ahead in more detail.",
+    "sentence": "These activities make it possible for automated algorithmically driven processes to operate on humanistic artifacts in a digital format.",
+    "after": "Similar methods are used in other fields and many are drawn from fields far from the humanities."
+   },
+   {
+    "loc": 25,
+    "page": "p. 10",
+    "kind": "p",
+    "before": "At their simplest, digital projects can consist of a set files (assets) stored in an information architecture such as a database or file system (structure) where they can be accessed (services) and called by a browser (use/display).",
+    "sentence": "At a more complex level, they can involve networked repositories of vast size and variety that can be analyzed with high-level algorithms and AI engines that index libraries of terms, code, and data in emergent processes.",
+    "after": ""
+   },
+   {
+    "loc": 53,
+    "page": "p. 38",
+    "kind": "p",
+    "before": "As noted earlier, increased regulations for privacy (the General Data Protection Regulation) have been passed by the European Union that are more stringent than those in the United States.",
+    "sentence": "Search engines also make use of this information to weight results and customize them through reinforcing algorithms.",
+    "after": "Biases and prejudices built into search engines play a significant role in the ways these reinforcing patterns work."
+   },
+   {
+    "loc": 60,
+    "page": "p. 45",
+    "kind": "p",
+    "before": "Lossy formats use compression techniques to reduce the amount of information needed to produce a usable display, sound, experience, or data set.",
+    "sentence": "Lossy format compression algorithms use a range of techniques to eliminate, average, or otherwise reduce the amount of information, thus reducing size.",
+    "after": "An easy way to think of this is in terms of images, often specified by pixel dimensions (say 200 x 300 pixels)."
+   },
+   {
+    "loc": 117,
+    "page": "p. 102",
+    "kind": "p",
+    "before": "The important principle here is that while some features of the display can be read literally (numbers of connections and directions), the literal distance of nodes from each other in a visualization can only be read logically.",
+    "sentence": "This is because the display algorithms try to preserve the statistical features of the data but are often optimizing legibility at the same time.",
+    "after": "As with all visualizations, it is important to be careful about reading the visual display literally."
+   },
+   {
+    "loc": 117,
+    "page": "p. 102",
+    "kind": "p",
+    "before": "A parent might be someone to whom everyone is connected, but your own communications might be more frequent with your siblings.",
+    "sentence": "When a network algorithm processes data, it tries to calculate these properties.",
+    "after": ""
+   },
+   {
+    "loc": 137,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "If the image is black and white, then tonal range, values, and contrast are particularly conspicuous.",
+    "sentence": "Image recognition at the level of iconography relies on combinations of object and scene recognition, and links to image libraries that are working with deep learning algorithms.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 68,
+  "input": "224996620df2",
+  "candidates": [
+   {
+    "loc": 69,
+    "page": "pp. 117–119",
+    "kind": "p",
+    "before": "In order to comply with these legal mandates, a new networked infrastructure has developed to assist platforms in monitoring the photos and videos of potential violence that are uploaded and streamed every day.",
+    "sentence": "This new infrastructure revolves around key corporate bodies designing in-house computer algorithms to work alongside existing law enforcement and child protection specialists.",
+    "after": "Facebook has emerged at the forefront of a push to proactively police harmful images on digital platforms, sponsoring child abuse conferences and deploying its own team of artificial intelligence researchers to develop image-recognition software to identify instances of child nudity, abuse, and recognizable offender faces."
+   },
+   {
+    "loc": 69,
+    "page": "pp. 117–119",
+    "kind": "p",
+    "before": "Facebook has emerged at the forefront of a push to proactively police harmful images on digital platforms, sponsoring child abuse conferences and deploying its own team of artificial intelligence researchers to develop image-recognition software to identify instances of child nudity, abuse, and recognizable offender faces.",
+    "sentence": "As the Germaine Moore case shows, the implementation of image-recognition software on social media platforms is not without pitfalls, as Moore “failed” to be identified by current facial recognition algorithms.",
+    "after": "Some attributed this failure to Moore’s race (he is African American), echoing the growing concern that facial-recognition algorithms are biased toward more accurate detection of white skin tones over people of color—a critical point I will return to later in this essay."
+   },
+   {
+    "loc": 70,
+    "page": "pp. 120–121",
+    "kind": "p",
+    "before": "",
+    "sentence": "Algorithms offer us abstract comforts, experienced pleasurably as they assist in image recognition for family photo albums and experienced queasily as they are operated by third-party firms to suggest advertising targets or political preferences.",
+    "after": "Many scholars have begun critiquing big data collection by corporations and governments, as well as exposed issues of racial and gendered bias in how machine-learning algorithms view and classify people of color and others considered nonnormative."
+   },
+   {
+    "loc": 71,
+    "page": "pp. 122–123",
+    "kind": "p",
+    "before": "Algorithms offer us abstract comforts, experienced pleasurably as they assist in image recognition for family photo albums and experienced queasily as they are operated by third-party firms to suggest advertising targets or political preferences.",
+    "sentence": "Many scholars have begun critiquing big data collection by corporations and governments, as well as exposed issues of racial and gendered bias in how machine-learning algorithms view and classify people of color and others considered nonnormative.",
+    "after": "In her study of facial-recognition systems, for example, Kelly Gates notes how militarized biometrics have seeped into widely available commercial technologies, blurring the lines between law and industry as designers and users crave improved accuracy and speed of recognition."
+   },
+   {
+    "loc": 72,
+    "page": "p. 124",
+    "kind": "p",
+    "before": "He explained, “Every image file that’s seen by a computer is made of 1s and 0s.",
+    "sentence": "You can run an algorithm over those files.",
+    "after": "The most common in law enforcement is Message Digest 5, ‘MD5,’ or Secure Hash Algorithm 1, ‘SHA1.’”"
+   },
+   {
+    "loc": 72,
+    "page": "p. 124",
+    "kind": "p",
+    "before": "You can run an algorithm over those files.",
+    "sentence": "The most common in law enforcement is Message Digest 5, ‘MD5,’ or Secure Hash Algorithm 1, ‘SHA1.’”",
+    "after": "He continued, gesturing to sample images in a PowerPoint slide used for demonstrations, “When you run the algorithm against an image file, it basically just cares about the 1s and 0s that make up that file, and so it can produce a unique identifier, or what we like to refer to as a ‘digital signature’ for that file because it’s unique to that file."
+   },
+   {
+    "loc": 74,
+    "page": "pp. 127–128",
+    "kind": "p",
+    "before": "",
+    "sentence": "There is an intimacy as well between police agencies and the computer scientists experimenting, developing, and playing with machine-learning algorithms for facial recognition in sex offender and child exploitation cases to better detect offender and child faces across gender and racial diversity.",
+    "after": "Machine-learning software is trained against virtual databases of existing, reported child pornography known to exist online."
+   },
+   {
+    "loc": 74,
+    "page": "pp. 127–128",
+    "kind": "p",
+    "before": "Machine-learning software is trained against virtual databases of existing, reported child pornography known to exist online.",
+    "sentence": "Recent work in science and technology studies (STS) and the social study of algorithms has pointed out, critically, that algorithms have embedded values and biases, leading to potential discrimination as well as the erasure of human analysis and input.",
+    "after": "In the case study of child pornography detection, digital forensics designers use certain training sets to improve their algorithm’s ability to detect faces, genders, and races."
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 3,
+  "input": "d06eb2d20ad7",
+  "candidates": [
+   {
+    "loc": 85,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "Although the purpose of the Diabetes Garage was to target material specifically for the Chicano men represented in the participatory translation focus groups, language relations in this region, and in the US and Mexico more broadly, consistently degrade non-standardized Spanishes in favor of standardized variations rooted in the European Castilian.",
+    "sentence": "This push to favor standardized language practices also extends to the design of technologies and to the development of digital algorithms that shape information searching and retrieval.",
+    "after": "For example, if a borderland resident wanted to Google how to “check” their glucose levels, they would have to use the formal Spanish word revisar rather than the borderland term checar to get more accurate results."
+   },
+   {
+    "loc": 85,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "For example, if a borderland resident wanted to Google how to “check” their glucose levels, they would have to use the formal Spanish word revisar rather than the borderland term checar to get more accurate results.",
+    "sentence": "As Safiya Umoja Noble (2018) makes clear in her discussion of Algorithms of Oppression, search engines like Google, in both their Spanish and English versions, are built on oppressive infrastructures that favor white/Western/standard language ideologies.",
+    "after": "Searching for the term checa on Google yields results that are unrelated to the meaning of the word check."
+   },
+   {
+    "loc": 142,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "",
+    "sentence": "As many scholars of race and technology note, the algorithms of oppression (to use Safiya Umoja Noble’s [2018] term) embedded within the designs of existing technologies are so rife with discrimination that they cannot be retrofitted (without a complete re-design and rebuild) to adequately support the activities and needs of non-normative bodies and non-white/Western/English-dominant audiences.",
+    "after": "In the case of the technologies built and used by participants at SAFAR, there is a constant balance among the innovation students engage in based on their extensive expertise and interests, the histories embedded in South Asian education systems and in technologies like keyboards, and the overall infrastructure of academic opportunity in contemporary global contexts."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 57,
+  "input": "572a07a52ade",
+  "candidates": [
+   {
+    "loc": 56,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "Indigenous communities are concerned with the absence of Indigenous voices and a lack of Indigenous perspectives in the development and construction of these declarations and manifestos.",
+    "sentence": "While a small number of reports (e.g., Gavaghan et al.; Walsh et al.) discuss well-being, equity, self-determination, algorithm uses, and Indigenous data sovereignty in Australia and New Zealand, the global dialogue around AI rarely takes up the issues and aspirations of Indigenous rights.",
+    "after": "Given the long history of technological advances being used against Indigenous people (Arnold; Guiliano and Heitman; Walter and Suina), it is increasingly imperative that Indigenous peoples engage with this latest paradigm shift."
+   },
+   {
+    "loc": 77,
+    "page": "pp. 114–115",
+    "kind": "p",
+    "before": "The last circle, presentation (§), is concerned with the communication of the project as a whole.",
+    "sentence": "Here, difficulty might arise in the presentation of the technical details (like algorithms) as they relate to the central cultural inquiry.",
+    "after": "Benjamin Schmidt has argued that digital humanists should learn about the transformations that any algorithms they use can bring about, since many algorithms are in and of themselves irrelevant."
+   },
+   {
+    "loc": 77,
+    "page": "pp. 114–115",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the context of queer CA, I argue that in communicating the technical details of their projects, practitioners of queer CA should focus instead on the heuristics or the intuitive processes behind the algorithms they adopt, not merely on texts and their transformations: What task does the algorithm seek to complete, and what steps are taken to complete it?",
+    "after": "To use Word2Vec, for instance, then requires a basic understanding of relevant language models (skip-gram, continuous bag of words) and distributed representation and what kind of problems in the NLP tradition those new models were designed to solve."
+   },
+   {
+    "loc": 77,
+    "page": "pp. 114–115",
+    "kind": "p",
+    "before": "Researchers in queer CA do not necessarily need to know exactly how stochastic gradient descent processes update vectors, but some understanding of distributed representation and its relevant history in NLP, or how it relates to cosine distance, would nevertheless help them articulate how this operationalization method speaks to their research question.",
+    "sentence": "Grasping the thought process behind such problem-solving algorithms reflects more than an attempt to reduce the skepticism surrounding black boxes.",
+    "after": "Without an intuition of what happens in the algorithm, researchers can struggle to move between those circles of queer CA."
+   },
+   {
+    "loc": 116,
+    "page": "p. 182",
+    "kind": "p",
+    "before": "",
+    "sentence": "Pushing back against the use of existing facial recognition technologies, some digital humanities scholars, including Christop Musik and Matthias Zeppelzauer, recommend avoiding existing computer vision programs and techniques in DH, as the ground truths these algorithms are built on are often insufficient for higher-level DH research questions.",
+    "after": "Instead, Musik and Zeppelzauer recommend a dynamic “active learning” approach to training computer vision algorithms in DH, in which the researcher takes a more active role in training the algorithm, where “her/his needs are directly integrated into the learning process, which replaces the need to define a ground truth explicitly” (59)."
+   },
+   {
+    "loc": 116,
+    "page": "p. 182",
+    "kind": "p",
+    "before": "Pushing back against the use of existing facial recognition technologies, some digital humanities scholars, including Christop Musik and Matthias Zeppelzauer, recommend avoiding existing computer vision programs and techniques in DH, as the ground truths these algorithms are built on are often insufficient for higher-level DH research questions.",
+    "sentence": "Instead, Musik and Zeppelzauer recommend a dynamic “active learning” approach to training computer vision algorithms in DH, in which the researcher takes a more active role in training the algorithm, where “her/his needs are directly integrated into the learning process, which replaces the need to define a ground truth explicitly” (59).",
+    "after": "Others, like Jentery Sayers, question using facial recognition software at all, stating: “While I know digital humanities is often quick to build alternative technologies, amidst these questions is whether computer vision should be used at all for face recognition in and beyond academic work.”"
+   },
+   {
+    "loc": 133,
+    "page": "pp. 211–212",
+    "kind": "p",
+    "before": "Digital humanists have much to offer in this space, having launched projects that are inclusive along the lines of gender and race and that question the legacy of empire using data-driven means (Despain; So, Long, and Zhuet; Risam).",
+    "sentence": "They engage in the creation of datasets, the programming of infrastructure, and the writing of algorithms, forms of praxis that resemble poiesis and criticism in their ability to be reproduced.",
+    "after": "In their instance as tools, algorithmic criticism also offers an ability to affect the world, rendering action at a distance, as Heidegger might argue, as of the hammer as an extension of the arm."
+   },
+   {
+    "loc": 133,
+    "page": "pp. 211–212",
+    "kind": "p",
+    "before": "They engage in the creation of datasets, the programming of infrastructure, and the writing of algorithms, forms of praxis that resemble poiesis and criticism in their ability to be reproduced.",
+    "sentence": "In their instance as tools, algorithmic criticism also offers an ability to affect the world, rendering action at a distance, as Heidegger might argue, as of the hammer as an extension of the arm.",
+    "after": "In Margaret Linley’s phrase, tools such as data and infrastructure “shape human perception and cognition, forms of discourse, and patterns of social behavior” (413)."
+   }
+  ]
+ }
+]

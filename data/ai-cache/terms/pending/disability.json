@@ -1,0 +1,1075 @@
+[
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 2,
+  "input": "fce3e300419c",
+  "candidates": [
+   {
+    "loc": 131,
+    "page": "PDF p. 131",
+    "kind": "p",
+    "before": "Of the theorists discussed here, Johnson launches perhaps the most severe attack on objectivism.",
+    "sentence": "Thus it is ironic that he reinscribes objectivist presuppositions in positing a universal body unmarked by gender, ethnicity, physical disability, or culture.",
+    "after": "Insisting that the body is an important part of the context from which language emerges, he erases the specific contexts provided by embodiment."
+   },
+   {
+    "loc": 172,
+    "page": "PDF p. 172",
+    "kind": "p",
+    "before": "But when the system has snow-crashed, it loses even the ability to turn itself off, and primitive methods are required” (SC, p. 361).",
+    "sentence": "Reason may still be on top, but once the nervous system has crashed at a basic level, rationality becomes as useless as the disabled gun.",
+    "after": "Porush tries to finesse the issue by arguing that rationality is opposed to “realism” because realism tries to reduce the world’s noisy complexity into graspable concepts."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 1,
+  "input": "da39a3ee5e6b",
+  "candidates": []
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 1,
+  "input": "5f452807adce",
+  "candidates": [
+   {
+    "loc": 69,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "Slide four consists of a pink ﬁeld on which is written, in darker pink letters, “Ramadan is almoast here!” and it is followed by slides ﬁve and six, which represent ﬁrst a digital image of a dark ﬁeld with a gold crescent moon and star—the sign of Islam—and conclude with a scanned photograph of Mecca.",
+    "sentence": "When this last slide is reached, the program loops to the ﬁrst slide and continues to play this six-slide sequence during an IM session until it is disabled.",
+    "after": "Thus the female body is depicted from top to bottom, sutured to a religious exhortation having to do with observing Muslim ritual and holidays, followed by the images of particular national identities and religious sites."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 1,
+  "input": "c0f55e10d1e3",
+  "candidates": [
+   {
+    "loc": 92,
+    "page": "PDF p. 92",
+    "kind": "p",
+    "before": "",
+    "sentence": "In North American society, taking away women, African Americans, Hispanic Americans, French Canadians, Native peoples, Asian Americans, lesbians and gay men, people with disabilities, anyone who is not Christian, working class and poor people, and so forth, one is left with a very small “core.”",
+    "after": "An image that shows the complexity of these overlapping categories is that of a huge Venn diagram with many sets limited by Boolean ANDs."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 19,
+  "input": "412edfe3a2c3",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "pp. 14–16",
+    "kind": "p",
+    "before": "In 1857, a legislative investigation found that the House of Industry confined the mentally ill to 4½-by-7-feet cells for as long as six months at a time.",
+    "sentence": "Because they had only straw to sleep on and no sanitary facilities, a mixture of straw and urine froze onto their bodies in the winter “and was removed only by thawing it off,” causing permanent disabilities.",
+    "after": ""
+   },
+   {
+    "loc": 11,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "From the beginning, the poorhouse served irreconcilable purposes that led to terrible suffering and spiraling costs.",
+    "sentence": "On the one hand, the poorhouse was a semi-voluntary institution providing care for the elderly, the frail, the sick, the disabled, orphans, and the mentally ill.",
+    "after": "On the other, its harsh conditions were meant to discourage the working poor from seeking aid."
+   },
+   {
+    "loc": 12,
+    "page": "pp. 19–21",
+    "kind": "p",
+    "before": "Another quarter were mentally ill, blind, deaf, or developmentally delayed.",
+    "sentence": "Most of the rest were elderly, ill, physically disabled, or poor mothers recovering from childbirth.",
+    "after": ""
+   },
+   {
+    "loc": 12,
+    "page": "pp. 19–21",
+    "kind": "p",
+    "before": "The poorhouse was a home of last resort for children whose families could not afford to keep them, travelers who fell on hard times, the aged and friendless, deserted and widowed, single mothers, the ill and the handicapped, freed slaves, immigrants, and others living on the margins of the economy.",
+    "sentence": "Though most poorhouse stays lasted less than a month, elderly and disabled inmates often stayed for decades.",
+    "after": "Death rates at some institutions neared 30 percent annually."
+   },
+   {
+    "loc": 15,
+    "page": "pp. 27–29",
+    "kind": "p",
+    "before": "But, reversing the preceding hundred years of poverty policy, they were suddenly considered the deserving poor and offered federal aid to reenter the workforce.",
+    "sentence": "The impotent poor were still those who faced long-term challenges to steady employment: racial discrimination, single parenthood, disability, or chronic illness.",
+    "after": "But they were suddenly characterized as undeserving, and only reluctantly offered stingy, punitive, temporary relief."
+   },
+   {
+    "loc": 15,
+    "page": "pp. 27–29",
+    "kind": "p",
+    "before": "",
+    "sentence": "Excluded workers, single mothers, the elderly poor, the ill, and the disabled were forced to rely on what welfare historian Premilla Nadasen calls “mop-up” public assistance programs.",
+    "after": "The distinctions between the unemployed and the poor, men’s poverty and women’s poverty, northern white male industrial laborers and everyone else created a two-tiered welfare state: social insurance versus public assistance."
+   },
+   {
+    "loc": 20,
+    "page": "pp. 39–41",
+    "kind": "p",
+    "before": "",
+    "sentence": "Her parents contacted representatives of First Steps, a program of the Indiana Division of Disability and Rehabilitative Services that helps young children with developmental delays.",
+    "after": "Through the program, Sophie received therapy and nutrition services, and her family received counseling and support."
+   },
+   {
+    "loc": 23,
+    "page": "pp. 47–49",
+    "kind": "p",
+    "before": "We will make America’s worst welfare system better for the people it serves, a much fairer deal for taxpayers, and for its own employees.”",
+    "sentence": "According to the Daniels administration, the modernization project would improve access to services for needy, elderly, and disabled people while saving taxpayers’ money.",
+    "after": "It would do this by automating welfare eligibility processes: substituting online applications for face-to-face interactions, building centralized call centers throughout the state, and “transitioning” 1,500 state employees to private telephone call centers run by ACS."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 1,
+  "input": "3ca9a9fa5add",
+  "candidates": [
+   {
+    "loc": 32,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "Taking up gender, Jacqueline Wernimont’s question, “Whence feminism?” explores the possibilities of creating a methodology for designing feminist digital archives.",
+    "sentence": "At the intersections of race, gender, and disability, Moya Bailey argues that increasing diversity among practitioners transforms digital humanities methods.",
+    "after": "Additionally, my own work on intersectionality considers how we can uncover a hidden history of intersectionality in digital humanities scholarship and use it to develop intersectional praxis that accounts for compounding oppressions that magnify difference in the digital cultural record."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 35,
+  "input": "97678895413a",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "Returning again to the topic of embodiment, Kim’s piece foregrounds not only the pleasures and desires of interacting with digital book “bodies” in the tradition of book history but also the sensorium of editorial bodies that help to produce those digital bodies.",
+    "sentence": "Interrogating production and interface, Kim’s work brings medieval history and literary studies, book history, disability studies, interface theory, art history, and affective and feminist theories together in what we might frame as a critical assemblage.",
+    "after": "This project allows her to argue that digital editors are performing “an agential cut,” resonant but formally and temporally different from that seen in “Ev-Ent-Anglement.”"
+   },
+   {
+    "loc": 275,
+    "page": "p. 247",
+    "kind": "p",
+    "before": "Where is the space where we can interrogate these issues?",
+    "sentence": "I believe this will really come from Disability Studies in Digital Humanities building.",
+    "after": "And this shift to Disability Studies is where the AEME will develop into more robustly capturing the process and experience of its editorial/user/player bodies."
+   },
+   {
+    "loc": 275,
+    "page": "p. 247",
+    "kind": "p",
+    "before": "I believe this will really come from Disability Studies in Digital Humanities building.",
+    "sentence": "And this shift to Disability Studies is where the AEME will develop into more robustly capturing the process and experience of its editorial/user/player bodies.",
+    "after": ""
+   },
+   {
+    "loc": 275,
+    "page": "p. 247",
+    "kind": "p",
+    "before": "In my interactions with the Twitter discussion, I pointed out that the goal of disability studies should be to disrupt the very idea of “accommodation” in order to reconceptualize how building computer programs or actual buildings should be disrupted and rethought from the disability studies angle.",
+    "sentence": "We should stop thinking only as ableist+accommodations, but rather from disability studies’ point of view to rethink the critical possibilities.",
+    "after": "What if the mainstream angle was the angle of disability studies?"
+   },
+   {
+    "loc": 275,
+    "page": "p. 247",
+    "kind": "p",
+    "before": "We should stop thinking only as ableist+accommodations, but rather from disability studies’ point of view to rethink the critical possibilities.",
+    "sentence": "What if the mainstream angle was the angle of disability studies?",
+    "after": "In digital humanities work for instance, classic textual data modeling is a simple wordle (http://www.wordle.net) word cloud with colors and shapes."
+   },
+   {
+    "loc": 276,
+    "page": "p. 248",
+    "kind": "p",
+    "before": "And in the discussion on Twitter, I reply to several of the conference participants and ask if we can’t begin to go beyond “accommodations.”",
+    "sentence": "Instead, we should center the point of view of disability studies as the vision of the digital humanities project.",
+    "after": "From disability studies scholarship, I believe we can begin to think through issues of tactility, sound, and other sensory perceptions that will help us rethink our digital tools and our digital agendas."
+   },
+   {
+    "loc": 276,
+    "page": "p. 248",
+    "kind": "p",
+    "before": "Instead, we should center the point of view of disability studies as the vision of the digital humanities project.",
+    "sentence": "From disability studies scholarship, I believe we can begin to think through issues of tactility, sound, and other sensory perceptions that will help us rethink our digital tools and our digital agendas.",
+    "after": "For instance, why use word clouds only, or even sound visualized clouds?"
+   },
+   {
+    "loc": 276,
+    "page": "p. 248",
+    "kind": "p",
+    "before": "",
+    "sentence": "It is through the angle of disabilities studies that we can decenter the focus on visuality that has been central to the digital humanities, to move away from “ocu-larcentrism.”",
+    "after": "Instead, the critical possibilities may include a move away from the classic textual data modeling as a simple wordle word cloud w/colors and shapes."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 4,
+  "input": "6ac02accb0f9",
+  "candidates": [
+   {
+    "loc": 85,
+    "page": "p. 73",
+    "kind": "p",
+    "before": "More importantly, the ideological commitments of dominant groups typically determine what gets awarded credit in the first place, automating social reproduction.",
+    "sentence": "This implicates not only race and ethnicity; depending on the fault lines of a given society, merit systems also codify class, caste, sex, gender, religion, and disability oppression (among other factors).",
+    "after": "The point is that multiple axes of domination typically converge in a single code."
+   },
+   {
+    "loc": 126,
+    "page": "p. 114",
+    "kind": "p",
+    "before": "The popularity of eugenics gained steam following the 1927 Supreme Court decision in Buck v.",
+    "sentence": "Bell - a decision to uphold the involuntary sterilization of those deemed intellectually disabled: “It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind.”",
+    "after": "We see how the law becomes an instrument for perpetuating deeply discriminatory practices under the guise of reason, neutrality, and social betterment for “all the world.”"
+   },
+   {
+    "loc": 140,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "Coded exposure is not simply an American phenomenon, nor is it an issue that exists only when societies explicitly use the language of “race” in social and political life.",
+    "sentence": "Caste, religion, nationality, and disability are routinely racialized, to the extent that they signify immutable and stratified human differences.",
+    "after": "Moving beyond the US context, digitizing identity in governmental practices can lead to new forms of surveillance, coercion, and subordination.’”° UK’s Human Provenance Pilot Project, India’s Unique Identity Project (UID), and Kuwait’s National DNA Initiative show how the racialization of inequality produces an allure of objectivity and inevitability that makes it even harder to question and change the techno status quo."
+   },
+   {
+    "loc": 166,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "She examines how “cultural notions of race became embedded in the architecture of an apparently ordinary instrument,” the spirometer (a device built to assess lung function), and reviews the widespread implications of this process — from research to clinics to medical school training to insurance claims.°!",
+    "sentence": "In 1999 the world’s largest insulation manufacturer was busily trying to limit disability claims in a class-action lawsuit brought by 15,000 asbestos workers by drawing upon the long-standing belief among pulmonologists that racial groups differed in the capacity and the function of their lungs.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 21,
+  "input": "6bd29d911970",
+  "candidates": [
+   {
+    "loc": 47,
+    "page": "p. 20",
+    "kind": "p",
+    "before": "The lack of a shared definition of feminism, she argues, contributes to marginalization within an oppressed social group.",
+    "sentence": "Many feminist efforts are led by white, bourgeois women who “maintain their dominance over the leadership of the movement and its direction” (p. 27) while at the same time relegating women of color, women with disabilities, women in poverty, and other women whose identities occupy multiple positions of disadvantage to the outskirts of the movement, if not pushing them outside the movement altogether.",
+    "after": "A contemporary example of this is the #metoo movement, which aims to call attention to sexual harassment, assault, and rape."
+   },
+   {
+    "loc": 51,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "People who occupy positions of privilege are often oblivious to the advantages of automatically commanding respect in their knowledge, authority, and perspectives.",
+    "sentence": "Intersectional feminism and critical race theory remind us that people who occupy multiple positions of disadvantage—such as a lesbian with a low socioeconomic status or a Black man with disabilities—experience compounded powerlessness.",
+    "after": "(See Chapter 5 for a more cohesive, though not comprehensive, theory of power.)"
+   },
+   {
+    "loc": 93,
+    "page": "p. 66",
+    "kind": "p",
+    "before": "Positionality allows for people to recognize, account for, and hold as true conflicting, contradictory aspects of their own identity, as well as that of others.",
+    "sentence": "Positionality provides a frame for understanding that, perhaps counter-intuitively, many people simultaneously occupy some seemingly contradictory identities: For example, college-educated professional with mental illness and disabilities, rural Southern Christian lesbian, etc. These supposed contradictions among our identity categories create points of tension as we try to live out what it means to be supposedly contradictory things simultaneously.",
+    "after": "For example, whereas dominant perspectives may insist upon what Anzaldúa (2007) calls “an absolute despot duality that says we are able to be only one [sex] or the other,” positionality accounts for complexity in which, for example, Anzaldúa (2007) occupies a both/and position, explaining, “But, I, like other queer people, am two in one body, both male and female."
+   },
+   {
+    "loc": 97,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "In an effort to overcome stereotypes of women as self-effacing and less technologically capable, a female tenure-line TPC professor may promote her publications, funded grants, and other accomplishments via an active, highly visible social media presence, only to be perceived as a “diva”: A high-maintenance online attention seeker.",
+    "sentence": "An employee with a visible disability may try to dispel a stereotype of helplessness by firmly asserting his independence and self-reliance, only to be perceived as prickly and easily offended.",
+    "after": ""
+   },
+   {
+    "loc": 111,
+    "page": "p. 84",
+    "kind": "p",
+    "before": "You become a tick in a box.",
+    "sentence": "You might be one of this many students from working-class backgrounds who get into the university; one of this many people of color hired by the university; one of this many women in senior positions; one of this many students or staff with disabilities.",
+    "after": "Ahmed makes it clear that those individuals with identity markers (embodied, material, social, cultural, and economic) that are considered the default benefit from their standing in society."
+   },
+   {
+    "loc": 119,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "For example, consider a white man shopping in a high-end department store who is acknowledged and left alone to browse versus a Black woman in the same high-end department store who is followed and watched with suspicion.",
+    "sentence": "In addition, differences may be invisible to others and yet still held against you: For example, people with physical or mental disabilities; people who are neurodiverse or neurodivergent; or people who can “pass” as other races, ethnicities, sexualities, or genders.",
+    "after": "Privilege manifests, for example, in questions like “Why are you not able to go to X meeting?”, which becomes “Everyone else can go."
+   },
+   {
+    "loc": 164,
+    "page": "p. 137",
+    "kind": "p",
+    "before": "This is an example of the people who live at the margins of this particular (and most) design project.",
+    "sentence": "We know from disability studies scholars (Dolmage, 2008; Palmeri, 2006; Zdenek, 2015) that the world is designed for the able-bodied person.",
+    "after": "Ableism centers the experiences of able-bodied individuals, leaving those with disabilities at the margins."
+   },
+   {
+    "loc": 164,
+    "page": "p. 137",
+    "kind": "p",
+    "before": "We know from disability studies scholars (Dolmage, 2008; Palmeri, 2006; Zdenek, 2015) that the world is designed for the able-bodied person.",
+    "sentence": "Ableism centers the experiences of able-bodied individuals, leaving those with disabilities at the margins.",
+    "after": "So, in design terms, we might ask, “Who is this space, place, program, technology designed for?"
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 19,
+  "input": "fbb5a7208dbc",
+  "candidates": [
+   {
+    "loc": 35,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "I write this book in mixed company.",
+    "sentence": "I am inspired by scholars working on questions of race, colonialism, gender, sexuality, and disability who write from or about “bodies out of place,” “misfits,” or “troublemakers,” including Judith Butler, Rosemarie Garland-Thomson, Alexis Pauline Gumbs, Aimi Hamraie, Alison Kafer, Heidi Mirza, Aileen Moreton-Robinson, Nirmal Puwar, Shirley Anne Tate, Gloria Wekker, as well as many, many others.",
+    "after": "Those who are not quite at home—in a body, a discipline, a world—have much to teach us about how things are built, that is to say, have much to teach us about the uses of use."
+   },
+   {
+    "loc": 75,
+    "page": "p. 59",
+    "kind": "p",
+    "before": "You can also be addressed by a door.",
+    "sentence": "Scholars in disability studies have developed some of the most important insights into the uses of use, through exploring how the world has been designed for a body with assumed capabilities.",
+    "after": "As Aimi Hamraie describes in Building Access, “Examine any doorway, window, toilet, chair, or desk . . . and you will find the outline of the body meant to use it” (2017, 19, emphasis mine)."
+   },
+   {
+    "loc": 78,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Universal Design refers to “the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.”",
+    "sentence": "As Hamraie notes, experiments with product designs “that could benefit multiple types of users, including disabled users,” became “testing grounds” for Universal Design (2017, 193).",
+    "after": "Hamraie explains how the lever handle became the focus of much experimentation, quoting Mace: “The front door is made easier for everyone to open by one simple change—a lever handle in place of the traditional knob” (193)."
+   },
+   {
+    "loc": 78,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "But, as Hamraie notes, the problem with this approach when translated into practice is the use of “everyone,” which can work to enable the needs of differently abled users to disappear.",
+    "sentence": "Hamraie explains that “a designer unaware of the need for disability access could miss the imperative for spatial inclusion entirely” (201).",
+    "after": ""
+   },
+   {
+    "loc": 240,
+    "page": "p. 224",
+    "kind": "p",
+    "before": "The moral understandings, subjugated knowledge, or ethical fitting that can emerge from what might be called socially conscious, or even theoretically mediated, misfitting can yield innovative perspectives and skills in adapting to changing and challenging environments.",
+    "sentence": "Acquiring or being born with the traits we call disabilities fosters an adaptability and resourcefulness that often is underdeveloped in those whose bodies fit smoothly into the prevailing, sustaining environment.",
+    "after": "This epistemic status fosters a resourcefulness that can extend to the nondisabled and not yet disabled as they relate to and live with people with disabilities."
+   },
+   {
+    "loc": 240,
+    "page": "p. 224",
+    "kind": "p",
+    "before": "Acquiring or being born with the traits we call disabilities fosters an adaptability and resourcefulness that often is underdeveloped in those whose bodies fit smoothly into the prevailing, sustaining environment.",
+    "sentence": "This epistemic status fosters a resourcefulness that can extend to the nondisabled and not yet disabled as they relate to and live with people with disabilities.",
+    "after": "For example, people born without arms all learn to use their toes to accomplish tasks that those of us with arms never are able to do."
+   },
+   {
+    "loc": 241,
+    "page": "p. 225",
+    "kind": "p",
+    "before": "friction; when bodies do not fit seamlessly into space, things happen.",
+    "sentence": "Aimi Hamraie introduces the concept of “crip technoscience” to investigate the “critical design work of how misfit disabled users, for whom estrangement is already a pervasive experience, draw on the sensibilities of friction and disorientation to enact design politics” (2017, 103).",
+    "after": "Crip and queer meet at an odd angle."
+   },
+   {
+    "loc": 241,
+    "page": "p. 225",
+    "kind": "p",
+    "before": "When you draw upon what does not fit, what is slant-wise or bent, you draw a diff erent world.",
+    "sentence": "We can think of the disability design work of Liz Jackson, who describes how “our lives are spent cultivating an intuitive creativity, because we navigate a world that isn’t built for our bodies.”",
+    "after": "Indeed, Jackson also notes how often the creativity of disabled designers is written out of the history of design, how too often disabled people are assumed to be the recipients of, rather than agents in, the design process."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 7,
+  "input": "5153d15d6e8e",
+  "candidates": [
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "The project exists as a website and as an art object.",
+    "sentence": "The latter consists of a file cabinet filled with folders labeled with phrases like: “People excluded from public housing because of criminal records,” “Mobility for older adults with physical disabilities or cognitive impairments,” and “Total number of local and state police departments using stingray phone trackers (IMSI-catchers).”",
+    "after": "Visitors can tab through the folders and remove any particular folder of interest, only to reveal that it is empty."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "We are embodied, multisensory beings with cultures and memories and appetites.",
+    "sentence": "Second, people with visual disabilities need a way to access the data encoded in charts and dashboards as well.",
+    "after": "According to the World Health Organization, 253 million people globally live with some form of visual impairment, on the spectrum from limited vision to complete blindness."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "",
+    "sentence": "Any knowledge community inevitably places certain things at the center and casts others out, in the same way that male bodies are almost always taken as the norm in scientific studies while female bodies are viewed as deviations, or that abled bodies are almost always taken as primary design cases while disabled bodies require a design retrofit.",
+    "after": "Feminist human-computer interaction (HCI) scholar Shaowen Bardzell asserts designers should look first to those at the margins: the people pushed to the margins in any particular design context demonstrate who and what the system is trying to exclude."
+   },
+   {
+    "loc": 95,
+    "page": "PDF p. 95",
+    "kind": "p",
+    "before": "Over the course of the eighteenth century, increasingly racist systems of classification began to emerge, along with pseudosciences like comparative anatomy and physiognomy.",
+    "sentence": "These allowed elite white men to provide a purportedly scientific basis for the differential treatment of people of color, women, disabled people, and gay people, among other groups.",
+    "after": "Although those fields have long since been discredited, their legacy is still visible in instances as far-ranging as the maternal health outcomes that we’ve already discussed, to the divergent rates of car insurance that are offered to Black vs. white drivers, as described in an investigation conducted by ProPublica and Consumer Reports."
+   },
+   {
+    "loc": 171,
+    "page": "PDF p. 171",
+    "kind": "p",
+    "before": "In contrast to the Atlas of Caregiving, which relies upon standard visualization techniques like radial timelines and Gantt-style charts to legitimate the work of care, Lupi sought alternative visualization strategies to emphasize the particularity and specificity of a single family’s situation.",
+    "sentence": "She employed a fluid timeline to reflect the subjective nature of what disability studies scholars call crip time.",
+    "after": "With this term, as Ellen Samuels explains it, “Sometimes we just mean that we’re late all the time— maybe because we need more sleep than nondisabled people, maybe because the accessible gate in the train station was locked.”"
+   },
+   {
+    "loc": 171,
+    "page": "PDF p. 171",
+    "kind": "p",
+    "before": "With this term, as Ellen Samuels explains it, “Sometimes we just mean that we’re late all the time— maybe because we need more sleep than nondisabled people, maybe because the accessible gate in the train station was locked.”",
+    "sentence": "But it can also mean something more profound, as described by Alison Kafer: “Rather than bend disabled bodies and minds to meet the clock, crip time bends the clock to meet disabled bodies and minds.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 121,
+  "input": "bb0a77e6875b",
+  "candidates": [
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "It’s full of useful insights and compelling examples.",
+    "sentence": "However, it almost entirely ignores race, class, gender, disability, and other axes of inequality.",
+    "after": "Norman very briefly states that capitalism has shaped the design of objects, but says it in passing and never relates it to the key concepts of the book."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "Gay, lesbian, transgender: none of these terms appear.",
+    "sentence": "Disability is barely discussed, in a brief section titled “Designing for Special People.”",
+    "after": "In this three-page passage, Norman describes the problems designers face in designing for left-handed people and urges the reader to “consider the special problems of the aged and infirm, the handicapped, the blind or near-blind, the deaf or hard of hearing, the very short or very tall, or the foreign.”"
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "Standardization steadily lowered implementation costs.",
+    "sentence": "At the same time, a legal regime was put in place that required designers in many fields to implement accessibility best practices, as Aimi Hamraie writes in their recent book Building Access: Universal Design and the Politics of Disability.",
+    "after": ""
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "For example, communication scholar Meryl Alpert has recently demonstrated that communication technologies meant to “give voice to the voiceless” continue to reproduce intersectional structural inequalities.",
+    "sentence": "At the same time, disability justice underpins real gains.",
+    "after": "Alison Kafer’s brilliant book Feminist, Queer, Crip draws from the history and practice of environmental justice, reproductive justice, disability justice, trans* liberation, and other movements to reimagine a radically inclusive world of Crip futures."
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "At the same time, disability justice underpins real gains.",
+    "sentence": "Alison Kafer’s brilliant book Feminist, Queer, Crip draws from the history and practice of environmental justice, reproductive justice, disability justice, trans* liberation, and other movements to reimagine a radically inclusive world of Crip futures.",
+    "after": "For example, trans* and GNC people, some abled and some who identify as Crip (in a move that reclaims the pejorative “cripple” as an in-group term of pride), are simultaneously challenging ableist spaces and the sociotechnical reproduction of the gender binary by struggling for (and in many cases winning) the implementation of gender-neutral, accessible bathrooms in schools, universities, public buildings, and private establishments across the country and around the world."
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "",
+    "sentence": "The history of design and disability activism provides the cornerstone for design justice.",
+    "after": "First, this history teaches us that it is indeed possible for a social movement to impact design policy, processes, practices, and outcomes in ways that are very broad, deep, and long-lasting."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "None of these techniques are as good as the inclusion of diverse users on the design team throughout the process.",
+    "sentence": "For example, the supposedly beneficial design practice of “disability simulation” has been discredited by a recent meta-analysis.",
+    "after": "In disability simulation, “a nondisabled person is asked to navigate an environment in a wheelchair in order, supposedly, to gain a better understanding of the experiences of disabled persons."
+   },
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "Disabled people.",
+    "sentence": "While some prefer to use the “people-first” term “People with Disabilities” (often abbreviated PwD), I use “Disabled people,” or “identity-first” language throughout this book.",
+    "after": "While both terms emerged from disability advocacy, some feel that the former implies the individual/medical model of disability, while the latter is tied more closely to disability justice conceptions of the social production of disability."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "b1c821ce982a",
+  "candidates": [
+   {
+    "loc": 110,
+    "page": "PDF p. 110",
+    "kind": "p",
+    "before": "Conversation and dialogue are touted as important features of the internet; pundits and academics argue that interactivity is key to information access and a robust public sphere.",
+    "sentence": "However, the comment sections where those dialogues could happen are a fraught endeavor in today’s media environments; many large sites have disabled their comments thanks to inappropriate community behavior or pernicious bots and spamming by bad actors.",
+    "after": "Meanwhile, smaller sites face long-standing issues of discovery due to the massive amount of information available online, so the initial task of building a commentariat is difficult, and conversations are hard to sustain."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "f70f469c2f7e",
+  "candidates": [
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "These individual acts, in the context of social movements, are built on organized practices of solidarity.",
+    "sentence": "For example, during a 1977 action in which people with disabilities blockaded San Francisco lawmakers in their offices for refusing to enforce the precursor to the Americans with Disabilities Act, able-bodied members of the Black Panther Party delivered food to the blockaders and published articles in solidarity in the party paper.",
+    "after": "This act of solidarity was predicated on the understanding that, while the primary issues of the two groups appeared to differ, the impact of oppression on both created a sense of shared experience."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 14,
+  "input": "d13815c3a54b",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "Focusing on ruptures with standards in libraries, archives, and other information contexts, this work considers such sites as the feminization of information work; the careful, gendered labor of description; the queerness of cataloging practices; and the trans-ing of archival systems.",
+    "sentence": "Improving access to information within archives and databases is bound up with digital understandings of interface design, search retrieval, networks, disability, and ethical questions about minoritarian users and their digital records.",
+    "after": "Historicizing these ways of thinking digitally shows how queer digital media practices emerge out of long-established activist information work."
+   },
+   {
+    "loc": 21,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "My focus is on information’s role in lesbian feminist counterpublic formation and expression, even as “social movement” is most often the shorthand through which lesbian feminism is categorized.",
+    "sentence": "Approaches to lesbian feminism as a social movement varied, because of ties to discrete counterpublics formed around race, ethnicity, class, and disability, which mattered even as women came together in activism.",
+    "after": ""
+   },
+   {
+    "loc": 94,
+    "page": "p. 90",
+    "kind": "p",
+    "before": "",
+    "sentence": "gram more accessible to volunteers with disabilities.",
+    "after": "Training records from"
+   },
+   {
+    "loc": 94,
+    "page": "p. 90",
+    "kind": "p",
+    "before": "",
+    "sentence": "bian feminism’s broader connections to disability activism in the 1980s.",
+    "after": ""
+   },
+   {
+    "loc": 95,
+    "page": "p. 91",
+    "kind": "p",
+    "before": "To improve referral information for these callers, the switchboard reached out to other organizations that focused on disability, requesting literature and other information.",
+    "sentence": "The switchboard approached lesbian sexuality and disability as a critical intersection to be supported through its services.",
+    "after": "A lesbian-feminist critique of ableism extends here to understandings of the telephone as a media technology that might be adapted to include lesbians with disabilities in the information and care networks it could provide."
+   },
+   {
+    "loc": 95,
+    "page": "p. 91",
+    "kind": "p",
+    "before": "These callers made requests for accessible information about lesbian life, and they did so using the telephone, a media technology that figu es prominently in U.S. disability activist history.",
+    "sentence": "Callers looking for support related to disability ran the gamut from “a couple of blind people wondering if there is someone who would read feminist literature to them, possibly on tape?” to more general calls for “disabled lesbian info.”",
+    "after": "To improve referral information for these callers, the switchboard reached out to other organizations that focused on disability, requesting literature and other information."
+   },
+   {
+    "loc": 116,
+    "page": "p. 112",
+    "kind": "q",
+    "before": "",
+    "sentence": "Black Lesbians Coming Out Demonstrations, Marches, and Other Fight Back Actions Disabled Lesbians Film Festivals Home Remedies Hotlines Isolation and Loneliness Menstruation Michigan Women’s Music Festival Native American Lesbians Pornography Prisoners Racism Rural Living Sisterhood Softball Third World Lesbians Transpeople Women’s Studies Zionism",
+    "after": ""
+   },
+   {
+    "loc": 193,
+    "page": "p. 189",
+    "kind": "p",
+    "before": "Beth started using a Kaypro computer while she was in graduate school at New York University (nyu ) in the late 1970s.",
+    "sentence": "She has learning disabilities and was hooked by the word-processing features, which made it easier for her to write.",
+    "after": "“So I got very fascinated by the power of what a computer could do,” she said, “and took a little programming class at nyu and was like, “Oh, is that what this is about?"
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 44,
+  "input": "5cef4ffda511",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "While my observational narratives introduce readers to gaming tech’s limited potential and its inaccessibility, chapter 5 also illustrates the possibilities that appear when inclusivity is at the core of design.",
+    "sentence": "Thus, the chapter has two distinct purposes: first, to provide an overview of the landscape of disabled characters within gaming; and second, to provide an intersectional exploration into accessible gaming technologies, which many differently abled gamers suggest afford them opportunities to continue participating in gaming culture.",
+    "after": "Although there are only a few differently abled characters in games, the ones that are present fit within certain tropes, with the underlying narrative privileging an abled body, suggesting that the disabled body is always in need of being “fixed” to resume “normal” functioning."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Thus, the chapter has two distinct purposes: first, to provide an overview of the landscape of disabled characters within gaming; and second, to provide an intersectional exploration into accessible gaming technologies, which many differently abled gamers suggest afford them opportunities to continue participating in gaming culture.",
+    "sentence": "Although there are only a few differently abled characters in games, the ones that are present fit within certain tropes, with the underlying narrative privileging an abled body, suggesting that the disabled body is always in need of being “fixed” to resume “normal” functioning.",
+    "after": "The social meanings and stigmas attached to disability identity reveal the systems of exclusion, oppression, and normativity created around particular abled bodies."
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "Lester’s description of himself feeds into normative assumptions about mobility and disability.",
+    "after": "Disability arises in the incongruities between one’s physical ability and the greater demands of the environment in which one lives."
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "Lester’s description of himself feeds into normative assumptions about mobility and disability.",
+    "sentence": "Disability arises in the incongruities between one’s physical ability and the greater demands of the environment in which one lives.",
+    "after": "As technological and medical advances continue, disability is increasingly becoming viewed as a social and environmental construct, one needing to be “fixed.”"
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "",
+    "sentence": "Broadly speaking, there are only a handful of disabled characters in video games: Adam Jensen from Deus Ex, Master Rahm Kota from Star Wars: The Force Unleashed II, Bentley from Sly Cooper, Taimi from Guild Wars 2, Sir Alistair Hammerlock from Borderlands 2, and Master Sergeant Frank Woods from Call of Duty: Black Ops.",
+    "after": "Of these games, I have only played Call of Duty: Black Ops, but I have enough knowledge of these games from reading reviews and watching playthroughs to get a general idea of the characters."
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "Of these games, I have only played Call of Duty: Black Ops, but I have enough knowledge of these games from reading reviews and watching playthroughs to get a general idea of the characters.",
+    "sentence": "The majority of disabled characters in games are disabled because of violence and war—they are soldiers who have lost limbs in battle.",
+    "after": "Their limbs are then replaced by technologically enhanced body parts."
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "",
+    "sentence": "This sci-fi genre invocation in gaming allows us to explore the conversations around disability and technology, as they highlight the collective anxieties inherent in ability privilege.",
+    "after": "The technologies and politics in these mediated narratives reflect our stereotypical assumptions about disability, from physical impairment to social constructions."
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "This sci-fi genre invocation in gaming allows us to explore the conversations around disability and technology, as they highlight the collective anxieties inherent in ability privilege.",
+    "sentence": "The technologies and politics in these mediated narratives reflect our stereotypical assumptions about disability, from physical impairment to social constructions.",
+    "after": "The distinction between impairment and social process is a core aspect of disability studies because this way of examining disability exposes how disabled bodies are constructed as other, deviant, and nonnormative, when, in fact, human bodies exist along a spectrum of difference and ability."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "16c2cb5070fd",
+  "candidates": [
+   {
+    "loc": 161,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "Jones et al. examined the dominant narrative in the field’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
+    "sentence": "These threads come from feminism and gender studies, race and ethnicity, international/intercultural professional communication, community and public engagement, user advocacy, and disability and accessibility.",
+    "after": "The antenarrative threads invite reinterpretation of the past and open room for a more inclusive future."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "155ffea62dfa",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "The World Health Organization (WHO) defines health as “a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.”",
+    "sentence": "This definition has been criticized by disability studies theorists for making health unobtainable for those who do not have “complete physical, mental and social well-being.”",
+    "after": "By definition, those who use wheelchairs, manage their depression with medication, or have mental and/or physical impairments, chronic illness, or disease fall outside the scope of “complete physical, mental and social well-being.”"
+   },
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "By definition, those who use wheelchairs, manage their depression with medication, or have mental and/or physical impairments, chronic illness, or disease fall outside the scope of “complete physical, mental and social well-being.”",
+    "sentence": "As a scholar of disability, race, and gender studies, I also question how “complete physical, mental and social well-being” can be achieved if one lives in a neighborhood with little access to fresh food or ways to safely exercise.",
+    "after": "Race and gender not only play a role in the physical environment in which one lives but also impact the way one is perceived in society."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "",
+    "sentence": "Cole also discussed the need for this imagined new social media platform to be more attentive to issues of accessibility from the outset, such that different disability communities can access the site easily and be integrated into the platform with non-disabled users.",
+    "after": "They wondered about what kind of design features would be needed to make a site that is accessible to Deaf and blind users at once."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "a828f0f4f478",
+  "candidates": [
+   {
+    "loc": 56,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "Many websites and their contents are subject to legal regulations as areas of “public accommodation.”",
+    "sentence": "The Americans with Disabilities Act was put into law in 1990 before the Web was fully operational.",
+    "after": "The Act could not have anticipated what would be required to guarantee that access to content online is “full and equal” for all users."
+   },
+   {
+    "loc": 162,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "However, they are less effective in showing the qualitative experience of space.",
+    "sentence": "Theoretical positions advocating recognition of the situatedness and specificity of spatial experience have been developed in critical race studies, queer theory, feminist work, and disability studies.",
+    "after": "But finding a graphic language to encode the embodied and situated experience of individuals across a wide array of diverse identities has met many challenges."
+   },
+   {
+    "loc": 203,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "The design should take into account the widest range of possible viewers.",
+    "sentence": "While a personal site is not legally required to be compliant with the Americans with Disabilities Act (ADA), any site hosted by an institution that deals with the public— school, museum, library, and so on—should follow these guidelines.",
+    "after": "Color blindness affects many adults, so using schemes that will be legible to a broad readership means avoiding contrasts that disappear to those with visual limitations."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 5,
+  "input": "f233bb6d6799",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "Even though the problems that cause disasters are never unforeseen, it sometimes takes a disaster, replete with loss of life and other kinds of destruction, to convince the populace and government to respond—to actually force change on corporations and industries that have not been subject to enough oversight.",
+    "sentence": "But the hundred thousand US dead at the time of this writing in May 2020 (who are disproportionately Black, Latinx, and Indigenous Peoples), and the many more people in the streets protesting police brutality against Black citizens, are an urgent reminder of just how much destruction and loss of life are often excused—especially if those dying are Black, disabled, poor, or elderly.",
+    "after": ""
+   },
+   {
+    "loc": 14,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "Weizenbaum was a child refugee of the Holocaust who became an MIT computer science professor, and he participated in programming many of the systems he came to critique, noting that at the time he was doing the programming it was hard work and he was having “too much fun” in “attacking those hard problems” to think much about broader effects.",
+    "sentence": "Although he had narrowly escaped the mechanized death of Nazi Germany, which relied on centralized information technologies to help round up and kill over 6 million Jewish people, Roma, homosexuals, disabled people, and others judged inferior by the Nazis, he went on to build many similar, centralizing information technologies for US industry and government.",
+    "after": "“It never occurred to me at the time that I was cooperating in a technological venture which had certain social side effects which I might come to regret,” he later said."
+   },
+   {
+    "loc": 91,
+    "page": "pp. 159–161",
+    "kind": "p",
+    "before": "Why do employees join the family or organize collectively?",
+    "sentence": "How are different people—white, Black, men, women, straight, LGBTQ, abled, disabled—integrated in the corporate “family”?",
+    "after": "And what roles, and rights, do they have within it?"
+   },
+   {
+    "loc": 161,
+    "page": "pp. 288–289",
+    "kind": "q",
+    "before": "",
+    "sentence": "they installed it and in a month or so, the login command got the trojan hourse.[sic] later someone there noticed something funny in the symbol table of cpp and were digging into the object to find out what it was. at some point, they compiled -S and assembled the output. that broke the self-reproducer since it was disabled on -S. some months later he login trojan hourse also went away.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 72,
+  "input": "502a1efabe37",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "When understood through what I call an intersectional and interdependent orientation, a methodology that draws from both critical race studies and disability studies, language diversity can be used as a point of analysis, intervention, and collaboration in technical communication—allowing researchers to continue to develop critical frameworks for designing and sharing tools, technologies, platforms, pedagogies, and projects that work toward language access.",
+    "after": "At the same time, I argue that accomplishing language access is just one component of designing a successful multilingual experience and that technical communication researchers should continue to acknowledge their own positionalities when working with communities that do not communicate predominantly in standardized white English (Jones and Williams 2018)."
+   },
+   {
+    "loc": 32,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "To define what I mean by “multilingual experiences in technical communication,” I begin by threading together theoretical and methodological frameworks within and beyond the field of technical communication.",
+    "sentence": "To this end, in chapter 2, “An Intersectional, Interdependent Approach to Language Accessibility in Technicial Communication,” I present what I call an intersectional, interdependent approach to accessibility in technical communication, where I bring together scholarship in racial and linguistic diversity with scholarship in disability studies to argue that when working in multilingual environments, technical communication researchers should consider language and translation through an intersectional perspective that considers access beyond their own positionalities as researchers.",
+    "after": "As social justice and disability studies scholars have taught us, accessibility in any environment is a shared responsibility."
+   },
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "",
+    "sentence": "Interdependency and intersectionality have long been connected in “care webs” or collectives designed by queer, trans, disabled, Black, and Indigenous peoples and other people of color (Piepzna-Samarasinha 2018, 66).",
+    "after": "For example, intersectionality is listed as the first principle of Disability Justice, “a political movement and many interlocking communities where disability is not defined in white terms, or male terms, or straight terms” (Piepzna-Samarasinha 2018, 22)."
+   },
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "Interdependency and intersectionality have long been connected in “care webs” or collectives designed by queer, trans, disabled, Black, and Indigenous peoples and other people of color (Piepzna-Samarasinha 2018, 66).",
+    "sentence": "For example, intersectionality is listed as the first principle of Disability Justice, “a political movement and many interlocking communities where disability is not defined in white terms, or male terms, or straight terms” (Piepzna-Samarasinha 2018, 22).",
+    "after": "As Patty Berne, Aurora Levins Morales, David Langstaff, and Sins Invalid (2018) explain in the “Ten Principles of Disability Justice,” “We know that each person has multiple identities, and that each identity can be a site of privilege or oppression."
+   },
+   {
+    "loc": 51,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "",
+    "sentence": "Following the work of queer/trans Black, Indigenous, people of color, and disability activists, I bring intersectionality and interdependency together as methodological frameworks for the projects presented in this book, both because I think both frameworks are independently useful and because interdependency and intersectionality function more effectively in relation to one another.",
+    "after": "Many critical disability studies scholars bring attention to the necessity of engaging more deeply with issues of race, intersectionality in particular, within disability studies."
+   },
+   {
+    "loc": 52,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "Other scholars, such as Schalk (2018), point to the value critical race scholars can both bring to and find in disability studies, explaining that “while black feminist theories have done so much to demonstrate the relationship of various oppressions, (dis)ability is rarely accounted for in black feminist theory” (3).",
+    "sentence": "At the same time, Schalk (2018) explains that “disability studies scholars have generally not recognized black feminist work on health activism, illness, and access to medical care as properly disability studies” (4).",
+    "after": ""
+   },
+   {
+    "loc": 52,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "It becomes a priority to look at Indigenous ways of perceiving and understanding disability, for example.",
+    "sentence": "It becomes a space where we see that disability is all up in Black brown/queer and trans communities—from Henrietta Lacks to Harriet Tubman, from the Black Panther Party’s active support for disabled organizers’ two-month occupation of the Department of Vocational Rehabilitation to force the passage of Section 504, the law mandating disabled access to public spaces and transportation[,] to the chronic illness and disability stories of second wave queer feminists of color like Sylvia Rivera, June Jordan, Gloria Anzaldúa, Audre Lorde, Marsha P. Johnson, and Barbara Cameron, whose lives are marked by bodily difference, trauma-surviving brilliance, and chronic illness but who mostly used the term “disabled” to refer to themselves.",
+    "after": "(22–23)"
+   },
+   {
+    "loc": 52,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "When we do disability justice work, it becomes impossible to look at disability and not examine how colonialism created it.",
+    "after": "It becomes a priority to look at Indigenous ways of perceiving and understanding disability, for example."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 99,
+  "input": "785c4e7c2d34",
+  "candidates": [
+   {
+    "loc": 198,
+    "page": "pp. 324–325",
+    "kind": "p",
+    "before": "“They” are us, and we have diverse, often competing needs for accommodations that enable us to fully participate in the creation, consumption, and analysis of digital scholarship.",
+    "sentence": "Creating accessible work or accommodations for people with disabilities is not a hypothetical need or a requirement imposed by law; rather, it is a moral imperative if the digital humanities are to be the inclusive and welcoming community we publicly aspire to be.",
+    "after": ""
+   },
+   {
+    "loc": 198,
+    "page": "pp. 324–325",
+    "kind": "p",
+    "before": "",
+    "sentence": "The authors of this chapter have a variety of disabilities—including sensory, motor, and cognitive disabilities—that impact their DH work.",
+    "after": "One author has astigmatism as well as auditory processing issues and intermittent hearing loss, which can make it difficult to hear or follow conversations in loud spaces like conference halls."
+   },
+   {
+    "loc": 198,
+    "page": "pp. 324–325",
+    "kind": "p",
+    "before": "One author has astigmatism as well as auditory processing issues and intermittent hearing loss, which can make it difficult to hear or follow conversations in loud spaces like conference halls.",
+    "sentence": "Another has migraines and astigmatism that makes it painful to read white text on black backgrounds—ironically, a design choice many make to accommodate forms of visual disability requiring high contrast (Otis).",
+    "after": "She also has asthma, which has been triggered by DH conference locations, and knee issues that have prevented her from being able to access DH conference spaces."
+   },
+   {
+    "loc": 198,
+    "page": "pp. 324–325",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the United States, where the authors are based, disability is legally defined as a physical or mental impairment that substantially limits the ability of an individual to perform a “major life activity” as compared to most people in the general population (Department of Justice, “Final Regulatory Assessment, Final Rule”).",
+    "after": "The 1990 Americans with Disabilities Act (ADA) made it illegal to discriminate against individuals “on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation” (“Americans with Disabilities Act of 1990, as Amended”)."
+   },
+   {
+    "loc": 198,
+    "page": "pp. 324–325",
+    "kind": "p",
+    "before": "In the United States, where the authors are based, disability is legally defined as a physical or mental impairment that substantially limits the ability of an individual to perform a “major life activity” as compared to most people in the general population (Department of Justice, “Final Regulatory Assessment, Final Rule”).",
+    "sentence": "The 1990 Americans with Disabilities Act (ADA) made it illegal to discriminate against individuals “on the basis of disability in the full and equal enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of any place of public accommodation” (“Americans with Disabilities Act of 1990, as Amended”).",
+    "after": "Eight years later, as the importance of computers and the internet became increasingly apparent, the Rehabilitation Act of 1973 was updated to mandate the creation of accessible “electronic and information technology” (Department of Justice, “Workforce Investment Act of 1998”)."
+   },
+   {
+    "loc": 199,
+    "page": "pp. 326–327",
+    "kind": "p",
+    "before": "No one in DH communities lives untouched by disability, whether they have a disability themselves or their relatives, collaborators, or students do.",
+    "sentence": "In America, one in four adults is legally considered to have a disability (“Disability Impacts All of Us”).",
+    "after": "Approximately 75 percent of Americans need vision correction, while around 4.4 billion people worldwide have myopia and other vision impairments (World Health Organization; Vision Council of America)."
+   },
+   {
+    "loc": 199,
+    "page": "pp. 326–327",
+    "kind": "p",
+    "before": "Similarly, 13 percent of American adults aged 18 to 25 have at least one major depressive episode, making anxiety and depression the most common mental health concerns among college students (“Any Anxiety Disorder”; “Major Depression”).",
+    "sentence": "Difficulty walking or climbing stairs affects 14 percent of American adults, while 11 percent have serious difficulty concentrating, remembering, or making decisions (“Disability Impacts All of Us”).",
+    "after": "These and other disabilities can be “invisible,” making it easy to overlook their prevalence within the DH communities and among our audiences."
+   },
+   {
+    "loc": 206,
+    "page": "pp. 338–339",
+    "kind": "p",
+    "before": "",
+    "sentence": "Living with a disability is a complicated reality, one that should not be limited by definitions of legal disability or by expectations that a disability be permanent or visible.",
+    "after": "Either through our own lived experience or through interactions with others, we all encounter disabilities in our lives."
+   }
+  ]
+ }
+]

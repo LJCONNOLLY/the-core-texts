@@ -1,0 +1,2092 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 185,
+  "input": "dcb10682dfa8",
+  "candidates": [
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "The status of the worker who ploughs is in no way different from that of the worker who weaves or carts; he is only one of ‘the tools of work or cultivation’[65] – a tool that requires a subsistence, and deducts it from what the land produces.",
+    "sentence": "As in all the other cases, the remuneration of agricultural labour tends to regulate itself so as to provide that subsistence exactly.",
+    "after": "Yet agricultural labour does possess one privilege, not an economic one, in the system of exchanges, but a physical one, in the sphere of the production of goods: the land, when worked, provides a possible quantity of subsistence much greater than that actually needed by the labourer who works it."
+   },
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "As in all the other cases, the remuneration of agricultural labour tends to regulate itself so as to provide that subsistence exactly.",
+    "sentence": "Yet agricultural labour does possess one privilege, not an economic one, in the system of exchanges, but a physical one, in the sphere of the production of goods: the land, when worked, provides a possible quantity of subsistence much greater than that actually needed by the labourer who works it.",
+    "after": "As remunerated work, therefore, the agricultural worker’s labour is just as negative and wasteful as that of factory workers; but, as ‘physical commerce’ with nature[66], it is the source of an immense fecundity."
+   },
+   {
+    "loc": 116,
+    "page": "PDF p. 116",
+    "kind": "p",
+    "before": "",
+    "sentence": "Adam Smith did not, therefore, invent labour as an economic concept, since it can be found in Cantillon, Quesnay, and Condillac; he does not even give it a new role to play, since he too uses it as a measure of exchange value: ‘Labour, therefore, is the real measure of the exchangeable value of all commodities’[4].",
+    "after": "But he does displace it: he maintains its function as a means of analysing exchangeable wealth; but that analysis is no longer simply a way of expressing exchange in terms of need (and trade in terms of primitive barter); it reveals an irreducible, absolute unit of measurement."
+   },
+   {
+    "loc": 121,
+    "page": "PDF p. 121",
+    "kind": "p",
+    "before": "Now, the confrontation of languages at the end of the eighteenth century brings to light a form intermediary between the articulation of contents and the value of roots: namely, inflection.",
+    "sentence": "It is true that grammarians had long been familiar with inflectional phenomena (just as, in natural history, the concept of organic structure was familiar before Pallas or Lamarck; and, in economics, the concept of labour was known before Adam Smith); but inflections had been analysed only for their representative value – whether they were considered as accessory representations, or were seen as a way of linking representations together (rather like another kind of word order).",
+    "after": "But when one compares, as Coeurdoux[23] and William Jones[24] did, the different forms of the verb to be in Sanskrit and Latin or Greek, one discovers a relation of constancy the reverse of the one usually admitted: it is the root that is modified, and the inflections that are analogous."
+   },
+   {
+    "loc": 129,
+    "page": "PDF p. 129",
+    "kind": "p",
+    "before": "",
+    "sentence": "In a first phase – which extends chronologically from 1775 to 1795, and whose configuration we can indicate by means of the works of Smith, Jussieu, and Wilkins – the concepts of labour, organism, and grammatical system had been introduced – or reintroduced with a particular status – into the analysis of representations and into the tabulated space in which that analysis had hitherto been deployed.",
+    "after": "No doubt their function was still only to provide authority for this analysis, to allow the establishment of identities and differences, and to provide the tool – a sort of qualitative yardstick – for the ordering of nature."
+   },
+   {
+    "loc": 130,
+    "page": "PDF p. 130",
+    "kind": "p",
+    "before": "Now, how could this identity be justified?",
+    "sentence": "On what could it be based, if not on a certain assimilation accepted as taking place in the more than illumined shadow lying between labour as productive activity and labour as a commodity that can be bought and sold?",
+    "after": "In the second sense, labour cannot be used as a constant measure, since it ‘is subject to as many fluctuations as the commodities compared with it’[1]."
+   },
+   {
+    "loc": 130,
+    "page": "PDF p. 130",
+    "kind": "p",
+    "before": "",
+    "sentence": "But the difference between Smith and Ricardo is this: for the first, labour, because it is analysable into days of subsistence, can be used as a unit common to all other merchandise (including even the commodities necessary to subsistence themselves); for the second, the quantity of labour makes it possible to determine the value of a thing, not only because the thing is representable in units of work, but first and foremost because labour as a producing activity is ‘the source of all value’.",
+    "after": "Value can no longer be defined, as in the Classical age, on the basis of a total system of equivalences, and of the capacity that commodities have of representing one another."
+   },
+   {
+    "loc": 131,
+    "page": "PDF p. 131",
+    "kind": "p",
+    "before": "Value has ceased to be a sign, it has become a product.",
+    "sentence": "If things are worth as much as the labour devoted to them, or if their value is at least proportionate to that labour, it is not that labour is a fixed and constant value exchangeable as such in all places and all times, it is because any value, whatever it may be, has its origin in labour.",
+    "after": "And the best proof of this is that the value of things increases with the quantity of labour that must be devoted to them if we wish to produce them; but it does not change with the increase or decrease of the wages for which labour, like all other commodities, is exchanged[3]."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 1,
+  "input": "21019f880d3f",
+  "candidates": [
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "Longstanding oral mental habits of thinking through one's thoughts aloud encourage dictation, but so did the state of writing technology.",
+    "sentence": "In the physical act of writing, the medieval Englishman Orderic Vitalis says, 'the whole body labors' (Clanchy 1979, p. 90).",
+    "after": "Through the Middle Ages in Europe authors often employed scribes."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 109,
+  "input": "8f414370430d",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "Again, Zuckerman’s logic is elegantly simple.",
+    "sentence": "Some unknown ecological changes produced selection pressure for prehumans to exploit new sources of food, to rework the age-old unspecialized feeding patterns, and to introduce sexual division of labour as a necessary consequence of the requirements of large-scale meat-eating.",
+    "after": "Food-sharing necessitated the human form_of the family, which for Zuckerman meant selection pressure for ‘overt monogamy’ and conceptual recognition of significant social relations (ownership of women) even when no one was '' around to enforce them."
+   },
+   {
+    "loc": 166,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "She called for exploration of the relations between the exchange abstraction and abstract masculinity in the hostile systems of power characterizing phallocra-tic worlds.",
+    "sentence": "Several other Marxist feminists have contributed to intertwined and independent versions of feminist standpoint theory, where the debate on the sex/gender division of labour is a central issue.",
+    "after": "Fundamental to the debate is a progressive problematization of the category labour, or its extensions in Marxist-feminist meanings of reproduction, for efforts to theorize women’s active agency and status as subjects in history.'° Collins (1989a) adapted standpoint theory to characterize the foundations of black feminist thought in the self-defined perspective of black women on their own oppression."
+   },
+   {
+    "loc": 177,
+    "page": "p. 151",
+    "kind": "p",
+    "before": "An origin story in the ‘Western’, humanist sense depends on the myth of original unity, fullness, bliss and terror, represented by the phallic mother from whom all humans must separate, the task of individual development and of history, the twin potent myths inscribed most powerfully for us in psychoanalysis and Marxism.",
+    "sentence": "Hilary Klein has argued that both Marxism and psychoanalysis, in their concepts of labour and of individuation and gender formation, depend on the plot of original unity out of which difference must be produced and enlisted in a drama of escalating domination of woman/nature.",
+    "after": "The cyborg skips the step of original unity, of identification with nature in the Western sense."
+   },
+   {
+    "loc": 184,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "Abstraction and illusion rule in knowledge, domination rules in practice.",
+    "sentence": "Labour is the pre-eminently privileged category enabling the Marxist to overcome illusion and find that point of view which is necessary for changing the world.",
+    "after": "Labour is the humanizing activity that makes man; labour is an ontological category permitting the knowledge of a subject, and so the knowledge of subjugation and alienation."
+   },
+   {
+    "loc": 184,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "Labour is the pre-eminently privileged category enabling the Marxist to overcome illusion and find that point of view which is necessary for changing the world.",
+    "sentence": "Labour is the humanizing activity that makes man; labour is an ontological category permitting the knowledge of a subject, and so the knowledge of subjugation and alienation.",
+    "after": ""
+   },
+   {
+    "loc": 184,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "In faithful filiation, socialist-feminism advanced by allying itself with the basic analytic strategies of Marxism.",
+    "sentence": "The main achievement of both Marxist feminists and socialist feminists was to expand the category of labour to accommodate what (some) women did, even when the wage relation was subordinated to a more comprehensive view of labour under capitalist patriarchy.",
+    "after": "In particular, women’s labour in the household and women’s activity as mothers generally (that is, reproduction in the socialist-feminist sense), entered theory on the authority of analogy to the Marxian concept of labour."
+   },
+   {
+    "loc": 184,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "The main achievement of both Marxist feminists and socialist feminists was to expand the category of labour to accommodate what (some) women did, even when the wage relation was subordinated to a more comprehensive view of labour under capitalist patriarchy.",
+    "sentence": "In particular, women’s labour in the household and women’s activity as mothers generally (that is, reproduction in the socialist-feminist sense), entered theory on the authority of analogy to the Marxian concept of labour.",
+    "after": "The unity of women here rests on an epistemology based on the ontological structure of ‘labour’."
+   },
+   {
+    "loc": 185,
+    "page": "p. 159",
+    "kind": "p",
+    "before": "Ironically, MacKinnon’s ‘ontology’ constructs a non-subject, a non-being.",
+    "sentence": "Another’s desire, not the self’s labour, is the origin of ‘woman’.",
+    "after": "She therefore develops a theory of consciousness that enforces what can count as ‘women’s’ experience — anything that names sexual violation, indeed, sex itself as far as ‘women’ can be concerned."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 8,
+  "input": "f672d0cc5283",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "“Owing nothing to society” comes from arguments Hobbes and Locke constructed about humans in a “state of nature” before market relations arose.",
+    "sentence": "Because ownership of oneself is thought to predate market relations and owe nothing to them, it forms a foundation upon which those relations can be built, as when one sells one’s labor for wages.",
+    "after": "As Macpherson points out, however, this imagined “state of nature” is a retrospective creation of a market society."
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "What are we to make of Janet F., this sign of the repressed, this Freudian slip of a female who, with a flick of a “u” (the U-shaped table at which she sits?), goes from Freed to Freud, Freud to Freed?",
+    "sentence": "Thinking of her, I am reminded of Dorothy Smith’s suggestion that men of a certain class are prone to decontextualization and reification because they are in aposition to command the labors of others.",
+    "after": "“Take a letter, Miss Freed,” he says."
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "Taken out of context, his words fly by themselves, into books.",
+    "sentence": "The full burden of the labor that makes these things happen is for him only an abstraction, a resource diverted from other possible uses, because he is not the one performing the labor.",
+    "after": ""
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "Throughout his mature writings, he struggled to reconcile the tradition of liberalism with the new cybernetic paradigm he was in the process of creating.",
+    "sentence": "When I think of him, I imagine him laboring mightily to construct the mirror of the cyborg.",
+    "after": "He stands proudly before this product of his reflection, urging us to look into it so that we can see ourselves as control-communication devices, differing in no substantial regard from our mechanical siblings."
+   },
+   {
+    "loc": 68,
+    "page": "PDF p. 68",
+    "kind": "p",
+    "before": "“This impatience was largely the result of my mental quickness and physical slowness.",
+    "sentence": "I could see the end to be accomplished long before I could labor through the manipulative stages that were to bring me there.”",
+    "after": "The problem was serious enough to force him to give up his hope of earning a Ph.D. in biology."
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "The analogies so important to his thought are constituted not only through similarities between abstract forms (such as probability ratios and statistical analysis) but also through the complex lifeworld of embedded physicality that natural language expresses and evokes through its metaphoric resonances.",
+    "sentence": "Natural language is not extraneous to understanding the full complexities of Wiener’s thinking, as his mathematical biographer Pesi Masani implies when Masani contrasts the disembodied abstractions of mathematics with the “long-winded verbosity [of natural language], the hallmark of bureaucratic chicanery and fake labor.”",
+    "after": "On the contrary, the embodied metaphors of language are crucial to understanding the ways in which Wiener’s construction of the cybernetic body and the body of cybernetics both privilege and imperil the autonomous humanistic subject."
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "Interpreted through metaphors resonant with cultural meanings, the body itself is a congealed metaphor, a physical structure whose constraints and possibilities have been formed by an evolutionary history that intelligent machines do not share.",
+    "sentence": "Humans may enter into symbiotic relationships with intelligent machines (already the case, for example, in computer-assisted surgery); they may be displaced by intelligent machines (already in effect, for example, at Japanese and American assembly plants that use robotic arms for labor); but there is a limit to how seamlessly humans can be articulated with intelligent machines, which remain distinctively different from humans in their embodiments.",
+    "after": "The terror, then, though it does not disappear in this view, tends away from the apocalyptic and toward a more moderate view of seriated social, technological, political, and cultural changes."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 14,
+  "input": "695a63b2985b",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "",
+    "sentence": "The poster shows a young black man in a suit, with ‘LABOUR SAYS HE’S BLACK.",
+    "after": "TORIES SAY HE’S BRITISH’ as its headline text."
+   },
+   {
+    "loc": 34,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "He suggests that contemporary capitalism is organizing itself in ways that are indeed compressing time and collapsing space.",
+    "sentence": "He argues that capitalism is more and more ‘flexible’ in its organization of production techniques, labour markets and consumption niches, and that this has depended on the increased mobility of capital and information; moreover, the importance of consumption niches has generated the increasing importance of advertising, style and spectacle in the selling of goods.",
+    "after": "In his Marxist account, both these characteristics are reflected in cultural objects - in their superficiality, their ephemerality — so that the latter are nothing but ‘the cultural logic of late capitalism’ (Harvey 1989: 63; Jameson 1984)."
+   },
+   {
+    "loc": 164,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "Gareth Stedman Jones (1976: 10-11) points out that in the 1870s and 1880s, most British social thinkers assumed that economic progress would eliminate poverty.",
+    "sentence": "The fact that it did not - most blatantly in London’s East End, an area with a seasonal and casual labour market and high levels of poverty - was blamed on what were seen as ‘the still unregenerate poor: those who had turned their back on progress, or been rejected by it’.",
+    "after": "Jones continues:"
+   },
+   {
+    "loc": 202,
+    "page": "p. 185",
+    "kind": "p",
+    "before": "Each group forms a community structured by a natural division of function ... these habitat groups ... tell of communities and families, peacefully and hierarchically ordered.",
+    "sentence": "Sexual specialization of function — the organic bodily and social sexual division of labour —- is unobtrusively ubiquitous, unquestionable, right.’",
+    "after": "Thus patriarchy is naturalized, she says."
+   },
+   {
+    "loc": 221,
+    "page": "p. 204",
+    "kind": "p",
+    "before": "However, her desire to examine women’s views might also have led her to choose one-to-one interviews instead of family interviews in order to avoid the difficulty that Morley does not mention in his 1980 study, which is the issue of family dynamics.",
+    "sentence": "Much feminist research on domestic labour has found that in households where men and women co-habit, men tend to over-estimate their contribution to that labour and, moreover, that their version of events often prevails in interviews in which both the man and the woman are present.",
+    "after": ""
+   },
+   {
+    "loc": 259,
+    "page": "p. 242",
+    "kind": "p",
+    "before": "Blinn and Harrist’s content analysis used the written texts to make sense of the content of the photos.",
+    "sentence": "This demonstrated to them that the two key themes that the photos were showing were the women’s guilt and lack of time: the guilt felt by the women at no longer being able to do all that they had done for their family before they went to college, and the relative lack of time they now had to spend with their families and to do domestic labour.",
+    "after": "Blint and Harrist expand on the notion of time in their discussion of their interview material, suggesting that the temporalities of the women’s life-cycle stage, the academic year and of everyday rhythms are a useful lens through which to understand the women’s experiences as returning college students."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 14,
+  "input": "30fcce68819f",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "No flock of sheep without a shepherd—and his dog, his walking stick, his piles of vaccination certificates, his mountain of paperwork to get EU subsidies.",
+    "sentence": "If you still believe groupings exist ‘by themselves’, for instance the ‘individual’, just try to remember how much labor had to be done before each of you could ‘take your life into your own hands’.",
+    "after": "How many admonitions from parents, teachers, bosses, partners, and colleagues before we learned that we had better be a group of our own (the ego)?"
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "Human actors were reduced to mere informants simply answering the questions of the sociologist qua judge, thus supposedly producing a discipline as scientific as chemistry or physics.",
+    "sentence": "Without this strong obligation to play the legislating role, sociologists would not have limited the first obvious source of uncertainty, cutting all the links with the explicit and reflexive labor of the actors’ own methods.",
+    "after": "Anthropologists, who had to deal with premoderns and were not requested as much to imitate natural sciences, were more fortunate and allowed their actors to deploy a much richer world."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "If I believed in jargon and if worknet or action net had any chance to hold, I would offer it as a substitute so as to make the contrast between technical networks and worknets, the latter remaining a way for social scientists to make sense of the former.",
+    "sentence": "Work-nets could allow one to see the labor that goes on in laying down net-works: the first as an active mediator, the second as a stabilized set of intermediaries.",
+    "after": ""
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "‘While [the sociologist] must also beware, lest he forget that like any other scientist he is to attempt to help build science’s aperspectival perspective, as a social agent he is also placed within the object which he takes as his object, and on these grounds he has a perspective which does not coincide with others, nor with the overview and over-arching perspective of the quasi-divine observer, which he can reach if the field’s demands are satisfied.",
+    "sentence": "Thus he knows that the particularity of the social sciences calls upon him to work (as I have tried to do for the case of the gift and of labor in the pascalian meditations) to construct a scientific truth capable of integrating the observer’s vision and the truth of the agent’s practical vision, into a perspective not known as such which is put to the test in the illusion of the absolute.’",
+    "after": "(Bourdieu 2001)"
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "If you confuse the second with the first, for instance, you start thinking that your main task is to restrict—in advance and in the actor’s place—the range of uncertainties in which you are afraid the actors will get lost.",
+    "sentence": "This means that you take it upon yourself to narrow down the number of possible social aggregates, to limit the number of agencies that make actors do things, to exclude as many non-human objects as possible, to cling to a strict division of labor between natural and social sciences, and, finally, to maintain a firm belief in sociology as an autonomous scientific discipline.",
+    "after": "After such a treatment, it is no longer possible to trace the five sources of uncertainty that we have reviewed."
+   },
+   {
+    "loc": 99,
+    "page": "PDF p. 99",
+    "kind": "p",
+    "before": "After having shown in Part I how we could deploy the actors’ own world-making abilities, and before tackling in the Conclusion the tricky question of political interest, I now have to show that it’s possible to follow the settlement of controversies without confusing such an inquiry with the other two.",
+    "sentence": "Yes, controversies are closed and uncertainties are settled, but this is also the labor of the actors themselves so this too products empirical traces and so it can be thoroughly documented.",
+    "after": "As soon as we let the actors clean up, so to speak, their own mess, some order can be retrieved which is quite different from the inquirers’ own attempts at limiting controversies in advance."
+   },
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "A plaintiff summoned to face the judge discovers the edifice of law firmly in place and the Old Bailey building as ancient as London.",
+    "sentence": "A worker, who labors all day on the floor of a sweatshop, discovers quite quickly that his fate has been settled by invisible agents who are hidden behind the office walls at the other end of the shop.",
+    "after": "A pedestrian with a strained ankle learns in the doctor’s office about her skeleton and physiology that predate the time of her accident."
+   },
+   {
+    "loc": 120,
+    "page": "PDF p. 120",
+    "kind": "p",
+    "before": "But it would be just as wrong to suppose that they were simply interacting with one another.",
+    "sentence": "Those furry little beasts were doing just as much social labor as their observers and were living in a world just as complex.",
+    "after": "And yet, there was a clear difference of equipment."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 28,
+  "input": "f06ddfac5516",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "In Orientals, he discusses the formation of Asian Americans as a “model minority” after World War II by tracing the ways that the liberal ideology worked to replace biological notions of race, which posited an unassimilable raced body, with the “ethnic” model of race, in which cultural differences replaced racial ones as the salient aspects of identity.",
+    "sentence": "Asian Americans were posed as models of this type of “ethnic” political subject because their low usage of welfare and political docility, along with their successes in the educational system, made them prime examples of racialized subjects who had overcome the barrier of color, or race-as-biology, to become model consumers of commodities as well as creators of economic value: as Lisa Lowe would put it, they were positioned as both labor and capital.",
+    "after": "They were also seen as ideal liberal subjects in that they were ﬁgured as not needing the intervention of the state, particularly in reference to education and technology."
+   },
+   {
+    "loc": 116,
+    "page": "p. 105",
+    "kind": "p",
+    "before": "Yet as Haraway is careful to note, terrible inequities still exist between “offshore women” and their more privileged First World counterparts; while Niobe, Zee, and Charra are all heroic women who do important work in the ﬁlm, the kind of work they do is fairly low on the food chain of the “integrated circuit,” for “‘women of colour’ are the preferred labour force for the science-based industries, the real women for whom the world-wide sexual market, labour market, and politics of reproduction kaleidoscope into daily life.”",
+    "sentence": "In other words, like the Korean prostitutes and electronic assembly workers of whom Haraway writes, they are denied the subjectivity and agency that comes with the only form of truly valorized labor (other than ﬁghting) in the trilogy—that is, computer programming.",
+    "after": "They are objects, not subjects, of interactivity."
+   },
+   {
+    "loc": 138,
+    "page": "p. 127",
+    "kind": "p",
+    "before": "",
+    "sentence": "Minority Report literalizes Lisa Lowe’s formulation of Asians as both capital and labor, for while Cruise capitalizes on the hapless Mr. Yakamoto’s disembodied eyes, the custom-built computer imaging hardware that enables him to manipulate the Precognitives’ ﬁlms of murders-to-be is produced for him by “Rufus T. Reilly,” the South Asian American cyberparlor operator.",
+    "after": "The dark, curly-haired, garrulous Reilly runs a shady virtual reality service that allows users to experience their unsavory fantasies, such as sex with multiple partners and ego-gratifying scenarios in which coworkers applaud the customer."
+   },
+   {
+    "loc": 139,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "The dark, curly-haired, garrulous Reilly runs a shady virtual reality service that allows users to experience their unsavory fantasies, such as sex with multiple partners and ego-gratifying scenarios in which coworkers applaud the customer.",
+    "sentence": "The visit to Reilly’s workplace reveals the underpinnings of the dataveillant state in socially marginal forms of labor: in addition to engaging in borderline-illegal forms of VR, he has coded the software that allows Agatha’s “visions” to be viewed using a computer interface and helps Anderton hack into her visions while he is on the run.",
+    "after": "Reilly is the only character in the ﬁlm who seems to believe in the Precogs’ divinity, though it is referenced often in the ﬁlm."
+   },
+   {
+    "loc": 181,
+    "page": "p. 170",
+    "kind": "p",
+    "before": "While the seemingly free spaces of composable identities evident in build-your-own avatar games like MMORPGs continue to instantiate stereotyped images of women, as Rodowick observes, “there is still an unequal division of power in the data images that count— for access to credit, medical insurance, voting and residency rights, ownership of property, and so forth—[and they are] still culled, collated, and controlled by a few large corporations and marketing organizations.”",
+    "sentence": "What are the “data images that count,” the avatars that matter, in relation to women’s reproductive labor online?",
+    "after": "While pregnancy bulletin boards may at times afﬁrm normative domestic behavior in terms of pregnancy and child rearing, the digital signatures on several pregnancy Web sites are evidence of eclectic digital production that reﬂects the reality of reproductive labor and its attendant losses."
+   },
+   {
+    "loc": 181,
+    "page": "p. 170",
+    "kind": "p",
+    "before": "What are the “data images that count,” the avatars that matter, in relation to women’s reproductive labor online?",
+    "sentence": "While pregnancy bulletin boards may at times afﬁrm normative domestic behavior in terms of pregnancy and child rearing, the digital signatures on several pregnancy Web sites are evidence of eclectic digital production that reﬂects the reality of reproductive labor and its attendant losses.",
+    "after": ""
+   },
+   {
+    "loc": 190,
+    "page": "p. 179",
+    "kind": "p",
+    "before": "Similarly, dubbing Asian Americans as “the most wired group in America” deceptively represents them as subjects of interactivity in a way that other users are not—Castells’s “interactors” rather than the “interacted.”",
+    "sentence": "They are thus classed as honorary or approximate whites in a way that obscures their actual oppression and position as material labor base rather than as privileged consumers of Internet- and IT-based services and media.",
+    "after": "As the Pew report did not sample non-English-speaking respondents, it is unlikely that it was able to survey immigrants or recently arrived and undereducated Asian Americans, exactly those people most likely to work as the “interacted” in the circuit of infor-matic labor."
+   },
+   {
+    "loc": 210,
+    "page": "p. 199",
+    "kind": "p",
+    "before": "information technology workers. useful, helpful, and comfortably offshore way?",
+    "sentence": "As Robert Lee notes, Asian American women outnumber Asian American men, which may account for why the “face” of offshore labor is a female one.",
+    "after": "In addition, the use of the veil works to obscure the individuality of the face and to underscore its exoticism."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 7,
+  "input": "c2b6e34b0066",
+  "candidates": [
+   {
+    "loc": 77,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "The term “glocal” may be insipid, but it does reveal a desire for a traceability and responsibility.",
+    "sentence": "Some of the products and ways of achieving this seem dubious: from applications that reveal how much ‘slave labor’ was involved in producing an item to attempts to raise chickens in Queens, New York, so that children can know from where their eggs come.",
+    "after": "These efforts are suspect not only because of the assumptions they make (for example, what counts as ‘slave labor’), but also because their scope seems painfully limited to individual actions."
+   },
+   {
+    "loc": 77,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Some of the products and ways of achieving this seem dubious: from applications that reveal how much ‘slave labor’ was involved in producing an item to attempts to raise chickens in Queens, New York, so that children can know from where their eggs come.",
+    "sentence": "These efforts are suspect not only because of the assumptions they make (for example, what counts as ‘slave labor’), but also because their scope seems painfully limited to individual actions.",
+    "after": "Indeed, capture and habits, by reifying individual actions and empowerment, ignore the question of larger structural changes and impacts."
+   },
+   {
+    "loc": 129,
+    "page": "p. 114",
+    "kind": "p",
+    "before": "Through acts of ‘friending,’ writing on people’s walls, etc., content is freely provided for these sites, and the connections between users, which SNSs profit from, are revealed.",
+    "sentence": "‘Friending’ is a key part of what Tiziana Terranova has called “free labour.”",
+    "after": ""
+   },
+   {
+    "loc": 133,
+    "page": "p. 118",
+    "kind": "p",
+    "before": "Goldman Sachs is therefore willing to pay millions of dollars to develop software that can process information and help it to make decisions microseconds before its competitors.",
+    "sentence": "On the left, scholars such as Tiziana Terranova and Alexander Galloway have emphasized the link between immaterial commodities and labor processes.",
+    "after": "Terranova, focusing on the ongoing labor central to the success of any website, argues that with information, “the commodity does not disappear as such; it rather becomes increasingly ephemeral, its duration becomes compressed, it becomes more of a process than a finished product."
+   },
+   {
+    "loc": 133,
+    "page": "p. 118",
+    "kind": "p",
+    "before": "On the left, scholars such as Tiziana Terranova and Alexander Galloway have emphasized the link between immaterial commodities and labor processes.",
+    "sentence": "Terranova, focusing on the ongoing labor central to the success of any website, argues that with information, “the commodity does not disappear as such; it rather becomes increasingly ephemeral, its duration becomes compressed, it becomes more of a process than a finished product.",
+    "after": "The role of continuous, creative, innovative labor as the ground of market value is crucial to the digital economy.”"
+   },
+   {
+    "loc": 137,
+    "page": "p. 122",
+    "kind": "q",
+    "before": "",
+    "sentence": "Figure 3.6 Sir Francis Galton’s composite of “The Jewish Type,” 1883, reproduced from Karl Pearson, “The Life, Letters and Labours of Francis Galton,” plate XXXV, in Allan Sekula’s “The Body and the Archive,” October 39 (Winter 1986): 3–64.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 14,
+  "input": "05763c1d1b30",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "In other words, historically disadvantaged groups in the domain of literacy are also finding themselves disadvantaged in programming.",
+    "sentence": "Programming was welcoming to women when the division of labor was between male engineers and designers and female programmers and debuggers, but now it is heavily male-dominated.",
+    "after": "As a profession, programming has resisted a more general trend of increased participation rates of women evidenced in previously male-dominated fields such as law and medicine."
+   },
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "As a profession, programming has resisted a more general trend of increased participation rates of women evidenced in previously male-dominated fields such as law and medicine.",
+    "sentence": "The U.S. Bureau of Labor Statistics reported that only 23.0% of computer programmers in 2013 were women.",
+    "after": "The numbers of Hispanic and black technical employees at major tech companies such as Google, Microsoft, Twitter, and Facebook are very low, and even lower than the potential employee pool would suggest."
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "This tension in coding literacy campaigns is exacerbated by the fact that there is a lot of money in software.",
+    "sentence": "Software engineering presents a unique opportunity for capital: the software labor force is non-unionized and doesn’t require credentials from conservative institutions such as universities; it is globalized both in its workers and the distribution of its products; and it can provide profits at scales impossible in manufacturing, where physical materials must be purchased, processed, and shipped.",
+    "after": "Aneesh Aneesh goes so far as to note “both money and code are ‘global’ in that they both provide liquidity to labor and merchandise through symbolization.”"
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "Software engineering presents a unique opportunity for capital: the software labor force is non-unionized and doesn’t require credentials from conservative institutions such as universities; it is globalized both in its workers and the distribution of its products; and it can provide profits at scales impossible in manufacturing, where physical materials must be purchased, processed, and shipped.",
+    "sentence": "Aneesh Aneesh goes so far as to note “both money and code are ‘global’ in that they both provide liquidity to labor and merchandise through symbolization.”",
+    "after": "Code’s ability to traverse networks allows for its globalized flow along with global capital, or practically, it allows workers in India to write software with and for Americans."
+   },
+   {
+    "loc": 109,
+    "page": "PDF p. 109",
+    "kind": "p",
+    "before": "",
+    "sentence": "Advertisements for computer programmers in the 1960s reflect this labor crisis; they called not for experienced programmers, but instead for people with particular skills and personality traits willing to take tests to indicate whether they would make good programmers.",
+    "after": "In 1966, 68% of employers used aptitude tests, and a cottage industry of training for these tests was born."
+   },
+   {
+    "loc": 109,
+    "page": "PDF p. 109",
+    "kind": "p",
+    "before": "In 1966, 68% of employers used aptitude tests, and a cottage industry of training for these tests was born.",
+    "sentence": "These ads also sometimes appealed directly to women—another possible sign of a labor shortage.",
+    "after": "One 1963 ad encouraged women programmers, saying that they could “pep up” the office, as well as be logical."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Inspired by the systematic management they saw in the American government, British government “mechanizers” sought to streamline administration and collect more statistical information about British citizens.",
+    "sentence": "These reformers wanted to divide labor and make the government into an efficient and transparent machine.",
+    "after": "Charles Babbage successfully used this management philosophy in his 1852 bid for funding his Difference and Analytical Engines: “There is no reason why mental, as well as bodily Labour, should not be economized by the aid of machinery.”"
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "These reformers wanted to divide labor and make the government into an efficient and transparent machine.",
+    "sentence": "Charles Babbage successfully used this management philosophy in his 1852 bid for funding his Difference and Analytical Engines: “There is no reason why mental, as well as bodily Labour, should not be economized by the aid of machinery.”",
+    "after": "Although his engines were important precursors to the computer, they did not help systematize governance; instead, what answered the call for systemization was a steady increase in civil service personnel as well as documentation and standardization of their duties."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 22,
+  "input": "4165cbe47940",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "At the core of my argument is the way in which Google biases search to its own economic interests—for its profitability and to bolster its market dominance at any expense.",
+    "sentence": "Many scholars are working to illuminate the ways in which users trade their privacy, personal information, and immaterial labor for “free” tools and services offered by Google (e.g., search engine, Gmail, Google Scholar, YouTube) while the company profits from data mining its users.",
+    "after": "Recent research on Google by Siva Vaidhyanathan, professor of media studies at the University of Virginia, who has written one of the most important books on Google to date, demonstrates its dominance over the information landscape and forms the basis of a central theme in this research."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "",
+    "sentence": "George Ritzer and Nathan Jurgenson at the University of Maryland characterize this emphasis of merging the consumptive and productive aspects of digital engagement as “a trend toward unpaid rather than paid labor and toward offering products at no cost, and the system is marked by a new abundance where scarcity once predominated.”",
+    "after": "The critical communications scholar Dallas Smythe describes this type of prosumerism as “the audience as commodity,” where users are sold to advertisers as a commodity and, in return for “free” services, users are explicitly exposed to advertising."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "In Fuchs’s work on the political economy of Google, he characterizes the unpaid, user-generated content provided by its users as the basis for Google’s ability to conduct keyword searching because it indexes all user-generated content and “thereby acts as a meta-exploiter of all user-generated content producers.”",
+    "sentence": "Surplus labor is created for Google through users’ engagements with its products, from Gmail to Google Scholar, the reading of blogs in Blogger/Blogspot, the use of Google Maps or Google Earth, or the watching of videos on YouTube, among many of the company’s services.",
+    "after": "The vertical offerings of Google are so great, coupled with its prioritization of its own properties in keyword searches, that mere use of any of these “free” tools creates billion-dollar profits for Google—profits generated from both unpaid labor from users and the delivery of audiences to advertisers."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "",
+    "sentence": "These aspects of software and hardware development are important, and decreased engagements of women and people of color in the high-tech design sector, coupled with increased marginalized participation in the most dangerous and volatile parts of the information and communication technology labor market, have impact on the artifacts such as search results themselves.",
+    "after": "According to U.S. Department of Labor workforce data obtained by the Mercury News through a Freedom of Information request, of the 5,907 top managers in the Silicon Valley offices of the ten largest high-tech companies in 2005, 296 were Black or Hispanic, a 20% decline from 2000."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "These aspects of software and hardware development are important, and decreased engagements of women and people of color in the high-tech design sector, coupled with increased marginalized participation in the most dangerous and volatile parts of the information and communication technology labor market, have impact on the artifacts such as search results themselves.",
+    "sentence": "According to U.S. Department of Labor workforce data obtained by the Mercury News through a Freedom of Information request, of the 5,907 top managers in the Silicon Valley offices of the ten largest high-tech companies in 2005, 296 were Black or Hispanic, a 20% decline from 2000.",
+    "after": "Though the scope of this book does not include a formal interrogation of Black manufacturing labor migration to outsourced ICT manufacturing outside the United States, it is worth noting that this phenomenon has implications for participation in industries that shape everything from hardware to software design, of which Google is playing a primary role."
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "The neocolonial trajectories are not just in products such as search or Google Glass but exist throughout the networked economy, where some people serve as the most exploited workers, including child and forced laborers, in such places as the Democratic Republic of Congo, mining ore called columbite-tantalite (abbreviated as “coltan”) to provide raw materials for companies such as Nokia, Intel, Sony, and Ericsson (and now Google) that need such minerals in the production of components such as tantalum capacitors, used to make microprocessor chips for computer hardware such as phones and computers.",
+    "sentence": "Others in the digital-divide network serve as supply-chain producers for hardware companies such as Apple or Dell, and this outsourced labor from the U.S. goes to low bidders that provide the cheapest labor under neoliberal economic policies of globalization.",
+    "after": ""
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "",
+    "sentence": "To review, in the ecosystem, Black people provide the most grueling labor for blood minerals, and they do the dangerous, toxic work of dismantling e-waste in places such as Ghana, where huge garbage piles of poisonous waste from discarded electronics from the rest of the world are shipped.",
+    "after": "In the United States, Black labor is for the most part bypassed in the manufacturing sector, a previous site of more stable unionized employment, due to electronics and IT outsourcing to Asia."
+   },
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "To review, in the ecosystem, Black people provide the most grueling labor for blood minerals, and they do the dangerous, toxic work of dismantling e-waste in places such as Ghana, where huge garbage piles of poisonous waste from discarded electronics from the rest of the world are shipped.",
+    "sentence": "In the United States, Black labor is for the most part bypassed in the manufacturing sector, a previous site of more stable unionized employment, due to electronics and IT outsourcing to Asia.",
+    "after": "African American identities are often a commodity, exploited as titillating fodder in a network that traffics in racism, sexism, and homophobia for profit."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 15,
+  "input": "391d25d4a8d0",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "pp. 14–16",
+    "kind": "p",
+    "before": "The poorhouse in my hometown of Troy, New York, was built in 1821.",
+    "sentence": "While most of its residents were too ill, too old, or too young for physical labor, able-bodied inmates worked on a 152-acre farm and in a nearby stone quarry, earning the institution its name: the Rensselaer County House of Industry.",
+    "after": "John Van Ness Yates, charged by the state of New York with conducting a yearlong inquiry into the “Relief and Settlement of the Poor” in 1824, used Troy’s example to argue that the state should build a poorhouse in every county."
+   },
+   {
+    "loc": 10,
+    "page": "pp. 14–16",
+    "kind": "p",
+    "before": "The county superintendent of the poor, Justin E. Gregory, won the contract for the House of Industry by promising to care for its paupers for $1 each per week.",
+    "sentence": "As part of the contract, he was granted unlimited use of their labor.",
+    "after": "The poorhouse farm produced $2,000 in revenue that year, selling vegetables grown by starving inmates."
+   },
+   {
+    "loc": 11,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "Our new digital tools spring from punitive, moralistic views of poverty and create a system of high-tech containment and investigation.",
+    "sentence": "The digital poorhouse deters the poor from accessing public resources; polices their labor, spending, sexuality, and parenting; tries to predict their future behavior; and punishes and criminalizes those who do not comply with its dictates.",
+    "after": "In the process, it creates ever-finer moral distinctions between the “deserving” and “undeserving” poor, categorizations that rationalize our national failure to care for one another."
+   },
+   {
+    "loc": 11,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "For Quincy, the pauper problem was caused by outdoor relief itself: aid was distributed without distinguishing between the impotent and the able.",
+    "sentence": "He suspected that indiscriminate giving destroyed the industry and thriftiness of the “labouring class of society” and created a permanently dependent class of paupers.",
+    "after": "His solution was to deny “all supply from public provision, except on condition of admission into the public institution [of the poorhouse].”"
+   },
+   {
+    "loc": 11,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "Families were separated because reformers of the time believed that poor children could be redeemed through contact with wealthy families.",
+    "sentence": "Children were taken from their parents and bound out as apprentices or domestics, or sent away on orphan trains as free labor for pioneer farms.",
+    "after": ""
+   },
+   {
+    "loc": 11,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "Poorhouses provided a multitude of opportunities for personal profit for those who ran them.",
+    "sentence": "Part of the keeper of the poorhouse’s pay was provided by unlimited use of the grounds and the labor of inmates.",
+    "after": "Many of the institution’s daily operations could thus be turned into side businesses: the keeper could force poorhouse residents to grow extra food for sale, take in extra laundry and mending for profit, or hire inmates out as domestics or farm-workers."
+   },
+   {
+    "loc": 12,
+    "page": "pp. 19–21",
+    "kind": "p",
+    "before": "Inmates worked together, endured neglect and abuse, nursed the sick, watched each other’s children, ate together, and slept in crowded common rooms.",
+    "sentence": "Many used the poorhouse cyclically, relying on them between growing seasons or during labor market downturns.",
+    "after": ""
+   },
+   {
+    "loc": 12,
+    "page": "pp. 19–21",
+    "kind": "p",
+    "before": "Rampant speculation led to a run of bank failures, and financial panic resulted in another catastrophic depression.",
+    "sentence": "Rail construction fell by a third, nearly half of the industrial furnaces in the country closed, and hundreds of thousands of laborers were thrown out of work.",
+    "after": "Wages dropped, real estate markets tumbled, and foreclosures and evictions followed."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 43,
+  "input": "3b30fcb0b0be",
+  "candidates": [
+   {
+    "loc": 52,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "",
+    "sentence": "The issue of labor is also essential to postcolonial digital humanities.",
+    "after": "At the heart of digital humanities’ labor practices are the material challenges to producing knowledge: money and time."
+   },
+   {
+    "loc": 52,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "The issue of labor is also essential to postcolonial digital humanities.",
+    "sentence": "At the heart of digital humanities’ labor practices are the material challenges to producing knowledge: money and time.",
+    "after": "Digital humanities projects, even small ones, require significant collaboration between a range of stakeholders: professors, project directors, librarians, alternative academic or alt-​ac staff, graduate students, and undergraduate students."
+   },
+   {
+    "loc": 53,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "",
+    "sentence": "While attention has been given to these dimensions of digital humanities labor, there has been less critical interrogation of the role of exploited and casualized labor from the Global South in propping up digital humanities projects of the Global North.",
+    "after": "Increasingly, digital humanities practitioners are turning to cheap sources of crowd-​sourced labor like Crowdflower or Amazon Mechanical Turk to perform tasks like data coding."
+   },
+   {
+    "loc": 53,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "While attention has been given to these dimensions of digital humanities labor, there has been less critical interrogation of the role of exploited and casualized labor from the Global South in propping up digital humanities projects of the Global North.",
+    "sentence": "Increasingly, digital humanities practitioners are turning to cheap sources of crowd-​sourced labor like Crowdflower or Amazon Mechanical Turk to perform tasks like data coding.",
+    "after": "Those providing this labor, which Lilly Irani terms “piecework,” often reside in the Global South and are compensated mere cents for performing tasks that cannot yet be automated and thus require human actors."
+   },
+   {
+    "loc": 63,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "",
+    "sentence": "Moreover, the Early Caribbean Digital Archive intervenes in approaches to labor, which is a central issue in digital humanities.",
+    "after": "In debates over building in digital humanities, the issue of labor has been subject to critique because projects are collaborative and therefore require not only builders, but also a range of other workers who contribute to a project."
+   },
+   {
+    "loc": 63,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "Moreover, the Early Caribbean Digital Archive intervenes in approaches to labor, which is a central issue in digital humanities.",
+    "sentence": "In debates over building in digital humanities, the issue of labor has been subject to critique because projects are collaborative and therefore require not only builders, but also a range of other workers who contribute to a project.",
+    "after": "Alan Liu cautions that the link between building and knowing only stands insofar as “we recognize the multiplicity of builder roles (including the importance of interpreters, critics, and theorists in the enterprise, many of them the same people as the coders, etc.).”"
+   },
+   {
+    "loc": 125,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "The speed of humanities research has accelerated through databases, electronic journals, and online archives, making humanists “digital” long before there was digital humanities.",
+    "sentence": "Under these circumstances, digital humanities does engender differences in methodologies and outcomes for humanities knowledge, raising questions of method, subject, and labor: Will quantitative approaches like distant reading, topic modeling, or stylometry supplant close reading?",
+    "after": "Are digital scholarship and other digital products of research commensurate with monographs or peer-​reviewed articles?"
+   },
+   {
+    "loc": 125,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "Are digital scholarship and other digital products of research commensurate with monographs or peer-​reviewed articles?",
+    "sentence": "How must academic labor be understood differently in light of the collaborative nature of digital humanities?",
+    "after": "While there are scholars who work alone, the nature of digital humanities projects favors collaborations with others who have divergent skill sets across the divisions of faculty, librarian, and student; between institutions; and around the world."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 171,
+  "input": "109ed202e5a5",
+  "candidates": [
+   {
+    "loc": 39,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "The gendered implications are extended when we consider the LilyPad as an electronic device.",
+    "sentence": "Recently, there have been well-publicized issues around the ethics of global manufacturing, with particular attention paid to labor practices in factories contracted by Apple and other hardware producers.",
+    "after": "Any microcontroller would raise this issue, but the gendered associations with the LilyPad make even more explicit the issues around electronics manufacture and a global labor force that consists largely of women of color."
+   },
+   {
+    "loc": 39,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "Recently, there have been well-publicized issues around the ethics of global manufacturing, with particular attention paid to labor practices in factories contracted by Apple and other hardware producers.",
+    "sentence": "Any microcontroller would raise this issue, but the gendered associations with the LilyPad make even more explicit the issues around electronics manufacture and a global labor force that consists largely of women of color.",
+    "after": "As Lisa Nakamura suggests, “The women of color workers who create the material circuits and other digital components that allow content to be created are all integrated within the ‘circuit’ of technoculture."
+   },
+   {
+    "loc": 113,
+    "page": "p. 85",
+    "kind": "p",
+    "before": "",
+    "sentence": "Regarding the clustering—and devaluing—of topics that women tend to present on at DH conferences, the widespread acknowledgment of the devaluing of women’s labor may help to explain this.",
+    "after": "We discussed the feminization of academia above, and indeed, this is a trend seen in practically all facets of society."
+   },
+   {
+    "loc": 113,
+    "page": "p. 85",
+    "kind": "p",
+    "before": "We discussed the feminization of academia above, and indeed, this is a trend seen in practically all facets of society.",
+    "sentence": "The addition of emotional labor or caretaking tasks complicates this.",
+    "after": "Economist Teresa Ghilar-ducchi explains: “A lot of what women do in their lives is punctuated by time outside of the labor market—taking care of family, taking care of children—and women’s labor has always been devalued. . . ."
+   },
+   {
+    "loc": 279,
+    "page": "p. 251",
+    "kind": "p",
+    "before": "",
+    "sentence": "There are reasons to make archival labor—usually hidden from view—clear and apparent.",
+    "after": "Consider one of the main sources of concomitant scholarly digital big data utopia and critical angst: Google Books and its mass digitization project."
+   },
+   {
+    "loc": 279,
+    "page": "p. 251",
+    "kind": "p",
+    "before": "Consider one of the main sources of concomitant scholarly digital big data utopia and critical angst: Google Books and its mass digitization project.",
+    "sentence": "It has only been recently that any considerations about mass digitization have addressed the issue of the gendered and often racialized labor that has powered this project.",
+    "after": "In Shawn Wen’s recent article, “The Ladies Vanish,” she discusses the invisible, separated, and underpaid labor happening in Silicon Valley and specifically on the Google campus."
+   },
+   {
+    "loc": 290,
+    "page": "p. 262",
+    "kind": "p",
+    "before": "“Feminist theory” is a multivalent term that resonates in different contexts and at different moments in the history of the field in ways that are impossible to track fully here.",
+    "sentence": "Considering service as a category of labor—including its connection to feminized and reproductive labor—in relation to a number of key aspects of digital humanities points to contradictions and blockages that a feminist approach can help to address.",
+    "after": "Within digital humanities discourses, service is imbricated with value propositions, gender hierarchies, labor practices, and epistemologies that I explore in relation to disciplinarity, librarianship, training, tools, infrastructure, and delivery systems, in conjunction with several telling historical and literary narratives."
+   },
+   {
+    "loc": 344,
+    "page": "p. 316",
+    "kind": "p",
+    "before": "Right now (and perhaps this chapter inadvertently adds fuel to this unfortunate state of affairs) faculty work exists as a specialized sphere, a college in a multiversity that provides an array of outputs and services.",
+    "sentence": "Dichotomizing research, writing, and teaching from other fundamental aspects of university life and labor is a failure of imagination, and one that is founded on a long history of devaluing gendered and racialized forms of labor.",
+    "after": "We can do better."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 13,
+  "input": "f4aae5accae8",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "However, a recent survey of the political views of 600 tech entrepreneurs found that a majority of them favor higher taxes on the rich, social benefits for the poor, single-payer healthcare, environmental regulations, parental leave, immigration protections, and other issues that align with Democratic causes.",
+    "sentence": "Yet most of them also staunchly opposed labor unions and government regulation.",
+    "after": "As one observer put it, “Silicon Valley entrepreneurs don’t mind the government regulating other industries, but they prefer Washington to stay out of their own business.”*5 For example, while many say they support single-payer healthcare in theory, they are also reluctant to contribute to tax revenue that would tund such an undertaking."
+   },
+   {
+    "loc": 50,
+    "page": "p. 38",
+    "kind": "p",
+    "before": "Such fictional accounts find their real-life counterpart in “electronic sweatshops,” where companies such as Apple, HP, and Dell treat humans like automata, reportedly requiring Chinese workers to complete tasks every three seconds over a 12-hour period, without speaking or using the bathroom.”° Indeed, as I write, over 1,000 workers at Amazon in Spain have initiated a strike over wages and rights, following similar protests in Italy and Germany in 2017.",
+    "sentence": "If we probe exploitative labor practices, the stated intention would likely elicit buzzwords such as “lower costs” and “greater efficiency,” signaling a fundamental tension and paradox — the indispensable disposability of those whose labor enables innovation.",
+    "after": "The language of intentionality only makes one side of this equation visible, namely the desire to produce goods faster and cheaper, while giving people “the opportunity to work.”"
+   },
+   {
+    "loc": 70,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "",
+    "sentence": "While many dystopic predictions signal a worry that humans may one day be enslaved by machines, the current reality is that the tech labor force is already deeply unequal across racial and gender lines.",
+    "after": "Although not the same as the structure of enslavement that serves as an analogy for unfreedom, Silicon Valley’s hierarchy consists of the highest-paid creatives and entrepreneurs, who are comprised of White men and a few White women, and the lowest-paid manual laborers — “those cleaning their offices and assembling circuit boards,” in other words “immigrants and outsourced labor, often women living in the global south,” who usually perform this kind of work.** The “diasporic diversity” embodied by South Asian and Asian American tech workforce does not challenge this hierarchy, because they continue to be viewed as a “new digital ‘different caste.’”"
+   },
+   {
+    "loc": 184,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "But what will the job market be like for former prisoners who have used VR?",
+    "sentence": "Research shows that there is widespread discrimination in the labor market, especially against African Americans convicted of a felony.",
+    "after": "And the labor market is already shaped by a technology that seeks to sort out those who are convicted of crimes, or even arrested, regardless of race."
+   },
+   {
+    "loc": 184,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "Research shows that there is widespread discrimination in the labor market, especially against African Americans convicted of a felony.",
+    "sentence": "And the labor market is already shaped by a technology that seeks to sort out those who are convicted of crimes, or even arrested, regardless of race.",
+    "after": "A US National Employment Law Project report shows that a staggering number of people — 65 million — “need not apply” for jobs from the numerous companies who outsource background checks to firms that, reportedly, look “just” at the facts (arrested? convicted?).2?"
+   },
+   {
+    "loc": 185,
+    "page": "p. 173",
+    "kind": "p",
+    "before": "",
+    "sentence": "Given the likelihood that many of those who have been incarcerated will be discriminated against in the labor market as it currently operates, the question remains: who is actually profiting from VR-training for prisoners?",
+    "after": "And how does this technical fix subdue the call for more far-reaching aims, such as to weaken the carceral apparatus or to reimagine how the labor market operates?"
+   },
+   {
+    "loc": 185,
+    "page": "p. 173",
+    "kind": "p",
+    "before": "Given the likelihood that many of those who have been incarcerated will be discriminated against in the labor market as it currently operates, the question remains: who is actually profiting from VR-training for prisoners?",
+    "sentence": "And how does this technical fix subdue the call for more far-reaching aims, such as to weaken the carceral apparatus or to reimagine how the labor market operates?",
+    "after": ""
+   },
+   {
+    "loc": 190,
+    "page": "p. 178",
+    "kind": "p",
+    "before": "Designers also occupy a relatively high rung in hierarchies of ‘knowledge economy’ projects.”*” Irani and Silberman’s query grows out of their experience as developers of Turkopticon, an activist tool for workers that aims to help “the people in the ‘crowd’ of crowdsourcing watch out for each other — because nobody else seems to be.”*° And what they found was that, in public depictions of their work, designers were elevated while workers were cast as being “without agency and capacity to change their situation.”",
+    "sentence": "Even though they themselves were guided by a solidaristic relationship with the workers, the public granted them, as “designers,” a higher status than to their laboring counterparts.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 21,
+  "input": "170e394da775",
+  "candidates": [
+   {
+    "loc": 47,
+    "page": "p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "Marginalization manifests in many ways, but one example is marking people as unemployable: Designating their labor as unneeded or unwanted; devaluing their contributions and potential contributions; and creating targeted, severe material deprivation.",
+    "after": "We may notice this deprivation concentrated within social groups such as older people, who often have difficulty re-entering the workforce after losing a position, and young people of color, who are often blocked from entering the workforce in the first place (Young, 1990, p. 53)."
+   },
+   {
+    "loc": 49,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "Indeed, a common explanation for the economic and technological rise of Europe is that Europeans must be particularly creative, intelligent, and capable: “Europe made it on its own, it is said, because of the peculiar characteristics of Europe and Europeans” (Mills, 1997, p. 33).",
+    "sentence": "The truth, however, is that a number of places in Asia, Africa, and Europe all showed similar levels of development before Europe pillaged and pilfered Africa and Asia and forced them into colonial networks (read: slavery) that exploited their labor and extracted their resources to fuel Europe’s ascent (Mills, 1997, p. 35).",
+    "after": "Colonialism is not only the conquering of lands; conquering lands also means conquering bodies."
+   },
+   {
+    "loc": 54,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "Both Mills (1997) and Delgado and Stefancic (2012) expose a causal relationship between exploitation and racism: History shows that when one group of people is able to take advantage of another and exploit them, “conquering nations universally demonize their subjects to feel better about exploiting them” (Delgado & Stefancic, 2012, p. 21).",
+    "sentence": "In other words, oppressors deny the humanity of the oppressed to justify exploiting their labor.",
+    "after": "This relationship between dehumanizing oppressed people and robbing them of the advantages of their labor is so strong that some activists argue justice should start with a focus on material conditions: Arguing that improving the material conditions of exploited people, especially people of color, will lead to a reduction in systems of oppression such as racism and sexism."
+   },
+   {
+    "loc": 54,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "In other words, oppressors deny the humanity of the oppressed to justify exploiting their labor.",
+    "sentence": "This relationship between dehumanizing oppressed people and robbing them of the advantages of their labor is so strong that some activists argue justice should start with a focus on material conditions: Arguing that improving the material conditions of exploited people, especially people of color, will lead to a reduction in systems of oppression such as racism and sexism.",
+    "after": "Delgado and Stefancic (2012) refer to this as the materialist camp of critical race theorists; materialists posit that to reduce racism we must first change the material circumstances of people of color."
+   },
+   {
+    "loc": 54,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the university, the material circumstances of graduate student and adjunct labor present perhaps the most apparent form of exploitation that technical communication scholars encounter on a daily basis.",
+    "after": "Because of graduate students’ positionality in programs as both subservient to their graduate advisors and desperately in need of approval in order to secure jobs after their graduate work, graduate students are easily exploited for their labor."
+   },
+   {
+    "loc": 54,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "In the university, the material circumstances of graduate student and adjunct labor present perhaps the most apparent form of exploitation that technical communication scholars encounter on a daily basis.",
+    "sentence": "Because of graduate students’ positionality in programs as both subservient to their graduate advisors and desperately in need of approval in order to secure jobs after their graduate work, graduate students are easily exploited for their labor.",
+    "after": "Except where students are unionized, graduate students’ hours are seldom documented, and expectations for work can easily fall into the “as much as necessary” category."
+   },
+   {
+    "loc": 56,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "As Walton (2016b) discusses, each face of oppression is explicitly relevant to the field of TPC.",
+    "sentence": "For example, labor norms are reflected in and shaped by workplace communication, including public and private policies, written by TPC practitioners and studied by TPC scholars.",
+    "after": "Noting that exploitation, powerlessness, and marginalization address the social division of labor (Young, 1990, p. 58), Walton asserts that “TPC is well positioned to combat forms of oppression that are expressed through inequitable structural and social constraints on division of labor because TPC is involved in crafting the communications that perpetuate or chip away at these constraints” (p. 412)."
+   },
+   {
+    "loc": 56,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "For example, labor norms are reflected in and shaped by workplace communication, including public and private policies, written by TPC practitioners and studied by TPC scholars.",
+    "sentence": "Noting that exploitation, powerlessness, and marginalization address the social division of labor (Young, 1990, p. 58), Walton asserts that “TPC is well positioned to combat forms of oppression that are expressed through inequitable structural and social constraints on division of labor because TPC is involved in crafting the communications that perpetuate or chip away at these constraints” (p. 412).",
+    "after": "Exploring the faces of oppression, then, is not a merely intellectual exercise in which we can be disinterested scholars."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 82,
+  "input": "8e9bfc915708",
+  "candidates": [
+   {
+    "loc": 62,
+    "page": "p. 46",
+    "kind": "p",
+    "before": "For example, many uses of land were not counted as uses because land use in Western culture is primarily understood in terms of cultivation.",
+    "sentence": "The labor theory of property was also a theory of use.",
+    "after": "Indeed, John Locke’s Two Treatises of Government makes extensive use of use and in particular of the expression “made use of.”"
+   },
+   {
+    "loc": 63,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "Land that has not been cultivated becomes wasteland, unused, and thus available to be appropriated.",
+    "sentence": "Indeed, Locke argues, the more the land is cultivated, the more value is derived from the land for the benefit of all: “He, who appropriates land to himself by his labour, does not lessen but increase the common stock of mankind” (150).",
+    "after": "Agriculture is framed not only as the use of land but as its improvement, an increase in stock."
+   },
+   {
+    "loc": 72,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "The introduction of machinery might appear to be labor saving.",
+    "after": "This has historically been a hope afforded to new technologies, that is, machines as reducing the time and energy necessary to accomplish a task."
+   },
+   {
+    "loc": 72,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "This has historically been a hope afforded to new technologies, that is, machines as reducing the time and energy necessary to accomplish a task.",
+    "sentence": "I return to this question of labor and muscle in my discussion of the figure of the blacksmith’s arm in chapter 2.",
+    "after": "But Marx showed how the machinery intensifies labor and enables the extraction of greater surplus value from upping the requirements of a system."
+   },
+   {
+    "loc": 110,
+    "page": "p. 94",
+    "kind": "p",
+    "before": "We can think, for example, of how cotton traveled to factories in the North of England from the slave plantations in the American South.",
+    "sentence": "Marx notes, “As the export of cotton became of vital interest to these states, the over-working of the negro and sometimes the using up of his life in 7 years of labour became a factor in a calculated and calculating system” ([1867] 1990, 345, emphasis mine).",
+    "after": "The connection between slave labor and wage labor is material in many senses of material: the transformation of cotton from raw material into commodity depends on the exploitation of slave labor in the plantation as well as wage labor in the factories."
+   },
+   {
+    "loc": 124,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "Even when the diffusion of useful knowledge was a core commitment, that commitment was difficult to express without ambivalence.",
+    "sentence": "The very first sentence of the minutes to the first meeting of the sduk reads as follows: “At a meeting of Gentleman assembled at nb 7 Furnivall’s Inn on Monday the 6th of November for the purpose of taking into consideration the propriety for the general diffusion of useful knowledge among the labouring population.”",
+    "after": "This sentence is of interest because “among the labouring population” is crossed out."
+   },
+   {
+    "loc": 124,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "The very first sentence of the minutes to the first meeting of the sduk reads as follows: “At a meeting of Gentleman assembled at nb 7 Furnivall’s Inn on Monday the 6th of November for the purpose of taking into consideration the propriety for the general diffusion of useful knowledge among the labouring population.”",
+    "sentence": "This sentence is of interest because “among the labouring population” is crossed out.",
+    "after": "The decision not to refer to this population was probably because the remit was to include middle-class as well as working-class readers."
+   },
+   {
+    "loc": 159,
+    "page": "p. 143",
+    "kind": "p",
+    "before": "We could consider Bentham’s body as a phantom limb in a similar way to the blacksmith’s arm.",
+    "sentence": "The investment in the distinction between mental and manual labor as a social distinction is evidenced by these contrasting figures—arm and head, body and mind, laborer and gentleman.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "344106bfdbb8",
+  "candidates": [
+   {
+    "loc": 58,
+    "page": "pp. 90–91",
+    "kind": "p",
+    "before": "Many academics, artists, and intellectuals in the West started to leave Facebook after 2016.",
+    "sentence": "The reasons for this are multiple: they may not like companies perceived as monopolies; they may believe that by participating, they are doing free labor for Facebook; they may not like that their data is used for personalized ads; they may have been influenced by many negative media stories, such as coverage of Cambridge Analytica’s work on the US presidential campaign and the Brexit vote.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 102,
+  "input": "e49015742fc0",
+  "candidates": [
+   {
+    "loc": 157,
+    "page": "PDF p. 157",
+    "kind": "p",
+    "before": "But more often than not, the reverse also holds true: we fail to recognize the larger value of the services we get for free.",
+    "sentence": "When, in the early 1970s, the International Feminist Collective launched the Wages for Housework campaign, it was this phenomenon of invisible labor—labor that was unpaid and therefore unvalued—that the group was trying to expose (figure 7.3).",
+    "after": "The precise term they used to describe this work was reproductive labor, which comes from the classical economic distinction between the paid and therefore economically productive labor of the marketplace, and the unpaid and therefore economically unproductive labor of everything else."
+   },
+   {
+    "loc": 157,
+    "page": "PDF p. 157",
+    "kind": "p",
+    "before": "When, in the early 1970s, the International Feminist Collective launched the Wages for Housework campaign, it was this phenomenon of invisible labor—labor that was unpaid and therefore unvalued—that the group was trying to expose (figure 7.3).",
+    "sentence": "The precise term they used to describe this work was reproductive labor, which comes from the classical economic distinction between the paid and therefore economically productive labor of the marketplace, and the unpaid and therefore economically unproductive labor of everything else.",
+    "after": "By reframing this latter category of work as reproductive labor, rather than simply (and inaccurately) unproductive labor, groups like the International Feminist Collective sought to emphasize how the range of tasks that the term encompassed, like cooking and cleaning and child-rearing, were precisely the tasks that enabled those who performed “productive” labor, like office or factory work, to continue to do so."
+   },
+   {
+    "loc": 157,
+    "page": "PDF p. 157",
+    "kind": "p",
+    "before": "",
+    "sentence": "The Wages for Housework movement began in Italy and migrated to the United States with the help of labor organizer and theorist Silvia Federici.",
+    "after": "It eventually claimed chapters in several American cities, and did important consciousness-raising work."
+   },
+   {
+    "loc": 158,
+    "page": "PDF p. 158",
+    "kind": "p",
+    "before": "Still, as prominent feminists like Angela Davis pointed out, while housework might have been unpaid for white women, women of color—especially Black women in the United States—had long been paid, albeit not well, for their housework in other people’s homes: “Because of the added intrusion of racism, vast numbers of Black women have had to do their own housekeeping and other women’s home chores as well.”",
+    "sentence": "Here, Davis is making an important point about racialized labor: just as housework is structured along the lines of gender, it is also structured along the lines of race and class.",
+    "after": "The domestic labor of women of color was and remains underwaged labor, as feminist labor theorists would call it, and its low cost was what permitted (and continues to permit) many white middle- and upper-class women to participate in the more lucrative waged labor market instead."
+   },
+   {
+    "loc": 158,
+    "page": "PDF p. 158",
+    "kind": "p",
+    "before": "",
+    "sentence": "Since the 1970s, the term invisible labor has come to encompass the various forms of labor, unwaged, underwaged, and even waged, that are rendered invisible because they take place inside of the home, because they take place out of sight, or because they lack physical form altogether.",
+    "after": "Visit WagesforFacebook.com and you’ll find a version of the Wages for Housework argument updated for a new form of invisible work."
+   },
+   {
+    "loc": 162,
+    "page": "PDF p. 162",
+    "kind": "p",
+    "before": "In this way, it is an ambitious example of the seventh principle of data feminism: show the work.",
+    "sentence": "Behind the magic and marketing of data products, there is always hidden labor—often performed by women and people of color, which is both a cause and effect of the fact that this labor is both underwaged and undervalued.",
+    "after": "Data feminism seeks to make this labor visible so that it can be acknowledged and appropriately valued, and so that its truer cost —for people and for the planet—can be recognized."
+   },
+   {
+    "loc": 169,
+    "page": "PDF p. 169",
+    "kind": "p",
+    "before": "This is what is known as emotional labor, and it’s another form of work that feminist theory has helped to bring to light.",
+    "sentence": "As described by feminist sociologist Arlie Hochschild, emotional labor describes the work involved in managing one’s feelings, or someone else’s, in response to the demands of society or a particular job.",
+    "after": "Hochschild coined the term in the late 1970s to describe the labor required of service industry workers, such as flight attendants, who are required to manage their own fear while also calming passengers during adverse flight conditions, and generally work to ensure that flight passengers feel cared for and content."
+   },
+   {
+    "loc": 169,
+    "page": "PDF p. 169",
+    "kind": "p",
+    "before": "",
+    "sentence": "One example that strives to visualize emotional and affective labor is the Atlas of Caregiving (figure 7.8), an ongoing project that aims to document the work involved in caring for a chronically ill family member.",
+    "after": "The project’s name plays on the concept of the anatomy atlas, a compendium of illustrations of the human body that doctors can consult for information and reference."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 34,
+  "input": "c9d0bfcca922",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "Alongside the discussion of design as a specialist activity or as a certain type of work accomplished by experts, there is also a steadily growing literature on marginalized people’s design practices.",
+    "sentence": "In line with feminist critiques of frequently unpaid and invisibilized forms of feminized labor, it’s crucial to acknowledge the importance of everyday, vernacular, and often unrecognized design practices (as in chapter 3).",
+    "after": "Alternative histories of technology and design help to recuperate and center people, practices, and forms of expertise that have long been erased by mainstream design theory and history, both in scholarly and popular writing."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "According to Patty Berne, cofounder and executive director of QTPOC performance collective Sins Invalid, disability justice is built on the principles of intersectionality, leadership of those most impacted, anti-capitalist politic, cross-movement solidarity, recognizing wholeness, sustainability, commitment to cross-disability solidarity, interdependence, collective access, and collective liberation; a disability justice analysis recognizes that “the very understanding of disability experience itself is being shaped by race, gender, class, gender expression, historical moment, relationship to colonization, and more. … We don’t believe human worth is dependent on what and how much a person can produce.",
+    "sentence": "We critique a concept of ‘labor’ as defined by able-bodied supremacy, white supremacy, and gender normativity. … We value our people as they are, for who they are.”",
+    "after": "Disability justice is to the disability rights movement as environmental justice is to mainstream environmentalism."
+   },
+   {
+    "loc": 66,
+    "page": "PDF p. 66",
+    "kind": "p",
+    "before": "This is also the case within most design firms.",
+    "sentence": "At the extreme, in large multinational design enterprises, armies of poorly paid underlings labor to produce work (concepts, sketches, prototypes), while the benefits (money, attribution, copyrights and patents) flow upward into the hands of a small number of high-profile professional designers at the top.",
+    "after": "There’s also a power law at play, as in every industry."
+   },
+   {
+    "loc": 66,
+    "page": "PDF p. 66",
+    "kind": "p",
+    "before": "In addition, the internet has enabled a new scale of extractive mechanisms in design.",
+    "sentence": "For example, this is often this case in “design challenges” in which dozens, sometimes hundreds, of people do free labor and submit ideas in hopes that they’ll be the lucky one chosen to receive visibility, recognition, and possibly even compensation.",
+    "after": "Most recently, this process has been platformized, in spaces such as OpenIDEO, DiscoverDesign, and IdeaScale."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "In “Hackathons as Co-optation Ritual: Socializing Workers and Institutionalizing Innovation in the ‘New’ Economy,” sociologists Sharon Zukin and Max Papadantonakis draw from their ethnography of seven New York City hackathons to provide a withering critique: “Hackathons, time-bounded events where participants write computer code and build apps, have become a popular means of socializing tech students and workers to produce ‘innovation’ despite little promise of material reward … [Hackathons] reshape unpaid and precarious work as an extraordinary opportunity, a ritual of ecstatic labor, and a collective imaginary for fictional expectations of innovation that benefits all, a powerful strategy for manufacturing workers’ consent in the ‘new’ economy.”",
+    "sentence": "In short, from a managerial perspective, hackathons provide excellent opportunities for the extraction of free labor.",
+    "after": "This helps explain the increasing popularity of hackathons within the regular practices of technology firms."
+   },
+   {
+    "loc": 119,
+    "page": "PDF p. 119",
+    "kind": "p",
+    "before": "Settlers benefit from the appropriation (theft) of native lands and cultures.",
+    "sentence": "Under capitalism, the dynamic of appropriation by those in positions of structural power also can be seen in labor process innovations by workers that result in their own displacement through automation.",
+    "after": "When shop floor workers redesign assembly processes to be more efficient, for example, the gains are typically realized by factory owners, rather than workers, whose workload doesn’t decrease; on the contrary, they are frequently expected to produce at a higher level within the new, redesigned process."
+   },
+   {
+    "loc": 119,
+    "page": "PDF p. 119",
+    "kind": "p",
+    "before": "Under heteropatriarchy, men do not systematically appropriate femme styles, mannerisms, speech forms, and culture; indeed, to do so is to break male gender norms and invite transmisogynistic violence.",
+    "sentence": "However, men constantly appropriate labor by women and femmes, including emotional, affective, and reproductive labor, as well as housework and other forms of work that are feminized, racialized, and devalued under heteropatriarchal racial capitalism.",
+    "after": ""
+   },
+   {
+    "loc": 120,
+    "page": "PDF p. 120",
+    "kind": "p",
+    "before": "There is nothing about design justice as a framework that necessarily implies that particular talents or skills must be devalued or subordinated to an abstract “collective will.”",
+    "sentence": "Indeed, if anything, design justice ensures that all of those who contribute to a design process receive recognition, attribution, and, where appropriate, remuneration for their labor.",
+    "after": "This is in contrast to other design approaches where those at the top of the hierarchy receive the vast bulk of the rewards for the collective labor and ideas of those below them in the pyramid."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 16,
+  "input": "28e7efc08ded",
+  "candidates": [
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "But if anything, context collapse is better understood as a descriptor of white racial ideology and identity.",
+    "sentence": "What Marwick and boyd are referencing is the collapse of categorial identity, or what Rawls (2000) references as white folks’ display of hierarchical identities designed to reveal labor status and individualism.",
+    "after": "Individualist identities are constrained by the informational scale necessary for the success of SNS; thus these identities could be understood as collapsing under the coercive instrumentality of self-presentation afforded by social media profiles."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "What becomes clear when evaluating digital practice is that political economy does not do well analyzing cultural commodities as artifacts (e.g., Vine videos as a social media service) or audience commodities as cultural collectivities (e.g., Black Twitter hashtags; Meehan, Mosco, & Wasko, 1993).",
+    "sentence": "Critical political economy offers possibilities for understanding Blackness online, but its focus on oppression and resistance lingers on labor, the state, and the public sphere, leaving cultural aspects behind.",
+    "after": "For example, Faltesek (2018), using a political-economic lens to investigate social media, contends, “Facebook, Twitter, Snapchat, YouTube, LinkedIn, and dozens of other services have been described as the vanguard of creative destruction across the media industries-disruptors of established business, heroes of a new economic narrative that supposes that the attention of individual users can be measured, managed, manipulated, backing methods that securitized, patented, and litigated attention in ways impossible before."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "Libidinal economy undergirds political economies, driving political and economic processes through affect.",
+    "sentence": "Incorporating a libidinal economic analysis to digital practice, then, offers a release from considerations of Black digital practice as labor or commodity.",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "He identifies antiblackness as a desire of American society and culture, writing that “Blackness overdetermines the embodiment of impossibility, incoherence, and incapacity” (p. 73).",
+    "sentence": "The devaluation and reduction of the human body to its technical and labor potential are clearest when the body is Black.",
+    "after": "Moreover, the specter of antiblackness allows whiteness to devalue the labor of non-Black bodies, encouraging nonelites to accept less economic capital in exchange for the cultural capital of not being Black."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "The devaluation and reduction of the human body to its technical and labor potential are clearest when the body is Black.",
+    "sentence": "Moreover, the specter of antiblackness allows whiteness to devalue the labor of non-Black bodies, encouraging nonelites to accept less economic capital in exchange for the cultural capital of not being Black.",
+    "after": "For example, Donald Trump, who won the presidential election in 2016 by appealing to xenophobia and nativism, has had his inchoate antiblackness codified into Republican legislative proposals to transfer wealth to white elites by defunding social welfare programs that are perceived as aiding minority families, eliminating environmental protections (disproportionately affecting minority and poor communities in the process), disenfranchising religious and ethnic minorities, and expanding military aggression in the name of xenophobia."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "Wilderson (2010), in writing on antiblackness, offers Jared Sexton’s clarification of libidinal economy: “The economy, or distribution and arrangement, of desire and identification (their condensation and displacement), and the complex relationship between sexuality and the unconscious . . . a dispensation of energies, concerns, points of attention, anxieties, pleasures” (Sexton, cited in Wilderson, 2010, p. 24).",
+    "sentence": "Building on this, I argue that one should understand the distribution and arrangement of Black digital practice as digital labor and desire, as online politics and desire, or as digital representation and desire.",
+    "after": "Removing desire from Black digital practice reduces agency—online members become “users” or, even worse, “data.”"
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "Similarly, Black Twitter was (and in many cases still is) often framed as “immature” and “ineffective” because its creative and discursive practices, in their viscerality and sensuality, do not directly lead to Black political or economic empowerment.",
+    "sentence": "This technocultural framing of Black digital practice is in line with long-standing Euro-American material conceptions of the Black body as labor/chattel, where Black energies must be directed toward the enrichment of their owner/institution.",
+    "after": "Moreover, Black Twitter fails under the disapproving scrutiny of Black respectability politics, where Black activities are “mature” if they are seen as leading to the political enrichment or advancement of the Black community."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "Many of the first responses by Black Twitter users were image macros and GIFs expressing disbelief or outrage, but then things got funny.",
+    "sentence": "Their responses evoked Black cult humor to darkly critique labor practices, social protocol and etiquette, Black parenting strategies, and much more.",
+    "after": "Although not depicted here, many tweets contextualized the hashtag with photos of Black celebrities and Black media culture, all mediated by the call-and-response functions of Black Twitter hashtag practice (figures 4.2 and 4.3)."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 10,
+  "input": "29fc9bfca864",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "In this book we argue for the importance of the digital labor of raced and gendered counterpublics.",
+    "after": "Ordinary African Americans, women, transgender people, and others aligned with racial justice and feminist causes have long been excluded from elite media spaces yet have repurposed Twitter in particular to make identity-based cultural and political demands, and in doing so have forever changed national consciousness."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "Along with more traditional forms of organizing, people used English- and Arabic-language hashtags to alert each other to the movements of state actors and communicate with the world what was happening in the region.",
+    "sentence": "Frustrated by corrupt local governments, income disparities, and poor labor conditions, youth and union members organized large-scale protests in multiple countries in North Africa and the Middle East.",
+    "after": "These uprisings were not coordinated but built on each other, aided by the proliferative capability of social media to share important, time-sensitive information."
+   },
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "",
+    "sentence": "Finally, discursive analysis of the counterpublic networks allowed us to explore the significance of hashtags beyond quantified popularity and digital curation to highlight the social and political labor undertaken by hashtag activists as they work to tell stories and make meaning.",
+    "after": "This approach is a constructivist one that recognizes that discourse constructs reality by making ideas and events meaningful in particular ways that uphold or challenge cultural ideologies."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "After an immense amount of press around #MeToo, thanks to the high-profile identities of many of the actresses who came forward with stories about Weinstein, Burke and other longtime women of color activists partnered with Hollywood actresses and started a new campaign using the hashtag #TimesUp, putting men and other perpetrators on notice that time was up for them to keep getting away with their abusive behaviors.",
+    "sentence": "At the January 2018 75th Golden Globe Awards, A-list actresses invited Burke and fellow women’s rights activists onto the red carpet, where they donned all Black and spoke out about the need for significant changes not only in the entertainment industry but among all industries in which women are sexually exploited under the guise of naturalized labor conditions.",
+    "after": ""
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "We didn’t realize it at the time, but soon we were seeing write-ups in publications, message board debates, and academic exploration.",
+    "sentence": "While a number of journalists, media figures, and scholars were dismissing digital activism as some sort of “New Age slacktivism,” people were picking up the mantle and lending their labor and voices.",
+    "after": "As many have said, Twitter is just one component of activism, one that has proved to be extremely vital."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "Given historical and contemporary exclusions, both in the mainstream and within identity-based counterpublics, the communication constructed by and for trans women of color online illustrates some of the most subaltern in this book.",
+    "sentence": "We include a discussion of trans women’s networked labor both in the spirit of recognizing the layered ways that counterpublics function and as a response to activists and scholars who have called on academics to do a better job of considering the “T” in LGBT.",
+    "after": "As Leland G. Spencer writes in the introduction to Transgender Communication Studies: Histories, Trends, and Trajectories, “The ‘T’ too often tacked onto the end of ‘LGBT’ demands a spot at the center of communicative and rhetorical analysis,” especially in light of the way cisgender gay white men have been centered in research on LGBT communication and in public representations of LGBT issues and activism."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "The research on online racial and gender justice activism presented in this book brings to the center the voices of people of color and women, especially by unpacking the technical and discursive processes that have facilitated marginalized citizens’ influence on mainstream discussions of racism and sexism in the United States.",
+    "sentence": "We have explained throughout why it is important to making visible the digital labor of these often ignored groups.",
+    "after": "Yet the question of how members of dominant groups do (or do not) show up to support this labor is ever present."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "We have explained throughout why it is important to making visible the digital labor of these often ignored groups.",
+    "sentence": "Yet the question of how members of dominant groups do (or do not) show up to support this labor is ever present.",
+    "after": "How do white allies to racial justice struggles and male allies to feminist projects engage digitally?"
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 58,
+  "input": "9b66bdede3e7",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "My attention to information infrastructure is most specifically in dialogue with alternative feminist historiographies grounded in the study of activist mediation.",
+    "sentence": "Activist infrastructures are where the messy, grinding, generally invisible labor of “doing feminism” takes places.",
+    "after": "As Samantha Thrift and Carrie Rentschler argue, “Feminists build technological, affective and cultural infrastructures through which they produce, disseminate and share resources, ideas and knowledge.”"
+   },
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "This telegram girl’s labor, attention, or refusal is central to transmitting information.",
+    "after": "As I explore in chapter 2, lesbian-feminist telephone operators responded in creative ways to the information hotline’s expectations that they “be neutral” on the phone, practicing forms of affective management, active listening, and commitments to “meeting women where they are at,” even when they disagreed with a caller’s position."
+   },
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "As I explore in chapter 2, lesbian-feminist telephone operators responded in creative ways to the information hotline’s expectations that they “be neutral” on the phone, practicing forms of affective management, active listening, and commitments to “meeting women where they are at,” even when they disagreed with a caller’s position.",
+    "sentence": "Attention to this careful telephone comportment centers affective labor and everyday information technologies in how social movements are built.",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "It is associated most often with domestic and care work’s construction as women’s work and with digital economies that celebrate the “flex bility” of working from home.",
+    "sentence": "Feminist activist labor and volunteer work present another kind of “second shift” often done on the fly or in the margins of one’s “spare time.”",
+    "after": "Worked on within these temporalities, information technologies become sites of infiltration, appropriation, and resourcefulness for marginalized users."
+   },
+   {
+    "loc": 26,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "",
+    "sentence": "While affective labor is often understood as immaterial, particularly in its digital manifestations, information activists emphasize the hypermaterial aspects of activism performed with media technologies as they work across digital and “analog” forms.",
+    "after": "Lesbian feminists who made print resources or sat at desks night after night, working the hotline phones, carved pathways through information that others without prior access might follow."
+   },
+   {
+    "loc": 26,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "Lesbian feminists who made print resources or sat at desks night after night, working the hotline phones, carved pathways through information that others without prior access might follow.",
+    "sentence": "Indexing is a material form of affective labor, whether it is performed with paper cards or computers, because the practice assembles people, information, and technologies toward social goals.",
+    "after": "Information activism brings together people marginalized from access to these resources, pushing on the divisions that can bifurcate information and emotion in the first place."
+   },
+   {
+    "loc": 137,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "",
+    "sentence": "Indexing culture diminishes women’s work to relay its approachability, but lesbian indexers draw on gendered labor as powerful and unique.",
+    "after": "Take, for example, the willingness of women such as Potter and Roberts to take on a “second shift” indexing at night after their day jobs and domestic responsibilities had been fulfilled, or their readiness to implement a collective work model that was often frustrating to maintain."
+   },
+   {
+    "loc": 137,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "As Trysh Travis explains, doing and thinking were intertwined: “The simultaneous development of women’s heads and hands was necessary to prevent a divisive split between radical theory and practice.",
+    "sentence": "Without a conscious blurring of the lines between manual and mental labor, feminists risked recreating among themselves the hierarchies of class, intellect, power, and so forth, that they were committed to eradicating.”",
+    "after": "Doing information activism across difference and across lesbian communities of struggle meant working collaboratively with a mess of cards."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 12,
+  "input": "e746b611f258",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "Intersectional tech implores us to render visible the force of discursive practices that position practices within (dis)orderly social hierarchies and arrangements.",
+    "sentence": "The explicit formulations of the normative order sometimes disagree with the concrete human condition and are inconsistent with the consumption and production practices that constitute black digital labor.",
+    "after": "It is, in fact, these practices that inform the theoretical underpinnings of black performances, cultural production, exploited labor, and resistance strategies inside oppressive technological structures in which black users reside."
+   },
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "The explicit formulations of the normative order sometimes disagree with the concrete human condition and are inconsistent with the consumption and production practices that constitute black digital labor.",
+    "sentence": "It is, in fact, these practices that inform the theoretical underpinnings of black performances, cultural production, exploited labor, and resistance strategies inside oppressive technological structures in which black users reside.",
+    "after": ""
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "To capture this concept, intersectional tech can be understood as the visual, textual, and/or oral engagement of the black body, originating from the digital and moving into the physical (or vice versa).",
+    "sentence": "It also is a recognition and critical deconstruction of the exploited, hypervisible labor of any associated black performances stemming from that engagement.",
+    "after": "These practices inform the theoretical understandings of the associated performances, productions, labor, responses, reactions, and resistance inside oppressive technological structures and interrogate the transformative physical actions of resistance by many of these black users."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "It also is a recognition and critical deconstruction of the exploited, hypervisible labor of any associated black performances stemming from that engagement.",
+    "sentence": "These practices inform the theoretical understandings of the associated performances, productions, labor, responses, reactions, and resistance inside oppressive technological structures and interrogate the transformative physical actions of resistance by many of these black users.",
+    "after": ""
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "Building on a framework of black feminist technology studies, Noble roots media, information, and technological industries within systems of white supremacy, showing historical and contemporary manifestations of these practices in the everydayness of technology use.",
+    "sentence": "It is essential to focus on the human labor behind the technological and digital realities that produce racialized and gendered hierarchies.",
+    "after": ""
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "Using the example of #IfTheyGunnedMeDown, black digital users juxtapose black death with a limited narrative of black life and reality.",
+    "sentence": "This is a clear illustration of the connectedness of the exploited, hypervisible body and the associated labor that black bodies must do to combat the powerful mediated narratives skewing their existence.",
+    "after": "The responses to #IfTheyGunnedMeDown reflect powerful reactions and resistance inside oppressive structures, and the use of technology to do so."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "Henry Jenkins, Sam Ford, and Joshua Green believe that digital content creation is capable of operating in unauthorized ways, outside of industry control.",
+    "sentence": "Although this form of do-it-yourself labor still benefits the capitalist structure of media, users nonetheless feel empowered.",
+    "after": "The internet does not truly turn users into enfranchised creators and producers; rather, cultural industries employing the internet present users with pseudo cultural and economic power/capital, shifting the focus away from their labor."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "Although this form of do-it-yourself labor still benefits the capitalist structure of media, users nonetheless feel empowered.",
+    "sentence": "The internet does not truly turn users into enfranchised creators and producers; rather, cultural industries employing the internet present users with pseudo cultural and economic power/capital, shifting the focus away from their labor.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 2,
+  "input": "322bb9c98519",
+  "candidates": [
+   {
+    "loc": 53,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "are connected to industrialism and mass manufacture.",
+    "sentence": "According to historians Elizabeth Cumming and Wendy Kaplan (1991), designers and labor theorists in Victorian England have created an early reaction to industrialization.",
+    "after": "They have sought to value individualism and creativity amid a time of profits and mass-market capitalism."
+   },
+   {
+    "loc": 145,
+    "page": "p. 124",
+    "kind": "p",
+    "before": "In London, during the deep recession of the early 80s, voters elected a leftist city council to protest the austerity policies of the Thatcher government.",
+    "sentence": "Labour politicians quickly set up the Greater London Enterprise Board, which in turn established five Technology Networks with a budget of £4 million.",
+    "after": "These facilities, direct antecedents to modern makerspaces, were shared machine shops that aimed to democratize the means of production and access to education for unemployed manufacturing workers."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 72,
+  "input": "aca99a1017b8",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "",
+    "sentence": "So how does one go about documenting Black women’s relationship to labor and technology without relying on her enslaver to do the telling?",
+    "after": "The task of tracking the everyday experience of women in history is extraordinarily challenging."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "History may overlook Black women’s ingenuity in crafting efficient household technologies, but their tools remain.",
+    "sentence": "Because the U.S. has used Black women as engines of labor, the products of that labor are a part of the dominant narrative and are accessible in the archive.",
+    "after": "From these labor records, we can extract pieces of the fullness of their lived experiences."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "Gender in the territories that would become the U.S. initially mirrored what early slave-holding colonists experienced in Europe, leaving many patriarchal norms intact.",
+    "sentence": "White men expected their wives to contribute to the household through domestic labor, with white women’s economic lives confined to their homes (Norton, 1984).",
+    "after": "However, many English slave-holding men also expected their wives to work in the field in addition to domestic household labor."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "White men expected their wives to contribute to the household through domestic labor, with white women’s economic lives confined to their homes (Norton, 1984).",
+    "sentence": "However, many English slave-holding men also expected their wives to work in the field in addition to domestic household labor.",
+    "after": "Few enslaved Black women worked in the home or had access to domestic labor before the latter part of the eighteenth century."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the retelling of our history, some imagine the labor of enslaved people of African descent as men’s work.",
+    "after": "While scholars too often ignore the labor of Black women, Lerner describes, “The lot of Black women under slavery was in every respect more arduous, difficult and restricted than that of the men.”"
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "This need drove the transition of domestic work from white women within the household to Black enslaved women.",
+    "sentence": "The separation of labor is a fundamental driving force in maintaining white supremacy and patriarchy, with Black women relegated to the lowest rung on the hierarchical ladder.",
+    "after": "White women could only be separated from the conditions of labor because they enslaved Black women as domestic laborers."
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "Online communities are often labeled virtual, yet people hold closer bonds than with their neighbors or coworkers with whom they have “real” relationships.",
+    "sentence": "Bloggers’ embrace of online writing updates the narrow definitions of what constituted labor, play, community, publicity, and privacy.",
+    "after": "Coming to feminism when one must continuously sit comfortably outside of binary boxes makes this a moment where Black feminism is ready to contend with the reality of gender as both confining and liberating."
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "",
+    "sentence": "Earning wages for my intellectual labor is a fair and just practice; it is a normalized practice in this capitalistic, white hetero-patriarchal social system. . . .",
+    "after": "I am a Black woman who made a career choice to earn my living as an intellectual."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 10,
+  "input": "22c81a5a1ced",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "Once perfected on these women, who, as enslaved women, could not consent to treatment, the procedure was deemed safe for white women, who were not denied anesthesia since they were considered too delicate to endure the procedure without it.",
+    "sentence": "Enslaved Black women were simultaneously gendered and ungendered through the objectification of their anatomy, whether in the service of white women’s health or being rendered as genderless laborers and property.",
+    "after": "Black women were considered unrapeable and were understood in white society to be the lascivious and willing seductresses of white men."
+   },
+   {
+    "loc": 14,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "From the post–Civil War period to the Jim Crow era, the iconography used to support Black people’s continued subservience morphed and expanded to make room for use of Black women as poorly paid domestics who reared white children.",
+    "sentence": "Since whites no longer needed to read Black women as exotic temptresses and breeders of an entire labor force, the mammy archetype promulgated an image of a sweet, caring, fat (i.e., undesirable) caregiver.",
+    "after": "Scholar Kimberly Wallace-Sanders’s work on the mammy figure has exposed how caricatures and images are able to supersede reality."
+   },
+   {
+    "loc": 14,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "Wallace-Sanders describes how the images of the mammy in Harriet Beecher Stowe’s classic abolitionist text Uncle Tom’s Cabin became the definitive representation of the character, a big, dark-skinned Black woman with a checkered handkerchief on her head, when previous depictions of mammies showed women of different sizes and complexions who wore various styles of servant dress.",
+    "sentence": "The real Black women who performed this domestic labor were obscured by a widely circulating representation of them that aided white supremacy by refiguring them as less threatening, asexual servants to the existing power structure.",
+    "after": ""
+   },
+   {
+    "loc": 14,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "",
+    "sentence": "The sassy Black mammy evolved but did not disappear into the emasculating Sapphire, another stereotype used to mitigate a changing racial landscape where Black women’s sexuality was no longer subsumed by ideas of reproductive capacity for slave labor.",
+    "after": "Sapphire wasn’t playfully vexed with her husband the way mammy was (though mammy’s husband was rarely if ever seen); she was mean, ordering Black men to do her bidding and behave in ways she saw fit."
+   },
+   {
+    "loc": 16,
+    "page": "pp. 8–9",
+    "kind": "p",
+    "before": "",
+    "sentence": "Daniel Patrick Moynihan, assistant secretary of labor in the Lyndon B. Johnson presidential administration, took it upon himself to investigate poverty in Black families.",
+    "after": "In his 1965 report, “The Negro Family: The Case for National Action,” he noted that the major threat to racial equity was the deviant nature of the Black family, in which Black women often took on the role of head of household and primary breadwinner."
+   },
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "Black feminist theorists have hinted at the connections between representations and health for decades, calling for systemic changes in both media and medicine to ameliorate the disproportionate health burden Black women negotiate.",
+    "sentence": "Black feminist scholars Dorothy Roberts, Alondra Nelson, Harriet Washington, Imani Perry, Farah Griffin, Angela Davis, Sabrina Strings, and Rana Hogarth are just a few who have done the labor of putting into book form the cost of representation on the lives of Black women.",
+    "after": "The path from stereotype to structural oppression, poor health outcomes, and ill treatment in society is still obscured."
+   },
+   {
+    "loc": 19,
+    "page": "pp. 15–16",
+    "kind": "p",
+    "before": "In 1851, abolitionist Sojourner Truth revealed the ways womanhood is raced such that Black women are excluded from the category and therefore subject to abuses that white women are not.",
+    "sentence": "Black studies scholar Hortense Spillers’s classic text “Mama’s Baby, Papa’s Maybe: An American Grammar Book” explores the degendering of Black women in US slavery and their subsequent treatment as commodities of labor and breeding for white slaveholders.",
+    "after": "Black women were not women, but their fertility was essential for the maintenance of slavery."
+   },
+   {
+    "loc": 24,
+    "page": "pp. 26–27",
+    "kind": "p",
+    "before": "When I talk of the transformation of misogynoir, I am interested in all of the ways that Black women and Black nonbinary, agender, and gender-variant folks work to transform the toxicity of these representations and images that cause them harm.",
+    "sentence": "While I hope for an eradication of misogynoir, I realize that a world without misogynoir requires more than the labor of Black women and Black nonbinary, agender, and gender-variant folks to be achieved.",
+    "after": "We can transform our relationship to misogynoir and transform the images and material consequences of misogynoir even as we are not the ones who create it."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 18,
+  "input": "f4522f026605",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "The additional challenges of sustainability faced by digital methods are substantial and sobering.",
+    "sentence": "We have to consider all of the costs involved— human rights, ecological abuse, and labor practices.",
+    "after": ""
+   },
+   {
+    "loc": 19,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "This must be taken into account from the initial design of a project.",
+    "sentence": "Initial design decisions will depend on the institutional site in which the project is conceived and will be managed, on the amount of resources and expertise available (costs and labor), and on other factors specific to the project (such as the intellectual property involved, issues of privacy and protections, and regulations to which the work is subject).",
+    "after": "Sustainability also involves consideration of ecological costs and human rights issues central to digital labor in a globally networked environment."
+   },
+   {
+    "loc": 19,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "Initial design decisions will depend on the institutional site in which the project is conceived and will be managed, on the amount of resources and expertise available (costs and labor), and on other factors specific to the project (such as the intellectual property involved, issues of privacy and protections, and regulations to which the work is subject).",
+    "sentence": "Sustainability also involves consideration of ecological costs and human rights issues central to digital labor in a globally networked environment.",
+    "after": "All digital projects are costly to produce and maintain."
+   },
+   {
+    "loc": 21,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "Other critics have suggested that digital humanities is intimately connected to the policies of entrepreneurial neo-liberalism within higher education.",
+    "sentence": "Questions of gendered asymmetries in practice and institutional roles, concerns about credit for intellectual labor, and discussions of marginalization and challenges to enfranchisement, have been raised usefully at micro and macro levels of production.",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "They link events to places or times and each has both a thesis and a corpus of materials on which to draw.",
+    "sentence": "Listing the steps necessary to turn these into digital projects begins to expose the challenges, ethical concerns, and labor involved.",
+    "after": "Because these are fictional projects,"
+   },
+   {
+    "loc": 28,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "",
+    "sentence": "The challenges here are the amount of labor involved in creating a meaningful tag set, applying it consistently to crimes, punishments, and moral judgments, and determining a visualization that allows multiple variables to be displayed.",
+    "after": "Decide if the final project should be static images or a data set to which filters and queries can be applied."
+   },
+   {
+    "loc": 31,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "In addition, the site was partially destroyed by an earthquake in the region in the 1960s and restored for military use.",
+    "sentence": "Labor and resource investment in 3-D modeling is considerable.",
+    "after": ""
+   },
+   {
+    "loc": 63,
+    "page": "p. 48",
+    "kind": "p",
+    "before": "If these assets are going to be incorporated into an institutional repository, planning for this from the outset will allow proper metadata (see section ahead) and file naming and format decisions to be made that avoid wasted work.",
+    "sentence": "The myth of immateriality is quickly dispelled with the realities of the costs of labor, intellectual input, and institutional resources are taken into account.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 178,
+  "input": "704e7c4f94eb",
+  "candidates": [
+   {
+    "loc": 26,
+    "page": "pp. 39–40",
+    "kind": "p",
+    "before": "",
+    "sentence": "It is important to note that although we often think of the classic Industrial Revolution that reshaped Western society in the early modern period as being driven by mechanization (with the machines themselves being driven by new forms of power), in fact, industrialization is better understood as a combination of mechanization, organization, and labor.",
+    "after": "An industrial textile mill, for example, differs from its predecessor in terms of how machines are used (and not necessarily in terms of the presence or absence of machines), how those machines are organized, and who does the labor."
+   },
+   {
+    "loc": 26,
+    "page": "pp. 39–40",
+    "kind": "p",
+    "before": "It is important to note that although we often think of the classic Industrial Revolution that reshaped Western society in the early modern period as being driven by mechanization (with the machines themselves being driven by new forms of power), in fact, industrialization is better understood as a combination of mechanization, organization, and labor.",
+    "sentence": "An industrial textile mill, for example, differs from its predecessor in terms of how machines are used (and not necessarily in terms of the presence or absence of machines), how those machines are organized, and who does the labor.",
+    "after": "The paradigmatic textile worker in Britain in the preindustrial period was a male artisan who worked with hand-powered and general-purpose machines to transform raw materials into finished products."
+   },
+   {
+    "loc": 27,
+    "page": "pp. 41–42",
+    "kind": "p",
+    "before": "In almost every case, the best model for understanding how to address such informational challenges is not the modern digital computer but the ongoing practice of adapting industrial methods and organizations to complex problems of almost every description.",
+    "sentence": "And for the most part, this process of industrialization involved a combination of mechanization, organization, and new forms of labor.",
+    "after": "As with industrialization more generally, very often these new forms of labor were women."
+   },
+   {
+    "loc": 27,
+    "page": "pp. 41–42",
+    "kind": "p",
+    "before": "And for the most part, this process of industrialization involved a combination of mechanization, organization, and new forms of labor.",
+    "sentence": "As with industrialization more generally, very often these new forms of labor were women.",
+    "after": "The first factory workers in the United States were women, and so were the first information factory workers."
+   },
+   {
+    "loc": 59,
+    "page": "pp. 100–101",
+    "kind": "p",
+    "before": "In the industrial era, economists had measured labor via time spent in agrarian work or assembly-line labor.",
+    "sentence": "But in the global, technologically mediated world, he argued in 1990, “Labor is no longer so much a physical act as a mental operation.”",
+    "after": "Poster pioneered the theorization of virtual labor, politics, and culture."
+   },
+   {
+    "loc": 59,
+    "page": "pp. 100–101",
+    "kind": "p",
+    "before": "But in the global, technologically mediated world, he argued in 1990, “Labor is no longer so much a physical act as a mental operation.”",
+    "sentence": "Poster pioneered the theorization of virtual labor, politics, and culture.",
+    "after": ""
+   },
+   {
+    "loc": 91,
+    "page": "pp. 159–161",
+    "kind": "p",
+    "before": "Sometimes “family” is code for “not under my roof.”",
+    "sentence": "Namely, Mr. Watson insisted on trying to implement IBM’s American welfare capitalist culture to its subsidiaries abroad in spite of different local labor practices.",
+    "after": "IBM’s example reveals that organizing a company or industry across different countries and cultures—as is happening in the gaming industry—is fraught because of local differences in labor relations and legislation."
+   },
+   {
+    "loc": 91,
+    "page": "pp. 159–161",
+    "kind": "p",
+    "before": "Namely, Mr. Watson insisted on trying to implement IBM’s American welfare capitalist culture to its subsidiaries abroad in spite of different local labor practices.",
+    "sentence": "IBM’s example reveals that organizing a company or industry across different countries and cultures—as is happening in the gaming industry—is fraught because of local differences in labor relations and legislation.",
+    "after": "West German IBM employees, for example, appreciated the benefits of being part of the “IBM family” while they also organized in national unions, formed works councils, and elected a labor representative to the board of directors—all of which are common forms of labor organization in Germany, and precisely what welfare capitalist companies like IBM sought to avoid."
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 17,
+  "input": "4d6c312219a9",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "Of course, many technical communication researchers do engage in conversations about translation and localization, pointing to the ways multilingual users in global contexts localize information across languages for and with their communities (Dorpenyo 2020; Sun 2012).",
+    "sentence": "Yet when it comes to discussing the labor of language transformation and translation specifically in general technical communication projects, some technical communication researchers revert to the (over)simplified, linear transmission models of communication the field has long contested.",
+    "after": ""
+   },
+   {
+    "loc": 20,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "While seemingly accurate, this model of multilingual communication reduces the role of the translator and of translation itself to a mere conduit of information, much in the same way early models positioned technical communicators as powerless transmitters without agency.",
+    "sentence": "Through this limited view of translation, one can easily ignore the experience and labor that are embedded in multilingual communication, the influence the process of translation can have on the parties tasked with this labor, and the influence of translation on the results of the communicative act as a whole.",
+    "after": "As Manuel Pérez-Quiñones and Consuelo Carr Salas (2021) clarify, “The ideology of monolingualism within the design and implementation of user interfaces not only neglects to account for the large portion of the population that is bilingual and multilingual, but by building monolingual interfaces, designers disregard the nuances of linguistic diversity and ignore the bilingual individual as a user class” (66)."
+   },
+   {
+    "loc": 42,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "I made these assumptions about my participants because of my own raciolinguistic ideologies and my own assumption about the “default users” who would engage with my survey.",
+    "sentence": "Despite my very best intentions and attempts at being ethical, I projected oppressive ideologies onto this project—ideologies my participants helped me, through their labor and time, better understand.",
+    "after": "Let me unpack this a bit further."
+   },
+   {
+    "loc": 49,
+    "page": "p. 33",
+    "kind": "p",
+    "before": "In many of these scenarios, translation or multilingual engagement is outsourced to third parties who “take care” of the “language problem” in global technical communication research.",
+    "sentence": "Apart from being oppressive and placing undue labor on the most marginalized members of our work (i.e., multilingual communities and multilingual communities of color), this type of detachment from engaging with the dynamics of language diversity also prevents researchers from leveraging the potential insights language diversity can bring to our research projects and research findings.",
+    "after": "Interdependency, as defined by Julie Jung (2014), is an “ethic for intellectual work” in which all people involved in an interaction take responsibility for making communication accessible in a shared space (101)."
+   },
+   {
+    "loc": 55,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "Recent work in technical communication, for example, highlights the value of expanding the field through justice-driven “coalitions” (Jones 2020; Walton, Moore, and Jones 2019) that engage social justice from multiple perspectives (Haas and Eble 2018; Agboka and Matveeva 2018).",
+    "sentence": "This expansive approach is critical to the sustainability of social justice initiatives that work actively to redress oppression on multiple levels and that seek to engage multiple stakeholders in the labor of doing social justice work (Walton, Moore, and Jones 2019).",
+    "after": "As Kerschbaum (2014) has noted, “Attention to marking difference, when performed in conjunction with attention to various identification processes, can help us mediate between broad conceptual tools for talking about difference and the unique qualities of individual moments of interaction” (7)."
+   },
+   {
+    "loc": 56,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "Our field’s best practices for engaging in research with marginalized communities can take on an additional level of rigor and complexity when language diversity is centralized as a critical component of global technical communication research.",
+    "sentence": "This type of reframing, in my opinion, can benefit from intersectional, interdependent methodologies that recognize how (1) race and racism influence all human interaction; (2) power and positionality operate on interlocking levels of identity, marginalization, and privilege; and (3) access can be best achieved through the shared labor of all stakeholders involved in an interaction.",
+    "after": "Furthermore, putting intersectionality and interdependence in conversation with multilingual technical communication research can help researchers expand the way we engage with communities for which identity, privilege, and marginalization are complexly intertwined."
+   },
+   {
+    "loc": 60,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "I incorporated translation activities into different elements of the projects I describe in this book to provide multiple different avenues for participation and engagement and to highlight, rather than ignore or erase, the role language diversity plays in multilingual research in global contexts.",
+    "sentence": "As I will illustrate in chapters 4–6, when technical communication researchers work with multilingual communities, the labor of language translation and interpretation is often segmented or ignored while emphasis is placed on the “real” work of the project—as something that can either be taken care of by a single individual (i.e., a translator or interpreter) or be done after the project is completed (e.g., translating material into other languages after it is created in English).",
+    "after": "Instead of following these models, participatory translation requires that an entire group—facilitators, participants, observers, and others—engage with the process of language transformation in whatever capacity they might deem possible or necessary."
+   },
+   {
+    "loc": 66,
+    "page": "p. 50",
+    "kind": "p",
+    "before": "",
+    "sentence": "In introducing various projects in a single book intended to describe multilingual experiences in technical communication, I emphasize that each experience, each project, each community calls for different methods and approaches to research that should always be localized for and with the participants who contribute their labor to this work.",
+    "after": "In the projects included in this book, I pair various theoretical frameworks with different methods at each research site, including more standardized research practices such as focus groups, surveys, and interviews."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 245,
+  "input": "c1f65a563020",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "pp. 12–13",
+    "kind": "p",
+    "before": "An anti-neoliberal DH must advance class consciousness across the community.",
+    "sentence": "If critics such as Richard Grusin are correct that DH “reproduces structurally” precarious labor “that has marked late twentieth and twenty-first-century global capitalism” (87), DH can respond through a class-based approach that encourages solidarity across all academic ranks and sectors.",
+    "after": "But class is not a concept that has ever mapped well onto academia."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 12–13",
+    "kind": "p",
+    "before": "But class is not a concept that has ever mapped well onto academia.",
+    "sentence": "Marx theorized the role of labor and class antagonism under industrial capitalism long ago, arguing that the transformation of money into capital requires a form of exchange whereby the worker sells labor power.",
+    "after": "Labor power is thus both an inherent quality of the worker and a commodity that can be sold on the market."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 12–13",
+    "kind": "p",
+    "before": "In her recent attempt to move critical theory beyond the assumption that “capitalism” describes our current economic conditions, McKenzie Wark articulates a model of class that captures the unique class position of digital humanists.",
+    "sentence": "Extending Marxist theories of class relation, Wark argues that we should no longer rely on nineteenth- and twentieth-century notions of labor and class because such descriptions do not account for our information economy, which has become the predominant mode of production and ownership in the twenty-first century.",
+    "after": "Instead, Wark argues, the twenty-first-century ruling class, which she calls the vectoral class, owns and controls vectors of information (Capital Is Dead, 13)."
+   },
+   {
+    "loc": 19,
+    "page": "pp. 14–15",
+    "kind": "p",
+    "before": "Of course, the notion of a hacker class should not obscure existing schisms either within DH or the broader sector of information workers, nor should we fall prey to idealizing “hackers.”",
+    "sentence": "Labor in the information sector is variegated and divided along many internal axes of oppression, especially as tech companies have become massive vectoral monopolies owning information technologies and personal data.",
+    "after": "As Lilly Irani points out, tech-sector workers experience varying levels of support, remuneration, and oppression, posing the question: “What is at stake in hiding the delivery people, stockroom workers, content moderators, and call center operators laboring to produce the automated experience?”"
+   },
+   {
+    "loc": 20,
+    "page": "pp. 16–17",
+    "kind": "p",
+    "before": "Rather than simply espousing “alt-ac” employment as a solution to neoliberal markets, we should be interrogating the notion of an academy training students for disappearing jobs and seek to advance a more equitable academy while we help students avoid being crushed by it.",
+    "sentence": "Above all, we must think of ourselves as labor under capitalism and organize appropriately to meet the threats to that labor as a whole.",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "pp. 27–28",
+    "kind": "p",
+    "before": "Finally, we suggest some solutions to the erasure of digitizers in DH.",
+    "sentence": "Ultimately, we argue that digitizers’ invisible labor is the foundation on which DH has been built—and that a more rigorous, more just digital humanities should take seriously the labor, and laborers, on which DH depends.",
+    "after": ""
+   },
+   {
+    "loc": 27,
+    "page": "pp. 29–30",
+    "kind": "p",
+    "before": "They are invisible to end-users.",
+    "sentence": "“Invisible labor” is the focus of a rich tradition of scholarship and activism.",
+    "after": "Initially, the term referred to unpaid—gendered—domestic labor, including cooking, cleaning, and caring for dependents, but it was expanded to include overlooked and undervalued classed and raced labor, occurring within and outside domestic spaces (D’Ignazio and Klein, 178)."
+   },
+   {
+    "loc": 190,
+    "page": "pp. 309–310",
+    "kind": "p",
+    "before": "",
+    "sentence": "Brian Greenspan argues that digital humanities makes “all too visible the dirty gears that drive the scholarly machine, along with the mechanic’s maintenance bill” and recognizes that student labor is an underfunded element in the DH machine.",
+    "after": "Greenspan’s argument focuses on “the materiality of archival practices, bibliography, and publishing across media, as well as the platforms and networks we all use to read and write texts in the twenty-first century” and the real costs associated with making this work possible."
+   }
+  ]
+ }
+]

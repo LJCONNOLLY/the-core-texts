@@ -1,0 +1,83 @@
+[
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 2,
+  "input": "991eeb60557d",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "In this definition, Bogost equates literacy more with reading than writing—the understanding of processes rather than the representation of them.",
+    "sentence": "He ascribes the “authoring [of] arguments through processes” to the concept of “procedural rhetoric.”",
+    "after": "For Bogost, understanding the procedures of digital video games or recombining blocks of meaning in games can be procedural literacy, too."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "These entanglements are the concern of scholars in software studies, information science, and new media.",
+    "sentence": "At a similar nexus between code and society, work in “procedural rhetoric” examines the ways that computational procedures make arguments.",
+    "after": "One of the aims of rhetorical education is to help students understand the ways arguments are constructed."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 5,
+  "input": "e0e7a6859de6",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Sandra Gabriele deploys the genre of the educational game as a way to approach the digital humanities critically by challenging the genre of the news game among so-called serious games intended to educate the public about systemic problems by offering them a playable simulation that will supposedly promote understanding and model how different factors might influence outcomes.",
+    "sentence": "Gabriele uses her own design of a game that represents the lives of sex workers as a case study for understanding why digital interfaces and databases that present a researcher’s work will always be situated in a specific framework of experiences rather than demonstrate detached procedural rhetoric that operates from a position of neutral distance.",
+    "after": ""
+   },
+   {
+    "loc": 476,
+    "page": "p. 448",
+    "kind": "p",
+    "before": "",
+    "sentence": "As such, video games studies, especially the portion of it that focuses on procedural rhetoric and platform studies, can provide invaluable insights into the nature of newsgames (see Bogost; Bogost and Montfort; Konzack; Montfort, as well as various titles from Bogost and Montfort’s Platform Studies series at the MIT Press).",
+    "after": "However, game studies by itself does not provide the sort of critical context necessary to describe the history and politics of the newsgame form."
+   },
+   {
+    "loc": 477,
+    "page": "p. 449",
+    "kind": "p",
+    "before": "Incorporating the perspective of sex workers into a game’s mechanics is a powerful example of what Bogost describes as “procedural rhetoric” and what Flanagan and colleagues describe as “values-conscious” (or “value-sensitive”) game design.",
+    "sentence": "Procedural rhetoric is a type of rhetoric that is tied explicitly to the core of what games do: building processes that manipulate symbols according to a set of rules.",
+    "after": "Through the way that they enact these rules, games can express a rhetoric, a persuasive argument."
+   },
+   {
+    "loc": 477,
+    "page": "p. 449",
+    "kind": "p",
+    "before": "",
+    "sentence": "Incorporating the perspective of sex workers into a game’s mechanics is a powerful example of what Bogost describes as “procedural rhetoric” and what Flanagan and colleagues describe as “values-conscious” (or “value-sensitive”) game design.",
+    "after": "Procedural rhetoric is a type of rhetoric that is tied explicitly to the core of what games do: building processes that manipulate symbols according to a set of rules."
+   },
+   {
+    "loc": 479,
+    "page": "p. 451",
+    "kind": "p",
+    "before": "",
+    "sentence": "If the practice of making newsgames involves shaping topical stories according to the contours of an appropriate procedural rhetoric, it could arguably be described as part of the field of knowledge representation.",
+    "after": "As John Unsworth argues, knowledge representation is “an interdisciplinary methodology that combines logic and ontology to produce models of human understanding that are tractable to computation” (“Knowledge Representation”)."
+   }
+  ]
+ }
+]

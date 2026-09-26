@@ -1,0 +1,1900 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 21,
+  "input": "7f736b307ce1",
+  "candidates": [
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "In the seventeenth and eighteenth centuries, the peculiar existence and ancient solidity of language as a thing inscribed in the fabric of the world were dissolved in the functioning of representation; all language had value only as discourse.",
+    "sentence": "The art of language was a way of ‘making a sign’ – of simultaneously signifying something and arranging signs around that thing; an art of naming, therefore, and then, by means of a reduplication both demonstrative and decorative, of capturing that name, of enclosing and concealing it, of designating it in turn by other names that were the deferred presence of the first name, its secondary sign, its figuration, its rhetorical panoply.",
+    "after": "And yet, throughout the nineteenth century, and right up to our own day – from Hölderlin to Mallarmé and on to Antonin Artaud – literature achieved autonomous existence, and separated itself from all other language with a deep scission, only by forming a sort of ‘counter-discourse’, and by finding its way back from the representative or signifying function of language to this raw being that had been forgotten since the sixteenth century."
+   },
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "1.",
+    "sentence": "The first is that it is easy to see how the sciences of language are divided up in the Classical period: on the one hand, rhetoric, which deals with figures and tropes, that is, with the manner in which language is spatialized in verbal signs; on the other, grammar, which deals with articulation and order, that is, with the manner in which the analysis of representation is arranged in accordance with a sequential series.",
+    "after": "Rhetoric defines the spatiality of representation as it comes into being with language; grammar defines in the case of each individual language the order that distributes that spatiality in time."
+   },
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "The first is that it is easy to see how the sciences of language are divided up in the Classical period: on the one hand, rhetoric, which deals with figures and tropes, that is, with the manner in which language is spatialized in verbal signs; on the other, grammar, which deals with articulation and order, that is, with the manner in which the analysis of representation is arranged in accordance with a sequential series.",
+    "sentence": "Rhetoric defines the spatiality of representation as it comes into being with language; grammar defines in the case of each individual language the order that distributes that spatiality in time.",
+    "after": "This is why, as we shall see, grammar presupposes languages, even the most primitive and spontaneous ones, to be rhetorical in nature."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "Since discourse links its parts together in the same way as representation does its elements, general grammar must study the representative function of words in relation to each other; which presupposes in the first place an analysis of the links that connect words together (theory of the proposition and in particular of the verb), then an analysis of the various types of words and of the way in which they pattern the representation and are distinguished from each other (theory of articulation).",
+    "sentence": "However, since discourse is not simply a representative whole, but a duplicated representation that denotes another representation – the one that it is in fact representing – general grammar must also study the way in which words designate what they say, first of all in their primitive value (theory of origins and of the root), then in their permanent capacity for displacement, extension, and reorganization (theory of rhetoric and of derivation).",
+    "after": ""
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "Finally, it attached itself to analogies: everything was called a leaf that was as thin and flexible as the leaf of a tree[93].",
+    "sentence": "The progressive analysis and more advanced articulation of language, which enable us to give a single name to several things, were developed along the lines of these three fundamental figures so well known to rhetoric: synecdoche, metonymy, and catachresis (or metaphor, if the analogy is less immediately perceptible).",
+    "after": "For these things are not the effect of a refinement of style; on the contrary, they reveal the mobility peculiar to all language whenever it is spontaneous: ‘La Halle produces more figures of speech in one market day than our academic assemblies do in a week’[94]."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "But at the beginning of human history, when words were few, when representations were still confused and not well analysed, when the passions both modified them and provided them with a basis, words had greater mobility.",
+    "sentence": "One might even say that words were figurative before being proper: in other words, that they had scarcely attained their status as particular names before they were being scattered over representations by the force of spontaneous rhetoric.",
+    "after": "As Rousseau says, we probably talked about giants before designating men[95]."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "",
+    "sentence": "So that at the base of spoken language, as with writing, what we discover is the rhetorical dimension of words: that freedom of the sign to alight, according to the analysis of representation, upon some internal element, upon some adjacent point, upon some analogous figure.",
+    "after": "And if languages possess the diversity we observe in them; if from the starting-point of their primitive designations, which were doubtless common to them all owing to the universality of human nature, they have not ceased to develop according to the dictates of differing forms; if they have all had their own history, fashions, customs, and periods of oblivion; this is because words have their locus, not in time, but in a space in which they are able to find their original site, change their positions, turn back upon themselves, and slowly unfold a whole developing curve: a tropological space."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "So that language merely arranges into a linear order the scattered fragments represented.",
+    "sentence": "The proposition unfolds and makes audible the figure that rhetoric makes visible.",
+    "after": "Without this tropological space, language would not be formed of all those common names that make it possible to establish a predicative relation."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 72,
+  "input": "168a99aac3d8",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the West among the ancient Greeks the fascination showed in the elaboration of the vast, meticulously worked-out art of rhetoric, the most comprehensive academic subject in all western culture for two thousand years.",
+    "after": "In its Greek original, techne rhetorike,'speech art' (commonly abridged to just rhetorike) referred essentially to oral speaking, even though as a reflective, organized 'art' or science—for example, in Aristotle's Art of Rhetoric—rhetoric was and had to be a product of writing."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "In its Greek original, techne rhetorike,'speech art' (commonly abridged to just rhetorike) referred essentially to oral speaking, even though as a reflective, organized 'art' or science—for example, in Aristotle's Art of Rhetoric—rhetoric was and had to be a product of writing.",
+    "sentence": "Rhetorike, or rhetoric, basically meant public speaking or oratory, which for centuries even in literate and typographic cultures remained unreflexively pretty much the paradigm of all discourse, including that of writing (Ong 1967b, pp. 58–63; Ong 1971, pp. 27–8).",
+    "after": "Thus writing from the beginning did not reduce orality but enhanced it, making it possible to organize the 'principles' or constituents of oratory into a scientific 'art', a sequentially ordered body of explanation that showed how and why oratory achieved and could be made to achieve its various specific effects."
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "In his Volume III of the Oxford History of English Literature, C.S.Lewis observed that 'rhetoric is the greatest barrier between us and our ancestors' (1954, p. 60).",
+    "after": "Lewis honors the magnitude of the subject by refusing to treat it, despite its overwhelming relevance for the culture of all ages at least up to the Age of Romanticism (Ong 1971, pp. 1–22, 255–83)."
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "Like Plato, C.S.Lewis was in effect unwittingly turning his back on the old oral world.",
+    "sentence": "Over the centuries, until the Age of Romanticism (when the thrust of rhetoric was diverted, definitively if not totally, from oral performance to writing), explicit or even implicit commitment to the formal study and formal practice of rhetoric is an index of the amount of residual primary orality in a given culture (Ong 1971, pp. 23–103).",
+    "after": ""
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "Rhetoric was at root the art of public speaking, of oral address, for persuasion (forensic and deliberative rhetoric) or exposition (epideictic rhetoric).",
+    "after": "The Greek rhetor is from the same root as the Latin orator and means a public speaker."
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "Persons from a high-technology culture who become aware of the vast literature of the past dealing with rhetoric, from classical antiquity through the Middle Ages, the Renaissance, and on into the Age of the Enlightenment (e.g. Kennedy 1980; Murphy 1974; Howell 1956, 1971), of the universal and obsessive interest in the subject through the ages and the amount of time spent studying it, of its vast and intricate terminology for classifying hundreds of figures of speech in Greek and Latin— antinomasia or pronominatio, paradiastole or distinctio, anticategoria or accusatio concertativa, and so on and on and on—(Lanham 1968; Sonnino 1968) are likely to react with, 'What a waste of time!'",
+    "sentence": "But for its first discoverers or inventors, the Sophists of fifth-century Greece, rhetoric was a marvelous thing.",
+    "after": "It provided a rationale for what was dearest to their hearts, effective and often showy oral performance, something which had been a distinctively human part of human existence for ages but which, before writing, could never have been so reflectively prepared for or accounted for."
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "By and large, they made these changes with specious explanations or no explanation at all.",
+    "sentence": "Today, when curricula list rhetoric as a subject, it usually means simply the study of how to write effectively.",
+    "after": "But no one ever consciously launched a program to give this new direction to rhetoric: the 'art' simply followed the drift of consciousness away from an oral to a writing economy."
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "",
+    "sentence": "Rhetoric itself gradually but inevitably migrated from the oral to the chirographic world.",
+    "after": "From classical antiquity the verbal skills learned in rhetoric were put to use not only in oratory but also in writing."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 19,
+  "input": "24e5b727af4a",
+  "candidates": [
+   {
+    "loc": 86,
+    "page": "p. 72",
+    "kind": "p",
+    "before": "In both cases, feminists are contesting for a voice.",
+    "sentence": "And so rhetorical strategies, the contest to set the terms of speech, are at the centre of feminist struggles in natural science.",
+    "after": "The four books discussed in this chapter may be _read primarily as entries in the contest of rhetorical strategies for setting the _terms that define good science."
+   },
+   {
+    "loc": 86,
+    "page": "p. 72",
+    "kind": "p",
+    "before": "And so rhetorical strategies, the contest to set the terms of speech, are at the centre of feminist struggles in natural science.",
+    "sentence": "The four books discussed in this chapter may be _read primarily as entries in the contest of rhetorical strategies for setting the _terms that define good science.",
+    "after": "How should we know whom to believe?"
+   },
+   {
+    "loc": 89,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "The experts, then, were assembled to mediate and interpet the marital squabble between science and humanism '' and to show their higher unity.",
+    "sentence": "And they spoke — individually, authoritatively, joined in debate by the power of editors and panel moderators — in the rhetoric to which we have become accustomed.",
+    "after": "Each speaker seemed especially anxious to have his version of the history of science adopted, so that the legitimate: lineage could be established."
+   },
+   {
+    "loc": 89,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "The patriarchal voice is sometimes flatly funny.)",
+    "sentence": "This collection does contain some well-reasoned and very interesting essays, but this discussion will do them the injustice of limited analysis in order to keep to the theme of rhetorical strategies important for feminist mastery of scientific discourse.",
+    "after": "E. O. Wilson, the arch-scientist of the moment, introduces the volume with the rhetoric of the innocent seeker for truth, the eternally young scientist surprised by all the furor (Gregory et al., 1978, p. 1)."
+   },
+   {
+    "loc": 90,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "",
+    "sentence": "Let us now turn to Milton’s scientific daughters who are taking stock of this rhetorical inheritance.",
+    "after": "We have not set the original terms of discourse; that fact determines our texts."
+   },
+   {
+    "loc": 90,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "What are the degrees of freedom for feminist reshaping of the production of science?",
+    "sentence": "Again, let us approach our question by exploring rhetorical strategies presented in the texts at hand.",
+    "after": "Genes and Gender (Hubbard and Lowe, 1979) unabashedly puns on the central problematic of genesis in biology; the title of Women Look at Biology Looking at Women (Hubbard et al., 1979) could hardly be more explicit about the mirror theme in the fictive scientific production of reality."
+   },
+   {
+    "loc": 210,
+    "page": "p. 184",
+    "kind": "p",
+    "before": "In any case, social constructionists could maintain that the ideological doctrine of scientific method and all the philosophical verbiage about epistemology were cooked up to distract our attention from getting to know the world effectively by practising the sciences.",
+    "sentence": "From this point of view, science — the real game in town, the one we must play — is rhetoric, the persuasion of the relevant social actors that one’s manufactured knowledge is a route to a desired form of very objective power.",
+    "after": "Such persuasions must '' take account of the structure of facts and artefacts, as well as of language-mediated actors in the knowledge game."
+   },
+   {
+    "loc": 211,
+    "page": "p. 185",
+    "kind": "p",
+    "before": "Such persuasions must '' take account of the structure of facts and artefacts, as well as of language-mediated actors in the knowledge game.",
+    "sentence": "Here, artefacts and facts are parts of the powerful art of rhetoric.",
+    "after": "Practice is persuasion, and the focus is very much on practice."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 22,
+  "input": "108258e178c9",
+  "candidates": [
+   {
+    "loc": 8,
+    "page": "PDF p. 8",
+    "kind": "p",
+    "before": "Gender depended on facts which were not reducible to sequences of symbols” (p. 415).",
+    "sentence": "In the paper itself, however, nowhere does Turing suggest that gender is meant as a counterexample; instead, he makes the two cases rhetorically parallel, indicating through symmetry, if nothing else, that the gender and the human /machine examples are meant to prove the same thing.",
+    "after": "Is this simply bad writing, as Hodges argues, an inability to express an intended opposition between the construction of gender and the construction of thought?"
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "Rather, they serve as a springboard to explore a variety of social, political, and psychological issues, ranging from the perceived threat that women’s active sexuality poses for Immob men to global East-West tensions that explode into another world war at the end of the text.",
+    "sentence": "Although it is unusually didactic, Limbo does more than discuss cybernetics; it engages a full range of rhetorical and narrative devices that work both with and against its explicit pronouncements.",
+    "after": "The narrator seems only partially able to control his verbally extravagant narrative."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "The difference between his view and Shannon’s can be seen in the way he bridled at Shannon’s suggestion about “subjective probabilities.”",
+    "sentence": "In the rhetoric of the Macy Conferences, “objective” was associated with being scientific, whereas “subjective” was a code word implying that one had fallen into a morass of unquantifiable feelings that might be magnificent but were certainly not science.",
+    "after": "MacKay’s first move was to rescue information that affected the receiver’s mindset from the “subjective” label."
+   },
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "Here the slippage between mechanism and model becomes important, for even among researchers dedicated to a hard-science approach, such as McCulloch, the tendency was to use the model metaphorically to forge connections between relatively simple neural circuits and the complexities of embodied experience.",
+    "sentence": "In the process, the disembodied logical form of the circuit was rhetorically transformed from being an effect of the model to a cause of the model’s efficacy.",
+    "after": "This move, familiar to us as the Platonic backhand, made embodied reality into a blurred and messy instantiation of the clean abstractions of logical forms."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "",
+    "sentence": "This alternating focus on behavior and internal structure is similar to the rhetorical strategies that Geof Bowker analyzes in his article showing how cybernetics constituted itself as a universal science.",
+    "after": "Bowker points out that cybernetics positioned itself both as a metascience and as a tool that any other science could use."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "Operating on these two different levels, cybernetic discourse was able to penetrate into other disciplines while also maintaining its turf as a disciplinary paradigm.",
+    "sentence": "In Wiener and Rosenblueth’s rebuttal to Taylor, the alternation between a structure-free and a structure-rich cybernetics produces a similar rhetorical effect.",
+    "after": "In its structure-free guise, cybernetics links men and machines by eliding internal structure; in its structure-rich form, it presents information flow and negative feedback as important structural elements."
+   },
+   {
+    "loc": 142,
+    "page": "PDF p. 142",
+    "kind": "p",
+    "before": "The terms do more than set up parallels with living systems; they also reveal Ray’s intention in creating an appropriate environment in which the dynamic emergence of evolutionary processes could take off.",
+    "sentence": "In this respect, Ray’s rhetoric is quite different from that of Richard Dawkins in The Selfish Gene, a work also deeply informed by anthropomorphic constructions.",
+    "after": "Dawkins’s rhetoric attributes to genes human agency and intention, creating a narrative of humanlike struggle for lineage."
+   },
+   {
+    "loc": 142,
+    "page": "PDF p. 142",
+    "kind": "p",
+    "before": "In this respect, Ray’s rhetoric is quite different from that of Richard Dawkins in The Selfish Gene, a work also deeply informed by anthropomorphic constructions.",
+    "sentence": "Dawkins’s rhetoric attributes to genes human agency and intention, creating a narrative of humanlike struggle for lineage.",
+    "after": "In his construction, Dawkins overlays onto the genes the strategies, emotions, and outcomes that properly belong to the human domain."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 14,
+  "input": "4f121729156f",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "",
+    "sentence": "Those meanings may be explicit or implicit, conscious or unconscious, they may be felt as truth or as fantasy, science or commonsense; and they may be conveyed through everyday speech, elaborate rhetoric, high art, television soap Operas, dreams, movies or muzak; and different groups in a society will make sense of the world in different ways.",
+    "after": "Whatever form they take, these representations made meanings, or representations, structure they way people behave — the way you and I behave - in our everyday lives."
+   },
+   {
+    "loc": 182,
+    "page": "p. 165",
+    "kind": "p",
+    "before": "It assumes that the efficacy of discourse often resides in the assumptions it makes about what is true, real or natural, in the contradictions that allow it interpretive flexibility, and in what is not said, and none of these is accessible to superficial reading or viewing.",
+    "sentence": "Hence Gill’s (1996: 144) emphasis on the scholarship entailed in discourse analysis: ‘the analysis of discourse and rhetoric requires the careful reading and interpretation of texts, rigorous scholarship rather than adherence to formal procedures’.",
+    "after": ""
+   },
+   {
+    "loc": 182,
+    "page": "p. 165",
+    "kind": "p",
+    "before": "",
+    "sentence": "To summarize the strategies for the intepretation of the rhetorical organization of discourse outlined in this section, then, they include:",
+    "after": ""
+   },
+   {
+    "loc": 183,
+    "page": "p. 166",
+    "kind": "p",
+    "before": "",
+    "sentence": "The previous section looked at some rhetorical strategies that could visually or verbally assert the truth of a particular discursive claim.",
+    "after": "However, this is not the only way that certain discourses can become more dominant than others: the institutional location of a discourse is also crucial."
+   },
+   {
+    "loc": 184,
+    "page": "p. 167",
+    "kind": "p",
+    "before": "Thus discourse analysis also entails paying attention to certain aspects of the social context of discourse production.",
+    "sentence": "The authors cited in this chapter - Gill, Tonkiss, Potter and Wetherell - tend to focus on the rhetorical organization of a discourse’s texts and images and on the impact on those texts and images of the social location of their production.",
+    "after": "This emphasis neglects to explore the social practices and effects of discourse, however, and this indicates the tendency of this sort of discourse analysis to focus more on texts and images than social institutions."
+   },
+   {
+    "loc": 185,
+    "page": "p. 168",
+    "kind": "p",
+    "before": "",
+    "sentence": "The first is to think carefully about the rhetorical organization of a discourse analysis.",
+    "after": "How should it be written?"
+   },
+   {
+    "loc": 185,
+    "page": "p. 168",
+    "kind": "p",
+    "before": "",
+    "sentence": "However, a complication to this discursive reflexivity arises when the productive context (rather than the rhetorical organization) of the analysis is considered.",
+    "after": "For being ‘persuasive’ or ‘modest’ depends on the interpretative context in which the discourse analysis is produced."
+   },
+   {
+    "loc": 186,
+    "page": "p. 169",
+    "kind": "p",
+    "before": "It addresses questions of power as they are articulated through visual images themselves.",
+    "sentence": "And although reflexivity is a tricky issue for discourse analysis, there are ways in which the authority of the discourse analysis can be both marked (by acknowledging its context of production) and perhaps undermined (by rhetorical strategies of modesty).",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 1,
+  "input": "b385c3c1d3ba",
+  "candidates": [
+   {
+    "loc": 122,
+    "page": "PDF p. 122",
+    "kind": "p",
+    "before": "The desk might be made of a tree seeded in the 1950s that was felled two years ago; the cloth of the teacher’s dress was woven five years ago, while the firing of neurons in her head might be a millisecond old and the area of the brain devoted to speech has been around for a good hundred thousands years (or maybe less, this is, hotly disputed question among paleontologists).",
+    "sentence": "As to the words she uses, some have been introduced into English from foreign languages four hundred years ago, while this rule of grammar might be even older; the metaphor she chooses is just six years old and this rhetoric trope straight out of Cicero; but the computer keyboard she has typed her speech on is fresh from Apple, although the heavy metals making possible the coordination of some of its switches will last for as long as the universe.",
+    "after": "Time is always folded."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 21,
+  "input": "55a80ad7432f",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "It was at this time that pundits debated whether the Internet might be the revolution in communication and human consciousness heralded by its boosters, or whether it might instead prove to be a fad that would, at best, produce an ephemeral technological subculture like that of ham and CB radio enthusiasts.",
+    "sentence": "Nonetheless Omi and Winant come to grips with a New Democratic political ideology that had widespread repercussions in the world of Internet policy and its forms of rhetoric.",
+    "after": "They identify 1992 as the year that marked the beginning of the “emerging hegemony of the racial project of neoliberalism,” as Bill Clinton’s victorious bid for the presidency was based on a New Democratic platform that “for the ﬁrst time in almost half a century. . . made no speciﬁc pledge to address racial injustices and inequalities.”"
+   },
+   {
+    "loc": 15,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "I’d like to have one.”",
+    "sentence": "This rhetoric depicts the Internet as anything but a part of a public national infrastructure, like the “information superhighway” that Gore had posited some years earlier: Powell’s phrasing depicts Internet access as an elective luxury like an expensive foreign car.",
+    "after": "The Internet had gone from being ﬁgured as part of a system of transportation and education to being a commodity to which American citizens are certainly not entitled; indeed, in Powell’s words, the Internet is and ought to remain a privilege available to relatively few."
+   },
+   {
+    "loc": 122,
+    "page": "p. 111",
+    "kind": "p",
+    "before": "Random access is an essential principle of the structure and logic of new media that respatializes media experiences: rather than needing to wait until a tape or other physical medium rewinds to get to the beginning of its contents, random access allows us to get there immediately, if we know where we want to go.",
+    "sentence": "As Lev Manovich puts it, random access is symptomatic of the “decline of the ﬁeld of rhetoric in the modern era,” for in contrast to modes of information presentation that rely on argument, narrative progression, and other systems of sequential arrangement, new media culture is better conceived of as “an inﬁnite ﬂat surface where individual texts are placed in no particular order.”",
+    "after": "This “ﬂattening” of the data produces a user who is deﬁned by “spatial wandering”; in the absence of an author or writer to order the media experience for her, the postmodern subject produced by random-access environments like digital gaming and use of hyperlinks and other interactive computer media is one deﬁned by its freedom."
+   },
+   {
+    "loc": 122,
+    "page": "p. 111",
+    "kind": "p",
+    "before": "This “ﬂattening” of the data produces a user who is deﬁned by “spatial wandering”; in the absence of an author or writer to order the media experience for her, the postmodern subject produced by random-access environments like digital gaming and use of hyperlinks and other interactive computer media is one deﬁned by its freedom.",
+    "sentence": "The iPod’s rhetoric of freedom from bulky hardware and the conﬁning paradigm of music that possesses a material form rather than existing as an abstract information ﬁle (and in some cases the implied freedom from paying for music that comes from the MP3 ﬁle-sharing culture) is paralleled by its depictions of visualized freedom through linkages between race, dance, and musical genre in the iPod advertisements.",
+    "after": "The iPod offers the consumer volitional mobility not only on the level of device portability; she can either use the LCD display to navigate through customized playlists and program selections, or if she owns an iPod “shufﬂe,” she can toggle it to “shufﬂe” and let the machine “randomly” decide what to play."
+   },
+   {
+    "loc": 143,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "The increasing medicalization of pregnancy and its social networking on the Internet is just one aspect of the technologizing of the body that continues to work as a distinctive feature of networked postindustrial societies.",
+    "sentence": "And as Eugenia Georges and Lisa M. Mitchell found in their 2000 study of Canadian and Greek pregnancy guidebooks, “Baby Talk: The Rhetorical Production of Maternal and Fetal Selves,” only “a decade ago, Barbara Katz Rothman observed that many North American women ‘take pregnancy as a reading assignment.’”",
+    "after": "They assert that this “widespread ‘educating’ of women, ostensibly to inform and empower them,” is accomplished by texts that “discipline women to become particular kinds of patients and mothers.”"
+   },
+   {
+    "loc": 143,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "Many North American women take pregnancy as an Internet research assignment, using the medium to ﬁnd health information, both ofﬁcial and anecdotal; to share stories, fears, and anxieties with other pregnant women whom they may or may not know; and to view and exchange visual images of their own pregnant bodies as well as those of others.",
+    "sentence": "And just as the rhetoric of pregnancy guidebooks greatly inﬂuences the formation of discourses and disciplines of motherhood in different national contexts, so too have the form and visual culture of the Internet created both normative and resistant discourses of motherhood in the context of the United States.",
+    "after": "This is quite an under-researched area of study; as Georges and Mitchell observe, the content and form of these ubiquitous pregnancy guidebooks seem to have escaped critical feminist analysis, and the same can be said for the use of the Internet as an informational and educational tool in the culture of pregnancy."
+   },
+   {
+    "loc": 154,
+    "page": "p. 143",
+    "kind": "p",
+    "before": "Rather than “toning it down,” their digital signatures tend to do exactly the opposite, mixing media and textures and ornamentation in a fashion that deﬁes these notions of good taste and embodies “tackiness” as exempliﬁed by the lower-class taste cultures reviled by the modernists cited earlier.",
+    "sentence": "In addition, the form of these sites challenges the bourgeois-individualist model of property and presence that characterized early cyberspace’s rhetoric.",
+    "after": "This rhetoric of ownership and triumphant individualism inherent in much of the electronic frontier discourse has since been critiqued from both feminist and postcolonial perspectives."
+   },
+   {
+    "loc": 154,
+    "page": "p. 143",
+    "kind": "p",
+    "before": "In addition, the form of these sites challenges the bourgeois-individualist model of property and presence that characterized early cyberspace’s rhetoric.",
+    "sentence": "This rhetoric of ownership and triumphant individualism inherent in much of the electronic frontier discourse has since been critiqued from both feminist and postcolonial perspectives.",
+    "after": "The notion that representational and cultural power could arise only from the staking out of individual spaces or “homesteads” on the Internet privileged singly owned, managed, and designed Web sites or “home pages” as “domains” or sites of identity."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 8,
+  "input": "e7ada5305ffe",
+  "candidates": [
+   {
+    "loc": 51,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "It directly addresses the viewer, but it also offers her an image of herself in a plural form.",
+    "sentence": "Rhetorically, the “you”",
+    "after": ""
+   },
+   {
+    "loc": 51,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "here is an apostrophe: as Barbara Johnson has noted, apostrophe “by means of the silvery voice of rhetoric …",
+    "after": ""
+   },
+   {
+    "loc": 54,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "Network subjects are both empowered and more precarious than ever.",
+    "sentence": "Neoliberalism despite—or more precisely due to—its rhetoric of empowerment has accentuated disparities in wealth, increased levels of individual debt, and depressed real incomes.",
+    "after": "Neoliberal subjects—small s sovereigns—are always searching, rarely finding."
+   },
+   {
+    "loc": 85,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "As an interruption of habit, crises have been crucial to the emergence of new media as ‘new.’",
+    "sentence": "Starting from an analysis of the rhetorical and theoretical constructions of the Internet as critical, this chapter exposes crisis as new media’s critical difference: its norm and its exception.",
+    "after": "Crises cut through the constant stream of information, differentiating the temporally and temporarily valuable from the mundane, offering its users a taste of real-time responsibility and empowerment."
+   },
+   {
+    "loc": 87,
+    "page": "p. 72",
+    "kind": "p",
+    "before": "",
+    "sentence": "This rhetoric of the Internet as critical, which helped transform the Internet from a mainly academic and military communications network into a global medium, is still with us today, even if the daily experience of using the Internet has not lived up to the hype.",
+    "after": "Irrespective of constant updates, being online has not turned out to be so exciting."
+   },
+   {
+    "loc": 121,
+    "page": "p. 106",
+    "kind": "p",
+    "before": "",
+    "sentence": "The promise of the Internet as a bodiless public was made most clear in rhetoric surrounding the Internet as a raceless space.",
+    "after": "It seemed impossible to advertise the Internet in the mid to late 1990s without featuring happy people of color singing its praises."
+   },
+   {
+    "loc": 121,
+    "page": "p. 106",
+    "kind": "p",
+    "before": "These representations also did not reflect then-current Internet demographics, the same corporations that touted the Internet as the great equalizer also sponsored round tables on the digital divide.",
+    "sentence": "The point of this rhetoric, however, was not to get more people of color online, but rather to get the ‘general public’ online.",
+    "after": "These dreams were strongest and this imagining most compelling at a time when very few people were on the Internet."
+   },
+   {
+    "loc": 131,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "",
+    "sentence": "As mentioned earlier, for all their rhetoric of safety and enclosure, Facebook.com and other SNSs, which enable users to ‘choose’ their friends and their level of exposure, are hardly safe spaces.",
+    "after": "These sites reveal the lie of ‘stranger danger.’"
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 101,
+  "input": "f10e5b7f5455",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "",
+    "sentence": "But there is something more than pragmatism in the rhetorical connection of literacy to computer programming.",
+    "after": "First, the idea that programming is connected to literacy is more than a fad."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "This chapter focuses on the purposes to which literacy has been put, from historical campaigns for reading and writing to the current push for “coding for everyone.”",
+    "sentence": "Rather than evaluate the merits or the success of these campaigns, I focus here on their rhetoric: how writing and reading have been promoted as literacy, and what that means—or could mean—for the push for programming literacy in the twenty-first century.",
+    "after": "I outline some of the dominant ideologies evident in the rhetoric of programming promotion from the 1960s to the present and connect them to the values that have historically been associated with literacy promotion."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Rather than evaluate the merits or the success of these campaigns, I focus here on their rhetoric: how writing and reading have been promoted as literacy, and what that means—or could mean—for the push for programming literacy in the twenty-first century.",
+    "sentence": "I outline some of the dominant ideologies evident in the rhetoric of programming promotion from the 1960s to the present and connect them to the values that have historically been associated with literacy promotion.",
+    "after": "The rhetorical couplings of literacy can reflect larger ideological trends, especially as campaigns begin to make the case for programming to be a standard part of educational curricula."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "",
+    "sentence": "I highlight the rhetoric of Code.org’s 2013–2014 “Hour of Code” campaign both because it has been a popular recent campaign and because it weaves together four dominant arguments for coding literacy: individual empowerment; learning new ways to think; citizenship and collective progress; and employability and economic concerns.",
+    "after": "Like many of the other campaigns, it presents its argument in both reactionary and proactive ways: “everyone should learn to code” because otherwise they will be left behind (reactionary) and because programming is fun and powerful and can help you get a job (proactive)."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Like many of the other campaigns, it presents its argument in both reactionary and proactive ways: “everyone should learn to code” because otherwise they will be left behind (reactionary) and because programming is fun and powerful and can help you get a job (proactive).",
+    "sentence": "Code.org’s rhetoric serves as a lens on other programming initiatives from the United States and Europe, the two places where the rhetoric appears to be most pronounced, and also, not coincidentally, where computation has been very influential in society.",
+    "after": "(Although out of scope for this book, a study of how this rhetoric is taken up or developed elsewhere would be illuminative for global literacy conversations.)"
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "",
+    "sentence": "These proliferating kinds of writing, rising standards, diversifying technologies, and the expanded population expected to be functionally literate change what we think of as literacy, but they are not only rhetorical.",
+    "after": "These changes also reflect societies’ increasing reliance on reading and writing skills in a wide variety of professions and in everyday life."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "If enough people call something literacy, it becomes literacy.",
+    "sentence": "This relationship between literacy’s rhetoric and reality helps to demonstrate the complexity of both the term and the concept.",
+    "after": "What skills a society includes under the rubric of literacy can point to real changes in skills required of students, workers, and citizens, as well as changes in perceptions of what it means to be a productive citizen or worker."
+   },
+   {
+    "loc": 47,
+    "page": "PDF p. 47",
+    "kind": "p",
+    "before": "Computer technology and programming were developed in World War II and added to the strategic communication and information resources in the United States and Britain.",
+    "sentence": "Shortly thereafter—not coincidentally, I argue—the rhetoric of programming as literacy began.",
+    "after": "When literacies proliferated with new technologies, then literacy could be rhetorically recruited to refer to communication with technologies other than pen, paper, and print—technologies like computer programming."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 5,
+  "input": "516d5a3d7150",
+  "candidates": [
+   {
+    "loc": 65,
+    "page": "PDF p. 65",
+    "kind": "p",
+    "before": "",
+    "sentence": "André Brock, a communications professor at the University of Michigan, adds that “the rhetorical narrative of ‘Whiteness as normality’ configures information technologies and software designs” and is reproduced through digital technologies.",
+    "after": "Brock characterizes these transgressive practices that couple technology design and practice with racial ideologies this way:"
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "Nash focuses on the ways in which Black feminists have aligned with antipornography rhetoric and scholarship.",
+    "after": "While my own project is not a specific study of the nuances of Black women’s agency in net porn, the Black feminist media scholar Mireille Miller-Young has covered in detail the virtues and problematics of pornography."
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "In this capitalist-supported tradition, the multiple effects that technology has on African American lives go underexamined.",
+    "sentence": "This uplifting rhetoric has helped obfuscate the distinctly adversarial relationships African Americans have had with technology.",
+    "after": ""
+   },
+   {
+    "loc": 81,
+    "page": "PDF p. 81",
+    "kind": "p",
+    "before": "There is no counterposition, nor is there a disclaimer or framework for contextualizing what we get.",
+    "sentence": "Had Dylann Roof asked an expert on the rhetoric of the CCC and hate groups in the U.S., such as the Southern Poverty Law Center, he would have found a rich, detailed history of how White supremacist organizations work to undermine democracy and civil rights, and we can only hope that education would have had an impact on his choices.",
+    "after": "But search results are not tied to a multiplicity of perspectives, and the epistemology of “ranking” from one to a million or more sites suggests that what is listed first is likely to be the most credible and trustworthy information available."
+   },
+   {
+    "loc": 108,
+    "page": "PDF p. 108",
+    "kind": "p",
+    "before": "I have tried to show how traditional media misrepresentations have been instantiated in digital platforms such as search engines and that search itself has been interwoven into the fabric of American culture.",
+    "sentence": "Although rhetoric of the information age broadly seeks to disembody users, or at least to minimize the hegemonic backdrop of the technological revolution, African Americans have embraced, modified, and contextualized technology into significantly different frameworks despite the relations of power expressed in the socio-algorithms.",
+    "after": "This book can open up a dialogue about radical interventions on socio-technical systems in a more thoughtful way that does not further marginalize people who are already in the margins."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 12,
+  "input": "40f9d1ad5b17",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Fitzpatrick’s definition implies, digital humanities can be conceived as broad in scope, derived from many areas of study: humanities computing, new media studies, computers and writing, rhetoric and composition, communications, and science and technology studies, among others.",
+    "after": "The vision of digital humanities articulated by Fitzpatrick has significant value."
+   },
+   {
+    "loc": 21,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "To decenter this perspective, postcolonial digital humanities also draws on Kavita Philip, Lilly Irani, and Paul Dourish’s work on postcolonial computing, which responds to Human-​Computer Interaction for Development (HCI4D), a scholarly community at the intersection of technology and development.",
+    "sentence": "Postcolonial computing critiques development within HCI4D to underscore the vexing questions of authority, power, and legitimacy that are evoked in the rhetoric of technological development.",
+    "after": "In contrast to development-​focused engagement, postcolonial computing offers an alternative lens on designing and analyzing technology, foregrounding the dynamics of culture and power that subtend design practices."
+   },
+   {
+    "loc": 22,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "Nor is it part of moves to “disrupt” digital humanities advocated by scholars like Dorothy Kim and Jesse Stommel.",
+    "sentence": "The rhetoric of “disruption” in this context proposes to reappropriate the term from its connection to technological innovation and to rehabilitate its critical potential.",
+    "after": "The move to recuperate disruption generates affective response and connotes innovation and newness."
+   },
+   {
+    "loc": 30,
+    "page": "p. 21",
+    "kind": "p",
+    "before": "Critiques of digital humanities that suggest it evacuates the “human” in the humanities obscure the important question of how digital humanities projects are producing universalist notions of the “human.”",
+    "sentence": "I situate these critiques in the rhetoric of the “crisis of the humanities,” tracing it to C. P. Snow’s depiction of the humanities and sciences as two separate cultures.",
+    "after": "However, the humanities and sciences can meet as equal partners in digital humanities through greater attention to the forms of the human authorized in emerging technologies being adopted for digital humanities scholarship."
+   },
+   {
+    "loc": 35,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "While its manifold origins in new media studies, communications, rhetoric and composition, and computers and writing have begun to be recognized, the history of digital humanities traditionally has been traced through the largely marginalized work of humanities computing.",
+    "after": "The origin of humanities computing is primarily linked, however mythically as Steven E. Jones suggests, to the work of Father Roberto Busa, an Italian Jesuit priest whose life’s work was creating a concordance for Thomas Aquinas’s writing."
+   },
+   {
+    "loc": 86,
+    "page": "p. 77",
+    "kind": "p",
+    "before": "are accordingly dispersed.",
+    "sentence": "As such, the game exemplifies the diasporic logic of digital humanities, both in the game play, which requires activation of and engagement with the networked knowledges that are globally distributed in digital humanities, and in the visual rhetoric of the game map itself.",
+    "after": ""
+   },
+   {
+    "loc": 95,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "Within GO::DH, one of the pressing concerns has been the logistics of coordinating and leveraging shared and complementary forms of knowledge without defaulting into modes of the aid and outreach that are explicitly contrary to its mission.",
+    "sentence": "While there has been pressure from the ADHO steering committee to help create new digital humanities organizations in geographic areas underrepresented in ADHO—a top-​down and hierarchical approach—the GO::DH executive members who had once pushed back against the rhetoric of “development” in the GO::DH mission asserted that those best positioned to organize and determine the shape of these groups were those who were going to be part of them.",
+    "after": "However, GO::DH enjoys strong relationships with groups that have organically formed, such as the Associação das Humanidades Digitais, a Portuguese language organization; Red de Humanidades Digitales, a Spanish-​language organization with emphasis on Latin American countries; and the now-​defunct South Asia Digital Humanities, an organization for South Asianists and scholars within South Asia."
+   },
+   {
+    "loc": 125,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "These issues warrant inquiry into the forms of the human that are represented, legitimated, and ultimately, sanctioned in digital humanities by virtue of its technologies, methods, goals, and assumptions.",
+    "sentence": "The criticism that digital humanities provokes, namely that the “human” is evacuated from it, is a function of two factors: rhetoric that has produced a false binary between the sciences and the humanities in the post-​World War II era, and the way digital humanities has been positioned in relation to the “crisis of the humanities.”",
+    "after": "These phenomena have distracted from the critical analysis necessary for understanding how the centrality of Global North ontologies and epistemologies has contravened inclusive notions of the human in digital humanities scholarship."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 25,
+  "input": "63a54e0f0a3d",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "Notions of queering digital work bridges between “Values” and “Embodiment” in this collection, demonstrating just how intrapenetrable such boundary objects can be.",
+    "sentence": "In their work on lesbian digital humanities, Michelle Schwartz and Constance Crompton argue that digital methodology matters as much to histories of queer bodies and lives as informational content of such study, because “the accumulation of data and the rhetorical structuring of that data (in these examples often as a list) serve as important acts of lesbian self-definition.”",
+    "after": "The particular problem of the epistemological structuring of taxonomies of shared digital knowledge becomes particularly marked if fundamental infrastructures of information are designed solely to sort data into binary or mutually exclusive categories."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Sandra Gabriele deploys the genre of the educational game as a way to approach the digital humanities critically by challenging the genre of the news game among so-called serious games intended to educate the public about systemic problems by offering them a playable simulation that will supposedly promote understanding and model how different factors might influence outcomes.",
+    "sentence": "Gabriele uses her own design of a game that represents the lives of sex workers as a case study for understanding why digital interfaces and databases that present a researcher’s work will always be situated in a specific framework of experiences rather than demonstrate detached procedural rhetoric that operates from a position of neutral distance.",
+    "after": ""
+   },
+   {
+    "loc": 71,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "Ali questions whether robot faces are being conceived as raceless, obscuring Eurocentrism with false universalism.",
+    "sentence": "Ali’s concerns are evident in the rhetoric surrounding the design of Sophia, a product of Hanson Robotics.",
+    "after": "The company bills Sophia as a humanoid, female, and lifelike robot, capable of generating more than sixty facial expressions."
+   },
+   {
+    "loc": 161,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "In the late 1960s “lesbian feminist” came to refer to women who identified with Ti-Grace Atkinson’s aphorism “Feminism is the theory, lesbianism is the practice.”",
+    "sentence": "This made lesbian feminist discourse from the late 1960s to the 1980s, which cast lesbianism as a political choice, quite different from the biologically determinant “born that way” rhetoric of the 1990s and 2000s.",
+    "after": "Akin to “woman-identified women,” lesbian feminists of the 1970s were on the whole less militant than “radical feminists,” although, we should note, there is some slippage between those two terms and their use is neither geographically nor temporally uniform."
+   },
+   {
+    "loc": 303,
+    "page": "p. 275",
+    "kind": "p",
+    "before": "",
+    "sentence": "Within the field of rhetoric, digital delivery of everything from file sharing to pop-up archives speaks to a wide range of intersecting concerns including embodiment, affect, audience, and performativity (DeVoss and Porter; Ridolfo and Hart-Davidson; Ridolfo, Hart-Davidson, and McLeod).",
+    "after": "Jim Porter, for instance, insists on the situatedness of digital technologies and their effects: “As an isolated object, technology is of little interest."
+   },
+   {
+    "loc": 303,
+    "page": "p. 275",
+    "kind": "p",
+    "before": "Jim Porter, for instance, insists on the situatedness of digital technologies and their effects: “As an isolated object, technology is of little interest.",
+    "sentence": "Rather, the real story is the use of the tool in its particular social, pedagogical, and rhetorical context,” a story composed of “human and non-human agents in a developmental dance” (J. Porter, 385).",
+    "after": "The technological imagination, as laid out by Anne Balsamo, assigns agency in relation to technology to (predominantly white) men (Designing Culture, 32)."
+   },
+   {
+    "loc": 477,
+    "page": "p. 449",
+    "kind": "p",
+    "before": "Incorporating the perspective of sex workers into a game’s mechanics is a powerful example of what Bogost describes as “procedural rhetoric” and what Flanagan and colleagues describe as “values-conscious” (or “value-sensitive”) game design.",
+    "sentence": "Procedural rhetoric is a type of rhetoric that is tied explicitly to the core of what games do: building processes that manipulate symbols according to a set of rules.",
+    "after": "Through the way that they enact these rules, games can express a rhetoric, a persuasive argument."
+   },
+   {
+    "loc": 477,
+    "page": "p. 449",
+    "kind": "p",
+    "before": "",
+    "sentence": "Incorporating the perspective of sex workers into a game’s mechanics is a powerful example of what Bogost describes as “procedural rhetoric” and what Flanagan and colleagues describe as “values-conscious” (or “value-sensitive”) game design.",
+    "after": "Procedural rhetoric is a type of rhetoric that is tied explicitly to the core of what games do: building processes that manipulate symbols according to a set of rules."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 10,
+  "input": "8fad066ffa42",
+  "candidates": [
+   {
+    "loc": 41,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "",
+    "sentence": "So, as we work to understand the New Jim Code, it is important to look beyond marketing rhetoric to the realities of selling and targeting diversity.",
+    "after": "One of the companies, Diversity, Inc., which I will discuss in more detail in Chapter 1, creates software that helps other companies and organizations tailor marketing campaigns to different ethnic groups."
+   },
+   {
+    "loc": 58,
+    "page": "p. 46",
+    "kind": "p",
+    "before": "What we know today about coded inequity may require a complete rethinking, as social and technical systems change over time.",
+    "sentence": "Let’s not forget: racism is a mercurial practice, shape-shifting, adept at disguising itself in progressive-like rhetoric.",
+    "after": "If our thinking becomes too weighed down by our own assuredness, we are likely to miss the avant-garde stylings of NextGen Racism as it struts by."
+   },
+   {
+    "loc": 73,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "Yet even when they do, these motivations often stand in tension with aims framed more benevolently.",
+    "sentence": "Even police robots who can use lethal force while protecting officers from harm are clothed in the rhetoric of public safety.*> This is why we must separate “intentionality” from its strictly negative connotation in the context of racist practices, and examine how aiming to “do good” can very well coexist with forms of malice and neglect.°° In fact a do-gooding ethos often serves as a moral cover for harmful decisions.",
+    "after": "Still, the view that ill intent is always a feature of racism is common: “No one at Google giggled while intentionally programming its software to mislabel black people.”%” Here McWhorter is referring to photo-tagging software that classified dark-skinned users as “gorillas.”"
+   },
+   {
+    "loc": 127,
+    "page": "p. 115",
+    "kind": "p",
+    "before": "It just means that the intertwining projects of racism and ableism are all-encompassing.*!",
+    "sentence": "This is yet another example of how those who design the world according to their own values and biases are employing the rhetoric of “inclusion” as progressive veneer for deeply discriminatory practices.",
+    "after": "This goes much deeper than a marketing scheme and takes us well beyond one institute in China."
+   },
+   {
+    "loc": 165,
+    "page": "p. 153",
+    "kind": "p",
+    "before": "Upon further reflection, Vertesi declares: “No one should have to act like a criminal just to have some privacy from marketers and tech giants.",
+    "sentence": "But the data-driven path we are currently on — paved with the heartwarming rhetoric of openness, sharing and connectivity — actually undermines civic values and circumvents checks and balances.”",
+    "after": "2°"
+   },
+   {
+    "loc": 177,
+    "page": "p. 165",
+    "kind": "p",
+    "before": "",
+    "sentence": "'* Even so, the term “PIC” has been useful as a rhetorical device for drawing widespread attention to the exponential growth of prison and policing since 1980 and for highlighting the multiple investments of a wide range of entities.",
+    "after": "Profit, in this context, is made not only in cash, but also in political power, property, TV ratings, and other resources from economic to symbolic, including the fact that many companies now invest in e-corrections as a fix for prison overcrowding."
+   },
+   {
+    "loc": 180,
+    "page": "p. 168",
+    "kind": "p",
+    "before": "Pouring money into them as they are will only make them more effective in their current function as institutions of social control.",
+    "sentence": "We have to look beyond the surface of what they say they do to what they actually do, in the same way in which I am calling on all of us to question the “do good” rhetoric of the tech industry.",
+    "after": ""
+   },
+   {
+    "loc": 181,
+    "page": "p. 169",
+    "kind": "p",
+    "before": "Virtual reality (VR) technology in particular is routinely described as an “empathy machine” because of the way it allows us to move through someone else’s world.",
+    "sentence": "Perhaps it does, in some cases.'° But, as some critics emphasize, this rhetoric creates a moral imperative to sell headsets and to consume human anguish, and in the process “pain is repurposed as a site of economic production”:!”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 42,
+  "input": "3c6528c5d579",
+  "candidates": [
+   {
+    "loc": 29,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "Both our historical roots and our innovative developments remain alarmingly homogenous.",
+    "sentence": "Our field finds its foundations in rhetorical theory and practice that have long canonized the work of white men and Western thought.",
+    "after": "Indeed, much of the scholarship that is considered to be “seminal” works in TPC is written by white men."
+   },
+   {
+    "loc": 55,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "Scholars who embrace intersectional approaches to technical communication may look to Black feminist thought and queer theory.",
+    "sentence": "For example, in discussing his approach to teaching queer rhetorics in technical communication, Cox (2018) reminds us that queer theory accounts for intersections in that it “is not only concerned with whatever is non-normative but also seeks to constantly disrupt the normative as well” (p. 291).",
+    "after": "As he asserts, intersectional approaches to TPC require that we “move beyond oversimplified ideas of ‘diversity’ and monolithic categories that do not allow for multiplicity and complexity” (p. 289)."
+   },
+   {
+    "loc": 55,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the decades since the term was coined, intersectionality has developed more fully into both a theoretical and an analytical framework used by a range of disciplines, including rhetoric, law, nursing, social work, and education, among others.",
+    "after": "Both Collins and Bilge’s (2016) introduction to intersectionality and Hancock’s (2016) recent history of the term clarify that the history and use across these disciplines are varied and heterogeneous."
+   },
+   {
+    "loc": 125,
+    "page": "p. 98",
+    "kind": "p",
+    "before": "By deploying this term, people reveal their underlying assumption that race does not matter and demands further evidence of wrongdoing.",
+    "sentence": "Dei, Karumanchery, and Karumanchery-Luik (2004) argue that the race card metaphor indeed functions as a rhetorical device with the sole purpose of delegitimizing claims of racism and injustice.",
+    "after": "When one is accused of “playing the race card,” the onus is put on the accused to then prove or provide evidence that race was truly at play and that it was not a figment of the accused’s imagination (when the accused is told, “You are being too sensitive”)."
+   },
+   {
+    "loc": 126,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "Instead, people accused of playing the race card are accused of using their claims of racism as a way of leveraging some material, social, political, or economic reparation.",
+    "sentence": "This rhetorical move trivializes the effects of racism on lived experiences, forcing those impacted by such discrimination to prove that their claims of racism are not a tool that they are just using to get ahead.",
+    "after": ""
+   },
+   {
+    "loc": 135,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "More recently, critical theories of power, particularly as they have been used in technical communication, have provided an entry into the work we forward here.",
+    "sentence": "As Jones (2016) explains, “[T]echnical communication scholarship has addressed issues of power and ideology and has examined how these concepts impact how communication is created (Dragga & Voss, 2001), transformed (Slack, Miller, & Doak, 1993), and used to create rhetorical and material conditions (Scott, 2003)” (p. 346).",
+    "after": "And, indeed, some scholars have committed themselves to the kind of advocacy Jones imagines for technical communicators, moving the field toward empowerment and activism."
+   },
+   {
+    "loc": 135,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "Simmons (2008) critically examines the way power emerged in an environmental justice case to argue for shifting the processes for public decision-making.",
+    "sentence": "Her understanding of power, built from Foucault, provides a framework for institutional critique and rhetorical action: We can shift the ways public participation occurs if we take seriously the way processes are imbued with power.",
+    "after": "And, she argues, we should advocate for shifting power toward those who have traditionally been excluded from decision-making in order to make the process more ethical and just."
+   },
+   {
+    "loc": 199,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "Cobos, C., Raquel Ríos, G., Johnson Sackey, D., Sano-Franchini, J., & Haas, A. M. (2018).",
+    "sentence": "Interfacing Cultural Rhetorics: A History and a Call.",
+    "after": "Rhetoric Review, 37(2), 139–154."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 3,
+  "input": "e28768217b05",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "What’s the use, what’s the point?",
+    "sentence": "Said in this way, “what’s the use?” operates as a rhetorical question.",
+    "after": "We might ask “what’s the use?” when we have reached a conclusion that there is no use."
+   },
+   {
+    "loc": 79,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "Kafer discusses how some protest the building of accessible trails as being too invasive for the environment.",
+    "sentence": "She suggests that “the rhetoric of ecoprotection then seems to be more about the discomfort with the artifacts of access— ramps, barrier-free pathways—and the bodies that use them” (138).",
+    "after": ""
+   },
+   {
+    "loc": 144,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "Indeed, Bentham associates empiricism, a concern with “things of all sorts,” with what he calls parliamentary business.",
+    "sentence": "Bentham writes, “The classical scholar may be better qualified for decorating his speech with rhetorical flowers: but the chrestomathic scholar, after a familiar and thorough acquaintance has been contracted with things, with things of all sorts, will be, in a much more useful and efficient way, qualified for the general course of parliamentary business” (1843c, 17–18).",
+    "after": "I will return to what is meant by business in due course."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "acd57d4e4ced",
+  "candidates": [
+   {
+    "loc": 120,
+    "page": "p. 203",
+    "kind": "p",
+    "before": "Images remain images, text remains text.",
+    "sentence": "This strategy can be related to the traditional rhetorical figure of synecdoche—and specifically the particular case in which a specific class of thing refers to a larger, more general class.",
+    "after": "(For example, in Cinema Redux, one frame stands for a second of a film.)"
+   },
+   {
+    "loc": 124,
+    "page": "pp. 209–210",
+    "kind": "p",
+    "before": "Together, these collections contain tens of thousands of hours of video.",
+    "sentence": "We want to describe the rhetorical, editing, and cinematographic strategies specific to each video set, understand how different news producers may be using videos of political leaders in different ways, identify outliers, and find clusters of programs that share similar patterns.",
+    "after": "But how can we watch all this material to begin pursuing these and other questions?"
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 16,
+  "input": "370ea93729b0",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "The word dates to the mid-seventeenth century, when it was introduced to supplement existing terms such as evidence and fact.",
+    "sentence": "Identifying information as data, rather than as either of those other two terms, served a rhetorical purpose.",
+    "after": "It converted otherwise debatable information into the solid basis for subsequent claims."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "But in more recent history, many of data visualization’s theorists and practitioners have come from technical disciplines aligned with engineering and computer science and have not been trained in that most fundamental of Western communication theories.",
+    "sentence": "In his ancient Greek treatise, Aristotle defines rhetoric as “the faculty of observing in any given case the available means of persuasion.”",
+    "after": "But rhetoric isn’t only found in political speeches made by men dressed in tunics with wreaths on their heads."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "",
+    "sentence": "Each of these early visualization designers understood how their images could function rhetorically.",
+    "after": "But in more recent history, many of data visualization’s theorists and practitioners have come from technical disciplines aligned with engineering and computer science and have not been trained in that most fundamental of Western communication theories."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "",
+    "sentence": "The question of rhetoric matters because “a rhetorical dimension is present in every design,” says visualization researcher Jessica Hullman.",
+    "after": "This includes visualizations that do not deliberately intend to persuade people of a certain message."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "Fields very close to visualization, like cartography, have long seen their work as ideological.",
+    "sentence": "But discussions of rhetoric, editorial choices, and power have been far less frequent in the field of data visualization.",
+    "after": "In 2011, Hullman and coauthor Nicholas Diakopoulos wrote an influential paper reasserting the importance of rhetoric for the data visualization community."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "But discussions of rhetoric, editorial choices, and power have been far less frequent in the field of data visualization.",
+    "sentence": "In 2011, Hullman and coauthor Nicholas Diakopoulos wrote an influential paper reasserting the importance of rhetoric for the data visualization community.",
+    "after": "Their main argument was that visualizing data involves editorial choices: some things are necessarily highlighted, while others are necessarily obscured."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "",
+    "sentence": "Jessica Hullman, whose work on rhetoric we’ve already mentioned, offers one solution to this problem.",
+    "after": "Instead of creating fixed plots as in the New York Times example that represents uncertainty in aggregate or static form, Hullman advocates for rendering experiences of uncertainty."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "In other words, leverage emotion and affect so that people experience uncertainty perceptually.",
+    "sentence": "Or, to invoke a common refrain from rhetorical training and design schools, “show, don’t tell.”",
+    "after": "Rather than telling people that they are looking at uncertainty while employing a certain-looking graphic style—which creates conditions ripe for those pesky heuristics to intervene —make them feel the uncertainty."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 3,
+  "input": "d0a72efee9d7",
+  "candidates": [
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "As Patricia Hill Collins writes about the erasure of historical discrimination, the individualization of equality, and the concept of “symmetrical treatment” that characterize the ideology of “color blindness” in the post-Brown v.",
+    "sentence": "Board of Education US legal system: “Under this new rhetoric of color-blindness, equality means treating all individuals the same, regardless of differences they brought with them due to the effects of past discrimination or even discrimination in other venues.”",
+    "after": "What’s more, the rhetoric of color blindness functions “as a new rule that maintains long-standing hierarchies of race, class, and gender while appearing to provide equal treatment.”"
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "Board of Education US legal system: “Under this new rhetoric of color-blindness, equality means treating all individuals the same, regardless of differences they brought with them due to the effects of past discrimination or even discrimination in other venues.”",
+    "sentence": "What’s more, the rhetoric of color blindness functions “as a new rule that maintains long-standing hierarchies of race, class, and gender while appearing to provide equal treatment.”",
+    "after": "Ruha Benjamin, in Race After Technology, develops the term “the New Jim Code” to highlight the ways that algorithmic decision systems based on historical data sets reinforce white supremacy and discrimination even as they are positioned by their designers as “fair,” in the “colorblind” sense."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "We should laud and support efforts to create spaces where more people can learn how to design, prototype, code, hack, make, and build.",
+    "sentence": "At the same time, without intentional intervention, these spaces find it very difficult to fulfill even their own liberal democratic rhetoric, because they end up dominated by white cis men and by middle-class people with free time and disposable income.",
+    "after": "What’s more, if we imagine all such spaces magically transformed into gender-diverse, multiculturally inclusive sites overnight, this would be a huge improvement."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 23,
+  "input": "69426727c3f5",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Black online culture and sociality are more easily visualized today thanks not only to the hashtag and other algorithmic means but also to the near infrastructural use of social networking services as well as older online artifacts, such as messaging services, blogs, and bulletin boards, where one could see articulations of Black identity across digital networks.",
+    "sentence": "My subtitle, African American Cybercultures, speaks to this text’s theoretical and rhetorical thinking about how and why Blackness and Black culture are easily and pungently performed, absent embodiment, when mediated by technologies— specifically information technologies, the online, and the digital.",
+    "after": ""
+   },
+   {
+    "loc": 27,
+    "page": "PDF p. 27",
+    "kind": "p",
+    "before": "Logic (logos) depends on a particular style of presentation (objectivism), a particular set of values and beliefs (rationality and positivism), and specific techniques of argumentation (e.g., the scientific method and syllogism) in order to be effective, rendering “science” as a set of emotional appeals to a specific audience.",
+    "sentence": "Indeed, there is an entire field of study dedicated to the rhetoric of science and technology that is intent on unpacking the persuasions underlying science and engineering research, but the inquiries only superficially address issues of race.",
+    "after": ""
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "The browser affords an implicitly “unmarked” technological commons even as each internet surfer personalizes his installation to conform to his personal browsing habits through bookmarks, cookies, add-ons, and user scripts.",
+    "sentence": "The seeming openness of the platform, coupled with libertarian (and neoliberal) rhetoric about the internet as a culture-neutral space, obscures the reality that most online content available through the browser and its technological implements still constructs and maintains Western and modern notions of race, gender, and class.",
+    "after": "Without examining content specifically, the next section begins the analysis of Blackbird by briefly outlining the browser’s representation as an informational, racial, and cultural artifact."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "The dual experience of universal application and individual preferences, then, prejudices users to assume that the “universal” web, configured to their liking, is similarly configured for every other user.",
+    "sentence": "This is borne out by the posts and comments analyzed later in the chapter, but this universalist rhetoric echoes today’s rhetoric of color-blind identity that serves to protect the interests of whiteness in popular and political arenas.",
+    "after": ""
+   },
+   {
+    "loc": 46,
+    "page": "PDF p. 46",
+    "kind": "p",
+    "before": "In this vein, TABW and Around Harlem’s reviews of Blackbird promote positive Black cultural values even as they strongly criticize the technological and cultural limitations of the browser.",
+    "sentence": "Their reactions to the guided nature of Blackbird’s interactions with the web conflate the libertarian, individualistic rhetoric of internet use with a Black cultural resistance to white racial ideology’s assignation of Black identity to the nadir of modern society.",
+    "after": ""
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "It is bittersweet because Donald Trump, the forty-fifth president of the United States, is increasingly seen as a Twitter power user, although the source of his social media expertise has yet to be understood as drawing on white Twitter / American culture (Brock, 2017)—even as he built on long-standing themes of xenophobia, nativism, and racism to power his campaign.",
+    "sentence": "Instead, pundits and academics view his Twitter savvy as an appeal to class, unreason, or nationalist rhetoric.",
+    "after": "Arguments for Black Twitter as a public sphere are slightly superfluous because the Democratic Party’s failure to retain the White House has had the unanticipated effect of turning down the volume of organized Black online activism; the widespread attention that activists were able to marshal for Black political causes has been subsumed as a palliative for wider-scale, more frantic white liberal and progressive reactions (e.g., white fragility) to the Trump administration."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "",
+    "sentence": "Again, my arguments here closely follow Banks’s argument for the linguistic and rhetorical capacities of Black online discourse.",
+    "after": "Banks (2005) writes that Black online spaces “mean three things: first . . . a repudiation of much early cyberspace theory that insisted race is and should be irrelevant online, that it would be made irrelevant by online subjectivities."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "Banks (2005) writes that Black online spaces “mean three things: first . . . a repudiation of much early cyberspace theory that insisted race is and should be irrelevant online, that it would be made irrelevant by online subjectivities.",
+    "sentence": "Second, it would confirm the importance of discursive and rhetorical features that Smitherman links to African oral traditions for the written discourse of African Americans. . . .",
+    "after": "Third, it would show Black people taking ownership of digital spaces and technologies and point to the importance of taking Black users into account in technology user studies” (p. 71)."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 9,
+  "input": "fde7f8c5ab0e",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "While the public waits for print journalists to narrativize national crises and controversies, ordinary people on the scene are able to tweet firsthand accounts.",
+    "sentence": "While politicians embed particular issues in opaque language and meaningless euphemisms in their public discourse, ordinary people are able to explicitly advocate using unrepentant and concise rhetoric on these same issues.",
+    "after": "Notably, Twitter has low financial and technological barriers to entry."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "All over the world.”",
+    "sentence": "In illustrating the widespread nature of patriarchal and misogynistic thinking, #YesAllWomen documented the impact of gendered violence, demanded that defensive men sit and listen, and created rhetorical kinship among women.",
+    "after": "As Beins describes in her consideration of feminist slogans in the 1970s, phrases that work to flatten identity-based differences are important in social movements that orient their demands along a single central access of marginalization."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "Another wrote, “#SurvivorPrivilege was seeing my rapist every morning in the dining hall casually pouring himself cereal after he threatened to kill me.”",
+    "sentence": "In direct media criticism, Klabusich tweeted, “The @washingtonpost column wasn’t just a ‘difference of opinion.’ @georgewill is contributing violent rhetoric and harm. #survivorprivilege,” and the feminist outlet Feministing shared its coverage of the story with the headline, “#SurvivorPrivilege shows George Will just how fun it is to be a rape survivor.”",
+    "after": "Together, the contributions to the hashtag made demands that women survivors be heard and that the severity of personal consequences faced by victims of violence be acknowledged."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "We include a discussion of trans women’s networked labor both in the spirit of recognizing the layered ways that counterpublics function and as a response to activists and scholars who have called on academics to do a better job of considering the “T” in LGBT.",
+    "sentence": "As Leland G. Spencer writes in the introduction to Transgender Communication Studies: Histories, Trends, and Trajectories, “The ‘T’ too often tacked onto the end of ‘LGBT’ demands a spot at the center of communicative and rhetorical analysis,” especially in light of the way cisgender gay white men have been centered in research on LGBT communication and in public representations of LGBT issues and activism.",
+    "after": ""
+   },
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "It is notable that these two Cooper tweets were most frequently shared and responded to in the network, for Cooper also tweeted several tweets during the same time frame that received less attention and interaction.",
+    "sentence": "These included a tweet in which the anchor rephrased his initial reaction as a rhetorical question that did more discursive avoidance of blame attribution: “The shooting of #TrayvonMartin.",
+    "after": "Unarmed african-american teen."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "Now,” connecting Castile to another recent case in which police justified shooting Alton Sterling at close range because they believed he had a gun in his belt.",
+    "sentence": "The call on the National Rifle Association (NRA) to defend Black men who are ordinary citizens and gun owners as rigorously as they defend the Second Amendment is a rhetorical and ironic request, in light of the organization’s history.",
+    "after": "Likewise, @MamaBKrayy tweeted, “#PhilandoCastile told officers he had a permit to carry BEFORE they murdered him."
+   },
+   {
+    "loc": 90,
+    "page": "PDF p. 90",
+    "kind": "p",
+    "before": "",
+    "sentence": "It is clear that the directive tweets were a response to the defensiveness and toxic rhetoric of so-called men’s rights activists and others who worked to silence women in the aftermath of the Isla Vista shootings because they engaged in a counterappropriation of MRA language.",
+    "after": "In particular, tweets employing the phrase “real men,” to suggest that “real men” are allies to feminism and “real male activists” advocate for gender equality rather than toxic masculinity, were popular in these directive tweets."
+   },
+   {
+    "loc": 91,
+    "page": "PDF p. 91",
+    "kind": "p",
+    "before": "For example, user @AutistLiam wrote, “#AllMenCan Refuse to accept ‘boys will be boys’ as an excuse for sexist or violent behavior from themselves or others.”",
+    "sentence": "These instructive tweets drew clearly from knowledge and rhetoric developed and popularized by feminist activists around rape culture and toxic masculinity and asked men to take responsibility for incorporating these ideas into their daily interactions.",
+    "after": "They offered concrete examples of what allyship can look like in action, including the social risk of calling out other men."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 4,
+  "input": "b68138dc8f18",
+  "candidates": [
+   {
+    "loc": 36,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "The impulse to archive, what Jacques Derrida called “archive fever,” extends to a feminist practice of carrying on with the everyday work of managing information, despite the odds.",
+    "sentence": "Here, the digital, with its promise of limitless management through compression, instantaneous access, immateriality, and Big Data rhetorics, might be made into fodder for the lesbian-feminist killjoy.",
+    "after": "She does digital media with the same kind of care, skepticism, and attention to the deep political implications of information she brought to all those decades of paperwork."
+   },
+   {
+    "loc": 144,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "Indexing manuals tend to include anecdotes that celebrate the fantasy of rapid information retrieval and clean management.",
+    "sentence": "Collison draws on the effusive rhetoric that often accompanies the introduction of new media technologies: “Indexing can be used to make life easier and more effici t.”",
+    "after": "Although it is “not a panacea for all modern evils, . . . ​it can certainly be a palliative for some of the more common of them.”"
+   },
+   {
+    "loc": 213,
+    "page": "p. 209",
+    "kind": "p",
+    "before": "Labyris Books had created the shirt in 1975 to promote the store and the women’s publishing movement.",
+    "sentence": "From the present, the garment is difficult to separate rhetorically from histories of trans-exclusionary feminist organizing, particularly given Dobkin’s history as a political columnist who often published transphobic views about lesbian feminism.",
+    "after": "In 2015, the “The Future Is Female” shirt became a uniform for a certain kind of liberal, often white feminist, as it was taken up by Hillary Clinton’s supporters during and after her 2016 presidential campaign."
+   },
+   {
+    "loc": 216,
+    "page": "p. 212",
+    "kind": "p",
+    "before": "Optimism informs the belief that digital archives can remember, commemorate, and preserve.",
+    "sentence": "But as Wendy Hui Kyong Chun has shown, digital media rhetoric often conflates storage with memory.",
+    "after": "For Chun, “Memory is an active process, not static."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 19,
+  "input": "2eba3ab6eccc",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "PDF p. 19",
+    "kind": "p",
+    "before": "This hashtag asks a simple question: “Which picture would the media choose to represent me if I were killed by the police?”",
+    "sentence": "This rhetorical exercise poignantly illustrates black digital praxis in the juxtaposition of imagery, comparing and contrasting the distinctions of black life.",
+    "after": "By exploring black death and pain, this chapter engages the stress, strain, and conflicts that arise for many black folks in navigating this violent digital landscape while also living it physically."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Popular culture continues to render black women’s rage as inappropriate, constantly reminding them of their visitor status in the digital locker room.",
+    "sentence": "The spaces inside these toxic technocultures are reminiscent of the public spaces that continue to foster misogynoir, even while propagating progressive, “color-blind” rhetoric.",
+    "after": "However, in many of these public spaces (such as school, church, or work), black women are not always afforded the ability to create and construct their own counterpublics."
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "While the game frames Larae as an angry black woman, villain, and criminal, black gamers suggest that she is more than that.",
+    "sentence": "She gives a speech in the game, and with her words she actually evokes much of the rhetoric deployed by contemporary social movements, which argues that one ought not be defined by victimhood: “You can turn that cry into a roar or you can turn it into a whimper. . . .",
+    "after": "You can choose to be a victim."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "While her powerful speech in the game reflects the challenges of overcoming victimhood and victim status, Larae guts a man in front of a large crowd, diminishing her words for many white gamers.",
+    "sentence": "For them, this violent act is more powerful than her important rhetoric, conjuring up the emotion of fear for many white gamers.",
+    "after": "In discussion forums centered on this part of the game, white gamers link this rhetoric to the #BlackLivesMatter movement."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "For them, this violent act is more powerful than her important rhetoric, conjuring up the emotion of fear for many white gamers.",
+    "sentence": "In discussion forums centered on this part of the game, white gamers link this rhetoric to the #BlackLivesMatter movement.",
+    "after": ""
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "While challenging common narratives associated with black womanhood, Barrett’s character is collectively read by white men as villainous and angry.",
+    "sentence": "The timing of the release of this game (2016), which corresponded with the rise of the #BlackLivesMatter movement, solidified the connection between Barrett’s rhetoric and the stance of the movement.",
+    "after": ""
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "Increasing use of social media in gaming spheres has given marginalized groups aesthetic control over their visual depictions, actual definitions, and socially constructed identities.",
+    "sentence": "Critiquing the visualized authority that is attempting to sustain these racial enterprises (as well as exploring the creation of new content) addresses the promulgation of protest images, which become the primary rhetoric of the move away from relying on hegemonic definitions of self.",
+    "after": "Furthermore, it is an assertion of the individual’s ability to create meaning out of ideas, information, and visual images, instead of having that meaning precircumscribed by processes of visualization in service to authority."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "The hashtag asks a simple question: “Which picture would the media choose to represent me if I were killed by the police?”",
+    "sentence": "Users of the hashtag answer this rhetorical question by offering a choice between two contrasting images—one positive, socially acceptable, and suggestive of innocence, and the other put forth as the stereotypically negative or problematic representation the media might prefer.",
+    "after": "The image juxtaposition provides an immediate contrast and critique of media outlets deciding which image will fit into their narrative of “deserving and worthy”—which, as the black community knows, the black body is rarely afforded."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 61,
+  "input": "98d8bb629f40",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "Like many of my colleagues in technical communication and rhetoric, I have always struggled to tell my family and friends outside the academic world (and some inside) what it is that I do and teach.",
+    "after": "Usually, I would say that I teach communication, focusing more on the artifacts in the communication process rather than human relations."
+   },
+   {
+    "loc": 23,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "",
+    "sentence": "The North American academic tradition of technical communication is heavily influenced by rhetoric and writing studies theories and scholarly developments.",
+    "after": "Among the most important paradigms in the understanding of contemporary rhetoric and communication were the process turn (circa 1960s), the social and post-process turns (1980s), and the critical and cultural turn (1990s)."
+   },
+   {
+    "loc": 29,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "With Nigel Cross, Kees Dorst argued that wicked problems cannot rely on rational problem-solving methods (Dorst & Cross, 2001).",
+    "sentence": "Dorst (2006, 2011, 2015) went on to suggest that designers should use a rhetorical (discourse) framing method to guide their innovation.",
+    "after": "Next to Buchanan, Dorst is likely the most relevant theorist of design thinking to rhetoric and technical communication scholars."
+   },
+   {
+    "loc": 29,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "Dorst (2006, 2011, 2015) went on to suggest that designers should use a rhetorical (discourse) framing method to guide their innovation.",
+    "sentence": "Next to Buchanan, Dorst is likely the most relevant theorist of design thinking to rhetoric and technical communication scholars.",
+    "after": "As Scott Weedon (2019) summarized, “Dorst’s framing approach provides technical communicators a method to analyze the various discourses and practices that constitute a situation in order to invent an innovative frame” and “technical communicators can use their rhetorical knowledge to invent productive metaphors that suggest tactical implications for adequately addressing complex situations” (p. 429)."
+   },
+   {
+    "loc": 159,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "",
+    "sentence": "Given the field’s focus on rhetorical ecology, objects, and agency, Brown and Rivers contended that rhetoric and composition can be hospitable to projects concerning object-oriented production.",
+    "after": "By the way of Ian Bogost’s “philosophical carpentry,” Brown and Rivers enacted rhetorical carpentry as an attunement to multimodal composition and object-oriented rhetoric."
+   },
+   {
+    "loc": 159,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Given the field’s focus on rhetorical ecology, objects, and agency, Brown and Rivers contended that rhetoric and composition can be hospitable to projects concerning object-oriented production.",
+    "sentence": "By the way of Ian Bogost’s “philosophical carpentry,” Brown and Rivers enacted rhetorical carpentry as an attunement to multimodal composition and object-oriented rhetoric.",
+    "after": "This ecological and ontological approach to writing instruction can introduce students “to a multiplicity of composing skills” by rendering experiences of both humans and nonhumans, moving beyond just the traditionally human-centered rhetorical situation."
+   },
+   {
+    "loc": 163,
+    "page": "p. 142",
+    "kind": "p",
+    "before": "",
+    "sentence": "Through the lens of material rhetoric, Sheridan explored the implications of three-dimensional fabrication of products for composition and rhetoric.",
+    "after": "Drawing from early discussions of visual and multimodal rhetoric, Sheridan submitted four reasons for integrating 3D rhetoric into writing pedagogy—it’s possible (access to technologies of production), it’s powerful (more effective communication), it’s valued (deemed important across personal, professional, and public spheres), and it’s ours (it resides in the domain of rhetoric)."
+   },
+   {
+    "loc": 163,
+    "page": "p. 142",
+    "kind": "p",
+    "before": "Through the lens of material rhetoric, Sheridan explored the implications of three-dimensional fabrication of products for composition and rhetoric.",
+    "sentence": "Drawing from early discussions of visual and multimodal rhetoric, Sheridan submitted four reasons for integrating 3D rhetoric into writing pedagogy—it’s possible (access to technologies of production), it’s powerful (more effective communication), it’s valued (deemed important across personal, professional, and public spheres), and it’s ours (it resides in the domain of rhetoric).",
+    "after": "Sheridan compiled literature that supported these reasonings and presented three brief cases of citizen fabrication that explored arguments from the perspectives of infrastructural accessibility, rhetorical effectiveness, cultural status, and (de)specialization in 3D rhetoric."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 41,
+  "input": "1d91fa1f2701",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "The phrases listen to Black women and ask Black women became popularized after the election of the forty-fifth president.",
+    "sentence": "Exposed to the same rhetoric and often living in similar economic conditions, Black women made a different choice for president than their white counterparts.",
+    "after": "Black women voted for Donald Trump in lower numbers than any other racial/gender population (Pew Research Center, 2018)."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "Thus far, I have positioned Black women as creators, purveyors, and innovators of technologies of domestic and agricultural labor.",
+    "sentence": "Beyond the manipulation of physical technology, Black women used rhetorical and communicative devices as tools to dismantle oppression, transforming the voice into a technology of survival and resistance.",
+    "after": "As the U.S. weaponized access to education to delay Black folks’ autonomy and freedom, enslaved Africans continued to pursue literacy."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "The preservation of oral culture in the U.S. provided Black Americans a new language and dialect by combining West African traditions with white Western Americanized English.",
+    "sentence": "Orality also yielded a rhetorical tradition that used the voice as a survival technology.",
+    "after": "The collective voice of Black folks has been among the community’s most durable and useful technologies."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "Based on their distance from whiteness but proximity to masculinity, Black men’s discursive patterns may too often approximate the objectives of white men—to wield power and assert dominance.",
+    "sentence": "If Black men use their rhetorical skills to pursue racial justice while leaving patriarchy intact, the voice is not truly a technology of freedom.",
+    "after": "Toxic and hegemonic forms of masculinity require men, both Black and white, to place as much distance as possible between the skills, behaviors, and norms of themselves and those identified as women."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "Toxic and hegemonic forms of masculinity require men, both Black and white, to place as much distance as possible between the skills, behaviors, and norms of themselves and those identified as women.",
+    "sentence": "Black men’s potential to benefit from patriarchy can render Black women an obstacle in crafting their rhetorical arguments for freedom.",
+    "after": "Alternately, Black feminist rhetorical skill and technological skill are derived from multiple oppressions and wielded to dismantle multiple systems of power simultaneously."
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "Black women used their collective voices during the period of Reconstruction as tools of resistance.",
+    "sentence": "They crafted rhetorical arguments for freedom and drew upon respectability as a strategy—effectively using the “master’s tools” to resist dehumanization.",
+    "after": "Evelyn Brooks Higginbotham describes respectability as a strategy through which Black women aimed to “earn their people a measure of esteem from white America” (Higginbotham, 1993, p. 26)."
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "In 2020, television pundits and political figures wield respectability politics to critique the Movement for Black Lives, uprisings across the country against police brutality, and Black women’s reclamation of sexual agency.",
+    "sentence": "As a rhetorical strategy in the late nineteenth and early twentieth centuries, Black women used arguments of respectability to cut through the racist and sexist idea that Black women were not real women.",
+    "after": "The cult of true womanhood still firmly intact, Black women publicly performed respectability to dismantle the dominant form of racial bias."
+   },
+   {
+    "loc": 53,
+    "page": "PDF p. 53",
+    "kind": "p",
+    "before": "In this chapter, I consider the impact of digital communication on Black feminist thought by examining the principles created and adopted in a Black feminist blogosphere.",
+    "sentence": "In the blogosphere, Black feminist thinkers, through long-form writing, community building, and digital archiving, began to craft foundational principles for digital Black feminist rhetoric that we now see on sites like Twitter and Instagram.",
+    "after": "Blogging provided a landscape for digital Black feminists to work out principles through dialogue protected from outside interference within the virtual beauty shop."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 11,
+  "input": "7d0ecafe2319",
+  "candidates": [
+   {
+    "loc": 89,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "The basic principles of database management and design are modularity, content type definition or data modeling, and relations, and then the combinatoric use of data through selection and display.",
+    "sentence": "Databases are powerful rhetorical instruments.",
+    "after": "A database is a logical structure and it is configured in the computer."
+   },
+   {
+    "loc": 92,
+    "page": "p. 77",
+    "kind": "p",
+    "before": "Then, defining identities that can be referenced logically will make the relations logical as well.",
+    "sentence": "In spite of all of this formal structure, however, a database should be understood as an act of interpretation that makes a rhetorical argument.",
+    "after": ""
+   },
+   {
+    "loc": 93,
+    "page": "p. 78",
+    "kind": "p",
+    "before": "Other issues also arise with humanistic use of data.",
+    "sentence": "Some involve high-level questions about what kind of rhetorical and/or intellectual structure a database embodies.",
+    "after": "Is it linear?"
+   },
+   {
+    "loc": 112,
+    "page": "p. 97",
+    "kind": "p",
+    "before": "",
+    "sentence": "When considering visualizations, a few fundamentals besides the type of chart and the rhetoric of its impact can be useful in guiding design decisions.",
+    "after": "The components of visualizations include axes, elements, scales, order/ sequence, values of coordinates, and the graphic variables."
+   },
+   {
+    "loc": 114,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "Certain common errors include misuse of area, continuity, and other graphical qualities.",
+    "sentence": "The rhetorical force of visualization is often misleading.",
+    "after": "All visualizations are interpretations, not presentations of fact."
+   },
+   {
+    "loc": 122,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "",
+    "sentence": "Explore the site and then discuss the selection of individuals, the character and quality of relations, explicit assumptions and implicit ones, and the diagrams and their rhetorical power.",
+    "after": ""
+   },
+   {
+    "loc": 149,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "Early maps of exploration, for instance, tend to favor detail about coastline features, rather than knowledge of a landmass’s interior, while Indigenous mapping may have very little information about coasts and borders and focus instead on pathways and ritual sites.",
+    "sentence": "GIS systems were not made to accommodate the rhetorical specifics of many of these maps or the spatial experience they record.",
+    "after": ""
+   },
+   {
+    "loc": 167,
+    "page": "p. 152",
+    "kind": "p",
+    "before": "Virtual models serve a purpose, but as with any representations, should be examined critically for the values and assumptions they encode.",
+    "sentence": "The force of interpretative rhetoric tends to increase with the consumability of images and/or simulated experience (Al Sayyad 1998).",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 27,
+  "input": "f0952676c66f",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "pp. 19–20",
+    "kind": "p",
+    "before": "",
+    "sentence": "As the president screamed on Twitter, taking his misinformation about state leaders, the progress of virus research, and elections directly to the public, suddenly an unregulated tech company with no competence or background in history, politics, journalism, rhetoric, the psychology of online interaction, or fact checking was thrust into the position of trying to unbuild the minsinformation machine that has been long in the making.",
+    "after": "Many people thought sites like Twitter and Facebook were harmless, until they helped give a platform to one of the most dangerous presidents in US history, and helped authoritarianism and genocide advance in multiple countries."
+   },
+   {
+    "loc": 65,
+    "page": "pp. 110–111",
+    "kind": "p",
+    "before": "The internet looks like a pipe in many places, but it moves along a radically branching structure and it is powered by human labor at all its exchange points.",
+    "sentence": "In the 1990s, internet narratives gave us a picture of a pipe constructed from colonial resources and bolstered by imperialist rhetoric, but, in more recent research, it appears to be uneven, radically branched, and maintained by a world of diverse people.",
+    "after": ""
+   },
+   {
+    "loc": 95,
+    "page": "pp. 167–168",
+    "kind": "p",
+    "before": "",
+    "sentence": "Family rhetoric sells more than warm feelings and kickbacks; it promises good press and (job) security.",
+    "after": "Like in the United States, IBM paid above-average salaries abroad and implemented benefits like vacation homes and a pension insurance."
+   },
+   {
+    "loc": 95,
+    "page": "pp. 167–168",
+    "kind": "p",
+    "before": "While she was soft and caring, he could be strict and authoritarian.",
+    "sentence": "This family rhetoric undergirded the welfare capitalist labor measures that IBM pursued in West Germany; together, they cared deeply and provided justly for the members of the large IBM family.",
+    "after": ""
+   },
+   {
+    "loc": 95,
+    "page": "pp. 167–168",
+    "kind": "p",
+    "before": "",
+    "sentence": "German employees related to Mr. Watson’s rhetoric of the IBM family, giving it its own local meaning.",
+    "after": "During a 1953 visit from Mr. and Mrs. Watson, for example, the head of IBM’s German works council, W. Berger, presented Mrs. Watson with a Mocca coffee set made from Meissen porcelain during a festive evening reception for 3,600 IBM employees and their spouses."
+   },
+   {
+    "loc": 95,
+    "page": "pp. 167–168",
+    "kind": "p",
+    "before": "At the same time, they selected a set from Meissen porcelain, which could be expected to be known and appreciated by a New York socialite, whereas a set from a local porcelain manufacturer would have expressed local pride in craftsmanship.",
+    "sentence": "At other occasions, Berger also carefully embraced Mr. Watson’s family rhetoric and, like Mr. Watson, linked it to the company’s labor relations.",
+    "after": ""
+   },
+   {
+    "loc": 98,
+    "page": "pp. 173–174",
+    "kind": "p",
+    "before": "",
+    "sentence": "Mr. Watson used gendered family rhetoric to shape his company’s labor relations at home and abroad.",
+    "after": "Mrs. Watson’s silent presence allowed her husband to present himself as family father at the helm of the company, providing for IBM employees the same way he provided for his large family of four kids (two of whom he had already installed as top executives within the company), their spouses, and over a dozen grandchildren."
+   },
+   {
+    "loc": 98,
+    "page": "pp. 173–174",
+    "kind": "p",
+    "before": "Mrs. Watson’s silent presence allowed her husband to present himself as family father at the helm of the company, providing for IBM employees the same way he provided for his large family of four kids (two of whom he had already installed as top executives within the company), their spouses, and over a dozen grandchildren.",
+    "sentence": "However, Mr. Watson’s family rhetoric revealed unintended insights into class and gender at IBM.",
+    "after": "Family relations are not egalitarian along age and gender lines, and neither was Watson’s welfare capitalist approach."
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 48,
+  "input": "93b4a76f675e",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "As Brittany Hull, Cecilia D. Shelton, and Temptaous Mckoy (2020) explain, communities of color consistently have to function in professional spaces where their “identities, epistemologies, and even their very bodies are called into question” (7).",
+    "sentence": "As such, it’s important for researchers to consider how labels like “messy,” “loud,” and “unprofessional” are grounded in white/Western/English-dominant ideals that diminish the cultural, rhetorical, and embodied practices of marginalized people.",
+    "after": ""
+   },
+   {
+    "loc": 29,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "That is, when cross-cultural design research relies on practical checklists and standardized protocols, researchers can adopt or even reproduce cultural stereotypes (Ding 2020; Jones and Williams 2018) instead of localizing technologies and designs successfully across cultures and contexts.",
+    "sentence": "Similar arguments have been made by disability studies scholars who argue that access in technical communication design should not be reduced to simple checklists and protocols, since notions of access should be rhetorically situated and localized (Hitt 2018; Yergeau et al. 2013; Zdenek 2015).",
+    "after": "Sun (2012) proposes “user-localization” as an approach to cross-cultural technology design that values local community knowledge and emphasizes the role of local expertise in localization practices."
+   },
+   {
+    "loc": 29,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "Other researchers, such as Huiling Ding (2020), explain that “participatory, user-centered design can play important roles in user-empowerment and ethical engagement with users in civic, educational, and industrial settings” (145).",
+    "sentence": "Walwema (2021) further emphasizes the importance of paying attention to not only how information is designed but also how it is distributed in transnational contexts through the use of social media strategies that serve “the rhetorical circulatory function of rallying the public” (130).",
+    "after": "While this research focuses on the importance of intercultural communication and accessibility in technology design and dissemination, I argue that in many technical communication projects, translation and multilingualism are sometimes treated through similar reductive, positivist orientations that dismiss the role race and embodied difference play in multilingual technical communication practice (Gonzales 2018; Batova 2010)."
+   },
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "Interdependency is a product of the human condition in which we all rely on other human beings in various ways through different relationalities, including but not limited to language (Gonzales and Butler 2020, n.p.).",
+    "sentence": "As Kerschbaum (2014) explains, communication is a “rhetorical performance,” in which all individuals should “acknowledge their responsibilities to others in communication, . . . maintain attentiveness in varied ways of interacting, and . . . cultivate openness to interactional possibility” (118).",
+    "after": "In this way, as Price and Kerschbaum (2016) have also noted, interdependency can provide a way for researchers to interrogate how communicative acts, as rhetorical performances, rely on a collective negotiation of access among all parties involved in a discussion."
+   },
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "As Kerschbaum (2014) explains, communication is a “rhetorical performance,” in which all individuals should “acknowledge their responsibilities to others in communication, . . . maintain attentiveness in varied ways of interacting, and . . . cultivate openness to interactional possibility” (118).",
+    "sentence": "In this way, as Price and Kerschbaum (2016) have also noted, interdependency can provide a way for researchers to interrogate how communicative acts, as rhetorical performances, rely on a collective negotiation of access among all parties involved in a discussion.",
+    "after": ""
+   },
+   {
+    "loc": 72,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "In a previous project (Gonzales 2018), I identified the concept of “translation moments” as a helpful way to study language fluidity.",
+    "sentence": "Translation moments can be defined as instances when multilinguals pause to make a rhetorical decision about how to translate specific information for a specific audience in a specific moment in time.",
+    "after": "In that project, I counted and tracked translation moments to understand how multilingual communicators made rhetorical decisions about which words to use to make information accessible to their audiences in specific moments."
+   },
+   {
+    "loc": 128,
+    "page": "p. 112",
+    "kind": "p",
+    "before": "For example, I used Angela Haas’s (2007) positioning of “Wampum as Hypertext” to envision the types of material and digital technologies students at SAFAR already engaged with on a regular basis.",
+    "sentence": "As Haas (2007) explains, reaching “digital and visual rhetorical sovereignty” requires a revisioning of history to focus on how Indigenous communities have been innovating and sustaining material technologies long before technologies like hypertext were “discovered” in Western contexts (78).",
+    "after": "Through this historical revisioning, Haas (2007) positions “American Indians as the first known skilled multimedia workers and intellectuals in the Americas,” providing a model for how other digital rhetoric scholars can pay closer attention to the histories embedded in “new” and “emerging” technologies across the globe (78)."
+   },
+   {
+    "loc": 128,
+    "page": "p. 112",
+    "kind": "p",
+    "before": "As Haas (2007) explains, reaching “digital and visual rhetorical sovereignty” requires a revisioning of history to focus on how Indigenous communities have been innovating and sustaining material technologies long before technologies like hypertext were “discovered” in Western contexts (78).",
+    "sentence": "Through this historical revisioning, Haas (2007) positions “American Indians as the first known skilled multimedia workers and intellectuals in the Americas,” providing a model for how other digital rhetoric scholars can pay closer attention to the histories embedded in “new” and “emerging” technologies across the globe (78).",
+    "after": "Building on this work, we as workshop facilitators wanted to find ways to illustrate to students how their own cultures, languages, and backgrounds functioned as and sustained technologies that facilitated complex rhetorical work."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 25,
+  "input": "f2b761a414fe",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "Because DH crystallized in the aftermath of the financial collapse of 2008, it has always been imbricated in austerity discourse.",
+    "sentence": "In order to position itself within a skeptical humanities and generate administrative support, early digital humanists relied on the rhetoric of innovation and disruption, of finding great jobs for students, building labs, and securing grants when funds were scarce.",
+    "after": "While the humanities have always engaged in revolutionary discourse about new theories and methods—one thinks of the much-ballyhooed “Theory Wars”—DH’s revolutionary discourse was unfortunately paired with economic constriction and often mirrored the rhetoric of Silicon Valley."
+   },
+   {
+    "loc": 16,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "In order to position itself within a skeptical humanities and generate administrative support, early digital humanists relied on the rhetoric of innovation and disruption, of finding great jobs for students, building labs, and securing grants when funds were scarce.",
+    "sentence": "While the humanities have always engaged in revolutionary discourse about new theories and methods—one thinks of the much-ballyhooed “Theory Wars”—DH’s revolutionary discourse was unfortunately paired with economic constriction and often mirrored the rhetoric of Silicon Valley.",
+    "after": "In 2010, for example, Mark Sample characterized DH with language similar to journalistic narratives about the tech industries: “The digital humanities should not be about the digital at all."
+   },
+   {
+    "loc": 17,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "Like other forms of postcritical activity, DH is envisioned to be a sphere of academic endeavor that actively eschews political engagement.",
+    "sentence": "Here, we see the Manichean rhetoric reappear but now the binary of traditional/digital is mapped onto dichotomies of political/apolitical and critical/uncritical as though only binaristic operations are possible within academia.",
+    "after": ""
+   },
+   {
+    "loc": 17,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "Rather than resist such reconfigurations of academic work, they argue, DH plays a key role in preparing the humanities for assimilation into them: “By providing a model for humanities teaching and research that appears to overcome these perceived limitations, Digital Humanities has played a leading role in the corporatist restructuring of the humanities.”",
+    "sentence": "A roundtable on “The Dark Side of the Digital Humanities” at 2013’s Modern Language Association convention deploys the same rhetoric: “At the same time that the market logic of neoliberalism has been used to decimate the mainstream humanities from within and without, this same logic has encouraged foundations, corporations, and university administrations to devote new resources to the digital humanities” (Chun et al., 499).",
+    "after": "DH is painted as the advanced guard for financialization, austerity, and commodification."
+   },
+   {
+    "loc": 20,
+    "page": "pp. 16–17",
+    "kind": "p",
+    "before": "Adam Kirsch describes this as the “quantification” inherent to neoliberal university bureaucracy, which cannot measure “changed minds and expanded spirits” but can measure citations and grants.",
+    "sentence": "Writing in The New Republic about the limits of the digital humanities, Kirsch concludes, “All those grants have to be accounted for somehow; the rhetoric of the digital, in the academy as in the marketplace, prides itself on being results-oriented.”",
+    "after": "Of course, Kirsch seems to forget that publication outputs are also quantified—what is tenure, after all?—but the focus on grants is a common critique."
+   },
+   {
+    "loc": 27,
+    "page": "pp. 29–30",
+    "kind": "p",
+    "before": "Roberto Busa’s Index Thomisticus, for instance, is an important genesis for DH (Busa and associates).",
+    "sentence": "But it is a genesis story in which many of the hands-on workers have remained unseen, their invisibility enforced by the project’s design, supported by numerous founding father/lone genius narratives, and aided by rhetorical flourishes in which the labor of the many belongs to the project’s principal investigator (PI) alone.",
+    "after": "Reminiscing about the Index, Busa uses the first-person singular to both describe work that he himself did and to claim ownership of the work done by a much larger team:"
+   },
+   {
+    "loc": 83,
+    "page": "pp. 126–127",
+    "kind": "p",
+    "before": "",
+    "sentence": "As a scholar whose digital humanities work emerges more from the humanities than the digital, my interest in data comes from my broader research orientation toward the political and material work of mundane aesthetics and rhetoric, and specifically the aesthetics and rhetoric of settler colonialism.",
+    "after": "I grapple with the ways that settler colonial values and interests are rendered not only normal and common sense, but attractive as formations of aesthetic sophistication, efficient and “catchy” information design and communication, good taste or cool style—and how contemporary data economies emerge from and contribute to the logics and looks of settler coloniality."
+   },
+   {
+    "loc": 93,
+    "page": "pp. 144–145",
+    "kind": "p",
+    "before": "Julian Chambliss designed his Hannibal Square project as a conduit for Black voices to confront city officials.",
+    "sentence": "While Black community members sought to express—in the words of Langston Hughes—their “dark selves without shame,” the city used the rhetoric of blight to defame the community and justify gentrification.",
+    "after": "Similarly, the Texas Freedom Colonies Project secured funding for preservation to provide “cultural agency within vulnerable communities” (“Texas Freedom Colonies Project Atlas and Study”)."
+   }
+  ]
+ }
+]

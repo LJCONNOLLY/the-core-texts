@@ -1,0 +1,215 @@
+[
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 150,
+  "input": "c814f90c18b9",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "pp. 8–9",
+    "kind": "p",
+    "before": "I felt the need for a term that can refer to computational analysis of patterns and trends in contemporary digital culture (as opposed to only historical culture) and can cover analysis of all kinds of media (as opposed to only texts).",
+    "sentence": "When we were establishing our own lab to do this research in spring 2007, I came up with the term cultural analytics.",
+    "after": ""
+   },
+   {
+    "loc": 14,
+    "page": "pp. 8–9",
+    "kind": "p",
+    "before": "In September 2019, I looked at these programs and courses: the Cultural Analytics BA course at King’s College, London (UK); the cultural analytics concentration in the master of science in informatics and analytics at the University of North Carolina (US); the cultural analytics graduate certificate at Temple University libraries (US); the Center for Cultural Analytics at University College Dublin (Ireland); the Cultural Analytics course at Dartmouth College (US); the MA in data, culture and visualization at ITMO University (Russia); Cultural Analytics: The Computational Study of Culture, a course at McGill University (Canada); the CulturePlex Lab at Western University (Canada), which is doing research on “culture analytics and digital innovation”; the Distant Reading and Cultural Analytics course at the University of California, Los Angeles (US) and Cultural Data Analytics lab at Tallinn University (Estonia).",
+    "sentence": "The descriptions of all these programs and courses are using the term “cultural analytics” in a variety of ways related to the institutional context in which they are offered (e.g., a literature department, an information science department, etc.).",
+    "after": ""
+   },
+   {
+    "loc": 14,
+    "page": "pp. 8–9",
+    "kind": "p",
+    "before": "",
+    "sentence": "The term “cultural analytics” may mean different things to different people, and it can be used in different contexts to do different work.",
+    "after": "This is fine, and I am not interested in controlling its usage."
+   },
+   {
+    "loc": 15,
+    "page": "pp. 10–11",
+    "kind": "p",
+    "before": "(1) My original motivation for turning to computational methods and big data came from realization that the scale of culture in the twenty-first century makes it impossible to see it with existing methods.",
+    "sentence": "Therefore, in this book cultural analytics refers to the use of computational and design methods—including data visualization, media and interaction design, statistics, and machine learning—for exploration and analysis of contemporary culture at scale.",
+    "after": "One goal of these explorations is to enable us to see what hundreds of millions of people around the world today create, imagine, and value."
+   },
+   {
+    "loc": 21,
+    "page": "pp. 20–21",
+    "kind": "p",
+    "before": "So instead of covering the material that already exists elsewhere, this book deals with other parts of the workflow—1, 2, 3, 4 and 6.",
+    "sentence": "In other words, what is unique in cultural analytics is not what you do with data—but how do you get from this elusive thing we call culture to its data representation in the first place.",
+    "after": "That is, how do you turn cultural experiences, events, actions, and media into data?"
+   },
+   {
+    "loc": 29,
+    "page": "pp. 36–37",
+    "kind": "p",
+    "before": "This became possible because globalization and digitization took place in parallel, so this universe was now well represented online.",
+    "sentence": "Consequently, in defining my version of cultural analytics for this book, I started with the use of computational and design methods for exploration and analysis of contemporary global culture at scale.",
+    "after": "(Other researchers and readers of this book will have their own interests that lead them to cultural analytics, and they are all equally valuable.)"
+   },
+   {
+    "loc": 99,
+    "page": "pp. 164–165",
+    "kind": "p",
+    "before": "",
+    "sentence": "One of the key ideas of cultural analytics is to combine two directions of analysis: top-down analysis using existing categories and bottom-up analysis using extracted continuous features.",
+    "after": "Bottom-up here means extracting features and then visualizing the phenomenon using these features."
+   },
+   {
+    "loc": 101,
+    "page": "pp. 168–169",
+    "kind": "p",
+    "before": "Quantifying a phenomenon and using data science methods to establish a more detailed categorical system can be as productive.",
+    "sentence": "In this respect, cultural analytics is the opposite of the movement in structuralism to reduce the variety of cultural phenomena to a small number of fundamental structures and binary oppositions (de Saussure, Lévi- Strauss, Greimas).",
+    "after": "Instead of such reduction, cultural analytics wants to multiply and diversify categories, replace rigid categories by fuzzy ones, and recategorize the phenomena using computational methods."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 11,
+  "input": "d4b25009aac0",
+  "candidates": [
+   {
+    "loc": 132,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "One area where this issue has been addressed directly is in the analysis of gendered identities and texts.",
+    "sentence": "In a critical text focused on this issue, Laura Mandell posed the question of whether particular approaches to cultural analytics “find” or “make” their stereotypes (Mandell 2019).",
+    "after": "The fundamental recognition is that gender is not a simple Male/Female binary equated with biological categories."
+   },
+   {
+    "loc": 136,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "In spite of these apparent impediments, experts in image recognition and analysis have developed useful tools and platforms in the humanities (alongside other developments in science and applied research).",
+    "sentence": "One of these is the Cultural Analytics, a term coined by Lev Manovich to describe work that uses digital capacities to analyze, organize, sort, and computationally process large numbers of images.",
+    "after": "Images have different properties than texts."
+   },
+   {
+    "loc": 137,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "Metadata on images also plays an important role in data mining, particularly for those features like size, medium, artist, collection, provenance, date, and other information that is not visible.",
+    "sentence": "But cultural analytics focuses on those features of a visual surrogate that can be extracted automatically.",
+    "after": "If an image is stored as a pixel-based file, then color values supply crucial information."
+   },
+   {
+    "loc": 137,
+    "page": "p. 122",
+    "kind": "p",
+    "before": "Many machine learning projects use human labor, such as Mechanical Turk, to provide sample data sets to train the algorithms (Anderson 2017).",
+    "sentence": "[See Exercise #1: Cultural Analytics.]",
+    "after": ""
+   },
+   {
+    "loc": 141,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "Challenges for the claims to objectivity and scientific method remain—and one of the crucial questions is that of repeatable results.",
+    "sentence": "In many instances the repeated applications of tools of data mining and cultural analytics return shifted and changed outcomes.",
+    "after": "The corpus is unstable, for one thing, but the probabilistic character of processing contributes to this as well."
+   },
+   {
+    "loc": 141,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "",
+    "sentence": "Look at Lev Manovich’s http://lab.softwarestudies.com/2008/09/culturalanalytics.html and design a project for which cultural analytics would be useful.",
+    "after": "Think in terms of the large scale of comparison and stay within humanities disciplines."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 19,
+  "input": "1c0809611a88",
+  "candidates": [
+   {
+    "loc": 66,
+    "page": "pp. 95–96",
+    "kind": "p",
+    "before": "While such projects center physical experience, they often reduce engaged spectatorship to autonomic response.",
+    "sentence": "In addition, as capacities for computational image analysis have increased, the recent “visual turn” means that bodies are physically more visible (see Tilton)—from cultural analytics projects that identify change over time in the presentation of fashion models across 2,700 issues of Vogue covers (King and Leonard) to the application of facial recognition systems to nineteenth-century portrait art (Rudolph et al.).",
+    "after": "In these instances, engagement with bodily surfaces, shapes, features, or other quantifiable attributes ultimately filters embodiment through physical properties that can be computationally apprehended."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "",
+    "sentence": "Studying queer cultures through computational methods, or queer cultural analytics, can be valuable in several ways.",
+    "after": "First, as we will see below, queer theory and queer studies more generally afford cultural analytics (CA) a repertoire of new inspirations."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "Studying queer cultures through computational methods, or queer cultural analytics, can be valuable in several ways.",
+    "sentence": "First, as we will see below, queer theory and queer studies more generally afford cultural analytics (CA) a repertoire of new inspirations.",
+    "after": "Second, queer CA can engender further debates and justifications for claims about the queerness of datasets."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "",
+    "sentence": "My coinage of “queer cultural analytics”—as opposed to “queer computational humanities” or “queer quantitative literary studies”—seeks to foreground the central role of queer culture in this line of inquiry and queer cultural artifacts as its primary object of study, as opposed to the (computational or quantitative) methodology deployed.",
+    "after": "Queer cultural analytics can be understood as implicitly rejecting any opposition between quantitative and qualitative work."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "My coinage of “queer cultural analytics”—as opposed to “queer computational humanities” or “queer quantitative literary studies”—seeks to foreground the central role of queer culture in this line of inquiry and queer cultural artifacts as its primary object of study, as opposed to the (computational or quantitative) methodology deployed.",
+    "sentence": "Queer cultural analytics can be understood as implicitly rejecting any opposition between quantitative and qualitative work.",
+    "after": "It exhibits a multivalent inbetween-ness: In terms of subject matter, it works in the intersection of cultural studies and data science (that, again, intersects with machine learning, human-computer interaction, and natural language processing); in terms of research output, it results in argument-driven essays that pursue humanistic questions while maintaining scientific rigor."
+   },
+   {
+    "loc": 176,
+    "page": "pp. 286–287",
+    "kind": "p",
+    "before": "Sharing data and code has become an important practice in quantitative literary studies and in the broader digital humanities.",
+    "sentence": "As the Journal of Cultural Analytics, one of the field’s leading research journals, contends: “Shared data helps foster a community of critical analysis and widens the circle of who can participate.”",
+    "after": "In keeping with this conviction, the Journal of Cultural Analytics requires that “all data and code relevant to articles published in [the journal] will be made publicly available,” including “underlying text, audio, or image files; derived data used in the analysis; and code used to acquire, clean, and analyze collections.”"
+   },
+   {
+    "loc": 176,
+    "page": "pp. 286–287",
+    "kind": "p",
+    "before": "As the Journal of Cultural Analytics, one of the field’s leading research journals, contends: “Shared data helps foster a community of critical analysis and widens the circle of who can participate.”",
+    "sentence": "In keeping with this conviction, the Journal of Cultural Analytics requires that “all data and code relevant to articles published in [the journal] will be made publicly available,” including “underlying text, audio, or image files; derived data used in the analysis; and code used to acquire, clean, and analyze collections.”",
+    "after": "But social media data troubles this policy, as the journal acknowledges, because “user-generated content should not be recirculated without permission.”"
+   },
+   {
+    "loc": 177,
+    "page": "p. 288",
+    "kind": "p",
+    "before": "Though this policy is specific to Twitter, the same principles can be applied to other platforms and domains.",
+    "sentence": "If a researcher collected millions of photos from Instagram, as the Journal of Cultural Analytics describes in one of its data-sharing scenarios, that researcher would be discouraged from sharing the actual photo data, but they would be encouraged to share the code used to collect the photo data.",
+    "after": "This would allow other researchers to collect similar data while also affording Instagram users more time to remove their posts."
+   }
+  ]
+ }
+]

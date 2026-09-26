@@ -1,0 +1,78 @@
+[
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 76,
+  "input": "da79afbfd0ea",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "",
+    "sentence": "Through such insights on social context, the concept of coding literacy helps to expand this access, or to support “transformative access” to programming in the words of rhetorician Adam Banks.",
+    "after": "For Banks, transformative access allows people “to both change the interfaces of that system and fundamentally change the codes that determine how the system works.”"
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Programming as defined by computer science or software engineering is bound to echo the values of those contexts.",
+    "sentence": "But a concept of coding literacy suggests programming is a literacy practice with many applications beyond a profession defined by a limited set of values.",
+    "after": "The webmaster, game maker, tinkerer, scientist, and citizen activist can benefit from coding as a means to achieve their goals."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Equity in computer programming, especially along gender lines, has been the goal of countless studies and grants in computer science education.",
+    "sentence": "And my concept of coding literacy is related to what some have called “procedural literacy,” “computational literacy,” “computational thinking,” or what I have in the past called “proceduracy,” and it is roughly compatible with most of them.",
+    "after": "Jeannette Wing’s concept of “computational thinking,” perhaps the most influential of these terms, relies on principles of computer science (CS) to describe its spectrum of abilities."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Guzdial’s and diSessa’s computational literacy are illustrative: I agree with almost every detail of their description of what this literacy is and should be—except that I think fields outside of CS should be able to shape it and teach it as well.",
+    "sentence": "Like computational literacy, coding literacy points to the underlying mechanisms of the literacy of computer programming rather than the instrument on which one performs it.",
+    "after": "As computing becomes more deeply embedded in digital devices, the tools of coding literacy are beyond what we might traditionally consider a “computer”; consequently, we need a concept of literacy that abstracts it away from its specific tools."
+   },
+   {
+    "loc": 149,
+    "page": "PDF p. 149",
+    "kind": "p",
+    "before": "And the intellectual property law regimes for software need to accommodate the kind of informal programming that results from computational literacy promotional efforts.",
+    "sentence": "A concept of coding literacy helps to support these efforts alongside the “transformative” access to programming that Adam Banks describes, which allows people “to both change the interfaces of that system and fundamentally change the codes that determine how the system works.”",
+    "after": "If coding literacy promotional efforts can open up access in this way, what coding literacy is and does can be transformed in positive ways."
+   },
+   {
+    "loc": 149,
+    "page": "PDF p. 149",
+    "kind": "p",
+    "before": "These types of access are all relevant to computational literacy as well, although the technical nature and legal treatment of software complicates material access to reading or writing code.",
+    "sentence": "Code needs to be legally, technically, and socially accessible to support coding literacy promotion efforts, and because this access is complex, the responsibility for this access lies in several different areas.",
+    "after": "Educators in both formal and informal learning spaces have some responsibility to introduce code as an important form of contemporary writing."
+   },
+   {
+    "loc": 149,
+    "page": "PDF p. 149",
+    "kind": "p",
+    "before": "But although we may have developed a computational mentality to match our code-based infrastructure, these skills are not so widely held that they are part of literacy.",
+    "sentence": "And yet, thinking of coding as literacy—treating coding literacy as a real thing—allows us to anticipate this time and prepare for it with better and more inclusive educational approaches.",
+    "after": ""
+   },
+   {
+    "loc": 150,
+    "page": "PDF p. 150",
+    "kind": "p",
+    "before": "If we want a more inclusive and equal society, the writing of code should not be left to a handful of elite or isolated groups.",
+    "sentence": "A concept of coding literacy can help us to understand the stakes for who codes and how.",
+    "after": ""
+   }
+  ]
+ }
+]

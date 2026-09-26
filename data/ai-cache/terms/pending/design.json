@@ -1,0 +1,2204 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 3,
+  "input": "0e6c98955cd7",
+  "candidates": [
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "It is also what Itard found lacking in the ‘wild man of Aveyron’[16].",
+    "sentence": "Natural signs are merely rudimentary sketches for these conventional signs, the vague and distant design that can be realized only by the establishment of arbitrariness.",
+    "after": ""
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "Comparing language to a picture, one late-eighteenth-century grammarian defines nouns as forms, adjectives as colours, and the verb as the canvas itself, upon which the colours are visible.",
+    "sentence": "An invisible canvas, entirely overlaid by the brightness and design of the words, but one that provides language with the site on which to display its painting.",
+    "after": "What the verb designates, then, is the representative character of language, the fact that it has its place in thought, and that the only word capable of crossing the frontier of signs and providing them with a foundation in truth never attains to anything other than representation itself."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "These sites are still neutral, and determined solely by the slender, almost imperceptible, yet central figure designating being; they function, on either side of this ‘judicator’ as the thing to be judged – the judicandum – and the thing judged – the judicatum[41].",
+    "sentence": "How can this pure design of the proposition be transformed into distinct sentences?",
+    "after": "How can discourse express the whole content of a representation?"
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 15,
+  "input": "75902fe15b01",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "",
+    "sentence": "Moreover, besides transcription of oral performances such as orations, writing eventually produced strictly written compositions, designed for assimilation directly from the written surface.",
+    "after": "Such written compositions enforced attention to texts even more, for truly written compositions came into being as texts only, even though many of them were commonly listened to rather than silently read, from Livy's histories to Dante's Comedia and beyond (Nelson 1976–7; Bäuml 1980; Goldin 1973; Cormier 1974; Ahern 1982)."
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "(1) Illiterate (oral) subjects identified geometrical figures by assigning them the names of objects, never abstractly as circles, squares, etc. A circle would be called a plate, sieve, bucket, watch, or moon; a square would be called a mirror, door, house, apricot drying-board.",
+    "sentence": "Luria's subjects identified the designs as representations of real things they knew.",
+    "after": "They never dealt with abstract circles or squares but rather with concrete objects."
+   },
+   {
+    "loc": 50,
+    "page": "PDF p. 50",
+    "kind": "p",
+    "before": "Signum, which furnished us with the word 'sign', meant the standard that a unit of the Roman army carried aloft for visual identification—etymologically, the 'object one follows' (Proto-Indo-European root, sekw-, to follow).",
+    "sentence": "Though the Romans knew the alphabet, this signum was not a lettered word but some kind of pictorial design or image, such as an eagle, for example.",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "(Diringer 1962, pp. 121–2, discusses the two variants of the original alphabet, the North Semitic and the South Semitic.)",
+    "sentence": "Every alphabet in the world—Hebrew, Ugaritic, Greek, Roman, Cyrillic, Arabic, Tamil, Malayalam, Korean—derives in one way or another from the original Semitic development, though, as in Ugaritic and Korean script, the physical design of the letters may not always be related to the Semitic design.",
+    "after": ""
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "The phonetic alphabet invented by ancient Semites and perfected by ancient Greeks, is by far the most adaptable of all writing systems in reducing sound to visible form.",
+    "sentence": "It is perhaps also the least aesthetic of all major writing systems: it can be beautifully designed, but never so exquisitely as Chinese characters.",
+    "after": "It is a democratizing script, easy for everybody to learn."
+   },
+   {
+    "loc": 59,
+    "page": "PDF p. 59",
+    "kind": "p",
+    "before": "The accommodation of the alphabet to a given language has generally taken many years, or generations.",
+    "sentence": "Sejong's assembly of scholars had the Korean alphabet ready in three years, a masterful achievement, virtually perfect in its accommodation to Korean phonemics and aesthetically designed to produce an alphabetic script with something of the appearance of a text in Chinese characters.",
+    "after": "But the reception of this remarkable achievement was predictable."
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "Dickens read selections from his novels on the orator's platform.",
+    "sentence": "The famous McGuffey's Readers, published in the United States in some 120 million copies between 1836 and 1920, were designed as remedial readers to improve not the reading for comprehension which we idealize today, but oral, declamatory reading.",
+    "after": "The McGuffey's specialized in passages from 'sound-conscious' literature concerned with great heroes ('heavy' oral characters)."
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "",
+    "sentence": "For thousands of years human beings have been printing designs from variously carved surfaces, and since the seventh or eighth century Chinese, Koreans and Japanese have been printing verbal texts, at first from wood blocks engraved in relief (Carter 1955).",
+    "after": "But the crucial development in the global history of printing was the invention of alphabetic letterpress print in fifteenth-century Europe."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 40,
+  "input": "3b5e98791e84",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "Cyborgs are post- Second World War hybrid entities made of, first, ourselves and other organic creatures in our unchosen ‘high-technological’ guise as information systems, texts, and ergonomically controlled labouring, desiring, and reproducing systems.",
+    "sentence": "The second essential ingredient in cyborgs is machines in their guise, also, as communications systems, texts, and self-acting, ergonomically designed apparatuses.",
+    "after": ""
+   },
+   {
+    "loc": 54,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "(Tanner and Zihlman, 1976, p. 586) This paper is clearly a normal outgrowth for Zihlman of her 1966 presentation on bipedal behaviour, in the context of hunting, to a Washburn-organized symposium of the American Anthropological Association.",
+    "sentence": "Titled ‘Design for Man’, the session included Hamburg on emotions as adaptational complexes and the problem of maladaptive, obsolete patterns.",
+    "after": "Like Washburn, Tanner and Zihlman argue from animal model systems and from the most recent genetic theory applied to populations."
+   },
+   {
+    "loc": 78,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "For a sociobiologist, dominance is not a trait, nor even an individual organismic predisposition, but a system property.",
+    "sentence": "The type of engineering intervention appropriate to sociobiology is systems analysis and design, not clinical diagnosis based on an analogy to physiology and scientific medicine.",
+    "after": "But both forms of engineering argue for a special role for the scientific expert in designing history (systems) on the human level."
+   },
+   {
+    "loc": 78,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "The type of engineering intervention appropriate to sociobiology is systems analysis and design, not clinical diagnosis based on an analogy to physiology and scientific medicine.",
+    "sentence": "But both forms of engineering argue for a special role for the scientific expert in designing history (systems) on the human level.",
+    "after": ""
+   },
+   {
+    "loc": 188,
+    "page": "p. 162",
+    "kind": "p",
+    "before": "Or both are revivified in the worlds charged with microelectronic and biotechnological politics.",
+    "sentence": "In relation to objects like biotic components, one must think not in terms of essential properties, but in terms of design, boundary constraints, rates of flows, systems logics, costs of lowering constraints.",
+    "after": "Sexual reproduction is one kind of reproductive strategy among many, with costs and benefits as a function of the system environment."
+   },
+   {
+    "loc": 237,
+    "page": "p. 211",
+    "kind": "p",
+    "before": "",
+    "sentence": "In relation to objects like biotic components and codes, one must think, not in terms of laws of growth and essential properties, but rather in terms of '' strategies of design, boundary constraints, rates of flows, system logics, and costs of lowering constraints.",
+    "after": "Sexual reproduction becomes one possible strategy among many, with costs and benefits theorized as a function of the system environment."
+   },
+   {
+    "loc": 238,
+    "page": "p. 212",
+    "kind": "p",
+    "before": "Race and sex, like individuals, are artefacts sustained or undermined by the discursive nexus of knowledge and power.",
+    "sentence": "Any objects or persons can be reasonably thought of in terms of disassembly and reassembly; no ‘natural’ architectures constrain system design.",
+    "after": "Design is none the less highly constrained."
+   },
+   {
+    "loc": 240,
+    "page": "p. 214",
+    "kind": "p",
+    "before": "How would such a way of theorizing the technics and biologics of communication affect immune system discourse about the body’s ‘technology’ for recognizing self and other and for mediating between ‘mind’ and ‘body’ in postmodern culture?",
+    "sentence": "Just as computer design is a map of and for ways of living, the immune system is in some sense a diagram of relationships and a guide for action in the face of questions about the boundaries of the self and about mortality.",
+    "after": "Immune system discourse is about constraint and possibility for engaging in a world of full of ‘difference’, replete with non-self."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 38,
+  "input": "340c82c32af1",
+  "candidates": [
+   {
+    "loc": 8,
+    "page": "PDF p. 8",
+    "kind": "p",
+    "before": "Writing nearly four decades after Turing, Hans Moravec proposed that human identity is essentially an informational pattern rather than an embodied enaction.",
+    "sentence": "The proposition can be demonstrated, he suggested, by downloading human consciousness into a computer, and he imagined a scenario designed to show that this was in principle possible.",
+    "after": "The Moravec test, if I may call it that, is the logical successor to the Turing test."
+   },
+   {
+    "loc": 8,
+    "page": "PDF p. 8",
+    "kind": "p",
+    "before": "The Moravec test, if I may call it that, is the logical successor to the Turing test.",
+    "sentence": "Whereas the Turing test was designed to show that machines can perform the thinking previously considered to be an exclusive capacity of the human mind, the Moravec test was designed to show that machines can become the repository of human consciousness—that machines can, for all practical purposes, become human beings.",
+    "after": "You are the cyborg, and the cyborg is you."
+   },
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "Mead commented, “Kubie was a very important person at that point.”",
+    "sentence": "She added: “McCulloch had a grand design in his mind.",
+    "after": "He got people into that conference, who he then kept from talking.”"
+   },
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "He got people into that conference, who he then kept from talking.”",
+    "sentence": "Bateson continued, “Yes, he had a design for how the shape of the conversation would run over five years—what had to be said before what else could be said.”",
+    "after": "When Brand asked what that design was, Bateson answered, “Who knows?”"
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "The breakdown of Wolfe’s “hyphenation” theory occurs, perhaps predictably, when the hyphen is no longer sufficient to contain the repressed violence that the cyborg unleashes (uncannily so, for the text operates as if Wolfe were unconsciously reenacting, from Wiener’s war work on antiaircraft devices, the mapping of enemy onto self ).",
+    "sentence": "In the world of Limbo, warfare has been replaced by a Superpower Olympics between the capitalist Inland Strip and the communist East Union, a competition designed to sublimate lethal violence into healthy competition.",
+    "after": "But in the 1990 Olympics, as if in recognition of Wiener’s failure to prevent the promiscuous coupling of cybernetics with military research after World War II, cyborg competition neologistically slides into warfare rather than metonymically substitutes for it."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "But in the 1990 Olympics, as if in recognition of Wiener’s failure to prevent the promiscuous coupling of cybernetics with military research after World War II, cyborg competition neologistically slides into warfare rather than metonymically substitutes for it.",
+    "sentence": "Athletes from both sides are vol-amps, and they owe their victories as much to the technicians who design the prostheses as they do to their athletic abilities.",
+    "after": "Traditionally the Inland Strip, with its superior technology, has dominated the Olympics."
+   },
+   {
+    "loc": 142,
+    "page": "PDF p. 142",
+    "kind": "p",
+    "before": "In his construction, Dawkins overlays onto the genes the strategies, emotions, and outcomes that properly belong to the human domain.",
+    "sentence": "Ray, by contrast, is working with artificial systems designed by humans precisely so the “creatures” would be able to manifest these qualities.",
+    "after": "This is the primary reason why explanation and interpretation are inextricably entwined in the first-level narrative."
+   },
+   {
+    "loc": 142,
+    "page": "PDF p. 142",
+    "kind": "p",
+    "before": "Ray’s biomorphic namings and interpretations function not so much as an overlay as an explication of an intention that was there at the beginning.",
+    "sentence": "Analogy is not incidental or belated but is central to the program’s artifactual design.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 16,
+  "input": "ea20b9fac172",
+  "candidates": [
+   {
+    "loc": 63,
+    "page": "p. 46",
+    "kind": "p",
+    "before": "In asking ‘what the work of art does for us’, Holly (1996: xiv) argues that it is the spatial and temporal organization of a painting that structures its effects most profoundly; ‘legislated and predicted by the spatial and temporal organisation of the visual field: we stand where the works tell us to stand and we see what they choose to reveal’, she says (Holly 1996: 9).",
+    "sentence": "Kress and van Leeuwen (1996: 119) talk in similar terms about the ways images can be seen as ‘designing the position of the viewer’ through, in part at least, their spatial organization.",
+    "after": "Holly examines this effect through a discussion of early renaissance paintings and ‘a few classic cultural histories from the nineteenth and twentieth centuries’ (Holly 1996: xiii), suggesting that the histories, in their panoramic sweep, reflect the rules of perspective through which the paintings were constructed."
+   },
+   {
+    "loc": 191,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "Once defined by the new ‘expert’ knowledges as in some way deviant, these bodies were placed in an institution that was ‘a machine for altering minds’ (Foucault 1977: 125).",
+    "sentence": "Foucault (1977: 195-228) expands this point, and demonstrates the importance of a visuality to it, by discussing a plan for an institution designed by Jeremy Bentham in 1791.",
+    "after": "Bentham panopticon called this building a panopticon, and suggested it could be used as the plan for all sorts of disciplining institutions: prisons, but also hospitals, work-"
+   },
+   {
+    "loc": 191,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "An institutional apparatus is the forms of power/knowledge that constitute the institutions: for example, architecture, regulations, scientific treatises, philosophical statements, laws, morals, and so on, and the discourse articulated through all these (Hall 1997b: 47).",
+    "sentence": "Hence Foucault described Bentham’s panopticon as an apparatus: at once an architectural design and a institutional technologies moral and philosophical treatise.",
+    "after": "The institutional technologies (sometimes difficult to differentiate from the apparatus) are the practical techniques used to practise that power/knowledge."
+   },
+   {
+    "loc": 192,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "Technologies are ‘diffuse, rarely formulated in continuous, systematic discourse ... often made up of bits and pieces ... a disparate set of tools and methods’ (Foucault 1977: 26).",
+    "sentence": "An example might be the design of the windows and blinds in the panopticon.",
+    "after": ""
+   },
+   {
+    "loc": 195,
+    "page": "p. 178",
+    "kind": "p",
+    "before": "Studies of current discussions about museums and their practices supplement this sort of historical written source with other types of documents available now, such as the annual reports of galleries and museums and their mission statements.",
+    "sentence": "Interviews with the directors, curators and designers of museums and galleries can also be used in contemporary studies (although Phillips and Hardy [2002: 71] suggest that naturally occurring talk is more valid for discourse analysis than talk produced in the context of a research project).",
+    "after": "Both historical and contemporary studies often use photographs or other visual images of buildings, rooms and displays too, sometimes simply as illustrations to their written accounts, and both also pay attention to the architecture of the institution: its design, decorations, inscriptions, layout and so on."
+   },
+   {
+    "loc": 195,
+    "page": "p. 178",
+    "kind": "p",
+    "before": "Interviews with the directors, curators and designers of museums and galleries can also be used in contemporary studies (although Phillips and Hardy [2002: 71] suggest that naturally occurring talk is more valid for discourse analysis than talk produced in the context of a research project).",
+    "sentence": "Both historical and contemporary studies often use photographs or other visual images of buildings, rooms and displays too, sometimes simply as illustrations to their written accounts, and both also pay attention to the architecture of the institution: its design, decorations, inscriptions, layout and so on.",
+    "after": "Studies of contemporary museums and galleries also often rely on visits to the institution and observation of the way people visit and work in them."
+   },
+   {
+    "loc": 197,
+    "page": "p. 180",
+    "kind": "p",
+    "before": "Bennett (1995) also pays much attention to the way the architecture of museums and galleries articulated these various discourses of culture, art and science.",
+    "sentence": "As well as the distinction between two sorts of building - the museum and the gallery — there are the imposing facades and entrance halls of many nineteenth century galleries and museums, for example, which were designed to be as inspiring and uplifting as the understanding of culture and science articulated within.",
+    "after": "Haraway looks at the facade of the Theodore Roosevelt Memorial - the main building of the AMNH - and considers the effects of its design:"
+   },
+   {
+    "loc": 198,
+    "page": "p. 181",
+    "kind": "p",
+    "before": "As well as the distinction between two sorts of building - the museum and the gallery — there are the imposing facades and entrance halls of many nineteenth century galleries and museums, for example, which were designed to be as inspiring and uplifting as the understanding of culture and science articulated within.",
+    "sentence": "Haraway looks at the facade of the Theodore Roosevelt Memorial - the main building of the AMNH - and considers the effects of its design:",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 22,
+  "input": "b22b2cd3d2b1",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "But to register this feeling of crisis and to follow these new connections, another notion of social has to be devised.",
+    "sentence": "It has to be much wider than what is usually called by that name, yet strictly limited to the tracing of new associations and to the designing of their assemblages.",
+    "after": "This is the reason why I am going to define the social not as a special domain, a specific realm, or a particular sort of thing, but only as a very peculiar movement of re-association and reassembling."
+   },
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "It was built in the full light of history, and we can follow its development almost from the very outset down to our own day….",
+    "sentence": "Everything here originates in the individual, not only the materials but the general design of the whole and the detail sketches as well.",
+    "after": "Everything, including what is now diffused among all cultured minds and taught even in the primary school, began as the secret of some single mind, whence a little flame, faint and flickering, sent forth its rays, at first only within a narrow compass, and even there encountering many obstructions, but, growing brighter as it spread further, it at length became a brilliant illumination."
+   },
+   {
+    "loc": 27,
+    "page": "PDF p. 27",
+    "kind": "p",
+    "before": "In pointing out the practical means necessary to delineate groups and keep them in existence, we encounter a conflict of duties that marks a clear departure point—not the last!—between the freeways of the sociologists of the social and the delicate trails of the regions we wish to map.",
+    "sentence": "It all depends on what is designed by ‘means’.",
+    "after": "While the first enquirers exclaim: ‘Surely we need to start somewhere, so why not begin by defining society as being made of (x)?’"
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "But it makes a huge, an insurmountable, an incommensurable difference for the ANT-trained sociologist.",
+    "sentence": "An association with God is not substitutable by any other association, it is utterly specific and cannot be reconciled with another one made up of market forces which, in turn, designs a pattern completely different from those drawn by legal ties.",
+    "after": "Sociologists of the social always have at their disposal a stable and absolute third term in which to translate all the vocabularies of the informants, a master vocabulary which acts as a sort of clearing house for instantaneous exchanges between goods that all share the same basic homogeneous quality—namely, to be social."
+   },
+   {
+    "loc": 47,
+    "page": "PDF p. 47",
+    "kind": "p",
+    "before": "It does not designate little goblins with red hats acting at atomic levels, only that the analyst should be prepared to look in order to account for the durability and extension of any interaction.",
+    "sentence": "The project of ANT is simply to extend the list and modify the shapes and figures of those assembled as participants and to design a way to make them act as a durable whole.",
+    "after": ""
+   },
+   {
+    "loc": 49,
+    "page": "PDF p. 49",
+    "kind": "p",
+    "before": "Between a car driver that slows down near a school because she has seen the ‘30 MPH’ yellow sign and a car driver that slows down because he wants to protect the suspension of his car threatened by the bump of a ‘speed trap’, is the difference big or small?",
+    "sentence": "Big, since the obedience of the first has gone through morality, symbols, sign posts, yellow paint, while the other has passed through the same list to which has been added a carefully designed concrete slab.",
+    "after": "But it is small since they both have obeyed something: the first driver to a rarely manifested altruism—if she had not slowed down, her heart would have been broken by the moral law; the second driver to a largely distributed selfishness—if he had not slowed down his suspension would have been broken by the concrete slab."
+   },
+   {
+    "loc": 49,
+    "page": "PDF p. 49",
+    "kind": "p",
+    "before": "No. But, if we say that both are social, how are we going to justify the difference between moral conduct and suspension springs?",
+    "sentence": "They might not be social all the way through, but they certainly are collected or associated together by the very work of road designers.",
+    "after": "One cannot call oneself a social scientist and pursue only some links—the moral, legal, and symbolic ones—and stop as soon as there is some physical relation interspersed in between the others."
+   },
+   {
+    "loc": 50,
+    "page": "PDF p. 50",
+    "kind": "p",
+    "before": "One thing is certain: if we interrupt our fieldwork at each relay by focusing only on the list of already gathered connections, the social world would become immediately opaque, shrouded into those strange autumn fogs that leave visible only tiny and unpredictable smears of the landscape.",
+    "sentence": "And yet, on the other hand, if sociologists have also to become engineers, artisans, craftsmen, designers, architects, managers, promoters etc., they will never end up following their actors through those many intermittent existences.",
+    "after": "So, we have to take non-humans into account only as long as they are rendered commensurable with social ties and also to accept, an instant later, their fundamental incommensurability."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 46,
+  "input": "6290c94052bd",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Mirzoeff’s, which is titled “Virtuality: Virtual Bodies, Virtual Spaces,” departs from tradition in that it occurs in the middle of the volume rather than as a terminal section, as it does in Walker’s.",
+    "sentence": "However, both anthologies make clear the centrality of new media studies to the study of visual culture: indeed, Mirzoeff deﬁnes visual culture as the study of “visual technologies . . . any form of apparatus designed either to be looked at or to enhance natural vision, from oil painting to television and the Internet.”",
+    "after": "This centering of the Internet as a visual medium on a par with television and painting is reﬂected in the second edition of the volume, which increases the number of articles on cyberculture by retitling the section “Global/Digital” and adding a terminal subsection under “The Gaze, the Body and Sexuality” titled “Technobodies/Technofeminism.”"
+   },
+   {
+    "loc": 27,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "Rather than allowing the user to have an open-ended, seemingly limitless and boundless experience of reading, Manovich stresses the rigidity of hyperlinking as a mode of experiencing information: when “interactive media asks us to click on a highlighted sentence to go to another sentence . . . we are asked to follow pre-programmed, objectively existing associations.”",
+    "sentence": "According to this interpretation, we are ideologically interpellated into the “new media designer’s mental trajectory,” just as in Hollywood ﬁlm we are asked to “lust after and try to emulate the body of the movie star.”",
+    "after": "Manovich’s formulation allows us to trace the process of identiﬁcation that occurs with new media use: he compares it to the viewer’s process of identiﬁcation with the star’s body in the realm of ﬁlm."
+   },
+   {
+    "loc": 30,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "In Jennifer Lopez’s music video “If You Had My Love” (1999) the singer portrays herself as the object, not the subject, of the volitional mobility afforded the Web user.",
+    "sentence": "Shots of Lopez tracked by surveillance cameras alternate with her image as represented in a Web site: she shares the stage and gaze with the new media design interfaces in which she is embedded in an extremely overt way.",
+    "after": "This puts a new spin on the traditional female position as object of the gaze."
+   },
+   {
+    "loc": 30,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "Examining this video enables a double viewing of interactivity and the star’s body, the way that the object of desire (the star) can work with the subject of interactivity—ﬁgured misleadingly in this video as the user.",
+    "sentence": "In fact, it is really the invisible interface designer whose work conditions the limits and possibilities of interactivity in this case; if we view the media complex that is J. Lo as herself a carefully constructed “racial project,” we can see the ways that the range of clickable options and categories available to the presumptive user in this video conditions the sorts of understandings of her raciality that are articulated to us.",
+    "after": "In this video we are asked to identify not just with the Web designer’s way of thinking but with the viewer’s way of clicking as well."
+   },
+   {
+    "loc": 149,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Their DIY spirit is seen as the appropriate and laudable reaction to the retail industry’s failure to supply the correct range of taste cultures appropriate to upper-class buyers’ preferences, envisioned in this article as “needs.”",
+    "sentence": "When asked to explain why he designed a new baby crib the way he did, Michael Ryan says that he lives in a small New York City apartment and “came to this ﬂoating idea with the legs set in—on every other crib they’re on the corners.",
+    "after": "Simple, elegant, low proﬁle, no embellishments."
+   },
+   {
+    "loc": 149,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Similarly, in an article titled “Sophisticated Baby” that appeared in the same magazine, Corky Harvey, a cofounder of the Pump Station in Los Angeles, “which includes a boutique for new or soon-to-be-parents,” says that its “clientele is well off and smart and wants things that are ‘functional as well as beautiful.’”",
+    "sentence": "The store carries the Fleurville “Mothership” diaper bag that costs $155 and was designed by a couple who “like many entrepreneurs . . . started out as dissatisﬁed customers.”",
+    "after": "And does the store carry diaper bags with, say, famous cartoon characters on them?"
+   },
+   {
+    "loc": 153,
+    "page": "p. 142",
+    "kind": "p",
+    "before": "Michael Ryan and the Pfeiffers are described as designers and entrepreneurs, partly because of their ﬁnancial success (as mentioned earlier, reborn and American Girl dolls generate a great deal of revenue in both primary and secondary markets), but mainly because of the way that their work is credited as “original” creation, because of their class position, and because of the visual styles that they prefer.",
+    "sentence": "While Ryan and the Pfeiffers are quite clear about not having invented modernism, but rather having applied it to an area of the home where it had not been seen before so as to make a whole house internally consistent in terms of its style, Ryan also notes that his crib design was a “hack” or modiﬁcation of an existing crib, which he found inelegant and bulky.",
+    "after": "The user-driven innovation that comes from modifying existing doll bodies is envisioned as either “creepy” and socially marginal or trivial partly because it deals with baby-bodies themselves, rather than furniture or more general types of design objects."
+   },
+   {
+    "loc": 153,
+    "page": "p. 142",
+    "kind": "p",
+    "before": "Recent articles in the popular press regarding “sophisticated babies” and “the modernist nursery” note that “good design” has dared to invade the one domestic space that had been exempted from this injunction to adhere to standards deﬁned by taste cultures: the nursery.",
+    "sentence": "While “decoration” has long been dismissed as feminine, “design” is perceived as more substantial, more the province of experts, and more connected to architecture, a “masculine” ﬁeld that has immense social prestige.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 10,
+  "input": "12521c733ecb",
+  "candidates": [
+   {
+    "loc": 22,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "Further, habits link people to the environment.",
+    "sentence": "As Heidi Cooley states in her analysis of mobile technology, mobile devices are designed to be responsive and spontaneous, to work at the level of manual habits.",
+    "after": "According to John Dewey, habits are “things done by the environment by means of organic structures or acquired dispositions.”"
+   },
+   {
+    "loc": 30,
+    "page": "p. 15",
+    "kind": "p",
+    "before": "For whom, besides insurance companies, is this correlation—the revelation regarding mutual habit formation—useful?",
+    "sentence": "These studies, as discussed in chapter 1, are not designed to foster justice.",
+    "after": ""
+   },
+   {
+    "loc": 32,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "They also threaten to undermine this agency by catching and exhausting users in a never-ending series of responses.",
+    "sentence": "This chapter places crises in the context of automated habits and codes (indeed, habit as code), which have been designed supposedly for our safety, and it reveals that crises and codes are complementary because they are both central to the emergence of what appears to be their antithesis: user empowerment and agency.",
+    "after": "Codes and crises together produce (the illusion of) mythical and mystical sovereign subjects, who weld together word with action, norm with reality."
+   },
+   {
+    "loc": 71,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "Big Data ends the need for hypotheses and for theory; humanists are not the only ones discussing “the end of theory.”",
+    "sentence": "As many have noted, Anderson’s article has many problems: it places statistical analysis outside theory, as though statistical analyses, designed to recognize significant patterns, did not themselves draw from theory; it assumes that data can speak for itself (as Lisa Gitelman has shown in her edited volume “Raw Data” Is an Oxymoron).",
+    "after": "Regardless, Big Data, or data analytics more generally, challenges our common perceptions of causality because clearly noncausal relations—that is, seemingly accidental or nonchronological relations—seem to be better predictors of future behavior than so-called causal ones."
+   },
+   {
+    "loc": 73,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "As Gandy notes, there are several problems with these systems: from the impact of invalid or inaccurate data to the difficulty of discerning which correlations really matter (more on this later) to the untrackability of false positives.",
+    "sentence": "In a system designed to preempt action, it is impossible to know how many innocent people have been falsely detained or arrested.",
+    "after": "Further, this type of system seeks quiescence by quickly figuring out who to target and who to leave alone, so that the smallest number of people are subjected to invasive security measures and discipline."
+   },
+   {
+    "loc": 77,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Although true, the desire for traceability also creates desires for contact that, as I argue in chapters 3 and 4, can lead elsewhere.",
+    "sentence": "To read ‘voice’ in systems designed to deny voice, we need to ‘listen’ for actions that are embedded in infrastructures and settings and learn to speak through these actions.",
+    "after": "The desire to capture and to draw connections, maps, and models can open a future that defies what is captured, but only if we dwell in the disconnect between map and action, model and future—only if we occupy the collective chimera we are offered and become characters, not marionettes, in the ongoing drama inadequately called Big Data."
+   },
+   {
+    "loc": 135,
+    "page": "p. 120",
+    "kind": "p",
+    "before": "",
+    "sentence": "This intersection of data and methods designed to identify individuals and those to identify larger trends suspends the traditional separation between the two archival logics to incorporate the body that Allan Sekula influentially theorized in relation to the production of photographic evidence.",
+    "after": "The first, derived from the work of criminologist Alphonse Bertillon, focused on identifying the individual, on inscribing the body in the archive (figure 3.5)."
+   },
+   {
+    "loc": 187,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "We need a politics of fore-giving that combats the politics of memory as storage, that fights for the ephemeral and fights not only for the right to be forgotten but also the right not to be stored in the first place.",
+    "sentence": "This reengagement with memory also entails a change in our habits of using—and our refusal of designs that undermine habituation by turning habits into forms of addiction, a refusal of undead information that renders us into zombies.",
+    "after": "It means inhabiting and discovering how our habits collect, rather than divide, us."
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 84,
+  "input": "85387a976b51",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Our employment, health records, and citizenship status, once recorded solely in text, are now cataloged in computer databases.",
+    "sentence": "The ubiquity of computation means that programming is emerging from the exclusive domain of computer science and penetrating professions such as journalism, biology, design— and, through library databases and the digital humanities, even the study of literature and history.",
+    "after": "Because every form of digital communication is ultimately built on a platform of computer code, programming appears to be more fundamental than other digital skills dubbed literacies, especially those associated only with computer usage."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "Programming has a complex relationship with writing; it is writing, but its connection to the technology of code and computational devices also distinguishes it from writing in human languages.",
+    "sentence": "Programming is writing because it is symbols inscribed on a surface and designed to be read.",
+    "after": "But programming is also not writing, or rather, it is something more than writing."
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "",
+    "sentence": "Perlis’s proposal was at least partially realized with the BASIC programming language and Dartmouth Time-Sharing System, designed at Dartmouth College in the early 1960s by John Kemeny and Thomas Kurtz.",
+    "after": "Kemeny may have been inspired by hearing Perlis’s speech at the 1961 MIT conference."
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "Through its relatively straightforward mathematical syntax, Fortran was a programming language that made the computer’s processing power more readily available to scientists and mathematicians—in other words, people who weren’t engineers or computer specialists.",
+    "sentence": "Kemeny wanted to make the computer even more accessible to nonspecialists by designing a language that had more intuitive syntax and a system that allowed the mainframe hardware to serve multiple users at once.",
+    "after": "Like Perlis, Kemeny and Kurtz saw the computer as universally relevant and designed BASIC to be accessible to all undergraduates—not just those in engineering or physics."
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "These computers were used for massive mathematical calculations, such as breaking code or weapons ballistics, and for each new calculation, the machines had to be reconfigured.",
+    "sentence": "Complicated calculations had to be worked out using basic functions such as adding and subtracting, and these operations would be assigned specific sequences by a circuit designer.",
+    "after": "When working on the ENIAC, John von Neumann’s team developed a concept of a “stored program,” which would allow the computer to store its instructions along with its data."
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "When working on the ENIAC, John von Neumann’s team developed a concept of a “stored program,” which would allow the computer to store its instructions along with its data.",
+    "sentence": "This design meant that computers did not need to be rewired for each new calculation.",
+    "after": "Computers could then be general-purpose machines; that is, they could be used for many different calculations without being physically manipulated."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the 1960s, the social influence on the design of programming languages is visible in the ways that COBOL and ALGOL accommodated the increasingly collaborative work of programming.",
+    "after": "COBOL did this through its widespread adoption by Department of Defense fiat, and ALGOL fostered collaboration through its structured design."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "In the 1960s, the social influence on the design of programming languages is visible in the ways that COBOL and ALGOL accommodated the increasingly collaborative work of programming.",
+    "sentence": "COBOL did this through its widespread adoption by Department of Defense fiat, and ALGOL fostered collaboration through its structured design.",
+    "after": "“Structured programming,” pioneered in ALGOL, is a design that allows programmers to trace the path of a program’s execution."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 53,
+  "input": "148b4ab7e5f8",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "I often wonder what kind of pressures account for the changing of search results over time.",
+    "sentence": "It is impossible to know when and what influences proprietary algorithmic design, other than that human beings are designing them and that they are not up for public discussion, except as we engage in critique and protest.",
+    "after": ""
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "Research shows that users typically use very few search terms when seeking information in a search engine and rarely use advanced search queries, as most queries are different from traditional offline information-seeking behavior.",
+    "sentence": "This front-end behavior of users appears to be simplistic; however, the information retrieval systems are complex, and the formulation of users’ queries involves cognitive and emotional processes that are not necessarily reflected in the system design.",
+    "after": "In essence, while users use the simplest queries they can in a search box because of the way interfaces are designed, this does not always reflect how search terms are mapped against more complex thought patterns and concepts that users have about a topic."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "This front-end behavior of users appears to be simplistic; however, the information retrieval systems are complex, and the formulation of users’ queries involves cognitive and emotional processes that are not necessarily reflected in the system design.",
+    "sentence": "In essence, while users use the simplest queries they can in a search box because of the way interfaces are designed, this does not always reflect how search terms are mapped against more complex thought patterns and concepts that users have about a topic.",
+    "after": "This disjunction between, on the one hand, users’ queries and their real questions and, on the other, information retrieval systems makes understanding the complex linkages between the content of the results that appear in a search and their import as expressions of power and social relations of critical importance."
+   },
+   {
+    "loc": 45,
+    "page": "PDF p. 45",
+    "kind": "p",
+    "before": "",
+    "sentence": "As a result of the lack of African Americans and people with deeper knowledge of the sordid history of racism and sexism working in Silicon Valley, products are designed with a lack of careful analysis about their potential impact on a diverse array of people.",
+    "after": "If Google software engineers are not responsible for the design of their algorithms, then who is?"
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "I can say that when I teach engineering students at UCLA about the histories of racial stereotyping in the U.S. and how these are encoded in computer programming projects, my students leave the class stunned that no one has ever spoken of these things in their courses.",
+    "sentence": "Many are grateful to at least have had ten weeks of discussion about the politics of technology design, which is not nearly enough to prepare them for a lifelong career in information technology.",
+    "after": "We need people designing technologies for society to have training and an education on the histories of marginalized people, at a minimum, and we need them working alongside people with rigorous training and preparation from the social sciences and humanities."
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "Many are grateful to at least have had ten weeks of discussion about the politics of technology design, which is not nearly enough to prepare them for a lifelong career in information technology.",
+    "sentence": "We need people designing technologies for society to have training and an education on the histories of marginalized people, at a minimum, and we need them working alongside people with rigorous training and preparation from the social sciences and humanities.",
+    "after": "To design technology for people, without a detailed and rigorous study of people and communities, makes for the many kinds of egregious tech designs we see that come at the expense of people of color and women."
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "In many discourses of technology, the machine is turned to and positioned as a mere tool, rather than being reflective of human values.",
+    "sentence": "Design is purposeful in that it forges both pathways and boundaries in its instrumental and cultural use.",
+    "after": "Langdon Winner, Thomas Phelan Chair of Humanities and Social Sciences in the Department of Science and Technology Studies at Rensselaer Polytechnic Institute, analyzes the forms of technology, from the design of nuclear power plants, which reflect centralized, authoritarian state controls over energy, to solar power designs that facilitate independent, democratic participation by citizens."
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "Langdon Winner, Thomas Phelan Chair of Humanities and Social Sciences in the Department of Science and Technology Studies at Rensselaer Polytechnic Institute, analyzes the forms of technology, from the design of nuclear power plants, which reflect centralized, authoritarian state controls over energy, to solar power designs that facilitate independent, democratic participation by citizens.",
+    "sentence": "He shows that design impacts social relations at economic and political levels.",
+    "after": "The more we can make transparent the political dimensions of technology, the more we might be able to intervene in the spaces where algorithms are becoming a substitute for public policy debates over resource distribution—from mortgages to insurance to educational opportunities."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 30,
+  "input": "56eb8d5cc88a",
+  "candidates": [
+   {
+    "loc": 7,
+    "page": "pp. 6–8",
+    "kind": "p",
+    "before": "By 2014, I had been thinking and writing about technology and poverty for 20 years.",
+    "sentence": "I taught in community technology centers, organized workshops on digital justice for grassroots organizers, led participatory design projects with women in low-income housing, and interviewed hundreds of welfare and child protective services clients and caseworkers about their experiences with government technology.",
+    "after": ""
+   },
+   {
+    "loc": 9,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "Coordinated entry is the preferred system for managing homeless services, championed by the United States Interagency Council on Homelessness and the U.S. Department of Housing and Urban Development.",
+    "sentence": "Even before the Allegheny Family Screening Tool was launched, its designers were in negotiations to create another child maltreatment predictive risk model in California.",
+    "after": ""
+   },
+   {
+    "loc": 9,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "It reframes shared social decisions about who we are and who we want to be as systems engineering problems.",
+    "sentence": "And while the most sweeping digital decision-making tools are tested in what could be called “low rights environments” where there are few expectations of political accountability and transparency, systems first designed for the poor will eventually be used on everyone.",
+    "after": ""
+   },
+   {
+    "loc": 18,
+    "page": "pp. 35–36",
+    "kind": "p",
+    "before": "Berlinger proposed a central computerized registry for every welfare, Medicaid, and food stamp recipient in the state.",
+    "sentence": "Planners folded Rockefeller’s fixation with ending the welfare “gravy train” into the system’s design.",
+    "after": "The state hired Ross Perot’s Electronic Data Systems to create a digital tool to “reduce well documented ineligibility, mismanagement and fraud in welfare administration,” automate grant calculations and eligibility determinations, and “improve state supervision” of local decision-making."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 35–36",
+    "kind": "p",
+    "before": "The state hired Ross Perot’s Electronic Data Systems to create a digital tool to “reduce well documented ineligibility, mismanagement and fraud in welfare administration,” automate grant calculations and eligibility determinations, and “improve state supervision” of local decision-making.",
+    "sentence": "Design, development, and implementation of the resulting Welfare Management System (WMS) eventually cost $84.5 million.",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "pp. 135–137",
+    "kind": "p",
+    "before": "The budget reduction sharpened a crisis already created by steadily declining county revenues and increased demand for services following the 2007 recession.",
+    "sentence": "Rich in data but poor in material resources, Cherna and his team put together an RFP to “design and implement decision support tools and predictive analytics in human services.”",
+    "after": "DHS offered up to one million dollars—provided by a Richard King Mellon Foundation grant—to build an automated triage system that would help them focus resources where they would do the most good."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 171–172",
+    "kind": "p",
+    "before": "In many ways, the AFST is the best-case scenario for predictive risk modeling in child welfare.",
+    "sentence": "The design of the tool was open, participatory, and transparent.",
+    "after": "Elsewhere, child welfare prediction systems have been designed and implemented by private companies with very little input or discussion from the public."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 171–172",
+    "kind": "p",
+    "before": "The design of the tool was open, participatory, and transparent.",
+    "sentence": "Elsewhere, child welfare prediction systems have been designed and implemented by private companies with very little input or discussion from the public.",
+    "after": "Implementation in Allegheny County has been thoughtful and slow."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 73,
+  "input": "676b4a558cdb",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Postcolonial computing critiques development within HCI4D to underscore the vexing questions of authority, power, and legitimacy that are evoked in the rhetoric of technological development.",
+    "sentence": "In contrast to development-​focused engagement, postcolonial computing offers an alternative lens on designing and analyzing technology, foregrounding the dynamics of culture and power that subtend design practices.",
+    "after": "Postcolonial computing emphasizes cultural specificities in order to challenge presumptions about “good” universal design practices."
+   },
+   {
+    "loc": 21,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "In contrast to development-​focused engagement, postcolonial computing offers an alternative lens on designing and analyzing technology, foregrounding the dynamics of culture and power that subtend design practices.",
+    "sentence": "Postcolonial computing emphasizes cultural specificities in order to challenge presumptions about “good” universal design practices.",
+    "after": "As human-​computer interaction has become a global phenomenon, the idea that design aesthetics or systems are universal has been called into question."
+   },
+   {
+    "loc": 26,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "",
+    "sentence": "Thus, significant attention to the circumstances surrounding knowledge production of digital humanities projects is needed, including how projects are designed, how material in them is framed, how data in them is managed, and what forms of labor are being used to create them.",
+    "after": "This gap was the inspiration for Social Justice and the Digital Humanities, created in the “De/Post/Colonial Digital Humanities” course that micha cárdenas and I taught at the Humanities Intensive Learning and Teaching Institute in 2015."
+   },
+   {
+    "loc": 26,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "This gap was the inspiration for Social Justice and the Digital Humanities, created in the “De/Post/Colonial Digital Humanities” course that micha cárdenas and I taught at the Humanities Intensive Learning and Teaching Institute in 2015.",
+    "sentence": "Not intended as prescriptive, the project is framed as an invitation to digital humanities practitioners to help articulate the principles and precepts that should be considered when designing digital humanities projects.",
+    "after": "Social Justice and the Digital Humanities is thus framed as a series of questions intended to help practitioners think through and make legible the influences of colonialism, racism, and other axes of oppression on projects."
+   },
+   {
+    "loc": 52,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "Another intervention in creating digital humanities practices that decenter the Global North is being undertaken by the Minimal Computing Working Group, led by scholars including Jentery Sayers, Alex Gil, and John Simpson.",
+    "sentence": "Minimal computing is an approach to digital humanities design and method that eschews high-​performance computing in favor of practices that are more accessible around the world.",
+    "after": "While digital humanities tools and methods readily available in the Global North tend to keep pace with developments in desktop computing and thus privilege newness, minimal computing takes a different approach to “innovation” in digital humanities, focusing on developing accessible digital humanities projects and practices for low-​income economies and low-​bandwidth environments."
+   },
+   {
+    "loc": 52,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "Among the critical questions addressed by minimal computing are how to repurpose existing technologies to reduce e-​waste and engage with obsolescence in generative ways; how to conceptualize the difference between choosing to engage with minimal computing principles and doing so out of necessity; and how to examine the social impacts of computing through postcolonial lenses.",
+    "sentence": "In practice, the work of minimal computing has led to the creation of digital humanities projects that are designed to load easily in low-​bandwidth environments.",
+    "after": "This is accomplished by eschewing web design platforms that rely on databases to load, in favor of static web-​page generators like Jekyll, which have quicker load times."
+   },
+   {
+    "loc": 72,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "The case of R-​Shief points to the importance of developing postcolonial digital archives that capture born-​digital texts and make them available and sustainable beyond the platforms on which they were created.",
+    "sentence": "According to one of its creators, Laila Shereen Sakr (who also goes by the name VJ Um Amel), R-​Shief is a digital archive of born-​digital materials—media, websites, journalism, and social media posts—that were originally designed to focus on Gaza and Palestine.",
+    "after": "Starting in 2010, however, R-​Shief began mining Twitter hashtags, designing a system to scrape and analyze tweets."
+   },
+   {
+    "loc": 72,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "According to one of its creators, Laila Shereen Sakr (who also goes by the name VJ Um Amel), R-​Shief is a digital archive of born-​digital materials—media, websites, journalism, and social media posts—that were originally designed to focus on Gaza and Palestine.",
+    "sentence": "Starting in 2010, however, R-​Shief began mining Twitter hashtags, designing a system to scrape and analyze tweets.",
+    "after": "In 2011 its designers began collecting tweets related to Arab Spring activism, including #Jan25 (Egypt) and #Tunisia."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 179,
+  "input": "d07ac8d47fe8",
+  "candidates": [
+   {
+    "loc": 275,
+    "page": "p. 247",
+    "kind": "p",
+    "before": "It also references current critical race discussions about how postracial ideas of the “universal” erase difference.",
+    "sentence": "The term “design” itself already problematizes this because it values visual aesthetics, and even the term “architecture” has connotations and agendas centered on the 1 percent, and on masculine visuality and the gaze.",
+    "after": "In my interactions with the Twitter discussion, I pointed out that the goal of disability studies should be to disrupt the very idea of “accommodation” in order to reconceptualize how building computer programs or actual buildings should be disrupted and rethought from the disability studies angle."
+   },
+   {
+    "loc": 303,
+    "page": "p. 275",
+    "kind": "p",
+    "before": "Drawing on Barad’s physics-grounded refusal of the distinction between subjects and objects, Balsamo regards subjects as constituted by the interactions that constitute them: agency materializes through “intra-actions” that constitute boundaries, demarcations, and distinctions among elements of phenomena (34).",
+    "sentence": "This leads to a vision of design as a “set of practices whereby the world is dynamically reconfigured by specific acts . . . through which boundaries are constituted and enacted” (35).",
+    "after": ""
+   },
+   {
+    "loc": 329,
+    "page": "p. 301",
+    "kind": "p",
+    "before": "But in an eleventh-hour addition to this piece it may be relevant to note some preliminary outcomes from an initiative that is taking up that agenda.",
+    "sentence": "At an October 2017 forum titled “Design for Diversity,” participants shared a set of case studies investigating the ways in which information systems—digital interfaces, metadata standards, online exhibits, and other tools and components—are animated by forms of cultural hegemony.",
+    "after": "Facing the question of where such tools and systems express or enforce such cultural norms, and how they might be designed otherwise, the group repeatedly pointed to the shaping force of social processes and relationships in determining the ethical shape of technical outcomes."
+   },
+   {
+    "loc": 329,
+    "page": "p. 301",
+    "kind": "p",
+    "before": "At an October 2017 forum titled “Design for Diversity,” participants shared a set of case studies investigating the ways in which information systems—digital interfaces, metadata standards, online exhibits, and other tools and components—are animated by forms of cultural hegemony.",
+    "sentence": "Facing the question of where such tools and systems express or enforce such cultural norms, and how they might be designed otherwise, the group repeatedly pointed to the shaping force of social processes and relationships in determining the ethical shape of technical outcomes.",
+    "after": "Social processes such as decision making, information sharing, and strategic planning, to the degree that they included all those implicated in a project’s outcomes, tended to result in systems that were more resilient and more accommodating of diverse cultural positions; sadly, many of the case studies illustrated the corollary position with examples of brittle or failed designs arising from poorly planned processes."
+   },
+   {
+    "loc": 330,
+    "page": "p. 302",
+    "kind": "p",
+    "before": "The successful processes portrayed at Design for Diversity were inclusive in very significant ways, but in particular their principle of diversity had to do with a genuine diversification of the allocation of power: the power to say what is most important about the design of a tool or system, the power to update a record, the power to define vocabularies, the power to say what should be visible or invisible, the power resulting from increased knowledge or expertise.",
+    "sentence": "Not only was the tribe of “coders” being diversified, but also that tribe’s understanding of mission—what is being built, for whom, why, under what design imperatives, with what specific stipulations—was being shaped by diversified constituencies, operating under radically different assumptions about whose needs matter.",
+    "after": "Building otherwise, in digital humanities, may thus require that we understand building as a deeply embedded expression of social justice: that a tool or artifact that is “for” a purpose or an audience needs to involve those it affects in the full ecology of its design, and that we are never building only for, or as, ourselves."
+   },
+   {
+    "loc": 330,
+    "page": "p. 302",
+    "kind": "p",
+    "before": "Not only was the tribe of “coders” being diversified, but also that tribe’s understanding of mission—what is being built, for whom, why, under what design imperatives, with what specific stipulations—was being shaped by diversified constituencies, operating under radically different assumptions about whose needs matter.",
+    "sentence": "Building otherwise, in digital humanities, may thus require that we understand building as a deeply embedded expression of social justice: that a tool or artifact that is “for” a purpose or an audience needs to involve those it affects in the full ecology of its design, and that we are never building only for, or as, ourselves.",
+    "after": ""
+   },
+   {
+    "loc": 478,
+    "page": "p. 450",
+    "kind": "p",
+    "before": "",
+    "sentence": "We followed a participatory design process where users became participants in the design process by following an iterative cycle of game design between playtesting prototypes.",
+    "after": "Marilyne, a sex worker who had worked as a massage parlor worker (and became an owner of a parlor during her work with us) and a self-employed escort was hired to act as a consultant on the game."
+   },
+   {
+    "loc": 478,
+    "page": "p. 450",
+    "kind": "p",
+    "before": "Marilyne, a sex worker who had worked as a massage parlor worker (and became an owner of a parlor during her work with us) and a self-employed escort was hired to act as a consultant on the game.",
+    "sentence": "This was a first principle of feminist game design in that we explicitly sought to use our seed funding from the university to hire her for her expertise as a worker with a range of experiences in the fields we were describing and as an advocate for sex worker rights.",
+    "after": "Paying her for her time was a given."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 158,
+  "input": "d5f3734cf47c",
+  "candidates": [
+   {
+    "loc": 186,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "",
+    "sentence": "Now keep in mind that empathy is the first of five steps in an approach called “design thinking”: empathize; define; ideate; prototype; test.",
+    "after": "Although there are different versions of this methodology, this is the one most commonly cited as the basis of “human-centered design.”"
+   },
+   {
+    "loc": 187,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "The panelists awkwardly ignored the questions for some twenty minutes until eventually the session ended with no response.",
+    "sentence": "Author of two of the questions, Sasha Costanza-Chock, a professor at the MIT, has developed the idea of “design justice” with Allied Media Network collaborators, to get us thinking more about the process and power dynamics of design across multiple axes of oppression.*?",
+    "after": "They define design justice as “a field of theory and practice that is concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people,” and is focused on procedural and distributive justice:"
+   },
+   {
+    "loc": 187,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "Author of two of the questions, Sasha Costanza-Chock, a professor at the MIT, has developed the idea of “design justice” with Allied Media Network collaborators, to get us thinking more about the process and power dynamics of design across multiple axes of oppression.*?",
+    "sentence": "They define design justice as “a field of theory and practice that is concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people,” and is focused on procedural and distributive justice:",
+    "after": ""
+   },
+   {
+    "loc": 187,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "Sounds good, right?",
+    "sentence": "But if the “justice” used here is meant to augment dominant notions of design as a universal good, I wonder how justice itself might be altered by its proximity to design as a buzzword and brand.",
+    "after": "Is this not what we are seeing with Jay Z’s Promise and other such products?"
+   },
+   {
+    "loc": 188,
+    "page": "p. 176",
+    "kind": "p",
+    "before": "As I sat there looking up at the screen, trying to think of what to add, it struck me that maybe the growing list was a problem.",
+    "sentence": "But, good student that I am, I still raised my hand to chime in — design is a colonizing project, I offered, to the extent that it is used to describe anything and everything.** The affirming nods and groans from the facilitators and others in the room suggested that this critique resonated with them.",
+    "after": ""
+   },
+   {
+    "loc": 188,
+    "page": "p. 176",
+    "kind": "p",
+    "before": "What is gained and by whom in the process of submerging so much heterogeneity under the rubric of design?",
+    "sentence": "I can see how it might work as a way to draw out commonalities and build coalitions, as when Costanza- Chock writes: “Design justice as a theoretical framework recognizes the universality of design as a human activity.”°° In enrolling so many issues and experiences as design-related, maybe this could build a foundation for solidarity ... but it could also sanitize and make palatable deep-seated injustices, contained within the innovative practices of design.",
+    "after": ""
+   },
+   {
+    "loc": 188,
+    "page": "p. 176",
+    "kind": "p",
+    "before": "",
+    "sentence": "If, in the language of the workshop, one needs to “subvert” design, this implies that a dominant framework of design reigns — and I think one of the reasons why it reigns is that it has managed to fold anything and everything under its agile wings.",
+    "after": "I am not the first to raise this concern."
+   },
+   {
+    "loc": 190,
+    "page": "p. 178",
+    "kind": "p",
+    "before": "",
+    "sentence": "If design as a branded methodology is elevated, then other forms of generic human activity are diminished.",
+    "after": "As Irani and Silberman put it, “workers who powered these platforms appeared as exploited cogs in other people’s plans, toiling in digital sweatshops with little creativity or agency.”*!"
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 61,
+  "input": "a3f2f2752414",
+  "candidates": [
+   {
+    "loc": 112,
+    "page": "p. 85",
+    "kind": "p",
+    "before": "",
+    "sentence": "Understanding privilege, for example, provides insight into the ways that technology prioritizes particular users and in so doing, particular perspectives of the world; understanding privilege can help refocus our energies in design scenarios.",
+    "after": "Those upon whom more privilege is conferred—say educated, white men—may not realize that their designs reflect their privilege."
+   },
+   {
+    "loc": 112,
+    "page": "p. 85",
+    "kind": "p",
+    "before": "Understanding privilege, for example, provides insight into the ways that technology prioritizes particular users and in so doing, particular perspectives of the world; understanding privilege can help refocus our energies in design scenarios.",
+    "sentence": "Those upon whom more privilege is conferred—say educated, white men—may not realize that their designs reflect their privilege.",
+    "after": "But, as Rose, Björling, Kim, and Alvarez (2018) remind us, our responsibility as UX designers is to recognize and acknowledge that particular designs prioritize and privilege particular people and that, as such, these designs can function as exclusionary sites of injustice."
+   },
+   {
+    "loc": 113,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "",
+    "sentence": "In TPC, this practice aligns with participatory, user-centered design—but does so more radically than is often spoken about in UX discussions.",
+    "after": "Certainly, the designer and technologist have traditionally been seen as expert when compared to the user."
+   },
+   {
+    "loc": 113,
+    "page": "p. 86",
+    "kind": "p",
+    "before": "In TPC, this practice aligns with participatory, user-centered design—but does so more radically than is often spoken about in UX discussions.",
+    "sentence": "Certainly, the designer and technologist have traditionally been seen as expert when compared to the user.",
+    "after": "In response, TPC scholars have called for a shift in understanding design contexts: Listen to the user and design with them."
+   },
+   {
+    "loc": 148,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "Traditional approaches to TPC might adopt an instrumental approach to considering the power at play in the development and use of an instruction set: The instruction set offers the user the opportunity (or power) to engage with the technology.",
+    "sentence": "In this view, an effective instruction set allows the user to engage with the technology in the way the technology designer intends.",
+    "after": "And yet we know that instruction sets affect and are affected by all four domains of power."
+   },
+   {
+    "loc": 148,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "And yet we know that instruction sets affect and are affected by all four domains of power.",
+    "sentence": "They often preserve the dominant, macro-level organizations in that they preserve the relationship between expert and novice, a power dynamic technical communicators are invested in dismantling through user-centered design (Johnson, 1998) but that continues to be maintained.",
+    "after": "In part, the user-centered design approach has worked toward dismantling the structure of power between expert and novice by working at what Collins calls the disciplinary level: Process and procedures that maintain the organization of power."
+   },
+   {
+    "loc": 164,
+    "page": "p. 137",
+    "kind": "p",
+    "before": "",
+    "sentence": "Perhaps, as technical communicators, the easiest way to think about centering is to talk about users in UX design contexts.",
+    "after": "Take, for example, the design of a website."
+   },
+   {
+    "loc": 164,
+    "page": "p. 137",
+    "kind": "p",
+    "before": "Perhaps, as technical communicators, the easiest way to think about centering is to talk about users in UX design contexts.",
+    "sentence": "Take, for example, the design of a website.",
+    "after": "When we’re consulting with clients at the beginning of UX testing for a website, we often ask them about their users and/or intended users."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 63,
+  "input": "46cce253dc66",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "In some instances, then, by “uses of use,” I am referring to how scholars have made use of use in developing their arguments.",
+    "sentence": "In reading for use, we are making connections that might not otherwise have been made across domains that might otherwise have remained distinct, such as biology, psychology, architecture, and design, which all make use of use to explain the acquisition of form.",
+    "after": "In some of these domains, we might expect use to be central; in others, perhaps less so."
+   },
+   {
+    "loc": 39,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "A cup is made in order that I have something to drink from; it is shaped this way, with a hole as its heart, empty, so that it can be filled by liquid.",
+    "sentence": "In the case of designed objects, what they are for seems to bring them into existence.",
+    "after": ""
+   },
+   {
+    "loc": 73,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the literature on design, usability refers not only to the fact that something can be used.",
+    "after": "It refers to a kind of communication through design: a usable object is one that gives the user more clues about how to use the object."
+   },
+   {
+    "loc": 73,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "In the literature on design, usability refers not only to the fact that something can be used.",
+    "sentence": "It refers to a kind of communication through design: a usable object is one that gives the user more clues about how to use the object.",
+    "after": "For user-centered design, improving usability becomes the goal."
+   },
+   {
+    "loc": 78,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Universal Design was coined by the architect Robert Mace in 1985 in an effort to go beyond a politics that aims to eliminate barriers.",
+    "sentence": "Universal Design refers to “the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.”",
+    "after": "As Hamraie notes, experiments with product designs “that could benefit multiple types of users, including disabled users,” became “testing grounds” for Universal Design (2017, 193)."
+   },
+   {
+    "loc": 78,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "Starting with the needs of those who are not included rubs up against the very idea of inclusion.",
+    "sentence": "Aimi Hamraie offers an important history of the project of “building access,” including a history of Universal Design.",
+    "after": "Universal Design was coined by the architect Robert Mace in 1985 in an effort to go beyond a politics that aims to eliminate barriers."
+   },
+   {
+    "loc": 241,
+    "page": "p. 225",
+    "kind": "p",
+    "before": "friction; when bodies do not fit seamlessly into space, things happen.",
+    "sentence": "Aimi Hamraie introduces the concept of “crip technoscience” to investigate the “critical design work of how misfit disabled users, for whom estrangement is already a pervasive experience, draw on the sensibilities of friction and disorientation to enact design politics” (2017, 103).",
+    "after": "Crip and queer meet at an odd angle."
+   },
+   {
+    "loc": 241,
+    "page": "p. 225",
+    "kind": "p",
+    "before": "When you draw upon what does not fit, what is slant-wise or bent, you draw a diff erent world.",
+    "sentence": "We can think of the disability design work of Liz Jackson, who describes how “our lives are spent cultivating an intuitive creativity, because we navigate a world that isn’t built for our bodies.”",
+    "after": "Indeed, Jackson also notes how often the creativity of disabled designers is written out of the history of design, how too often disabled people are assumed to be the recipients of, rather than agents in, the design process."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 190,
+  "input": "a1c7cde8733f",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "pp. 34–35",
+    "kind": "p",
+    "before": "Clicking on any point shows images of the related work.",
+    "sentence": "The works can be space designs, buildings, fashion items, books, websites, music videos, and so on.",
+    "after": "In the second view, the interface changes to a global map with superimposed lines indicating how cultural themes and trends travel around the world."
+   },
+   {
+    "loc": 57,
+    "page": "pp. 88–89",
+    "kind": "p",
+    "before": "In my view, the study of software culture calls for a fundamentally different methodology.",
+    "sentence": "We need to be able to record and analyze interactive experiences, following individual users as they navigate a website or play a video game; to study different players, as opposed to using only our own game play as the basis for analysis; to watch visitors of an interactive installation as they explore the possibilities defined by the designer—possibilities that become actual events only when the visitors act on them.",
+    "after": ""
+   },
+   {
+    "loc": 91,
+    "page": "pp. 149–150",
+    "kind": "p",
+    "before": "European academic art of the seventeenth and eighteenth centuries had a strict hierarchy of genres of paintings, with historical paintings considered to be the most important and still lifes the least important.",
+    "sentence": "The culture of the twentieth century was based on a number of binary categories, with one category considered more valuable than another: fine arts versus decorative arts (or design), high culture versus popular culture (or mass culture), avant-garde versus kitsch.",
+    "after": "Our social, lifestyle, and technological systems have changed significantly even just in the last two decades, but such cultural dichotomies established in the nineteenth and twentieth centuries continue to structure how we think about culture."
+   },
+   {
+    "loc": 91,
+    "page": "pp. 149–150",
+    "kind": "p",
+    "before": "The endless world outside this “best” now has some labels for its different vast continents—culture industries, creative industries, user-generated content, mass media, and so on —but it can’t enter the art museums that carefully guard Arnold’s hierarchy.",
+    "sentence": "So you are unlikely to see any respectable art museum presenting an exhibition of great advertising designs, interface designs, Instagram photography, fashion, or any other vibrant area of contemporary culture.",
+    "after": "This is only possible in design or applied arts museums, such as the London Design Museum, the Victoria and Albert Museum, the Museum of Applied Arts in Vienna, and the Cooper Hewitt Smithsonian Design Museum, or an art museum that has a design or fashion department (the MoMA and the Metropolitan Museum in New York)."
+   },
+   {
+    "loc": 94,
+    "page": "pp. 155–156",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the twenty-first century, works by contemporary product designers often continue the explorations that preoccupied so many twentieth-century artists.",
+    "after": "For example, in the second part of the 2010s, top companies making phones—Huawei, Xiaomi, Samsung, Apple—became obsessed with the sensory effects of their designs."
+   },
+   {
+    "loc": 94,
+    "page": "pp. 155–156",
+    "kind": "p",
+    "before": "In the twenty-first century, works by contemporary product designers often continue the explorations that preoccupied so many twentieth-century artists.",
+    "sentence": "For example, in the second part of the 2010s, top companies making phones—Huawei, Xiaomi, Samsung, Apple—became obsessed with the sensory effects of their designs.",
+    "after": "Designers of phones started to develop unique surface materials, colors, levels of glossiness of a finish, and surface roughness and waviness."
+   },
+   {
+    "loc": 95,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "",
+    "sentence": "The most famous early twenty-first-century examples of minimalist design are the all-white and or silver-grey Apple products designed by Jonathan Ive in the 2000s.",
+    "after": "The first in this series was the iPod in 2001, followed by the PowerBook G4 in 2003, iMac G5 in 2004, and iPhone in 2007."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 190–191",
+    "kind": "p",
+    "before": "",
+    "sentence": "Can we differentiate information visualization from information design?",
+    "after": "This is trickier, but here is my way of doing it: information design starts with data that already has a clear structure, and its goal is to express this structure visually."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 157,
+  "input": "6a2a70cda75c",
+  "candidates": [
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "",
+    "sentence": "Any knowledge community inevitably places certain things at the center and casts others out, in the same way that male bodies are almost always taken as the norm in scientific studies while female bodies are viewed as deviations, or that abled bodies are almost always taken as primary design cases while disabled bodies require a design retrofit.",
+    "after": "Feminist human-computer interaction (HCI) scholar Shaowen Bardzell asserts designers should look first to those at the margins: the people pushed to the margins in any particular design context demonstrate who and what the system is trying to exclude."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "Any knowledge community inevitably places certain things at the center and casts others out, in the same way that male bodies are almost always taken as the norm in scientific studies while female bodies are viewed as deviations, or that abled bodies are almost always taken as primary design cases while disabled bodies require a design retrofit.",
+    "sentence": "Feminist human-computer interaction (HCI) scholar Shaowen Bardzell asserts designers should look first to those at the margins: the people pushed to the margins in any particular design context demonstrate who and what the system is trying to exclude.",
+    "after": "Subsequent work in HCI insists that designers then work to “demarginalize the ‘margins’ by recognizing intersections that exist, and engaging solidarity to navigate towards equity and inclusion.”"
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "",
+    "sentence": "As survey designers, and data scientists more generally, there would seem to be an obvious response to the Stanford report: collect gender data in more than binary categories, making sure to disaggregate the data—that is, compare the data by genders during the analysis phase.",
+    "after": "One recent alternative to the binary, developed by Public Health England in collaboration with LGBTQ+ organizations in the United Kingdom, is in evidence in figure 4.5."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "One recent alternative to the binary, developed by Public Health England in collaboration with LGBTQ+ organizations in the United Kingdom, is in evidence in figure 4.5.",
+    "sentence": "This two-item questionnaire was designed for use in routine national surveillance of HIV in England and Wales to determine self-identified gender and cis or trans status in a public health context.",
+    "after": "The designers offer three named genders, a catch-all fourth category, and an option for not disclosing gender identity."
+   },
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "For the AEMP, it means centering the voices and experiences of those who have been evicted.",
+    "sentence": "Follow-up work about designing from the margins argues that designers and engineers shouldn’t only be engaging people at the margins but also actively working to dismantle the center/margins distinction in the first place.",
+    "after": "More recently, the Design Justice Network has transformed this key tenet of intersectional thinking into one of its design principles, stating: “We center the voices of those who are directly impacted by the outcomes of the design process.”"
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "For example, Una Lee, Wesley Taylor, Victoria Barnett, Ebony Dumas, Carlos (L05) Garcia, and Sasha Costanza-Chock are coordinating a networked community of practice called design justice.",
+    "sentence": "The idea for design justice emerged from a workshop at the Allied Media Conference in Detroit in 2015, where thirty people assembled to challenge the idea of “design for good.”",
+    "after": "As co-organizer Una Lee put it, “How could we redesign design so that those who are normally marginalized by it, those who are characterized as passive beneficiaries of design thinking, become co-creators of solutions, of futures?”"
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "One of its central projects is a set of ten Design Justice Network Principles, which guide designers in navigating inequality and achieving justice through design.",
+    "sentence": "Principle 1, for example, reads: “We use design to sustain, heal, and empower our communities, as well as to seek liberation from exploitative and oppressive systems.”",
+    "after": "Principle 5 reads: “We see the role of the designer as a facilitator rather than an expert.”"
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "Principle 1, for example, reads: “We use design to sustain, heal, and empower our communities, as well as to seek liberation from exploitative and oppressive systems.”",
+    "sentence": "Principle 5 reads: “We see the role of the designer as a facilitator rather than an expert.”",
+    "after": "The Design Justice Network promotes these principles through its workshops and other events at which designers meet, discuss, and co-conspire."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 1814,
+  "input": "981b8f6b13fc",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "As I hope to demonstrate, new information and communication technologies (ICTs) not only take shape in Silicon Valley, they also emerge from marginalized communities and social movement networks, both during waves of spectacular protest activity and also in everyday life.",
+    "sentence": "My broader goal is to advance the growing conversation about the pitfalls and possibilities of design as a tool for social transformation.",
+    "after": "I’ll begin by sharing a story about my own embodied experience of trans* erasure, an experience that I believe contains valuable insights for nearly all design domains."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "",
+    "sentence": "There are also many, many organizations that don’t use the term design justice but are engaged in closely allied practices.",
+    "after": "For example, the Inclusive Design Research Centre (IDRC) is “a research and development centre where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.”"
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "For example, the Inclusive Design Research Centre (IDRC) is “a research and development centre where an international community of open source developers, designers, researchers, advocates, and volunteers work together to ensure that emerging information technology and practices are designed inclusively.”",
+    "sentence": "Professor of Civic Design Ceasar McDowell has developed an extensive body of theory and practice of design for the margins.",
+    "after": "Other allied projects, groups, and networks include the Association for Progressive Communications, the Catalan GynePunk collective (who develop and circulate queer feminist design practices of DIY gynecology), the Center for Media Justice, Coding Rights (Brazil), the Critical Making Lab, Data Active, Decolonising Design, the Design Studio for Social Intervention, Design Trust for Public Space, the Digital Justice Lab (Toronto), FemTechNet, Intelligent Mischief (Brooklyn), MIT CoLab, SEED Network, Social Justice Design Studio, and the Tech Equity Collective, just to name a few."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "As an engaged scholar and design practitioner who is guided by antiracist, feminist principles and epistemology, I want to make clear that although this is a single-authored book, many of the ideas it explores have bubbled up through the Design Justice Network as an emergent community of practice.",
+    "sentence": "All credit for the key ideas of design justice is due to this community, whereas all responsibility for the many errors in this text is mine.",
+    "after": "To paraphrase one of the anonymous reviewers of this manuscript, there is a tension between my attempt to provide a normative design justice framework as a single author and my claim to be amplifying knowledge that has been produced by a movement."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "I won’t attempt their synthesis here, nor will I advocate for the adoption of a particular definition.",
+    "sentence": "Nevertheless, before diving into the theory and practice of design justice, I’ll briefly discuss a few of the many ways that the term design is used and offer some thoughts about the meanings that are most useful in the context of this book.",
+    "after": ""
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "",
+    "sentence": "In his classic text Design for the Real World, Victor Papanek positions design as a universal practice in human communities: “All [people] are designers. … Design is the conscious effort to impose a meaningful order.”",
+    "after": "Design professor, practitioner, and philosopher Tony Fry also argues that we are all designers and that design is not solely the province of architects, graphic designers, industrial designers, or other design professionals; instead, he sees it as a component of all intentional acts."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Product designer Natasha Jen, in a widely seen 99U talk, states that “design thinking is bullshit.”",
+    "sentence": "Sociologist Ruha Benjamin, in her recent book Race After Technology: Abolitionist Tools for the New Jim Code (2019), examines the relationship between design and systemic racism; she calls both for a more intentionally antiracist approach to innovation and for a healthy skepticism of universalist and solutionist notions of design as a way out of structural inequality.",
+    "after": "I will return to a discussion of design thinking later in the book."
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "One group that has worked steadily to advance design practice that is not universalizing is the Inclusive Design Research Centre (IDRC).",
+    "sentence": "IDRC defines inclusive design as follows: “design that considers the full range of human diversity with respect to ability, language, culture, gender, age and other forms of human difference.”",
+    "after": "The IDRC’s approach to design recognizes human diversity, respects the uniqueness of each individual, and acknowledges that a given individual might experience different interactions with the same design interface or object depending on the context."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 111,
+  "input": "6d5c175924ea",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "The second, and most important, innovation is the centering of technology use by marginalized groups within their own understandings of themselves rather than unmarked racial and socioeconomic standards of “modern” technology use.",
+    "sentence": "CTDA is designed to be open to any critical cultural theoretical concept—as long as the same approach is applied to the semiotics of the information and computer technology (ICT) hardware and software under examination as well as the discourses of its users.",
+    "after": "This openness features prominently in the organization of this text, as each chapter utilizes CTDA but invokes different Black cultural concepts to center its respective conceptual framework."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "",
+    "sentence": "The Web Browser Browsers are general-purpose applications designed to retrieve and display a variety of multimedia resources (print, image, audio, video, code) linked to a specific User Resource Identifier/Locator (URI or URL) on a remote server.",
+    "after": "In many ways, they are similar to word processors, which also allow users to compose digital texts with images."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "In many ways, they are similar to word processors, which also allow users to compose digital texts with images.",
+    "sentence": "Browser design has not drastically evolved since the introduction of Mosaic in 1993 even as seminal technologies such as Adobe (once Macromedia) Flash have largely disappeared from browser spaces.",
+    "after": "They feature now commonplace design elements such as a home button, a refresh button, and a back button in a bar across the top of the window while the remainder of the space is dedicated to displaying content."
+   },
+   {
+    "loc": 34,
+    "page": "PDF p. 34",
+    "kind": "p",
+    "before": "40A Inc., a company founded by three Black entrepreneurs, is Blackbird’s developer of record, but there’s very little information online about the company.",
+    "sentence": "Blackbird was designed to address the difficulties of finding content oriented toward the information needs and interests of African Americans.",
+    "after": "Constructed from the open source codebase of Mozilla Firefox, it is structurally and thematically similar to the Flock (social networking), Gloss (women-centric), and Mozilla-variant browsers."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "While posts published to Twitter’s feed often contain images, image macros, GIFs, videos, and other multimedia, the service prioritizes the visual representation of discourses happening in near real time.",
+    "sentence": "Twitter’s message format is a primary determinant of this affordance; it was originally designed as an SMS application to connect people in small groups.",
+    "after": "SMS messages are 160 characters long; Twitter messages were originally 140 characters (including attribution), allowing tweets to traverse SMS networks without truncation."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "",
+    "sentence": "Personal website design in the Web 1.0 era largely consisted of hand-coded HTML, GeoCities templates, or BlackPlanet personal pages.",
+    "after": "The freedom to experiment with fonts, text effects, graphics, and media players made the early personal web a cacophonous destination."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "The freedom to experiment with fonts, text effects, graphics, and media players made the early personal web a cacophonous destination.",
+    "sentence": "Blogging platforms such as Blogger or Typepad sought to address this—even as they lowered barriers for casual users seeking to build a web presence—by promoting a more uniform design.",
+    "after": "These sites read more like printed pages, with standardized internet fonts and a white space–oriented design aesthetic."
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "As mentioned earlier, BlackPlanet encouraged users to design their home pages and promoted designs on the portal’s destination page.",
+    "sentence": "Omar Wasow and Gary Dauphin’s initiative to embed HTML design tools and social affordances within BlackPlanet prefigured Web 2.0’s digital sociality and personalization.",
+    "after": "Oh, but the designs."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "de8efd2f33c6",
+  "candidates": [
+   {
+    "loc": 63,
+    "page": "PDF p. 63",
+    "kind": "p",
+    "before": "",
+    "sentence": "In politics, the lingering call for “state’s rights” has been swept up in egregious policies designed to exclude trans people from public spaces.",
+    "after": "In March 2016, North Carolina banned trans people from using bathrooms that did not correspond to their sex assigned at birth."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "While the particulars of how and why items trend on Twitter are proprietary, Twitter representatives have confirmed that the algorithm preferences hashtags that are novel, used across multiple subgroups, and accelerate in popularity over a short period of time.",
+    "sentence": "To the extent that racial and gender justice hashtags tend to center on particular events (with novel keywords and short timeframes) and draw in a coalition of activists and everyday people, they may appeal to algorithmic features not specifically designed for their benefit.",
+    "after": "That said, the hashtags examined in this book also exemplify a survivorship bias insofar as we selected on success when we chose hashtags to include."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 70,
+  "input": "5f312f5af64a",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "The information activists whose work is considered here—archivists, newsletter makers, telephone operators, and indexers—engage with new media technologies in ways that are critical for establishing more expansive, comparative media histories of information.",
+    "sentence": "For example, these activists brought grounded commitments to self-determination to the decisions they made about database design, resulting in systems whose flex bilities around classification are informed by lesbian feminism.",
+    "after": "Put another way, these activists needed to be able to easily revise how they were describing political and identity-laden materials in databases in order to be sensitive to shifting community values."
+   },
+   {
+    "loc": 28,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "Rather, I argue that understanding how radical feminist movements regard trans people through the design and provision of information can show us how particular ideas about gender inform infrastructure design and determine how care is provisioned at a technological level.",
+    "sentence": "Historicizing these decisions matters because the complex lineages between lesbian and transfeminist ideas still need to be fle hed out and because lesbian groups and spaces that want to do better must continue to learn from these histories at the level of their information design.",
+    "after": ""
+   },
+   {
+    "loc": 28,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "The purpose of accounting for trans people’s places on the margins of lesbian feminist history is not to search out ways in which trans people might become politically aligned with lesbian community, a “habitual assumption” in social movement studies critiqued by Viviane Namaste.",
+    "sentence": "Rather, I argue that understanding how radical feminist movements regard trans people through the design and provision of information can show us how particular ideas about gender inform infrastructure design and determine how care is provisioned at a technological level.",
+    "after": "Historicizing these decisions matters because the complex lineages between lesbian and transfeminist ideas still need to be fle hed out and because lesbian groups and spaces that want to do better must continue to learn from these histories at the level of their information design."
+   },
+   {
+    "loc": 56,
+    "page": "p. 52",
+    "kind": "p",
+    "before": "Kevin Driscoll, Elisabeth Jay Friedman, Eden Medina, Benjamin Peters, and Fred Turner offer histories of network or cybernetic thinking, as a condition of possibility for the web.",
+    "sentence": "These histories attend to practices of dreaming about and working with network technologies, sometimes by amateurs, instead of emphasizing the research, design and market uptake of network technologies.",
+    "after": "Like sociomaterial science and technology studies, this approach emphasizes an artefact’s use, negotiation, and meaning–in–practice, over its initial design."
+   },
+   {
+    "loc": 56,
+    "page": "p. 52",
+    "kind": "p",
+    "before": "These histories attend to practices of dreaming about and working with network technologies, sometimes by amateurs, instead of emphasizing the research, design and market uptake of network technologies.",
+    "sentence": "Like sociomaterial science and technology studies, this approach emphasizes an artefact’s use, negotiation, and meaning–in–practice, over its initial design.",
+    "after": "Though it is not historical in focus, Marisa Elena Duarte’s study of Indigenous broadband development also emphasizes how communities incorporate hard-won network technologies into existing practices as an exercise of sovereignty and self-determination."
+   },
+   {
+    "loc": 133,
+    "page": "p. 129",
+    "kind": "p",
+    "before": "A dedicated hand needed to corral this information into something meaningful and usable for a nascent political movement.",
+    "sentence": "This indexer needed specialized knowledge to (1) find materials; (2) parse their meaning through the attribution of subject descriptions carefully selected to reflect movement values; (3) design an index or bibliography that was easy for lay-people to use; and (4) circulate the completed index through activist networks via specialized women’s presses.",
+    "after": "This work was an invested labor of love, far removed from the neutral classification schemes professional cata logers and indexers applied."
+   },
+   {
+    "loc": 134,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "In the first instance, it involves constantly making judgements—hopefully informed but nonetheless individual judgements—about what an article is actually about.”",
+    "sentence": "The circle did not efface the index maker from the center of interface design and maintenance; rather, it acknowledged her responsibility for shaping lesbian public formation by creating mediated conditions accountable to movement values.",
+    "after": ""
+   },
+   {
+    "loc": 201,
+    "page": "p. 197",
+    "kind": "p",
+    "before": "Roberto writes, “If [lo c] subject headings should represent people’s identities, it also should acknowledge that identities can be complex and temporal.”",
+    "sentence": "As Roberto, Anna Lauren Hoffmann, and Rena Bivens have argued, databases are both challenges to open-ended epistemologies and opportunities to design new schemes and systems that can think differently about subjects and their ontologies.",
+    "after": "Database and software design and revisions are opportunities for “severing and opening up possibilities for gendered life,” according to Bivens."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 68,
+  "input": "2b5ead7621c6",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "The ableist normativity pervading the culture affects the development and design of gaming technologies.",
+    "after": "Thus, chapter 5 morphs into a discussion of inclusive design, highlighting various design approaches to increasing accessibility in all technologies."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "The ableist normativity pervading the culture affects the development and design of gaming technologies.",
+    "sentence": "Thus, chapter 5 morphs into a discussion of inclusive design, highlighting various design approaches to increasing accessibility in all technologies.",
+    "after": "I consider how accessibility in technology affects marginalized users’ adoption of technologies, concluding that design centers white, able, masculine bodies."
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "",
+    "sentence": "Before the hackathon, James Shields, Xbox marketing manager, revealed the privilege inherent in their initial design processes, which led to the continual development of products for the privileged: “We assumed people would have two hands, we assumed they would have all their fingers and thumbs, we assumed they would have the strength to hold the controller for a long period of time.",
+    "after": "So, we knew we had to do something to address that.”"
+   },
+   {
+    "loc": 76,
+    "page": "PDF p. 76",
+    "kind": "p",
+    "before": "So, we knew we had to do something to address that.”",
+    "sentence": "While this privileged thinking led to a very narrow understanding of the user, inclusive design thinking leading up to the hackathon inspired other possibilities.",
+    "after": "After the hackathon, Xbox designers began collaborating with a diverse set of groups, including the Cerebral Palsy Foundation, the AbleGamers Charity, and Warfighter Engaged."
+   },
+   {
+    "loc": 79,
+    "page": "PDF p. 79",
+    "kind": "p",
+    "before": "As Sasha Costanza-Chock explains, most design processes reproduce inequalities structured by the matrix of domination, which was discussed previously.",
+    "sentence": "They approach this through “design justice,” which is a field of theory and practice “concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people.”",
+    "after": "Design justice focuses on how design reproduces, is reproduced by, or challenges the matrix of domination (white supremacy, heteropatriarchy, capitalism, and settler colonialism)."
+   },
+   {
+    "loc": 79,
+    "page": "PDF p. 79",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Sasha Costanza-Chock explains, most design processes reproduce inequalities structured by the matrix of domination, which was discussed previously.",
+    "after": "They approach this through “design justice,” which is a field of theory and practice “concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people.”"
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "",
+    "sentence": "I move design justice toward a discussion of not only design principles and intention but also design consequences.",
+    "after": "Design intentions can influence usability and accessibility concerns for a wide range of users."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "I move design justice toward a discussion of not only design principles and intention but also design consequences.",
+    "sentence": "Design intentions can influence usability and accessibility concerns for a wide range of users.",
+    "after": "There is a focus on the range of outcomes when the user interacts with the design."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 878,
+  "input": "af5868ec9437",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "“Do you build websites?”",
+    "sentence": "“Can you help me with a logo?” etc. I realize the term “design” is just as open-ended as “communication.”",
+    "after": "So is the subject matter of this book, “design thinking.”"
+   },
+   {
+    "loc": 27,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "",
+    "sentence": "Since the mid-2000s or so, the term design thinking has gained growing traction in the business world as well as the creative and computing fields.",
+    "after": "Thanks to mentions in trade publications like the Harvard Business Review, Wired and Forbes, design thinking has become not just a corporate buzzword but also piqued the interest of scholars who work at the intersection of technology development, software engineering, and social computing, among other industries."
+   },
+   {
+    "loc": 33,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Simon Baron-Cohen (2011) criticized that by making the human element invisible, user-centered design dehumanizes the user in interactive system experiences.",
+    "sentence": "Marina Yalanska (2018) of FAQ Design Platform (tubikstudio.com) took on the slight nuances in the two terms and observes that “human-centered design is the process of things deeply based on general natural characteristics and peculiarities of human psychology and perception” while “user-centered design is [a] more focused and concise version of human-centered design with deeper analysis of target audience” (n.p.).",
+    "after": "Yalanska summarized that human-centered design and user-centered design work hand-in-hand; the idea is to first design for humans, then define the needs of the specific category of users."
+   },
+   {
+    "loc": 84,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "It motivates researchers and designers to focus on the social implications of their project rather than mere productivity or profits.",
+    "sentence": "Project EMAR also embodied the spirit of social innovation as it situated social problems at the center of design, while bridging user experience design as a technical communication practice with robotics design as an area of interest for emerging technologies researchers (Rose & Björling, 2017).",
+    "after": ""
+   },
+   {
+    "loc": 85,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "",
+    "sentence": "Social innovation uses design as a platform to call out oppressive cultures and practices.",
+    "after": "In technical communication and across adjacent fields, ableism is often overlooked and manifests in many of our products and processes."
+   },
+   {
+    "loc": 91,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "It was clear in their responses that design thinking is first a mindset and methodology second.",
+    "sentence": "The way IDEO’s Tim Brown and Jocelyn Wyatt defined design thinking is of interest here: “Design thinking—inherently optimistic, constructive, and experiential—addresses the needs of the people who will consume a product or service and the infrastructure that enables it” (2010, n.p.).",
+    "after": "Maintaining a design thinking mindset not only enhances product quality but also helps companies advocate for users."
+   },
+   {
+    "loc": 122,
+    "page": "p. 101",
+    "kind": "p",
+    "before": "These processes are actualized by solutions-driven design methods that prioritize rapid prototyping, testing, and iteration.",
+    "sentence": "Design thinking is a more pertinent framework for collaboration with its emphasis on human-centered design as a governing principle.",
+    "after": "It augments lean and agile methodologies with a focus on empathy and participatory design methods where the users’ voice can be represented more prominently in the design outcomes."
+   },
+   {
+    "loc": 161,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "Kostelnick recognized some overlaps between traditional composition and the design process, and was set out to examine the affinities between the two movements.",
+    "sentence": "The common tenets shared by these movements include writing and designing as acts of discovery, writing and designing as recursive invention, the consciousness of experienced writers and designers of their own processes, and the role of audience analysis in defining writing and design problems.",
+    "after": "Kostelnick argued that composition scholars can learn from the methods crisis in design, and adopt a pluralistic approach to process pedagogy."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 21,
+  "input": "1ac59ec0ac5c",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "Returning to the metaphor of the beauty shop, I explore digital Black feminism as a business model and the implications of a consumer-based digital culture on the work of Black feminists online.",
+    "sentence": "The original influencers and branding experts, using Twitter, Instagram, and paid platforms like Patreon, digital Black feminists demonstrate their skill in designing brands for themselves online.",
+    "after": "They navigate the digital artifacts like viral videos and hashtags as incomplete stand-ins for rich critical analysis."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Clarke asks us to consider how braids happen rather than focusing on braids as the end product.",
+    "sentence": "Braiding requires sophisticated design decisions and technical expertise.",
+    "after": "As Nettrice Gaskins (2014) explains, “Certain patterns are amenable or open to algorithmic modeling— but ‘amenable’ need not connote the simple—a square is easier to simulate and repeat but the process of braiding, knitting or weaving these shapes into designs is more about complexity arising from simplicity."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Braiding requires sophisticated design decisions and technical expertise.",
+    "sentence": "As Nettrice Gaskins (2014) explains, “Certain patterns are amenable or open to algorithmic modeling— but ‘amenable’ need not connote the simple—a square is easier to simulate and repeat but the process of braiding, knitting or weaving these shapes into designs is more about complexity arising from simplicity.",
+    "after": "In other words, it is not the braid itself but the act of interweaving shapes that form the intricate patterns that unify the design” (para."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "",
+    "sentence": "Often scholarly attention to technological affordances focuses on how the materiality of technology—such as interface or design choices—shapes user behavior, an approach that has been criticized by some as verging on technological determinism.",
+    "after": "I embrace Peter Nagy and Gina Neff’s concept of imagined affordances, which highlights how affordances arise ‘between users’ perceptions, attitudes, and expectations; between the materiality and functionality of technologies; and between the intentions and perceptions of designers.’"
+   },
+   {
+    "loc": 108,
+    "page": "PDF p. 108",
+    "kind": "p",
+    "before": "Prototyping allows digital Black feminists to test out some parts of their Black feminist practice.",
+    "sentence": "In information science, engineering, and digital humanities, prototyping is essential in the design process.",
+    "after": "Rikke Dam and Teo Siang (2019), writing for the Interaction Design Foundation, define prototyping as “producing an early, inexpensive, and scaled down version of the product in order to reveal any problems with the current design."
+   },
+   {
+    "loc": 108,
+    "page": "PDF p. 108",
+    "kind": "p",
+    "before": "In information science, engineering, and digital humanities, prototyping is essential in the design process.",
+    "sentence": "Rikke Dam and Teo Siang (2019), writing for the Interaction Design Foundation, define prototyping as “producing an early, inexpensive, and scaled down version of the product in order to reveal any problems with the current design.",
+    "after": "Prototyping offers designers the opportunity to bring their ideas to life, to test the practicability of the current design, and to potentially investigate how a sample of users think and feel about a product.”"
+   },
+   {
+    "loc": 110,
+    "page": "PDF p. 110",
+    "kind": "p",
+    "before": "Black women contribute intellectually to Black feminist thought, regardless of their class status or profession.",
+    "sentence": "Outside the academy, Black women challenge elitism, push forward new theory, and design Black feminist praxis online.",
+    "after": "They are knowledgeable and willful agents in making changes to the extensions and possibilities of Black feminism, not technophobes confined by technologies they do not understand."
+   },
+   {
+    "loc": 110,
+    "page": "PDF p. 110",
+    "kind": "p",
+    "before": "They are knowledgeable and willful agents in making changes to the extensions and possibilities of Black feminism, not technophobes confined by technologies they do not understand.",
+    "sentence": "Focusing on the process is a useful reminder that digital Black feminism is a design endeavor by product developers, and there is labor and intentionality in creating Black feminist thought.",
+    "after": "However, prototyping also reminds us how bound up digital Black feminism is with capitalism."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 21,
+  "input": "29e9947a2ce1",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "pp. 8–9",
+    "kind": "p",
+    "before": "Language and images about the “welfare queen” were used to stoke misogynoiristic sentiment that was leveraged into actual legislation.",
+    "sentence": "The Personal Responsibility and Work Opportunity Act of 1996 was the culmination of years of Republican efforts to reduce the number of people using government assistance; it overhauled the welfare system by creating time limits for the use of assistance as well as work and marriage requirements, which were all designed to re-engineer Black women’s perceived dependence on the welfare state.",
+    "after": "The circulation of the myth of the welfare queen negatively impacted Black women by limiting federal resources that provided beneficiaries access to food, money, and healthcare."
+   },
+   {
+    "loc": 16,
+    "page": "pp. 8–9",
+    "kind": "p",
+    "before": "Instead of offering resources or assistance to help the women overcome their addictions, CRACK promoted sterilization through this small monetary incentive.",
+    "sentence": "Comparatively, the 2010s opioid crisis, which has disproportionately affected white communities, has not seen similar tactics designed to sterilize white women drug users.",
+    "after": "White users are not criminalized, and the crisis has been treated as a public health problem."
+   },
+   {
+    "loc": 23,
+    "page": "pp. 24–25",
+    "kind": "p",
+    "before": "Creatively manipulating and transforming social media platforms become means of harm reduction.",
+    "sentence": "Whether it is web series, websites, or witty hashtags, Black women and Black nonbinary, agender, and gender-variant folks are making room for themselves on digital platforms in ways that exceed what was ever intended by the engineers and corporations who designed and created these sites.",
+    "after": ""
+   },
+   {
+    "loc": 23,
+    "page": "pp. 24–25",
+    "kind": "p",
+    "before": "",
+    "sentence": "I build toward an understanding of digital alchemy as a praxis designed to create better representations for those most marginalized, through the implementation of networks of care beyond the boundaries of the digital from which it springs.",
+    "after": "Alchemy is the “science” of turning regular metals into gold."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "Cole also discussed the need for this imagined new social media platform to be more attentive to issues of accessibility from the outset, such that different disability communities can access the site easily and be integrated into the platform with non-disabled users.",
+    "sentence": "They wondered about what kind of design features would be needed to make a site that is accessible to Deaf and blind users at once.",
+    "after": "Cole also calls for a site that allows the users to create the subcategories and sections of the site, where they are not guided by the site creators to use the site in a certain way because of its design."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "They wondered about what kind of design features would be needed to make a site that is accessible to Deaf and blind users at once.",
+    "sentence": "Cole also calls for a site that allows the users to create the subcategories and sections of the site, where they are not guided by the site creators to use the site in a certain way because of its design.",
+    "after": "Giving some control back to the users opens possibilities that the creators of the site cannot envision."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "",
+    "sentence": "Cole evoked some of the principles of design justice.",
+    "after": "In communications theorist Sasha Costanza- Chock’s book Design Justice: Community-Led Practices to Build the Worlds We Need, they describe the practice as “an approach to design that is led by marginalized communities and that aims explicitly to challenge, rather than reproduce, structural inequalities.”"
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "Cole evoked some of the principles of design justice.",
+    "sentence": "In communications theorist Sasha Costanza- Chock’s book Design Justice: Community-Led Practices to Build the Worlds We Need, they describe the practice as “an approach to design that is led by marginalized communities and that aims explicitly to challenge, rather than reproduce, structural inequalities.”",
+    "after": "In the context of redesigning a social media platform, Cole calls for those most impacted by the structural failures of previous platforms to be at the center of the planning."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 233,
+  "input": "a1181219e37b",
+  "candidates": [
+   {
+    "loc": 54,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "Controlled?",
+    "sentence": "Designers who made web-specific fonts wanted to be paid for their work.",
+    "after": "They did not want their designs appropriated and used without some recognition and recompense."
+   },
+   {
+    "loc": 54,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "Designers who made web-specific fonts wanted to be paid for their work.",
+    "sentence": "They did not want their designs appropriated and used without some recognition and recompense.",
+    "after": "How was this to be controlled?"
+   },
+   {
+    "loc": 56,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "",
+    "sentence": "The phrase responsive design refers to design for multiple platforms— phone, tablet, or laptop—within the same website and its specifications.",
+    "after": "Because in many areas of the world and under diverse circumstances individuals access web content through a range of devices and networks, taking these access points into account is another critical aspect of ethical work."
+   },
+   {
+    "loc": 69,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "One common metadata standard is MARC (Machine Readable Cataloging) designed in the early years (1960s) of automated library systems’ standardized descriptions.",
+    "sentence": "MARC was originally used in local automated systems but was integrated into online catalogs as these emerged—thus the benefit of its original design as a machine-readable format.",
+    "after": "BIBFRAME, a new standard, was launched by the Library of Congress in about 2011, as a proposed replacement for MARC."
+   },
+   {
+    "loc": 189,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "",
+    "sentence": "Another crucial distinction is useful to keep in mind: Does the interface reveal the contents of a site (repository, system, exhibit, or other content) or does it structure the use of a site through cues for human actions and the behaviors of the design elements?",
+    "after": "Some combination of these two—showing what a site contains and giving instructions or cues for use—are at the basis of all interface designs."
+   },
+   {
+    "loc": 189,
+    "page": "p. 174",
+    "kind": "p",
+    "before": "Another crucial distinction is useful to keep in mind: Does the interface reveal the contents of a site (repository, system, exhibit, or other content) or does it structure the use of a site through cues for human actions and the behaviors of the design elements?",
+    "sentence": "Some combination of these two—showing what a site contains and giving instructions or cues for use—are at the basis of all interface designs.",
+    "after": "This is true whether you are giving voice instructions or navigating with a tactile device."
+   },
+   {
+    "loc": 202,
+    "page": "p. 187",
+    "kind": "p",
+    "before": "",
+    "sentence": "One consideration for all interface design is how it will wear over time.",
+    "after": "This is true from a technical standpoint, of course, as many plug-ins go obsolete and other features cease working."
+   },
+   {
+    "loc": 203,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "So are the exercises of trying to think across cultures and communities.",
+    "sentence": "The fluency and flexibility of interface design is an advantage and a challenge.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 239,
+  "input": "36eae463ee5c",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "pp. 71–73",
+    "kind": "p",
+    "before": "A live complex computer network—its uses, its meaning, its consequences—is not what it looks like on paper.",
+    "sentence": "A network design is defined visually and spatially through architectures, assemblies, gaps, links, maps, nodes, points, topologies (such as centralized spoke-and-hub, decentralized, distributed mesh, free scale, daisy chain), etc. By contrast, the internet in situ is more than the sum of its complex uses and users: thousands of thousands of thousands of users shuffling data between organizations for as many reasons—or no reason at all—at any given time.",
+    "after": ""
+   },
+   {
+    "loc": 44,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "",
+    "sentence": "Network designs come with a second-order recognition problem that stems from the fact that all sufficiently large networks are necessarily the products of multiparty collaborations.",
+    "after": "(It takes a lot of groups to make a network.)"
+   },
+   {
+    "loc": 44,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "Therefore, it is impossible to view a network from any single perspective.",
+    "sentence": "Instead, we insist on seeing too much in their network designs.",
+    "after": "By believing that we embed values into the universal design of networks, we wrongly attribute explanatory power to such design values."
+   },
+   {
+    "loc": 44,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "",
+    "sentence": "This essay critically considers and compares early attempts to design large-scale computer networks, including the internet.",
+    "after": "In the 1960s and 1970s, engineers designed distributed packet-switching computer networks after the American values at the time of surviving a nuclear war, modeling democracy, market institutions, and collective smarts."
+   },
+   {
+    "loc": 44,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "This essay critically considers and compares early attempts to design large-scale computer networks, including the internet.",
+    "sentence": "In the 1960s and 1970s, engineers designed distributed packet-switching computer networks after the American values at the time of surviving a nuclear war, modeling democracy, market institutions, and collective smarts.",
+    "after": "Network companies continue to fashion themselves after the image of the society they reflect: perhaps no other company does this more than Facebook, a self-professed “community” of nearly two and a half billion active users that promises (like much in your cable company mailer) to increase your contact with loved ones, float you in an ocean of entertainment, amplify your voice on forums, and flatten your access to goods and services."
+   },
+   {
+    "loc": 45,
+    "page": "pp. 76–77",
+    "kind": "p",
+    "before": "",
+    "sentence": "The remainder of this essay compares the stated design values and actual institutional practices across the histories of three national computer network projects since 1959: the Soviet OGAS project, the Chilean Project Cybersyn, and the American ARPANET.",
+    "after": "First, on the eastern side of the iron curtain at the height of the Cold War tech race, Soviets were designing major computer network projects dedicated to explicitly civilian purposes: namely, Soviet scientists and statesmen sought to upgrade the entire paper-based command economy to the speed of electronic socialism, but what happened next simply does not follow the high-noon scripts for Cold War showdowns."
+   },
+   {
+    "loc": 45,
+    "page": "pp. 76–77",
+    "kind": "p",
+    "before": "The remainder of this essay compares the stated design values and actual institutional practices across the histories of three national computer network projects since 1959: the Soviet OGAS project, the Chilean Project Cybersyn, and the American ARPANET.",
+    "sentence": "First, on the eastern side of the iron curtain at the height of the Cold War tech race, Soviets were designing major computer network projects dedicated to explicitly civilian purposes: namely, Soviet scientists and statesmen sought to upgrade the entire paper-based command economy to the speed of electronic socialism, but what happened next simply does not follow the high-noon scripts for Cold War showdowns.",
+    "after": "The complex institutional conditions in which these Soviet network projects tried to take root tell a different story that scrambles and refreshes mainstream network thinking since the Cold War."
+   },
+   {
+    "loc": 134,
+    "page": "pp. 237–238",
+    "kind": "p",
+    "before": "BioShock builds on an approach to telling stories through spatial models often called “environmental storytelling.”",
+    "sentence": "As players move through the game, they are exploring an underwater city, Rapture, designed as an Objectivist utopia.",
+    "after": "They can see—through structural collapses, broken-down equipment, graffiti, discarded protest signs, and more—that the experiment failed."
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 351,
+  "input": "c6042a4bd87f",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "When understood through what I call an intersectional and interdependent orientation, a methodology that draws from both critical race studies and disability studies, language diversity can be used as a point of analysis, intervention, and collaboration in technical communication—allowing researchers to continue to develop critical frameworks for designing and sharing tools, technologies, platforms, pedagogies, and projects that work toward language access.",
+    "after": "At the same time, I argue that accomplishing language access is just one component of designing a successful multilingual experience and that technical communication researchers should continue to acknowledge their own positionalities when working with communities that do not communicate predominantly in standardized white English (Jones and Williams 2018)."
+   },
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "In her foundational work Cross-Cultural Technology Design, Huatong Sun (2012) explains that when cross-cultural work is approached through positivist orientations that value efficiency over depth, researchers can (sometimes unintentionally) address only the “tip of the iceberg” in cross-cultural interactions.",
+    "after": "That is, when cross-cultural design research relies on practical checklists and standardized protocols, researchers can adopt or even reproduce cultural stereotypes (Ding 2020; Jones and Williams 2018) instead of localizing technologies and designs successfully across cultures and contexts."
+   },
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "In her foundational work Cross-Cultural Technology Design, Huatong Sun (2012) explains that when cross-cultural work is approached through positivist orientations that value efficiency over depth, researchers can (sometimes unintentionally) address only the “tip of the iceberg” in cross-cultural interactions.",
+    "sentence": "That is, when cross-cultural design research relies on practical checklists and standardized protocols, researchers can adopt or even reproduce cultural stereotypes (Ding 2020; Jones and Williams 2018) instead of localizing technologies and designs successfully across cultures and contexts.",
+    "after": "Similar arguments have been made by disability studies scholars who argue that access in technical communication design should not be reduced to simple checklists and protocols, since notions of access should be rhetorically situated and localized (Hitt 2018; Yergeau et al. 2013; Zdenek 2015)."
+   },
+   {
+    "loc": 32,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "",
+    "sentence": "Based on the introduction of this intersectional, interdependent framework, chapter 3, “Research Design,” sets up the research design for this project, where I outline the specific methods I co-selected with my collaborators and participants to study what it means to conduct technical communication research in multilingual contexts.",
+    "after": "In this chapter, I connect my project to ongoing work in technical communication in areas such as human-centered design, user experience, participatory design, and localization."
+   },
+   {
+    "loc": 32,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "Based on the introduction of this intersectional, interdependent framework, chapter 3, “Research Design,” sets up the research design for this project, where I outline the specific methods I co-selected with my collaborators and participants to study what it means to conduct technical communication research in multilingual contexts.",
+    "sentence": "In this chapter, I connect my project to ongoing work in technical communication in areas such as human-centered design, user experience, participatory design, and localization.",
+    "after": "I also introduce the research questions this book seeks to answer, which predominantly consist of: what does technical communication look like in multilingual contexts, and how can technical communicators design multilingual experiences that benefit (rather than ignore or harm) the multifaceted identities and experiences of linguistically and ethnically diverse communities?"
+   },
+   {
+    "loc": 75,
+    "page": "p. 59",
+    "kind": "p",
+    "before": "",
+    "sentence": "While working toward fluid language models in technical communication is a necessary goal, establishing fluid language practices in both research methodologies and technology design is a complicated process.",
+    "after": "Both societal infrastructures and technological interfaces embrace binary approaches to language practice, positioning people, keyboard characters, writing systems, and interfaces as “either” in one language and “or” in another (Pérez-Quiñonez and Carr Salas 2021)."
+   },
+   {
+    "loc": 120,
+    "page": "p. 104",
+    "kind": "p",
+    "before": "For the purposes of this project, we (the workshop facilitators) initially chose to focus on participatory design as the framework for our workshop due to this method’s potential for broad engagement.",
+    "sentence": "Rather than simply facilitating lectures or technology workshops that focused on learning a single tool at a time, we chose participatory design as a way to shape the workshop’s structure along with, rather than just for, students.",
+    "after": "Since all the workshop participants were graduate students and/or professionals, we knew each participant would have their own particular interests, and we didn’t want to impose a single project or focus for the workshops without our participants’ input."
+   },
+   {
+    "loc": 186,
+    "page": "p. 170",
+    "kind": "p",
+    "before": "An intersectional, interdependent approach to multilingual technical communication, in this case, can help designers see that not all content in every part of an interface needs to be in the same language and that not all content needs to be translated into every language.",
+    "sentence": "Instead, as Margaret Price and Stephanie L. Kerschbaum (2016) explain in their discussion of (in)accessibility in research methodologies, when designing in multiple languages, designers are always making access choices that will impact various stakeholders in different ways.",
+    "after": "Rather than aim for complete accessibility (which is impossible and can be harmful), working to design multilingual experiences rather than perfectly translated interfaces can push designers to find ways of embracing the fluidity of language to develop tools and technologies that don’t follow standardized translation practices."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 129,
+  "input": "2602509429db",
+  "candidates": [
+   {
+    "loc": 9,
+    "page": "pp. xi–xii",
+    "kind": "p",
+    "before": "Its other efforts involve public art installations, community-based archives, and open data repositories, each rooted in a particular place and led by the people who best know its history and are therefore best positioned to imagine its future.",
+    "sentence": "Here we see digital humanities practices blending with public history, participatory design, and civic art-making and becoming richer and more capacious in the process.",
+    "after": "Projects like these, which are grounded in history, culture, and context and which open up possibilities that extend beyond university walls, represent one of the most compelling models of the work that DH can do."
+   },
+   {
+    "loc": 28,
+    "page": "pp. 31–32",
+    "kind": "p",
+    "before": "To be sure, powerful arguments are occasionally made about the importance of digitization and the intellectual and physical labor it entails.",
+    "sentence": "In the 2012 book Digital_Humanities, the authors classify digitization among “the basic building blocks of digital activity” and argue that “designing and building digital projects depend on knowledge of these fundamentals” (Burdick, Drucker, Lunenfeld, and Schnapp, 17).",
+    "after": "But in general, these calls for revaluation were overshadowed by more-heated arguments about coding, making, hacking, and yacking that rocked DH in the mid-2010s (Ramsay; Nowviskie 2016)."
+   },
+   {
+    "loc": 38,
+    "page": "pp. 47–48",
+    "kind": "p",
+    "before": "To be sure, the set of digital humanities (DH) practitioners using both Python visualizations and right-to-left (RTL) scripts like Arabic might be small.",
+    "sentence": "But the subject is not, in fact, niche at all: Many thousands of people in the world are interested in designing data visualizations that involve Arabic characters.",
+    "after": "Furthermore, projects supporting RTL scripts have potential user bases that number in the hundreds of millions—users who read and write not only in Arabic but also in Lahnda, Urdu, Persian, Hebrew, and numerous other languages."
+   },
+   {
+    "loc": 38,
+    "page": "pp. 47–48",
+    "kind": "p",
+    "before": "Furthermore, projects supporting RTL scripts have potential user bases that number in the hundreds of millions—users who read and write not only in Arabic but also in Lahnda, Urdu, Persian, Hebrew, and numerous other languages.",
+    "sentence": "And yet most visualization libraries and most software in general is typically designed with only one direction in mind: left-to-right (LTR).",
+    "after": "The persistent frustrations of those who read and write RTL languages in digital environments are reflected in the enormous number of GitHub bug reports, feature requests, and software patches related to “RTL” and “bidi” (bidirectional text, mixing left-to-right and right-to-left scripts)."
+   },
+   {
+    "loc": 44,
+    "page": "pp. 56–57",
+    "kind": "p",
+    "before": "",
+    "sentence": "The creation of an Arabic-language interface to the text analysis and visualization platform Voyant Tools serves as a good case study demonstrating the insufficiency of thinking of localization as merely a transfer between two languages, as well as some of the problems associated with the lack of an internationalization strategy by design.",
+    "after": "Internationalization is a process related to localization, also defined by the W3C, in which software is first designed to be locale-indifferent before it is localized to meet the regional, linguistic/cultural, and technical requirements of each locale."
+   },
+   {
+    "loc": 83,
+    "page": "pp. 126–127",
+    "kind": "p",
+    "before": "As Indigenous digital humanities and data studies have explained for years, prioritizing community cultural protocols often puts a digital project at odds with open-access and open-data principles.",
+    "sentence": "Mukurtu is perhaps the best-known example of a tiered-access and contextual content management system designed according to Indigenous community priorities, or what Mukurtu cocreator Kimberly Christen has called the “sociality of information” (2887).",
+    "after": "We might also look to the Pollution Reporter app, designed in 2019 by the Environmental Justice Lab at University of Toronto—co-led by environmental researchers and land protectors Vanessa Gray and Beze Gray (Anishinaabe, Aamjiwnaang First Nation), Michelle Murphy (Métis, Winnipeg), and TRU Lab manager Kristen Bos (urban Métis), along with lab members Reena Shadaan, and Fernanda Yanchapaxi."
+   },
+   {
+    "loc": 83,
+    "page": "pp. 126–127",
+    "kind": "p",
+    "before": "Mukurtu is perhaps the best-known example of a tiered-access and contextual content management system designed according to Indigenous community priorities, or what Mukurtu cocreator Kimberly Christen has called the “sociality of information” (2887).",
+    "sentence": "We might also look to the Pollution Reporter app, designed in 2019 by the Environmental Justice Lab at University of Toronto—co-led by environmental researchers and land protectors Vanessa Gray and Beze Gray (Anishinaabe, Aamjiwnaang First Nation), Michelle Murphy (Métis, Winnipeg), and TRU Lab manager Kristen Bos (urban Métis), along with lab members Reena Shadaan, and Fernanda Yanchapaxi.",
+    "after": "The mobile app is designed to track and report pollution in Ontario’s Chemical Valley, with a particular focus on “the Imperial Oil Refinery of Sarnia, one of the oldest operating refineries in the world, which is on the traditional Anishinaabek territory, and particularly the land of Aamjiwnaang First Nation” (Gray et al.)."
+   },
+   {
+    "loc": 229,
+    "page": "pp. 376–377",
+    "kind": "p",
+    "before": "However, what became quickly evident was that what was “counted” by overseers as within the actor-network of CS1 consistently shifted.",
+    "sentence": "For example, when Critical CS1 began, the research team was told that Computer Science 1 was not about teaching programming; rather, that course is designed as a foundational introduction to computer science principles, such as abstraction, basic logic gates, basic database parsing, and problem-solving skills.",
+    "after": "That students learned the Python programming language when exploring these epistemic dimensions was considered almost tangential."
+   }
+  ]
+ }
+]

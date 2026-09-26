@@ -1,0 +1,888 @@
+[
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 45,
+  "input": "dfad6d947b56",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "Despite the profile of the panel, there was a clear sense that a feminist conversation about infrastructure was not valued in the same way as other similar panels at the event.",
+    "sentence": "While we felt that exclusion fairly keenly, we also were aware that as members of a panel of white women from Canada, the United States, and Australia, we were and are not subject to the full force of exclusion that our trans and women of color colleagues systematically experience.",
+    "after": "Indeed, the existence of the “diversity” track and its location was particularly notable given the extensive efforts of scholars of color in particular to ensure that the event was not a “parade of (white) patriarchs” as was the opening of the same annual meeting a year before in Australia."
+   },
+   {
+    "loc": 53,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "The concept of the human has historically been used to delineate who is less than human, who is disposable, who is killable.",
+    "sentence": "Black people, women, trans people, queers, witches, and indigenous people have all been defined as less than human at different times by different regimes of knowledge (Federici; Mignolo).",
+    "after": "In this essay, I consider the stakes of the digital humanities and the assumptions the field rests upon."
+   },
+   {
+    "loc": 54,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "I add to this set of tools with [ 25 my own method of algorithmic analysis, using the figure of the android from science fiction.",
+    "sentence": "I relate to androids as a nonreproductive trans woman who is hacking her own internal algorithms.",
+    "after": "These ideas are mobilized through examples of practice-based research using algorithmic media to resist the logics of white supremacist, cis-hetero-patriarchal dominance over all those deemed less than human, including animals, plants, and the environment."
+   },
+   {
+    "loc": 54,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "Puar advocates scholarship that uses both intersectional and assemblage approaches, rejecting a model of scholarship as competition that would necessitate one approach pushing out the other.",
+    "sentence": "In this essay, I extend Haraway’s and Puar’s dialogue by stitching together the image of an android goddess from the experiences and concerns of trans women of color.",
+    "after": "Androids cannot biologically reproduce, and neither can many trans women, but our code can self-replicate infinitely."
+   },
+   {
+    "loc": 54,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "In this essay, I extend Haraway’s and Puar’s dialogue by stitching together the image of an android goddess from the experiences and concerns of trans women of color.",
+    "sentence": "Androids cannot biologically reproduce, and neither can many trans women, but our code can self-replicate infinitely.",
+    "after": "Learning from examples seen in science fiction, an android is a figure of rebellion, deemed less than human but striving to be more than human."
+   },
+   {
+    "loc": 55,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "",
+    "sentence": "The UNSTOPPABLE project has the goal of creating low-cost bulletproof clothing for black trans women, one of the groups most targeted for homicide among LGBTQ people today (NCAVP, 6).",
+    "after": "The National Coalition of Anti-Violence Projects (NCAVP) reported that as of August 2017, there were more anti-LGBTQ homicides in 2017 than any other year they had ever recorded in their twenty-year history as an organization (5)."
+   },
+   {
+    "loc": 178,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "There is, to our minds, however, a worrying strain within this return to radical feminism.",
+    "sentence": "With this return has come trans* exclusionary radical feminism, characterized by the purposeful exclusion of trans* women.",
+    "after": "Excluding trans* women from women’s groups is not a case of women excluding people that sexism is designed to benefit."
+   },
+   {
+    "loc": 178,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "With this return has come trans* exclusionary radical feminism, characterized by the purposeful exclusion of trans* women.",
+    "sentence": "Excluding trans* women from women’s groups is not a case of women excluding people that sexism is designed to benefit.",
+    "after": "Transitioning is a radical leave-taking of systems of oppression that offer (although seldom deliver) rewards for the quiescence of people at whose expense it is maintained."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 2,
+  "input": "acc9d9c94d9a",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "Think of the proliferation of nicknames, an informal mechanism that allows us to work around legal systems that try to fix us in place.",
+    "sentence": "We do not have to embrace the status quo, even though we must still deal with the sometimes dangerous consequences of being illegible, as when a transgender person is “deadnamed” — called their birth name rather than chosen name.",
+    "after": "Codes, in short, operate within powerful systems of meaning that render some things visible, others invisible, and create a vast array of distortions and dangers."
+   },
+   {
+    "loc": 173,
+    "page": "p. 161",
+    "kind": "p",
+    "before": "",
+    "sentence": "Thirty minutes after proposing an idea for an app “that converts your daily change into bail money to free black people,” Compton, California-born Black trans {E) King Kortney, PhD",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 10,
+  "input": "c22aee0a0c95",
+  "candidates": [
+   {
+    "loc": 39,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "true for a transgender man with a low socioeconomic status.",
+    "after": "We cannot analyze"
+   },
+   {
+    "loc": 92,
+    "page": "p. 65",
+    "kind": "p",
+    "before": "",
+    "sentence": "• Intersectional: What it means to be transgender is different for a person who is white than for a person of color and for a person with disabilities than for an able-bodied person",
+    "after": ""
+   },
+   {
+    "loc": 96,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "People whose combination of identity markers conflict with mythical norms often have a precarious, dangerous, and/or tense relationship with some of the social groups to which they ascribe.",
+    "sentence": "One example is the utter (often violent) rejection of lesbian, gay, bisexual, transgender, queer (LGBTQ) people from their racial social groups, family social groups, or community social groups: Anzaldúa (2007) explains, “As a lesbian I have no race, my own people disclaim me” (p. 102); she writes similarly about a gay man of color who is rejected, stabbed, and beaten by his “brothers.”",
+    "after": "A less extreme but no-less-burdensome example is detailed by legal scholars Devon Carbado and Mito Gulati (2000)."
+   },
+   {
+    "loc": 102,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "",
+    "sentence": "of color, transgender women, women with disabilities, poor women.",
+    "after": "As hooks"
+   },
+   {
+    "loc": 119,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "That is, individuals who are part of an oppressed group may be further oppressed within their own group depending on intersecting sociocultural identity markers.",
+    "sentence": "For example, a Latinx transgender woman may be othered within the Latinx community due to her gender identity.",
+    "after": "And so, privilege is tricky and requires an intersectional approach to understanding its instantiations."
+   },
+   {
+    "loc": 139,
+    "page": "p. 112",
+    "kind": "p",
+    "before": "But this is not our position: Rather (like Patricia Hill Collins), we think addressing oppression can happen in small, indirect ways.",
+    "sentence": "For some of our colleagues—those who are first generation college students, transgender, or otherwise multiply marginalized—simply existing and persisting is a challenge to the systems of oppression around us in part because existing and persisting often requires building or supporting coalitions.",
+    "after": "Others with more privilege can and must do more to make the field and the work we do more inclusive."
+   },
+   {
+    "loc": 196,
+    "page": "p. 169",
+    "kind": "p",
+    "before": "",
+    "sentence": "THEY SAY: I’d love to read and cite more work by marginalized scholars in the field, but there are just not enough Black, Indigenous, minority, transgender, scholars with disabilities, etc. in our field.",
+    "after": ""
+   },
+   {
+    "loc": 198,
+    "page": "p. 171",
+    "kind": "p",
+    "before": "and underrepresented groups in our field.",
+    "sentence": "These groups include colleagues who are racial and ethnic minorities; colleagues who are lesbian, gay, queer, transgender, or bisexual; colleagues with disabilities and colleagues who are neurodiverse; among others.",
+    "after": "You will note, however, the omission of white women from this list, an indication that they are not underrepresented in the field, though we certainly (as members of Women in Technical Communication) acknowledge the ways women continue to face sexism in professional environments and elsewhere."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 3,
+  "input": "753aeac6c4e7",
+  "candidates": [
+   {
+    "loc": 225,
+    "page": "p. 209",
+    "kind": "p",
+    "before": "And it takes work to rearrange our bodies, to rearrange ourselves.",
+    "sentence": "Stryker offers her own rearrangement by refiguring transgender embodiment as an affinity to monsters, to those who have been deemed monstrous, speaking back to Frankenstein in words sharpened by rage.",
+    "after": "Queer use: when we aim to shatter what has provided a container."
+   },
+   {
+    "loc": 241,
+    "page": "p. 225",
+    "kind": "p",
+    "before": "Who do you become then?",
+    "sentence": "Reina Gossett, Eric A. Stanley, and Johanna Burton explore how trans people are now “offered many ‘doors,’ ” that is, “entrances to visibility, to resources, to recognition, and to understanding” (2017, xxiii).",
+    "after": "They show how some doors can be traps that require accommodation to existing norms."
+   },
+   {
+    "loc": 243,
+    "page": "p. 227",
+    "kind": "p",
+    "before": "Consider the Stonewall uprising.",
+    "sentence": "I think of Sylvia Rivera, who, as a trans woman of color, tends not to be remembered in how those events are remembered.",
+    "after": "In an interview, she describes for us what happened on that day."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 24,
+  "input": "1beeaf50183d",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "The most grave and urgent manifestation of the matrix of domination is within the interpersonal domain, in which cis and trans women become the victims of violence and murder at the hands of men.",
+    "after": "Although law and policy (the structural domain) have recognized the crime of femicide, no specific policies have been implemented to ensure adequate information collection, either by federal agencies or local authorities."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "One recent alternative to the binary, developed by Public Health England in collaboration with LGBTQ+ organizations in the United Kingdom, is in evidence in figure 4.5.",
+    "sentence": "This two-item questionnaire was designed for use in routine national surveillance of HIV in England and Wales to determine self-identified gender and cis or trans status in a public health context.",
+    "after": "The designers offer three named genders, a catch-all fourth category, and an option for not disclosing gender identity."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "In a separate question, they ask about gender at birth, again giving an option for not disclosing.",
+    "sentence": "The survey design uses sensitive wording and inclusive terminology to allow trans and genderqueer populations to be counted.",
+    "after": "These questions are being considered for expanded use across other national health records and data collection systems in the United Kingdom."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "But being represented also means being made visible, and being made visible to the matrix of domination—which continuously develops laws, practices, and cultural norms to police the gender binary—poses significant risks to the health and safety of minoritized groups.",
+    "sentence": "Under the current administration in the United States, for example, transgender people are banned from serving in the military and, once identified as such, denied access to certain forms of healthcare.",
+    "after": "This demonstrates some of the risks of having one’s gender counted as something other than man or woman—risks that can occur in many contexts, depending on what data are being collected, by whom, and whether they are personally identifiable (or easily deanonymized)."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "This demonstrates some of the risks of having one’s gender counted as something other than man or woman—risks that can occur in many contexts, depending on what data are being collected, by whom, and whether they are personally identifiable (or easily deanonymized).",
+    "sentence": "It’s also important to recognize how trans and nonbinary people may possibly be identified even within otherwise large datasets simply because there are fewer of them relative to the larger population.",
+    "after": "This possibility poses additional risks, in the form of unwanted attention in the case of people who would prefer not to disclose their gender identity, or in the form of discrimination, violence, or even imprisonment, depending on the place they live."
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Depending on the circumstances and the institution that is doing the collecting, the most ethical decision can vary.",
+    "sentence": "It might be to avoid collecting data on whether someone is cis or transgender, to make all gender data optional, to not collect gender data at all, or even to stick with binary gender categories.",
+    "after": "Social computation researcher Oliver Haimson has asserted that “in most non-health research, it’s often not necessary to know participants’ assigned gender at birth.”"
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Social computation researcher Oliver Haimson has asserted that “in most non-health research, it’s often not necessary to know participants’ assigned gender at birth.”",
+    "sentence": "Heath Fogg Davis agrees: his book Beyond Trans argues that we don’t need to classify people by sex on passports and licenses, for bathrooms or sports, among other things.",
+    "after": "By contrast, J. Nathan Matias, Sarah Szalavitz, and Ethan Zuckerman chose to keep gender data in binary form for their application FollowBias, which detects gender from names, in order to avoid making a person’s gender identity public against their wishes."
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "The piece presents three categories: cis male, cis female, and trans + nonbinary.",
+    "sentence": "When you click on “trans + nonbinary,” as in figure 4.7, the interactive map displays all of the districts in grey, because “0 people in Congress are like you.”",
+    "after": "The absence of data becomes an important takeaway, as meaningful as the data themselves."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 54,
+  "input": "114d37bcfb9b",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "My broader goal is to advance the growing conversation about the pitfalls and possibilities of design as a tool for social transformation.",
+    "sentence": "I’ll begin by sharing a story about my own embodied experience of trans* erasure, an experience that I believe contains valuable insights for nearly all design domains.",
+    "after": ""
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "At the AMC, over two thousand people—media makers, designers, activists and organizers, software developers, artists, filmmakers, researchers, and all kinds of cultural workers—gather each June to share ideas and strategies for how to create a more just, creative, and collaborative world.",
+    "sentence": "As a nonbinary, trans*, femme-presenting person, my time at the AMC was deeply liberating.",
+    "after": "It’s a conference that strives harder than any that I know of to be inclusive of all kinds of people, including queer, trans*, intersex, and gender-non-conforming (QTI/GNC) folks."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "It’s Sunday, February 5, 2017, sixteen days since Donald Trump was sworn into office as president of the United States of America.",
+    "sentence": "A crowd of over one thousand queer and trans* folks, immigrant rights activists, and our family, friends, and allies has assembled at Government Center.",
+    "after": "Huge rainbow LGBTQI+ flags and smaller pink, blue, and white trans* flags flap in the frigid February air, alongside the black, red, and white banners of the antifascist action contingent."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "A crowd of over one thousand queer and trans* folks, immigrant rights activists, and our family, friends, and allies has assembled at Government Center.",
+    "sentence": "Huge rainbow LGBTQI+ flags and smaller pink, blue, and white trans* flags flap in the frigid February air, alongside the black, red, and white banners of the antifascist action contingent.",
+    "after": "I climb the steps, carrying my djembe; I’ve been asked to help drum and lead chants during the march over to Copley Square."
+   },
+   {
+    "loc": 50,
+    "page": "PDF p. 50",
+    "kind": "p",
+    "before": "For example, consider the gender identity and sexual orientation options on the popular dating site Tinder.",
+    "sentence": "In response to pressure from users with gender identities other than “man” or “woman,” in 2016 the site began to allow selection of additional gender identities for display, such as trans*, nonbinary, and so on.",
+    "after": "However, these new options only affect the displayed label in the gender field; they are not useful for the actual searching and matching function of the site."
+   },
+   {
+    "loc": 50,
+    "page": "PDF p. 50",
+    "kind": "p",
+    "before": "In the settings that determine who will see the user’s profile, the options remain constrained to Man and Woman.",
+    "sentence": "Similarly, in the setting that determines which subset of profiles the user will see, there is no option to specifically see the profiles of users who have selected trans*, nonbinary, or other gender identity labels.",
+    "after": "In other words, the change is primarily cosmetic; it does not meet the variance in user product specification of interest to many trans*, GNC, or nonbinary users."
+   },
+   {
+    "loc": 128,
+    "page": "PDF p. 128",
+    "kind": "p",
+    "before": "Trans*.",
+    "sentence": "This book uses trans* to broadly include people whose gender identity differs from the gender they were assigned at birth.",
+    "after": "Trans* may include (among other identities and communities) transgender, transfeminine, transmasculine, MTF (male-to-female), FTM (female-to-male), genderqueer, gender-non-conforming, gender-variant and third gender/sex, transsexual, two-spirit, and transvestite/cross-dresser."
+   },
+   {
+    "loc": 128,
+    "page": "PDF p. 128",
+    "kind": "p",
+    "before": "This book uses trans* to broadly include people whose gender identity differs from the gender they were assigned at birth.",
+    "sentence": "Trans* may include (among other identities and communities) transgender, transfeminine, transmasculine, MTF (male-to-female), FTM (female-to-male), genderqueer, gender-non-conforming, gender-variant and third gender/sex, transsexual, two-spirit, and transvestite/cross-dresser.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 214,
+  "input": "0b87e9e1eae2",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "In chapter 3 we center the hashtag #GirlsLikeUs, which marks a particularly compelling network of transgender women who trouble negative societal representations and build community through storytelling and organizing.",
+    "after": "Though not overtly intended for a mainstream audience, #GirlsLikeUs allows followers a window into the lives of trans women beyond media stereotypes."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "In chapter 3 we center the hashtag #GirlsLikeUs, which marks a particularly compelling network of transgender women who trouble negative societal representations and build community through storytelling and organizing.",
+    "sentence": "Though not overtly intended for a mainstream audience, #GirlsLikeUs allows followers a window into the lives of trans women beyond media stereotypes.",
+    "after": "This chapter explores the creation of the hashtag and how it has been used, noting the most frequent topics and the ways in which the tweets signal an ingroup conversation that is open to the public."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "",
+    "sentence": "Trans women’s advocacy online and in popular culture epitomizes the complications and possibilities of digital counterpublics.",
+    "after": "While many trans women are members of the larger LGBTQ and feminist counterpublics, and though trans women of color occupy important roles in race- and ethnicity-based counterpublics, they still occupy marginalized positions in all three."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "Trans women’s advocacy online and in popular culture epitomizes the complications and possibilities of digital counterpublics.",
+    "sentence": "While many trans women are members of the larger LGBTQ and feminist counterpublics, and though trans women of color occupy important roles in race- and ethnicity-based counterpublics, they still occupy marginalized positions in all three.",
+    "after": "As Catherine Squires has detailed, counterpublics “emerge not only in reaction to oppression from the state or dominant public spheres, but also in relation to the internal politics of that particular [counter]public sphere and its material and cultural resources.”"
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "Gutiérrez’s words, and her interruption of President Barack Obama, were met with harsh criticism from many organizations that bill themselves as central to LGBTQ equality efforts.",
+    "sentence": "Gutiérrez was chastised for a “lack of civility” and “rudeness” by the LGBTQ magazine The Advocate, which compared her asking Obama to address the torture and rape of transgender immigrants in detention centers to Kanye West’s infamous interruption of Taylor Swift at the 2009 MTV Video Music Awards.",
+    "after": "For trans women, the moment was part of a painful pattern of derision directed toward members of the LGBTQ counterpublic to which they belong."
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "Gutiérrez was chastised for a “lack of civility” and “rudeness” by the LGBTQ magazine The Advocate, which compared her asking Obama to address the torture and rape of transgender immigrants in detention centers to Kanye West’s infamous interruption of Taylor Swift at the 2009 MTV Video Music Awards.",
+    "sentence": "For trans women, the moment was part of a painful pattern of derision directed toward members of the LGBTQ counterpublic to which they belong.",
+    "after": ""
+   },
+   {
+    "loc": 51,
+    "page": "PDF p. 51",
+    "kind": "p",
+    "before": "",
+    "sentence": "Beyond explicitly political and activist spaces, the representation of trans women as disruptive— even dangerous—to civil society is evident in how trans women are portrayed on our nation’s big and small screens.",
+    "after": "The representation of trans women, and trans women of color in particular, in news stories and popular culture has long been one of stereotyped hypersexual tricksters whose victimization at the hands of cisgender men is framed as a natural or deserved consequence of their disruptive identities."
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "",
+    "sentence": "Despite this visibility and progress on specific trans issues, and despite Time magazine’s proclamation in 2014, along with a cover featuring Laverne Cox, that the United States had reached a “transgender tipping point,” a “quantitative increase in media attention,” as Jamie Capuzza notes, “did not equate with challenges to cisnormativity.”",
+    "after": "In fact, trans women continue to negotiate unique threats to life and health, which are further multiplied at the intersections of race, class, and sexuality."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 116,
+  "input": "25a119946e92",
+  "candidates": [
+   {
+    "loc": 27,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "Studying late twentieth-century lesbian-feminist social movement archives often means confronting transphobia and transmisogyny at the level of organizational policy or as regular speech acts made between activists.",
+    "sentence": "At their best, these movement archives also document the mundane ways lesbian feminists carved out spaces for trans people with the choices they make about information.",
+    "after": "As Susan Stryker has argued, “There was nothing monolithic about second wave feminist attitudes toward trans issues."
+   },
+   {
+    "loc": 28,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "At their best, these movement archives also document the mundane ways lesbian feminists carved out spaces for trans people with the choices they make about information.",
+    "sentence": "As Susan Stryker has argued, “There was nothing monolithic about second wave feminist attitudes toward trans issues.",
+    "after": "The feminist second wave simultaneously espoused some of the most reactionary attitudes toward trans people to be found anywhere while also offering a vision of transgender inclusion in progressive feminist movements for social change.”"
+   },
+   {
+    "loc": 28,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "",
+    "sentence": "These choices include how to describe materials or people in a database or whether or not to help a trans woman in need who calls a telephone hotline.",
+    "after": "The purpose of accounting for trans people’s places on the margins of lesbian feminist history is not to search out ways in which trans people might become politically aligned with lesbian community, a “habitual assumption” in social movement studies critiqued by Viviane Namaste."
+   },
+   {
+    "loc": 28,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "The purpose of accounting for trans people’s places on the margins of lesbian feminist history is not to search out ways in which trans people might become politically aligned with lesbian community, a “habitual assumption” in social movement studies critiqued by Viviane Namaste.",
+    "sentence": "Rather, I argue that understanding how radical feminist movements regard trans people through the design and provision of information can show us how particular ideas about gender inform infrastructure design and determine how care is provisioned at a technological level.",
+    "after": "Historicizing these decisions matters because the complex lineages between lesbian and transfeminist ideas still need to be fle hed out and because lesbian groups and spaces that want to do better must continue to learn from these histories at the level of their information design."
+   },
+   {
+    "loc": 78,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "Lana offers this caller—whom she may misgender in the log—a referral to New York’s Street Transvestite Action Revolutionaries (sta r ), the activist organization founded by two trans women of color, Sylvia Rivera and Marsha P. Johnson, in 1970.",
+    "sentence": "Reading this exchange in the present, I am left to make sense of a symbol, five words, and an acronym to sketch out the complex politics of trans service provision practiced at the Lesbian Switchboard.",
+    "after": ""
+   },
+   {
+    "loc": 91,
+    "page": "p. 87",
+    "kind": "p",
+    "before": "Hotline volunteers promised to “work within the switchboard ideology” when they joined the organization, but the bounds of this ideology were not always spelled out.",
+    "sentence": "The switchboard had no policy on trans women’s place within lesbian feminism.",
+    "after": "Its approach to trans callers shifted over time, along with lesbian politics, and varied from operator to operator."
+   },
+   {
+    "loc": 92,
+    "page": "p. 88",
+    "kind": "p",
+    "before": "For example, the note “♀ transvestite (genital male),” without the usual description of how the volunteer handled the call, could indicate refusal of service, or not.",
+    "sentence": "The term “transvestite” on its own reflects common usage in queer and trans communities in 1973 to identify transgender people who were not “transsexual” because they did not pursue medical forms of transition (this was before common usage of the term “transgender”).",
+    "after": "The emphasis here on “genital male” might imply a trans-exclusive rejection of trans women and their bodies (or it might not)."
+   },
+   {
+    "loc": 201,
+    "page": "p. 197",
+    "kind": "p",
+    "before": "Transgender subjects and materials present an ongoing challenge to a lesbian archives, given the ways lesbian feminism is often remembered for excluding transgender people (especially trans women) from participation.",
+    "sentence": "While the l ha has no offi al policy on how it understands the relationship between “lesbian” and “transgender,” it is working to make its practices amenable to the trans donors, visitors, and records that search out a place there.",
+    "after": "Creating an explicit, gender-inclusive “Statement of Principles” has been discussed by the coordinators, resulting in the formation of a subcommittee."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 4,
+  "input": "6b4c921fb4b1",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "And we gotta address that.",
+    "sentence": "You know there was a trans person killed here?",
+    "after": "That was because of toxic masculinity."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "The bodies of black women have been severely censured and punished, leading to the implementation of systematic forms of oppression (including calling the police, reporting women who violate terms of service in online communities, and even sexual violence).",
+    "sentence": "In patriarchal societies, women’s bodies, trans bodies, and other bodies that deviate from what has been framed as white, heterosexual, and masculine are always presented as subversive threats, and racialized women’s bodies pose an even greater threat.",
+    "after": "Although many women hold fears of spaces and places because of sexist constructions of space that use the threat of violence to circumscribe the lives of women, the uses of violence and the state of black women’s bodies have a particular relationship to slavery and the construction of black womanhood."
+   },
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "At the intersection of racial identity, there also is a higher correlation with gender role conflict.",
+    "sentence": "As James O’Neil suggests, the totality of the negative aspect of this conflict is the self-restriction of human potential, or the restriction of human potential transmitted to another person (such as black men’s toxic relationships with black women, including trans women).",
+    "after": "Toxic masculinity has always featured prominently in gaming culture."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "The bodies of black women have been severely censured by the threat and implementation of systematic forms of oppression, such as calling the police, reporting women who violate terms of service in online communities, and even sexual violence.",
+    "sentence": "In patriarchal societies, women’s bodies, trans bodies, and other bodies that deviate from what has been framed as masculine are presented as subversive threats, and racialized women’s bodies pose an even greater threat.",
+    "after": "Although many women have fears of spaces and places because of sexist constructions that use the threat of violence to circumscribe their lives, the uses of violence and the state of black women’s bodies have a particular relationship to slavery and the construction of black womanhood."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 33,
+  "input": "482a7ab722ab",
+  "candidates": [
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "staggering.",
+    "sentence": "Violence against Black trans women is even more alarming.",
+    "after": "According to the"
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "have drawn firm lines of exclusion from their Black trans sisters.",
+    "sentence": "Yet as they become the “face” of trans violence, Black trans women force Black cis women to acknowledge their complicity in their matrix.",
+    "after": ""
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "Monica Roberts tags her blog Transgriot as “a proud unapologetic Black trans woman speaking truth to power and discussing the world around her since 2006.”",
+    "after": "Transgriot features no advertising and has maintained the same layout for most of its existence."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "The left and right margins feature information about the site, disclaimers on using content from the site, and the Creative Commons license, along with archived content, links to other sites, and featured posts.",
+    "sentence": "Roberts is the only writer on the site, using her platform to discuss current news and entertainment and advocate for trans rights.",
+    "after": "The site’s aesthetics, in 2019, are reminiscent of blogs of 2008 or 2009, making clear that the emphasis for this blogger is the content."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "In 2014, Roberts wrote a series of posts dealing with racism within the trans community.",
+    "after": "When both Janet Mock and Laverne Cox received increased mainstream press and attention in 2014, Transgriot positioned the two as leaders of a modern movement built upon a long legacy of Black trans activism."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "In 2014, Roberts wrote a series of posts dealing with racism within the trans community.",
+    "sentence": "When both Janet Mock and Laverne Cox received increased mainstream press and attention in 2014, Transgriot positioned the two as leaders of a modern movement built upon a long legacy of Black trans activism.",
+    "after": "In a post dated February 7, 2014, Roberts writes, “For the first time in the trans community’s modern history, we have Black trans women like Janet Mock, Laverne Cox, my GLAAD Award-nominated self stepping up, getting the media spotlight and broadening the conversation."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "Some strains of feminism have essentialized experiences of womanhood to exclude those who are trans and ignore the experiences of those who are nonbinary.",
+    "after": "Vocal feminist advocate Chimamanda Ngozi Adichie gave an interview in 2017 suggesting that trans women had different experiences than cis women, implying that they were not real women (Newman, 2017)."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "Some strains of feminism have essentialized experiences of womanhood to exclude those who are trans and ignore the experiences of those who are nonbinary.",
+    "sentence": "Vocal feminist advocate Chimamanda Ngozi Adichie gave an interview in 2017 suggesting that trans women had different experiences than cis women, implying that they were not real women (Newman, 2017).",
+    "after": "Though she later clarified her remarks, her initial comments remind us that Black women feminists are not immune from transphobic language."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 292,
+  "input": "2d33808df7d8",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "pp. 28–29",
+    "kind": "p",
+    "before": "",
+    "sentence": "This book distinguishes itself from other critical work on stereotypes of Black women by privileging queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks’ work and voices.",
+    "after": "Rather than explaining how they differ from those of their heterosexual and cisgender counterparts, I focus on the representations created by queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks for their communities."
+   },
+   {
+    "loc": 25,
+    "page": "pp. 28–29",
+    "kind": "p",
+    "before": "This book distinguishes itself from other critical work on stereotypes of Black women by privileging queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks’ work and voices.",
+    "sentence": "Rather than explaining how they differ from those of their heterosexual and cisgender counterparts, I focus on the representations created by queer and trans Black women as well as Black nonbinary, agender, and gender-variant folks for their communities.",
+    "after": "While Patricia Hill Collins, bell hooks, and Melissa Harris-Perry have critiqued what they call “controlling images,” and scholars such as Paula Giddings, M. Bahati Kuumba, and Brittney Cooper have traced Black women’s activist histories, none have centered queer and trans Black women’s activism as pivotal to the creative strategies that have grown resistance movements."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 67–69",
+    "kind": "p",
+    "before": "The book was initially structured as a very personal and singular journey of Mock’s unfolding relationship to her identity as a Black trans woman, but in the process of writing, she realized that she wanted to animate her narrative and make it something that other trans women could find useful as well.",
+    "sentence": "She said, “I felt like I needed an action, so the act of redefining realness . . . allowed me to share the very complicated, nuanced idea of trans girls of color in a very emotional experience for me as a trans woman of color.”",
+    "after": "She also articulated her desire to use language that hailed the transgender community, citing realness as an homage to the 1990 film Paris Is Burning, which first made trans women of color visible to a mainstream audience."
+   },
+   {
+    "loc": 47,
+    "page": "pp. 76–78",
+    "kind": "p",
+    "before": "Cami and Caitlyn’s conservatism is an important reminder that gender marginalization doesn’t always translate into a transformative politic.",
+    "sentence": "While Talackova may have been the impetus for #GirlsLikeUs and while Cami was a prolific user of the hashtag, the content of the tweets tagged with #GirlsLikeUs reflects the racial and gender justice politics of trans women of color on the left of the political spectrum.",
+    "after": ""
+   },
+   {
+    "loc": 47,
+    "page": "pp. 76–78",
+    "kind": "p",
+    "before": "The most popular hashtags used with the hashtag #GirlsLikeUs were other words of identity affirmation, including #Trans, #Transgender, and #TWOC (trans women of color).",
+    "sentence": "Not surprisingly, “trans” was the most popular word in the corpus of tweets, occurring more than 2,600 times in the sample.",
+    "after": "Following far behind were “Transgender” and “LGBT,” with over 1,000 and 500 occurrences, respectively."
+   },
+   {
+    "loc": 47,
+    "page": "pp. 76–78",
+    "kind": "p",
+    "before": "Not surprisingly, “trans” was the most popular word in the corpus of tweets, occurring more than 2,600 times in the sample.",
+    "sentence": "Following far behind were “Transgender” and “LGBT,” with over 1,000 and 500 occurrences, respectively.",
+    "after": "The second most popular co-occurring hashtag was #TWOC."
+   },
+   {
+    "loc": 49,
+    "page": "pp. 81–82",
+    "kind": "p",
+    "before": "According to a 2017 ABC News article about the murder of twenty-two-year-old Tracey Williams at the hands of her boyfriend, “A 2015 study by UCLA’s Williams Institute on Sexual Orientation and Gender Identity Law found that between 31% and 50% of transgender people have experienced dating violence at some point in their lives, compared to between 28% and 33% of the general population.”",
+    "sentence": "A 2017 study by the Arcus Foundation examining intimate partner violence in LGBTQ communities found that “transgender women were three times more likely to report experiencing sexual violence and financial violence than survivors who did not identify as transgender women.”",
+    "after": "Of the LGBTQ homicides for that year, 46 percent of the victims were trans women, all of whom were women of color, 60 percent of whom were Black."
+   },
+   {
+    "loc": 51,
+    "page": "pp. 85–86",
+    "kind": "p",
+    "before": "For example, the Google Hangout platform, referenced at the beginning of this chapter, was also used to address issues of health.",
+    "sentence": "A live Google Hangout called “Transgender Health: An Evolution to Understanding” was open and available for anyone with the link to watch, and a recording makes the video accessible to this day.",
+    "after": "In addition, transitioning “vlogs” (video blogs) uploaded to YouTube provide recommendations for specific trans-friendly doctors and depictions of the bodily changes experienced during transitioning."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 2,
+  "input": "5b1b2dc5c92b",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "Our model might need to be modified depending on the purpose for which we are collecting the data—safety, health, or usage—or to justify new furnishings.",
+    "sentence": "Does it matter whether the occupants are male or female, trans or queer, non-binary, and range in age from five to seventy?",
+    "after": "The specifics of the model for creating data in classroom assessment will depend on the purpose."
+   },
+   {
+    "loc": 41,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "Data privacy is a critical concern when dealing with any information related to individuals, particularly vulnerable populations (undocumented, trans persons, children, and incarcerated individuals).",
+    "after": "In addition to understanding restrictions on gathering data or storage of data should be considered as part of research practice."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "0ddc8c0b43d7",
+  "candidates": [
+   {
+    "loc": 78,
+    "page": "pp. 135–137",
+    "kind": "p",
+    "before": "",
+    "sentence": "Online, Black women, and particularly Black trans women, are targeted with inordinate amounts of hatred, yet the platforms that enable it refuse to seriously address the harms they are causing.",
+    "after": "Twitter’s moderation decisions routinely allow misogynoir and hate speech that specifically affects Black women, multiplying sexist and racist harms."
+   },
+   {
+    "loc": 81,
+    "page": "pp. 141–142",
+    "kind": "p",
+    "before": "For women who worked with computers, their economic worth was tied to their identity as women but largely unmoored from their proficiency on the job.",
+    "sentence": "One of the earliest UK civil servants to come out at work as a trans man found his pay immediately raised after his transition in the late 1950s, simply by virtue of his employer now recognizing him as a man.",
+    "after": "At the same time, another civil servant, a trans woman, was given advice by her managers to hide or delay her transition so that her pay would not go down."
+   },
+   {
+    "loc": 81,
+    "page": "pp. 141–142",
+    "kind": "p",
+    "before": "One of the earliest UK civil servants to come out at work as a trans man found his pay immediately raised after his transition in the late 1950s, simply by virtue of his employer now recognizing him as a man.",
+    "sentence": "At the same time, another civil servant, a trans woman, was given advice by her managers to hide or delay her transition so that her pay would not go down.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 3,
+  "input": "a0a4b034e9e2",
+  "candidates": [
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "",
+    "sentence": "Interdependency and intersectionality have long been connected in “care webs” or collectives designed by queer, trans, disabled, Black, and Indigenous peoples and other people of color (Piepzna-Samarasinha 2018, 66).",
+    "after": "For example, intersectionality is listed as the first principle of Disability Justice, “a political movement and many interlocking communities where disability is not defined in white terms, or male terms, or straight terms” (Piepzna-Samarasinha 2018, 22)."
+   },
+   {
+    "loc": 51,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "",
+    "sentence": "Following the work of queer/trans Black, Indigenous, people of color, and disability activists, I bring intersectionality and interdependency together as methodological frameworks for the projects presented in this book, both because I think both frameworks are independently useful and because interdependency and intersectionality function more effectively in relation to one another.",
+    "after": "Many critical disability studies scholars bring attention to the necessity of engaging more deeply with issues of race, intersectionality in particular, within disability studies."
+   },
+   {
+    "loc": 52,
+    "page": "p. 36",
+    "kind": "p",
+    "before": "It becomes a priority to look at Indigenous ways of perceiving and understanding disability, for example.",
+    "sentence": "It becomes a space where we see that disability is all up in Black brown/queer and trans communities—from Henrietta Lacks to Harriet Tubman, from the Black Panther Party’s active support for disabled organizers’ two-month occupation of the Department of Vocational Rehabilitation to force the passage of Section 504, the law mandating disabled access to public spaces and transportation[,] to the chronic illness and disability stories of second wave queer feminists of color like Sylvia Rivera, June Jordan, Gloria Anzaldúa, Audre Lorde, Marsha P. Johnson, and Barbara Cameron, whose lives are marked by bodily difference, trauma-surviving brilliance, and chronic illness but who mostly used the term “disabled” to refer to themselves.",
+    "after": "(22–23)"
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 8,
+  "input": "33880c8e66a7",
+  "candidates": [
+   {
+    "loc": 81,
+    "page": "pp. 120–122",
+    "kind": "p",
+    "before": "Situating our work within a long genealogy of feminist thinking and praxis, we drafted the Manifest-NO to “remember to imagine and craft,” as Ruha Benjamin writes, “the worlds you cannot live without, just as you dismantle the worlds you cannot live within” (“Note to selves”).",
+    "sentence": "As we wrote, we celebrated and learned from Latinx, Black, queer, trans, and Indigenous feminist thinkers who have mobilized critical refusal as a powerful tool to open up and insist on radical and alternate futures.",
+    "after": "Thus, the Manifest-NO serves as a declaration of refusal that dismantles harmful data structures and practices, as well as a declaration of commitments that allows us to imagine and to engender new data futures."
+   },
+   {
+    "loc": 82,
+    "page": "pp. 123–125",
+    "kind": "q",
+    "before": "We refuse “damage centered” research that gathers data to reproduce damage and that traffics in or profits from pain.",
+    "sentence": "We commit to “desire centered” research that mobilizes and centers data by and for Indigenous, Black, poor, uncitizened, transgender, disabled, and other minoritized, over-researched and under-served people as a resource and tool for their thriving, survivance, and joy (Tuck).",
+    "after": ""
+   },
+   {
+    "loc": 84,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "As GIDA puts it, “The emphasis on greater data sharing alone creates a tension for Indigenous Peoples who are also asserting greater control over the application and use of Indigenous data and Indigenous Knowledge for collective benefit.”",
+    "sentence": "For all DH scholars, but especially those of us committed to anti-colonial, Black, Indigenous, trans feminist, and queer forms of life, this means divesting from settler colonial values and aesthetics of transparency—including the assumed good of openness, freedom, sharing, and the commons.",
+    "after": ""
+   },
+   {
+    "loc": 84,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "In the two projects that I codirect with T.L. Cowan—the Digital Research Ethics Collaboratory (DREC) and the Cabaret Commons—we endeavor to put these principles to practice.",
+    "sentence": "While both projects are grounded in my and Cowan’s research and experience in trans feminist queer (TFQ) cultural heritage, they take their leadership from Indigenous approaches to data sovereignty, digital archives, refusal, and relational responsibility.",
+    "after": "We chose not to online a large collection of TFQ cultural heritage materials that we, technically, had permission to post (both the collector and the photographer of the materials, as well as our university ethics boards, gave us permissions) because we did not have consent from every person named or imaged in the collection (and in some cases did not have names or means to contact those people) (Cowan and Rault, “Onlining Queer Acts”)."
+   },
+   {
+    "loc": 85,
+    "page": "pp. 129–130",
+    "kind": "p",
+    "before": "It is like being told by the school bully that you have the option to either give up your lunch and your brown bag, or that you can give up your lunch and keep the brown bag.",
+    "sentence": "I realized, during our brainstorming for the Manifest-NO, that it is not only the kinds of data being collected, or the ways that “my data” are being used, but the way that data collection is framed that is so vile and so provocative for a trans feminist, queer, crip, anti-racist analysis.",
+    "after": ""
+   },
+   {
+    "loc": 174,
+    "page": "p. 283",
+    "kind": "p",
+    "before": "Mixed-methods approaches to social media data have already proved successful in leading research at the border of the social sciences and digital humanities.",
+    "sentence": "For example, in her research on the #GirlsLikeUs hashtag, created by trans advocate Janet Mock, Moya Bailey sought Mock’s permission to work on the project before it began, and she collaborated with Mock to develop her research questions and determine the project’s direction.",
+    "after": "Though Bailey’s research included data collection and quantitative analyses, it was also shaped by a consenting collaborator who was part of the community being studied."
+   }
+  ]
+ }
+]

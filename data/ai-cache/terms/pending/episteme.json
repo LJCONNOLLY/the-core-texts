@@ -1,0 +1,119 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 56,
+  "input": "9faa52a166bd",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "",
+    "sentence": "Now, this archaeological inquiry has revealed two great discontinuities in the episteme of Western culture: the first inaugurates the Classical age (roughly half-way through the seventeenth century) and the second, at the beginning of the nineteenth century, marks the beginning of the modern age.",
+    "after": "The order on the basis of which we think today does not have the same mode of being as that of the Classical thinkers."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "Others are slightly more perceptive, and go to a great deal of trouble to discover beneath this rationalism a play of ‘contrary forces’: the forces of nature and life refusing to let themselves be reduced either to algebra or to dynamics, and thus preserving, in the depths of Classicism itself, the natural resources of the non-rationalizable.",
+    "sentence": "These two forms of analysis are equally inadequate; for the fundamental element of the Classical episteme is neither the success or failure of mechanism, nor the right to mathematicize or the impossibility of mathematicizing nature, but rather a link with the mathesis which, until the end of the eighteenth century, remains constant and unaltered.",
+    "after": "This link has two essential characteristics."
+   },
+   {
+    "loc": 170,
+    "page": "PDF p. 170",
+    "kind": "p",
+    "before": "",
+    "sentence": "Questioned at this archaeological level, the field of the modern episteme is not ordered in accordance with the ideal of a perfect mathematicization, nor does it unfold, on the basis of a formal purity, a long, descending sequence of knowledge progressively more burdened with empiricity.",
+    "after": "The domain of the modern episteme should be represented rather as a volume of space open in three dimensions."
+   },
+   {
+    "loc": 170,
+    "page": "PDF p. 170",
+    "kind": "p",
+    "before": "Questioned at this archaeological level, the field of the modern episteme is not ordered in accordance with the ideal of a perfect mathematicization, nor does it unfold, on the basis of a formal purity, a long, descending sequence of knowledge progressively more burdened with empiricity.",
+    "sentence": "The domain of the modern episteme should be represented rather as a volume of space open in three dimensions.",
+    "after": "In one of these we would situate the mathematical and physical sciences, for which order is always a deductive and linear linking together of evident or verified propositions; in a second dimension there would be the sciences (such as those of language, life, and the production and distribution of wealth) that proceed by relating discontinuous but analogous elements in such a way that they are then able to establish causal relations and structural constants between them."
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "In any case, we can see that what manifests this peculiar property of the human sciences is not that privileged and singularly blurred object which is man.",
+    "sentence": "For the good reason that it is not man who constitutes them and provides them with a specific domain; it is the general arrangement of the episteme that provides them with a site, summons them, and establishes them – thus enabling them to constitute man as their object.",
+    "after": "We shall say, therefore, that a ‘human science’ exists, not wherever man is in question, but wherever there is analysis – within the dimension proper to the unconscious – of norms, rules, and signifying totalities which unveil to consciousness the conditions of its forms and contents."
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "We can see, then, how vain and idle are all those wearisome discussions as to whether such and such forms of knowledge may be termed truly scientific, and to what conditions they ought to be subjected in order to become so.",
+    "sentence": "The ‘sciences of man’ are part of the modern episteme in the same way as chemistry or medicine or any other such science; or again, in the same way as grammar and natural history were part of the Classical episteme.",
+    "after": "But to say that they are part of the epistemological field means simply that their positivity is rooted in it, that that is where they find their condition of existence, that they are therefore not merely illusions, pseudo-scientific fantasies motivated at the level of opinions, interests, or beliefs, that they are not what others call by the bizarre name of ‘ideology’."
+   },
+   {
+    "loc": 178,
+    "page": "PDF p. 178",
+    "kind": "p",
+    "before": "We must distinguish carefully between three things.",
+    "sentence": "There are themes with scientific pretensions that one may encounter at the level of opinion and that are not (or are no longer) part of a culture’s epistemological network: from the seventeenth century, for example, natural magic ceased to belong to the Western episteme, but it persisted for a long time in the interaction of beliefs and affective valorizations.",
+    "after": "Then there are epistemological figures whose outline, position, and function can be reconstituted in their positivity by means of an analysis of the archaeological type; and these, in turn, may obey two different organizations: some present characteristics of objectivity and systematicity which make it possible to define them as sciences; others do not answer to those criteria, that is, their form of coherence and their relation to their object are determined by their positivity alone."
+   },
+   {
+    "loc": 178,
+    "page": "PDF p. 178",
+    "kind": "p",
+    "before": "They must be replaced on the level of positivity that renders them possible and necessarily determines their form.",
+    "sentence": "Archaeology, then, has two tasks with regard to these figures: to determine the manner in which they are arranged in the episteme in which they have their roots; and to show, also, in what respect their configuration is radically different from that of the sciences in the strict sense.",
+    "after": "There is no reason to treat this peculiar configuration of theirs as a negative phenomenon: it is not the presence of an obstacle nor some internal deficiency which has left them stranded across the threshold of scientific forms."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 1,
+  "input": "e5621bcaa3b2",
+  "candidates": [
+   {
+    "loc": 67,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "It attests to the fact that the creation of digital archives is not simply a matter of transcribing and digitizing texts, but of producing new knowledge as well.",
+    "sentence": "We might view the results as radical, emancipatory acts that break new forms of knowledge free from the persistent forms in which they are trapped, just as the ideal of decolonization offers hope that a change in episteme may be possible.",
+    "after": "Thus, it is through the intimate link between breaking and building that colonial disruptions in the digital cultural record may be addressed."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 1,
+  "input": "48093217230e",
+  "candidates": [
+   {
+    "loc": 67,
+    "page": "pp. 97–98",
+    "kind": "p",
+    "before": "Pierre Bourdieu’s habitus, Marcel Mauss’s techniques, Michel Foucault’s disciplinary regimes, and Judith Butler’s social scripts all show how bodies manifest knowledge as culturally arranged and materialize the effects of ideology.",
+    "sentence": "Dance and performance scholars focus in particular on how movement makes a body, and in being thus fabricated through repeated practices, bodies materialize corporeal epistemes within a given social configuration, ultimately contributing to worldmaking.",
+    "after": "As Judith Hamera has described in her analysis of movement communities, bodily techniques exhibit “templates for sociality, by rendering bodies readable, and by organizing the relationships in which these readings can occur” (19)."
+   }
+  ]
+ }
+]

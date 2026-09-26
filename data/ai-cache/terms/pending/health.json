@@ -1,0 +1,1652 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 2,
+  "input": "865a7a8e019c",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "First, the certainty of the relation: a sign may be so constant that one can be sure of its accuracy (in the sense that breathing denotes life), but it may also be simply probable (in the sense that pallor probably denotes pregnancy).",
+    "sentence": "Second, the type of relation: a sign may belong to the whole that it denotes (in the sense that a healthy appearance is part of the health it denotes) or be separate from it (in the sense that the figures of the Old Testament are distant signs of the Incarnation and Redemption).",
+    "after": "Third, the origin of the relation: a sign may be natural (in the sense that a reflection in a mirror denotes that which it reflects) or conventional (in the sense that a word may signify an idea to a given group of men)."
+   },
+   {
+    "loc": 188,
+    "page": "PDF p. 188",
+    "kind": "p",
+    "before": "",
+    "sentence": "In The Birth of the Clinic, Foucault shows how our definition of pure science is shaped by social and cultural attitudes, and he sheds new light on the origins of our current notions of health and sickness, life and death.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 1,
+  "input": "a1ffc3f0f3be",
+  "candidates": [
+   {
+    "loc": 47,
+    "page": "PDF p. 47",
+    "kind": "p",
+    "before": "Knowledge is ultimately not a fractioning but a unifying phenomenon, a striving for harmony.",
+    "sentence": "Without harmony, an interior condition, the psyche is in bad health.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 11,
+  "input": "e96246e23140",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "p. 29",
+    "kind": "p",
+    "before": "(Zuckerman, 1932, p. 31) Of course, human beings share with other primates ‘a smooth and uninterrupted sexual and reproductive life’ (p. 51); yet human beings and their families exist in the realm of culture, buffered, if not exempt, from the physiologist’s gonadectomies and injections.",
+    "sentence": "How did the physiologist re-enter the kingdom of culture with his medical tools for producing family health and behavioural adjustment within social hierarchy defined as co-operation?",
+    "after": "Through hunting, through the taste for meat."
+   },
+   {
+    "loc": 63,
+    "page": "p. 49",
+    "kind": "p",
+    "before": "Both committees were set up to study human variability for purposes of rational social management policy.",
+    "sentence": "Neither committee worked from a population perspective, but rather from a physiological model of organic capacity, variation, and health.",
+    "after": "Widespread population genetic and _ ecology approaches to demography and to sexuality only emerged after the Second World War and were related to the elaboration of communications technology and information sciences."
+   },
+   {
+    "loc": 65,
+    "page": "p. 51",
+    "kind": "p",
+    "before": "",
+    "sentence": "Psychology drives oe Physiology reflexes x Anthropology (experimental) genes ee Be hormones {J i z = ds = Evolution © |animal: human} —_ Sociology (comparative) a (personality) = Environmental Sciences Bs Mental and Social Hygiene aa experimental medicine reproductive system nervous system health experimental sociology family social group management adjustment",
+    "after": ""
+   },
+   {
+    "loc": 107,
+    "page": "p. 93",
+    "kind": "p",
+    "before": "",
+    "sentence": "SOCIAL GROUPS IN SICKNESS AND IN HEALTH:",
+    "after": ""
+   },
+   {
+    "loc": 118,
+    "page": "p. 104",
+    "kind": "p",
+    "before": "Bogess works to establish that Hrdy and others extrapolated on the basis of the logic of their stories, and that the best observational foundations lead to different stories, those closely related to Dolhinow’s original ones, but with greater explicit emphasis on the workings of natural selection.",
+    "sentence": "The core meaning of the Bogess tale is again social health and pathology (Bogess, 1979, 1980).",
+    "after": ""
+   },
+   {
+    "loc": 197,
+    "page": "p. 171",
+    "kind": "p",
+    "before": "School: Deepening coupling of high-tech capital needs and public education at all levels, differentiated by race, class, and gender; managerial classes involved in educational reform and refunding at the cost of remaining progressive educational democratic structures for children and teachers; education for mass ignorance and repression in technocratic and militarized culture; growing anti-science mystery cults in dissenting and radical political movements; continued relative scientific illiteracy among white women and people of colour; growing industrial direction of education (especially higher education) by science-based multinationals (particularly in electronics- and biotechnology-dependent companies); highly educated, numerous élites in a progressively bimodal society.",
+    "sentence": "Clinic-hospital: Intensified machine-body relations; renegotiations of '' public metaphors which channel personal experience of the body, particularly in relation to reproduction, immune system functions, and ‘stress’ phenomena; intensification of reproductive politics in response to world historical implications of women’s unrealized, potential control of their relation to reproduction; emergence of new, historically specific diseases; struggles over meanings and means of health in environments pervaded by high technology products and processes; continuing feminization of health work; intensified struggle over state responsibility for health; continued ideological role of popular health movements as a major form of American politics.",
+    "after": ""
+   },
+   {
+    "loc": 198,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "",
+    "sentence": "Church: Electronic fundamentalist ‘super-saver’ preachers solemnizing the union of electronic capital and automated fetish gods; intensified importance of churches in resisting the militarized state; central struggle over women’s meanings and authority in religion; continued relevance of spirituality, intertwined with sex and health, in political struggle.",
+    "after": ""
+   },
+   {
+    "loc": 251,
+    "page": "p. 225",
+    "kind": "p",
+    "before": "Immunity can also be conceived in terms of shared specificities; of the semi-permeable self able to engage with others (human and non-human, inner and outer), but always with finite consequences; of situated possibilities and impossibilities of individuation and identification; and of partial fusions and dangers.",
+    "sentence": "The problematic multiplicities of postmodern selves, so potently figured and repressed in the lumpy discourses of immunology, must be brought into other emerging Western and multi-cultural discourses on health, sickness, individuality, humanity, and death.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 1,
+  "input": "ffe1cb70280c",
+  "candidates": [
+   {
+    "loc": 53,
+    "page": "PDF p. 53",
+    "kind": "p",
+    "before": "Speaking to a colleague, Kubie noted that McCulloch’s “vitriole maybe due to an accumulation of personal frustrations of his own displaced onto analysis.”",
+    "sentence": "Later, when he heard about McCulloch’s erratic behavior during a presentation at Yale, he wrote to McCulloch’s host, sending a copy of the letter to Fremont-Smith: “I am distressed by this news about Warren ... in him the boundary between sickness and health has always been narrow” (p. 137).",
+    "after": "Kubie even tried to arrange for psychoanalysts in the Boston area to meet with McCulloch “on a social pretext if necessary,” with a view to getting him the “help” that Kubie thought he needed (p. 138)."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 3,
+  "input": "8c25c27a411d",
+  "candidates": [
+   {
+    "loc": 106,
+    "page": "p. 89",
+    "kind": "p",
+    "before": "Goldman (1992) and Williamson (1978) argue that adverts work by transferring (or trying to transfer) visual and textual signifieds onto their product.",
+    "sentence": "Thus the signs in an ad’s image and writing usually signify notions of taste, luxury, health, happiness and so on, and adverts attempt to shift the signifiers from the signs in the image and text to their own product.",
+    "after": "This section explores this process of meaning transference in advertising images more fully."
+   },
+   {
+    "loc": 165,
+    "page": "p. 148",
+    "kind": "p",
+    "before": "In the work of historians looking at the discursive construction of the East End of London in the 1880s, for example, a number of sources recur (Cowling 1989; Curtis 2001; Fishman 1988; Jones 1976; Jones 1989; Keating 1976; Livesy 2004; Nead 1988, 2000; Walkowitz 1992).",
+    "sentence": "These are: contemporary newspapers, often London ones rather than national ones; contemporary accounts of visits to the East End by journalists, clerics, philanthropists and others, which often take the form of travel diaries and could be published in pamphlet or book form as well as in newspapers; novels and, less often, poems; and documents produced by various branches of government such as the Census, reports by local Medical Officers of Health, and other sorts of government reports.",
+    "after": "Many of these written sources are illustrated with figurative images — often engravings — or with maps or cartoons or other visual images."
+   },
+   {
+    "loc": 192,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "For Tagg, photography is diffuse; it is given coherence only by its use in certain institutional apparatuses.",
+    "sentence": "He elaborates this claim by studying photographs as they were used in the nineteenth century by police forces, prisons, orphanages, asylums, local government’s medical officers of health, and newspaper journalists and publicists.",
+    "after": "It is its uses in these institutions that Tagg argues gives photography its status as a unified something rather than a diffuse no one thing, and that coherent something is, according to Tagg, the belief that photographs picture the real."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 2,
+  "input": "ebc8c7de7873",
+  "candidates": [
+   {
+    "loc": 107,
+    "page": "PDF p. 107",
+    "kind": "p",
+    "before": "",
+    "sentence": "Textbooks in sociology are organized around various topics—family, institution, nation-states, markets, health, deviance, and so on—which represent the slowly revisable outcome of the many decisions made by social scientists on what the right ingredients of the social world should be.",
+    "after": "In contrast, all of the idiosyncratic terms I am going to offer designate nothing more than specific tricks to help resist the temptation to jump to the global."
+   },
+   {
+    "loc": 111,
+    "page": "PDF p. 111",
+    "kind": "p",
+    "before": "We, however, are not looking for utopia, but for places on earth that are fully assignable.",
+    "sentence": "Oligoptica are just those sites since they do exactly the opposite of panoptica: they see much too little to feed the megalomania of the inspector or the paranoia of the inspected, but what they see, they see it well—hence the use of this Greek word to designate an ingredient at once indispensable and that comes in tiny amounts (as in the ‘oligo-elements’ of your health store).",
+    "after": "From oligoptica, sturdy but extremely narrow views of the (connected) whole are made possible—as long as connections hold."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 3,
+  "input": "3028724656fb",
+  "candidates": [
+   {
+    "loc": 143,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "They assert that this “widespread ‘educating’ of women, ostensibly to inform and empower them,” is accomplished by texts that “discipline women to become particular kinds of patients and mothers.”",
+    "sentence": "Many North American women take pregnancy as an Internet research assignment, using the medium to ﬁnd health information, both ofﬁcial and anecdotal; to share stories, fears, and anxieties with other pregnant women whom they may or may not know; and to view and exchange visual images of their own pregnant bodies as well as those of others.",
+    "after": "And just as the rhetoric of pregnancy guidebooks greatly inﬂuences the formation of discourses and disciplines of motherhood in different national contexts, so too have the form and visual culture of the Internet created both normative and resistant discourses of motherhood in the context of the United States."
+   },
+   {
+    "loc": 163,
+    "page": "p. 152",
+    "kind": "p",
+    "before": "",
+    "sentence": "I am about to go to the graphic site- I get real weird about internal health stuff, so hopefully I wont fall out of my chair.",
+    "after": "I will let you all know if I made it through it."
+   },
+   {
+    "loc": 167,
+    "page": "p. 156",
+    "kind": "p",
+    "before": "Thus women’s reproductive organs, and women in reproductive states, are overrepresented in medical visual culture; the pregnant female body and its interior in particular is classically overdetermined as it comes to represent all female bodies.",
+    "sentence": "A spate of scholarly books and collections on the topic of reproductive technologies and feminism have all noted the way that the medical establishment has worked to make the pregnant female body normative, and its result, which is to pathologize nonreproductive female bodies— as Cartright notes, the Visible Woman was criticized as an incomplete and inadequate model of the female body because, though in perfect health at her time of death, she is “postmenopausal and presumably therefore unsuited to demonstrating processes of reproduction.”",
+    "after": "Ultrasound has taken up the imaging practice that once belonged to medical painting and engraving and is valued because it seems to give access to the invisible, the interior, to move right past the unspeakable and abject pregnant body to its contents, the fetus."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 2,
+  "input": "3946ae3503f8",
+  "candidates": [
+   {
+    "loc": 73,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "How much less expensively could Target have figured this out, had it had more women in leadership positions?",
+    "sentence": "Further, as the medical insurance examples reveal, Big Data can lead to rational yet unjust conclusions: the tie between car insurance and regular adherence to a regular medication regimen can further exacerbate inequalities by making the urban poor pay more for their health insurance.",
+    "after": "In other words, by finding seemingly unrelated correlations, Big Data can aggravate existing inequalities and lead to racist and discriminatory practices, justified through the use of seemingly innocuous proxies."
+   },
+   {
+    "loc": 165,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "To be clear, this is not to say that sexuality is irrelevant; it is rather to see the logic of the outing (inside/outside) as structuring communication more broadly.",
+    "sentence": "As Sedgwick herself argues, the “now chronic modern crisis of homo/heterosexual definition has affected our culture through its ineffaceable marking particularly of the categories secrecy/disclosure, knowledge/ignorance, private/public, masculine/feminine, majority/ minority, innocence/initiation, natural/artificial, new/old, discipline/ terrorism, canonic/noncanonic, wholeness/decadence, urbane/provincial, domestic/foreign, health/illness, same/different, active/passive, in/out, cognition/paranoia, art/kitsch, utopia/apocalypse, sincerity/sentimentality, and voluntarity/addiction.”",
+    "after": "As stated earlier, fears about cyberporn framed it as rupturing the walls of the home."
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 8,
+  "input": "98c94ad18d9e",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "Thus, as a morally good but undefined concept, literacy can serve as a cipher for the kind of knowledge a society values.",
+    "sentence": "The various types of skills that come to be popularly named literacies reflect the perception of necessary and good skills for a society: health literacy, financial literacy, cultural literacy, visual literacy, technological literacy, and so forth.",
+    "after": ""
+   },
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "People with poor financial literacy might, in addition to not enjoying ready access to monetary resources, fail credit checks and thus be denied employment because of their stigmatized status.",
+    "sentence": "Because literacy is deemed to be important to the status and financial health of a nation, to be illiterate is to be a less productive citizen.",
+    "after": "Thus, to call programming—or anything else—a literacy is to draw attention and resources to it by mobilizing the long history of reading and writing’s popular association with moral goodness and economic success, and thus connecting programming to the health of a nation and its citizens."
+   },
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Because literacy is deemed to be important to the status and financial health of a nation, to be illiterate is to be a less productive citizen.",
+    "sentence": "Thus, to call programming—or anything else—a literacy is to draw attention and resources to it by mobilizing the long history of reading and writing’s popular association with moral goodness and economic success, and thus connecting programming to the health of a nation and its citizens.",
+    "after": ""
+   },
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "Throughout much of the world, computer code is infrastructural: layered over and under the technology of writing, computer code now structures much of our contemporary communications, including word processing, e-mail, the World Wide Web, social networking, digital video production, and mobile phone technology.",
+    "sentence": "Our employment, health records, and citizenship status, once recorded solely in text, are now cataloged in computer databases.",
+    "after": "The ubiquity of computation means that programming is emerging from the exclusive domain of computer science and penetrating professions such as journalism, biology, design— and, through library databases and the digital humanities, even the study of literature and history."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Attention to literacy’s value in a longer course of history helps to explain programming’s shifting value and role in society in the twentieth and twenty-first centuries.",
+    "sentence": "If literacy has been ideologically linked to morality and the health of a society, what social goods are now being attributed to programming under the rubric of literacy?",
+    "after": "What are the ideologies of this new so-called literacy, and what do they mean for programming or for our larger concept of literacy?"
+   },
+   {
+    "loc": 97,
+    "page": "PDF p. 97",
+    "kind": "p",
+    "before": "Writing remade institutions and individual lives as it became infrastructural to medieval government, commerce, and social relations, and computer programming is restructuring our lives now.",
+    "sentence": "We e-mail each other and pay our bills online; our health, employment, marriage, credit, and tax records are recorded in computerized databases; we rely on computational algorithms to filter our news and purchases; and our free time and relationships are shaped by software such as Facebook, Twitter, Match.com, Yelp, and TripAdvisor.",
+    "after": "In developed nations such as the United States, code increasingly supports our information and communication infrastructure."
+   },
+   {
+    "loc": 123,
+    "page": "PDF p. 123",
+    "kind": "p",
+    "before": "As it became apparent that literacy was advantageous and as education became more readily available, people sought out literacy for themselves and their children.",
+    "sentence": "Governments and churches encouraged literacy in their flocks to strengthen collective spiritual and economic health.",
+    "after": "Literacy rates climbed."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Norma González and Luis Moll show working-class Mexican communities in Arizona drawing on collective “funds of knowledge” to solve problems and support education of their members.",
+    "sentence": "Shirley Brice Heath describes residents of one Carolina Piedmont community interpreting important school and health documents together.",
+    "after": "Marcia Farr tracks the sharing of literacy and language skills among an extended family network of Chicanos in Chicago, showing that they can together respond to a number of documentary situations that might have challenged any one member alone."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 1,
+  "input": "fbd87fda096e",
+  "candidates": [
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "",
+    "sentence": "In talking to some queer pornographers, I’ve learned that some of their former models are now elementary school teachers, clergy, professors, child care workers, lawyers, mechanics, health care professionals, bus drivers and librarians.",
+    "after": "We live and work in a society that is homophobic and not sex positive."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 81,
+  "input": "4a044797b411",
+  "candidates": [
+   {
+    "loc": 5,
+    "page": "pp. 1–3",
+    "kind": "p",
+    "before": "The pharmacist informed me that the prescription had been canceled.",
+    "sentence": "Their system showed that we did not have health insurance.",
+    "after": ""
+   },
+   {
+    "loc": 21,
+    "page": "pp. 42–43",
+    "kind": "p",
+    "before": "",
+    "sentence": "Trouble really started in late 2007, when Kim applied for the Healthy Indiana Plan, which provides catastrophic health insurance for low-income adults.",
+    "after": "Though five of their children were covered by Medicaid, she and Kevin had no health insurance."
+   },
+   {
+    "loc": 21,
+    "page": "pp. 42–43",
+    "kind": "p",
+    "before": "Trouble really started in late 2007, when Kim applied for the Healthy Indiana Plan, which provides catastrophic health insurance for low-income adults.",
+    "sentence": "Though five of their children were covered by Medicaid, she and Kevin had no health insurance.",
+    "after": "Immediately after Kim started the application process, four members of the household became ill."
+   },
+   {
+    "loc": 23,
+    "page": "pp. 47–49",
+    "kind": "p",
+    "before": "But it was much smaller than it had been 15 years earlier.",
+    "sentence": "In 1991, the Indiana General Assembly consolidated the departments of Mental Health, Public Welfare, and Human Services, and outsourced many of its functions.",
+    "after": "By the time of the automation, the FSSA had halved its public workforce and was spending 92 percent of its budget buying services from outside vendors."
+   },
+   {
+    "loc": 23,
+    "page": "pp. 47–49",
+    "kind": "p",
+    "before": "",
+    "sentence": "At the time, the Indiana FSSA was helping about a million people access health care, social services, mental health counseling, and other forms of support.",
+    "after": "The 2006 agency was sizable: it had a budget of $6.55 billion and a staff of approximately 6,500."
+   },
+   {
+    "loc": 29,
+    "page": "pp. 62–64",
+    "kind": "p",
+    "before": "",
+    "sentence": "Gresham saw great workers burn out, and her own health began to deteriorate.",
+    "after": "“Morale was at an all-time low."
+   },
+   {
+    "loc": 29,
+    "page": "pp. 62–64",
+    "kind": "p",
+    "before": "It was just you out there,” she says wistfully.",
+    "sentence": "“Towards the end, I realized this was affecting my health, my relationships.",
+    "after": "I was one of the last holdouts.”"
+   },
+   {
+    "loc": 45,
+    "page": "pp. 102–104",
+    "kind": "p",
+    "before": "Gary took the VI-SPDAT the second time with a representative from Housing for Health, a division of the Los Angeles County Department of Health Services focused on creating housing opportunities for those with “complex medical and behavioral health conditions.”",
+    "sentence": "A caseworker asked for access to his mental health history, so Gary signed a consent form to release his psychiatric records from Orange County.",
+    "after": "“I did the survey, but I didn’t have my social [security card] with me, so I went back up to the office and we worked on that."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 2,
+  "input": "263ec29b5cbc",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "As the Puerto Rico Mapathon demonstrates, the digital cultural record has consequences for people’s lives.",
+    "sentence": "For events like the mapathon, intervening in the digital cultural record is an acute matter of life or death in the Anthropocene, where the stakes of race and colonialism play out in the medium of environmental disaster, on the bodies of Puerto Ricans— United States citizens cut off from access to food, water, shelter, and health care.",
+    "after": "And yet the digital cultural record, in its gaps, omissions, and rehearsal of colonial dynamics from the analog cultural record, also has a chronic problem of epistemic violence, which contravenes cultural survival for communities whose languages are underrepresented, histories are suppressed, and stories are untold."
+   },
+   {
+    "loc": 135,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "Now, IBM’s Watson, an artificial intelligence supercomputer, has successfully defeated Jeopardy! champions, including Ken Jennings, who holds a record number of consecutive wins on the game show, and Brad Rutter, the show’s highest earner of award money.",
+    "sentence": "Watson has seen a number of applications, such as making health care decisions for lung cancer at Sloan Kettering Cancer Center, powering self-​driving buses, and serving as a teaching assistant at Georgia State University, where students did not realize that “Jill Watson” was, in fact, a chatbot.",
+    "after": "Given the human stakes ascribed to such technologies and their representation and replication of subjectivities that can pass for human, it is incumbent on digital humanities practitioners to engage with the question of what kinds of subjectivities are centered in the technologies that facilitate their scholarship."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 22,
+  "input": "ded5b1432015",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "In 2013, while the classes were still small enough to be orchestrated through coordinated sections of independent study, I began “Danger, Jane Roe!” as a project on which I could work alongside my students.",
+    "sentence": "In that year, U.S. lawmakers enacted 141 pieces of legislation on reproductive health, including seventy that restricted abortion access (Guttmacher Institute).",
+    "after": ""
+   },
+   {
+    "loc": 33,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "As a recent transplant to the Lone Star State, I had a particularly personal investment in this series of events.",
+    "sentence": "However, I know that I was not alone in my absolute bewilderment and frustration with ill-informed legislators attempting to institute restrictions on reproductive health, against the will of those whose bodies were being legislated, against the advice of medical professionals, and against the U.S. Constitution.",
+    "after": "In commentary on this recent uptick in legislation, Rebecca Traister notes that much of the discourse around abortion sets up a false dichotomy and an adversarial relationship between pregnant person and fetus in which the pregnant individual always ends up as secondary (par."
+   },
+   {
+    "loc": 40,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "By donning the shirt, not only is my body implicated, but so are the bodies of the audience—those who might also wear the shirt or who are forced to encounter its illegibility, or even just those who are standing by.",
+    "sentence": "Once the shirt is on a body, due to its deformative nature, it reminds us that the bodies of others also bear the inscriptive marks of discourse around reproductive health.",
+    "after": ""
+   },
+   {
+    "loc": 41,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "One might reframe it as the valorization of situated knowledge in literary studies.",
+    "sentence": "The project of deformance in “Danger, Jane Roe!” addresses the issue of legislation and discourse about reproductive health but also the format of data visualization itself.",
+    "after": ""
+   },
+   {
+    "loc": 294,
+    "page": "p. 266",
+    "kind": "p",
+    "before": "Service jobs remain deeply gendered despite the shift to a service-oriented “knowledge economy.”",
+    "sentence": "As of 2009 in Canada, two thirds of women, twice as many as men, worked in historically female service occupations: teaching, nursing, and other health occupations; administrative positions; or sales and service roles (Farrao); in 2012, 55 percent of all jobs in the services sector were occupied by women, with the concentration particularly high in the health care and social assistance sector (82 percent) (“Fact Sheet”).",
+    "after": "In the United States, in 2014 women made up 75 percent of the education and health services sector and 64 percent of the community and social service workforce (AFL-CIO Department for Professional Employees, “Professionals in the Workplace: Women”; AFL-CIO Department for Professional Employees, Professionals in the Workplace: Community)."
+   },
+   {
+    "loc": 295,
+    "page": "p. 267",
+    "kind": "p",
+    "before": "As of 2009 in Canada, two thirds of women, twice as many as men, worked in historically female service occupations: teaching, nursing, and other health occupations; administrative positions; or sales and service roles (Farrao); in 2012, 55 percent of all jobs in the services sector were occupied by women, with the concentration particularly high in the health care and social assistance sector (82 percent) (“Fact Sheet”).",
+    "sentence": "In the United States, in 2014 women made up 75 percent of the education and health services sector and 64 percent of the community and social service workforce (AFL-CIO Department for Professional Employees, “Professionals in the Workplace: Women”; AFL-CIO Department for Professional Employees, Professionals in the Workplace: Community).",
+    "after": "Moreover, the gender wage gap is in large part due to the feminized nonprofessional “service” sector associated with “emotional labor”: people skills that are understood to be outside of the market because naturalized and assigned to women, and are under- or uncompensated (Guy and Newman)."
+   },
+   {
+    "loc": 484,
+    "page": "p. 456",
+    "kind": "p",
+    "before": "After our last round of playtesting with sex workers, we added a scenario where Andrea gets a sexually transmitted infection.",
+    "sentence": "A pop-up informs players that they have lost money because of time off work to go to the health clinic and to purchase the needed medication.",
+    "after": "There is also a hit, however, in terms of mood and health."
+   },
+   {
+    "loc": 484,
+    "page": "p. 456",
+    "kind": "p",
+    "before": "A pop-up informs players that they have lost money because of time off work to go to the health clinic and to purchase the needed medication.",
+    "sentence": "There is also a hit, however, in terms of mood and health.",
+    "after": "In addition to giving the option to have intercourse without a condom, we provided other opportunities to engage in risky behavior such as being hired for group sex."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 35,
+  "input": "68f0d965f328",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "They are animated by political values influenced strongly by libertarianism, which extols individual autonomy and corporate freedom from government regulation.",
+    "sentence": "However, a recent survey of the political views of 600 tech entrepreneurs found that a majority of them favor higher taxes on the rich, social benefits for the poor, single-payer healthcare, environmental regulations, parental leave, immigration protections, and other issues that align with Democratic causes.",
+    "after": "Yet most of them also staunchly opposed labor unions and government regulation."
+   },
+   {
+    "loc": 24,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Yet most of them also staunchly opposed labor unions and government regulation.",
+    "sentence": "As one observer put it, “Silicon Valley entrepreneurs don’t mind the government regulating other industries, but they prefer Washington to stay out of their own business.”*5 For example, while many say they support single-payer healthcare in theory, they are also reluctant to contribute to tax revenue that would tund such an undertaking.",
+    "after": "So “political values” here is less about party affiliation or what people believe in the abstract and more to do with how the decisions of tech entrepreneurs impact questions of power, ethics, equity, and sociality."
+   },
+   {
+    "loc": 63,
+    "page": "p. 51",
+    "kind": "p",
+    "before": "",
+    "sentence": "In addition to the skewed racial results, the framing of Beauty AI as a kind of preventative public health initiative raises the stakes considerably.",
+    "after": "The team of biogerontologists and data scientists working with Beauty AI explained that valuable information about people’s health can be gleaned by “just processing their photos” and that, ultimately, the hope is to “find effective ways to slow down ageing and help people look healthy and beautiful.”° Given the overwhelming Whiteness of the winners and the conflation of socially biased notions of beauty and health, darker people are implicitly coded as unhealthy and unfit —- assumptions that are at the heart of scientific racism and eugenic ideology and policies."
+   },
+   {
+    "loc": 157,
+    "page": "p. 145",
+    "kind": "p",
+    "before": "I learned that their products are especially valuable to those industries not allowed to collect ethno-racial data directly from individuals because of civil rights legislation that attempts to curb how these data are used to discriminate.",
+    "sentence": "But now those who work in finance, housing, and healthcare can use predictive software programs to ascertain information that they cannot request directly.",
+    "after": "The US Health Insurance Portability and Accountability Act (HIPAA) privacy rule, for example, strictly monitors the collection, storage, and communication of individuals’ “protected health information,” among other features of the law."
+   },
+   {
+    "loc": 157,
+    "page": "p. 145",
+    "kind": "p",
+    "before": "But now those who work in finance, housing, and healthcare can use predictive software programs to ascertain information that they cannot request directly.",
+    "sentence": "The US Health Insurance Portability and Accountability Act (HIPAA) privacy rule, for example, strictly monitors the collection, storage, and communication of individuals’ “protected health information,” among other features of the law.",
+    "after": "This means that pharmaceutical companies, which market to different groups, need indirect methods to create customer profiles, because they cannot collect racial-ethnic data directly."
+   },
+   {
+    "loc": 163,
+    "page": "p. 151",
+    "kind": "p",
+    "before": "",
+    "sentence": "The scene plays with the connection between buzzwords and benevolence, making fun of the do-good sound bites that characterize the revolutionary culture of innovation: “health,” “safety,” “efficiency,” and even “diversity” mask newfangled forms of classification and control, which often take shape under the rubric of customization and individualization.",
+    "after": "The scene eventually whittles down the sound bites into virtuous acronyms, where each start-up offers a different configuration of the same three buzzwords — local, mobile, social — exposing how the same features are simply reordered to give the illusion of choice."
+   },
+   {
+    "loc": 167,
+    "page": "p. 155",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the United States, for example, 5 percent of Americans account for nearly 50 percent of healthcare costs and 1 percent comprise 20 percent of costs, and so the practice of healthcare “hot-spotting” is a kind of market segmentation.",
+    "after": "According to this approach, which started in Camden, New Jersey, the purpose of healthcare hot-spotting is the “strategic use of data to reallocate resources to a small subset of high-needs, high-cost patients,” or what they call super-utilizers.*° In Camden, 13 percent of the population accounts for 80 percent of healthcare costs."
+   },
+   {
+    "loc": 168,
+    "page": "p. 156",
+    "kind": "p",
+    "before": "In 2007 a coalition of healthcare providers started using (insurance claims) data from all three city hospitals to examine the relationship between geography, utilization, cost, and other variables.",
+    "sentence": "They also employ “Geographic Information Systems (GIS) technologies and spatial profiling to identify populations that are medically vulnerable (‘health care’s costliest 1%’),”34 a form of techno-benevolence that blurs the line between niche tailoring and unwanted targeting.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 10,
+  "input": "03e3f644fa5d",
+  "candidates": [
+   {
+    "loc": 30,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "",
+    "sentence": "If we are to be successful at the work we hope to do in projects on technological development and innovation, intercultural communication, medical and health communication, and other relevant topics, we must commit to diversifying our field in its foundational theories, its professoriate, its programs, and its citation patterns.",
+    "after": ""
+   },
+   {
+    "loc": 62,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "",
+    "sentence": "vices, such as payday loans, and ensuring healthcare coverage and other safety",
+    "after": ""
+   },
+   {
+    "loc": 82,
+    "page": "p. 55",
+    "kind": "q",
+    "before": "An ideology is a set of ideas that explains what makes society tick and what its values are.",
+    "sentence": "You don’t have to agree on that with other people in order to fight for health care, housing, affirmative action, or whatever. (p. 301)",
+    "after": ""
+   },
+   {
+    "loc": 83,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "benefits and healthcare for people experiencing Gulf War syndrome, researchers",
+    "after": ""
+   },
+   {
+    "loc": 126,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "Or even “Why is he so fat?",
+    "sentence": "I’m concerned for his health.”",
+    "after": "This type of questioning can be more insidious (and considered a microaggression) when it is couched as curiosity or concern rather than blatant discrimination."
+   },
+   {
+    "loc": 127,
+    "page": "p. 100",
+    "kind": "p",
+    "before": "Privilege allows some individuals to live a life unburdened by the obligation to justify their existence and to navigate a world designed for and dictated by a group of which you are a member; those without that privilege face undue demands of personal responsibility in a world designed without them in mind.",
+    "sentence": "Following Ahmed (2017), we might think about this as strain: a strain on the body, a strain on emotional and mental health, a strain on our families.",
+    "after": "Ahmed (2017) likens the struggle to manage one’s own existence against dominant ideals and norms to wearing an ill-fitting garment: The less one matches the dominant model, the worse the fit and greater the strain."
+   },
+   {
+    "loc": 144,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "The implementation, however, functioned to further marginalize citizens and dismiss their concerns.",
+    "sentence": "As Simmons explains, this was a form of pseudo-participation—not the sincere participation that would ensure public safety—and potentially approved risking citizen health and safety by ignoring citizen concerns and erasing them from the official documentation.",
+    "after": "These citizens, who were already excluded from early decision-making, remained at the margins of decision making, demonstrating the way that procedures themselves can, “reproduce intersecting oppressions” in the way they’re executed and/or “mask their effects” (p. 289)."
+   },
+   {
+    "loc": 144,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "Although HIV tests provided some semblance of empowerment for those tested, “[c]ase identification, especially when it involves name-based reporting, allows for various forms of institutional surveillance and regulation” (p. 52).",
+    "sentence": "Scott clarifies that while HIV tests provide important knowledge for the person tested, positive cases, which had to be reported to public health officials, often resulted in long-term scrutiny, surveillance, and/or being labeled high-risk.",
+    "after": "Scott’s nuanced reading of HIV testing and the potential for home testing represent the kind of activist work we support—and the kind of change and empowerment that can occur when TPC members interrogate the disciplinary domain of power."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 9,
+  "input": "e942c45fdddb",
+  "candidates": [
+   {
+    "loc": 114,
+    "page": "p. 98",
+    "kind": "p",
+    "before": "An arm becomes the path for the laborer; you must follow the right path by keeping the arm in use, by strengthening the arm.",
+    "sentence": "The unused arm becomes a symbol of waste but also of death: the laborers who do not make use of their arms, who do not lend their hands to the master, cannot be supported without compromising the health of the social body.",
+    "after": ""
+   },
+   {
+    "loc": 115,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "In Darwin’s later writings (probably as a result of the influence of Galton—whom he cites— on his own work), this eugenicist impulse is also explicit.",
+    "sentence": "Darwin writes: With savages, the weak in body or mind are soon eliminated; and those that survive commonly exhibit a vigorous state of health.",
+    "after": "We civilised men, on the other hand, do our utmost to check the process of elimination; we build asylums for the imbecile, the maimed, and the sick; we institute poor-laws; and our medical men exert their utmost skill to save the life of every one to the last moment."
+   },
+   {
+    "loc": 129,
+    "page": "p. 113",
+    "kind": "p",
+    "before": "",
+    "sentence": "or ennui is understood by Bentham as a danger to health and happiness.",
+    "after": ""
+   },
+   {
+    "loc": 146,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "activity: a calling off.",
+    "sentence": "Bentham thus associates moral health and activity with specific kinds of employment.",
+    "after": "So to be unemployed—in the specific sense of not to be in a profession or have a job—is to risk mental as well as physical degeneration."
+   },
+   {
+    "loc": 148,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "We can contrast Bentham’s plans for his own Chrestomathic School with his writing on education in workhouses.",
+    "sentence": "For education in the workhouse, Bentham recommends the full employment of all parts of the body: “To answer in perfection the purposes of health and development of strength, a system of exercise taken together, should be general in respect of the parts concerned in it, not local: it should find employ for every limb and every muscle: it should not be confined to particular limbs, or particular motions of the limbs” (1843d, 396, latter emphasis mine).",
+    "after": "We can hear from this account the accuracy of Foucault’s description of the correct use of the body; every limb must be employed for a body to be used correctly."
+   },
+   {
+    "loc": 151,
+    "page": "p. 135",
+    "kind": "p",
+    "before": "When he sells his business, he loses not only his employment but also himself: “From the fatal hour in which he quitted business, however, he grew insensibly more and more the victim of listlessness and ennui.",
+    "sentence": "With high animal spirits; with a mind still active, and a body still robust; with confirmed health, independent property, an amiable wife, a plentiful table, and a social neighbourhood, Mr Beardmore was no longer ‘at home’ in his own house.",
+    "after": "The mainspring of action was now stopped” (9)."
+   },
+   {
+    "loc": 175,
+    "page": "p. 159",
+    "kind": "p",
+    "before": "",
+    "sentence": "Warnings are useful because they articulate a no predicated not on some abstract rule but on the complainer’s own health and safety.",
+    "after": "Another student noted: “I was repeatedly told that ‘rocking the boat’ or ‘making waves’ would affect my career in the future and that I would ruin the department for everyone else."
+   },
+   {
+    "loc": 208,
+    "page": "p. 192",
+    "kind": "p",
+    "before": "The most recent exercise in 2014 introduced “impact” as a key criteria for assessing research excellence.",
+    "sentence": "Impact was described as “effect on, change or benefit to the economy, society, culture, public policy or services, health, the environment or quality of life, beyond academia.”",
+    "after": "We can hear echoes of Bentham’s model of a public that can monitor its motions."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 6,
+  "input": "b3f69ce2b1c2",
+  "candidates": [
+   {
+    "loc": 39,
+    "page": "p. 56",
+    "kind": "q",
+    "before": "The newly emerging capability to rapidly deploy and iterate micro-level, in-vivo, randomized experiments in complex social and economic settings at population scale is, in our view, one of the most significant innovations in modern social science.",
+    "sentence": "As more and more social interactions, behaviors, decisions, opinions and transactions are digitized and mediated by online platforms, our ability to quickly answer nuanced causal questions about the role of social behavior in population-level outcomes such as health, voting, political mobilization, consumer demand, information sharing, product rating and opinion aggregation is becoming unprecedented.",
+    "after": ""
+   },
+   {
+    "loc": 54,
+    "page": "pp. 83–84",
+    "kind": "p",
+    "before": "If we use social media data accessible via APIs for research purposes, we have to follow rules carefully to ensure user privacy.",
+    "sentence": "This was not obvious at first, but eventually researchers in computer science and computational social science started to do this, and in 2013 national bodies such as the US Department of Health and Human Services created detailed guidelines.",
+    "after": "Companies such as Facebook also created guidelines and review boards for data use by their own researchers after the topic of access to user data started to be widely discussed."
+   },
+   {
+    "loc": 64,
+    "page": "pp. 101–102",
+    "kind": "p",
+    "before": "These statistical methods are a part of modern scientific methodology used in the natural sciences, life sciences, and quantitative social sciences.",
+    "sentence": "For the latter, including sociology, demographics, psychology, and political science—as well as health sciences and medical research—the use of sampling techniques is particularly crucial.",
+    "after": "These disciplines and professional fields often use small human groups for surveys, observation, or experiments."
+   },
+   {
+    "loc": 65,
+    "page": "p. 103",
+    "kind": "p",
+    "before": "Computer scientists published many algorithms that predict users’ age, gender, race, education, and other details from their social media posts and profiles.",
+    "sentence": "These techniques are widely used in marketing and advertising—but they also offer benefits for other fields, such as public health research.",
+    "after": "As a 2017 paper that surveyed this work notes, “Although the endeavor to predict user’ demographics is plagued with ethical questions regarding privacy and data ownership, knowing the demographics in a data sample can aid in addressing issues of bias and population representation, so that existing societal inequalities are not exacerbated.”"
+   },
+   {
+    "loc": 67,
+    "page": "pp. 106–107",
+    "kind": "p",
+    "before": "For example, to weight by population density, Gallup used the US Census reports.",
+    "sentence": "This systematic approach to sampling is typical of all natural and social sciences and all practical fields, such as public administration, public health, demographics, marketing research, and so on.",
+    "after": "In fact, the only area where it is absent is the humanities."
+   },
+   {
+    "loc": 140,
+    "page": "pp. 237–238",
+    "kind": "p",
+    "before": "Subsequently, software such as ImageJ is used to assemble individual slices together and study them.",
+    "sentence": "In fact, ImageJ and its predecessor Image were originally developed at the U.S. National Institutes of Health (NIH) for working with images obtained using light microscopes, and the software has been particularly popular in biomedical image processing.",
+    "after": "These origins are clearly visible in ImageJ’s UI: it calls individual images slices, and a sequence of these slices is called a stack."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 56,
+  "input": "0770015427ce",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "We identify as middle-class and cisgender—meaning that our gender identity matches the sex that we were assigned at birth.",
+    "sentence": "We have experienced sexism in various ways at different points of our lives—being women in tech and academia, birthing and breastfeeding babies, and trying to advocate for ourselves and our bodies in a male-dominated health care system.",
+    "after": "But we haven’t experienced sexism in ways that other women certainly have or that nonbinary people have, for there are many dimensions of our shared identity, as the authors of this book, that align with dominant group positions."
+   },
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "",
+    "sentence": "These disparities were already well-known to Black-women-led reproductive justice groups like SisterSong, the Black Mamas Matter Alliance, and Raising Our Sisters Everywhere (ROSE), some of whom had been working on the maternal health crisis for decades.",
+    "after": "Williams helped to shine a national spotlight on them."
+   },
+   {
+    "loc": 29,
+    "page": "PDF p. 29",
+    "kind": "p",
+    "before": "The situation hadn’t improved in 2017, when ProPublica began its reporting.",
+    "sentence": "In 2018, USA Today investigated these racial disparities, and found what was an even more fundamental problem: there was still no national system for tracking complications sustained in pregnancy and childbirth, even though similar systems had long been in place for tracking any number of other health issues, such as teen pregnancy, hip replacements, or heart attacks.",
+    "after": "They also found that there was still no reporting mechanism for ensuring that hospitals follow national safety standards, as is required for both hip surgery and cardiac care."
+   },
+   {
+    "loc": 29,
+    "page": "PDF p. 29",
+    "kind": "p",
+    "before": "The chief of the CDC’s Maternal and Infant Health branch, William Callaghan, makes the significance of this “embarrassing” data more clear: “What we choose to measure is a statement of what we value in health,” he explains.",
+    "sentence": "We might edit his statement to add that it’s a measure of who we value in health, too.",
+    "after": ""
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "For wealthier parents, who can more easily access private health care and mental health services, there is simply not that much data to pull into the model.",
+    "sentence": "For poor parents, who more often rely on public resources, the system scoops up records from child welfare services, drug and alcohol treatment programs, mental health services, Medicaid histories, and more.",
+    "after": "Because there are far more data about poor parents, they are oversampled in the model, and so their children are overtargeted as being at risk for child abuse—a risk that results in children being removed from their families and homes."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "As survey designers, and data scientists more generally, there would seem to be an obvious response to the Stanford report: collect gender data in more than binary categories, making sure to disaggregate the data—that is, compare the data by genders during the analysis phase.",
+    "sentence": "One recent alternative to the binary, developed by Public Health England in collaboration with LGBTQ+ organizations in the United Kingdom, is in evidence in figure 4.5.",
+    "after": "This two-item questionnaire was designed for use in routine national surveillance of HIV in England and Wales to determine self-identified gender and cis or trans status in a public health context."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "One recent alternative to the binary, developed by Public Health England in collaboration with LGBTQ+ organizations in the United Kingdom, is in evidence in figure 4.5.",
+    "sentence": "This two-item questionnaire was designed for use in routine national surveillance of HIV in England and Wales to determine self-identified gender and cis or trans status in a public health context.",
+    "after": "The designers offer three named genders, a catch-all fourth category, and an option for not disclosing gender identity."
+   },
+   {
+    "loc": 145,
+    "page": "PDF p. 145",
+    "kind": "p",
+    "before": "This study looks at the medical records of more than forty-five thousand first-time incarcerated people and finds that some groups are more likely to receive treatment, while others are more likely to receive punishment.",
+    "sentence": "More specifically, white people are more likely to receive a mental health diagnosis, while Black and Latinx people are more likely to be placed in solitary confinement.",
+    "after": "The researchers attribute some of this divergence to the differing diagnosis rates experienced by these groups before becoming incarcerated, but they also attribute some of the divergence to discrimination within the jail system."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 11,
+  "input": "e14befb09905",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "Everything from the average size and height of a seat in a car to the size of “ergonomic” finger depressions in tool handles to the size of frets on a guitar were all initially developed based on statistical norms that privilege one-third world male bodies (one-third world is feminist scholar Chandra Mohanty’s reformulation of the dated and hierarchical term first world).",
+    "sentence": "Such discriminatory standards are not exceptions; rather, they shape technologies in nearly every field, such as transportation, health, housing, clothing, and more.",
+    "after": ""
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "An ever-growing body of journalism and scholarship demonstrates that algorithms unintentionally reproduce racial and/or gendered bias (less attention has been focused so far on algorithms and ableism, and questioning algorithmic reproduction of class inequality is barely on the table since financial risk calculation is so deeply normalized as to be hegemonic).",
+    "sentence": "Algorithms are used as decision-making tools by powerholders in sectors as diverse as banking, housing, health, education, hiring, loans, social media, policing, the military, and more.",
+    "after": "Design justice calls for an analysis of how algorithm design both intentionally and unintentionally reproduces capitalism, white supremacy, patriarchy, heteronormativity, ableism, and settler colonialism."
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "Joy Buolamwini, in her work with the Algorithmic Justice League, argues that we must develop intersectional training data, tests, and benchmarks for machine-learning systems.",
+    "sentence": "Buolamwini is best known for demonstrating that facial analysis software performs worst on women with darker skin tones, but also advocates for greatly increased regulation and oversight of facial analysis tools, against their use by military or law enforcement, and fights to limit their use against marginalized people across areas as diverse as hiring, housing, and health care.",
+    "after": ""
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "",
+    "sentence": "The team also shares this fascinating finding: “Contrary to some popular beliefs in the West, a notable proportion of users (certainly in a domestic context) in Ahmedabad at least aspire to own a sit type toilet, despite the documented health benefits of squat toilets.”",
+    "after": "This presents a difficult moment for a design justice approach."
+   },
+   {
+    "loc": 74,
+    "page": "PDF p. 74",
+    "kind": "p",
+    "before": "This presents a difficult moment for a design justice approach.",
+    "sentence": "If people everywhere aspire to own sit toilets, despite the health benefits of squat toilets, because their hegemonic presence in mass media and in the homes of local elites makes them a marker of economic success, what is the appropriate path?",
+    "after": "On the one hand, resources might be reallocated from product design to popular education and/or media campaigns about the benefits of squat toilets over sit toilets."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "Similarly, a fashion design studio may be a site where highly technical knowledge about apparel design and production is developed and shared and may (or may not) be an inclusive space along lines of race, gender identity, and/or sexual orientation.",
+    "sentence": "The same site may also be a key node in capitalist relations of production and consumption, as clothing designers labor to create innovative patterns that are then produced in sweatshops by migrant workers who typically face long hours, low wages, abusive bosses, health hazards, and humiliating work conditions.",
+    "after": "Nor does design justice ignore the ways that community, local, diasporic, and/or Indigenous design sites may sometimes be locations for sustained resistance to cultural erasure through the ongoing production of sociotechnical knowledge and designed objects, even as they may simultaneously reproduce heteropatriarchal values and norms that were often imposed through settler colonialism."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "To take another example, writer, artist, and activist Gloria Lin’s (2016) ethnography of college hackathons describes how “hackathon spaces cultivate a culture that marginalizes hackers with specific needs, including but not limited to women, people with disabilities, people with nontraditional backgrounds, and even individuals with specific dietary restrictions.",
+    "sentence": "By consistently ignoring the health, diet, and care needs of diverse attendees, along with needs based on skill, class, and gender identities, hackathons create an exclusive and hostile environment.”",
+    "after": "Lin describes in detail what this looks like at a UCLA hackathon organized by a company called Major League Hacking."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "For example, while I was a graduate student in Los Angeles, I worked with IDEPSCA for five years on VozMob, a popular education and participatory design project focused on appropriating mobile phones to amplify the voices of immigrant workers.",
+    "sentence": "Most recently, NDWA used participatory design methods with home cleaning workers to develop and launch Alia, a platform for portable benefits that is enabling some of these workers to access health insurance and paid time off for the first time in their lives.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "3901e5a195e8",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "Writing about the two frames in the same chapter will, I hope, encourage a dialectic about how it feels to enact Blackness and how Blackness feels when acted upon.",
+    "sentence": "In the vein of public health studies, this chapter focuses on how racism affects Black folk by examining online responses to “racial battle fatigue” as well as conceptualizing how online Black enclaves can manage racists without encountering direct racism from nonwhites.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 7,
+  "input": "9e28300165c2",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "The narratives that emerge around Twitter hashtags evolve more quickly than traditional media, and for this reason Twitter has become one of the major tools for disseminating information to the public in the hope of spurring particular actions or outcomes.",
+    "sentence": "For example, when the Susan G. Komen for the Cure Foundation announced in 2012 it would withdraw financial contributions to Planned Parenthood intended for breast cancer screening, Planned Parenthood and its supporters flooded social media spaces with the hashtag #IStandWithPP, along with emotional stories and compelling statistics about the significance of Planned Parenthood to American women’s health.",
+    "after": "Within days, the Komen Foundation responded to the growing public relations disaster by reversing its decision and pushing the official behind the original decision into resignation."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "While many early tweets in the network framed the Isla Vista shooting as an example of the consequences of permitting a misogynistic culture, the network later became much broader, with few of the most popular tweets overall mentioning the shooting.",
+    "sentence": "Members of the network used the tag to connect issues of gender inequality across economic, health care, criminal justice, and business contexts to misogynistic violence and used illustrative language to show how the prevalence of this inequality normalizes sexual violence against women.",
+    "after": "For example, the hashtag was used alongside those related to equal pay for women in Hollywood and the renewal of the Violence Against Women Act by congress."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "The website PolicyMic, a central player in the later hashtag #AllMenCan, which is covered in chapter 6 of this book, interviewed Wanjuki and featured the tweets of other Twitter users, who shared horrific and lasting examples of their so-called #SurvivorPrivilege in action.",
+    "sentence": "Users explained how their sexual assaults affected their grades, mental health, relationships, and professional successes and finances.",
+    "after": ""
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "Despite this visibility and progress on specific trans issues, and despite Time magazine’s proclamation in 2014, along with a cover featuring Laverne Cox, that the United States had reached a “transgender tipping point,” a “quantitative increase in media attention,” as Jamie Capuzza notes, “did not equate with challenges to cisnormativity.”",
+    "sentence": "In fact, trans women continue to negotiate unique threats to life and health, which are further multiplied at the intersections of race, class, and sexuality.",
+    "after": "Along with the advances and greater visibility of recent years, trans women continue to be murdered at a startling rate."
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "Influencers like Janet Mock and Laverne Cox facilitate and encourage everyday trans women with a variety of intersectional identities to speak up and speak out about their experiences in a networked counterpublic that has become much bigger than they could have predicted.",
+    "sentence": "In turn, the collective contributions of all the members of the #GirlsLikeUs network have aided in constructing and extending an online trans feminist counterpublic that works toward self-sustaining political identity creation and, in so doing, supports the health and social inclusion of network members while strategically infiltrating mainstream talk about trans identities.",
+    "after": ""
+   },
+   {
+    "loc": 63,
+    "page": "PDF p. 63",
+    "kind": "p",
+    "before": "In March 2016, North Carolina banned trans people from using bathrooms that did not correspond to their sex assigned at birth.",
+    "sentence": "Such laws force trans citizens to make impossible choices between their safety in restrooms and breaking the law, and has created health problems as people have avoided public restrooms altogether.",
+    "after": "In response, the U.S. Department of Education and Department of Justice issued a letter supporting transgender students’ right to use the bathroom of their choice and issued an injunction to stop the North Carolina bill from being implemented."
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Lezley McSpadden, the mother of Michael Brown, announced her intention to run for a seat on the Ferguson City Council on August 10, 2018, just one day after the four-year anniversary of her son’s murder.",
+    "sentence": "Her platform, informed by the needs of the community, has three prongs: “community policing, economic equality and access to health care for Ferguson’s young children.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 5,
+  "input": "a1f0eae69ad0",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "p. 20",
+    "kind": "p",
+    "before": "For sexual and gender minorities, access to good information helps to determine a life that is livable.",
+    "sentence": "Thi k, for example, of trans communities finding support on Usenet in the 1990s, people living with hiv seeking out accurate health information via online Bulletin Board Systems in the 1980s, or men who have sex with men in the 1960s sharing countersurveillance knowledge via wallet cards that taught others how to avoid arrest for cruising.",
+    "after": "In each of these cases, marginalized users facing various stigmas and threats to safety access vital information resources generated carefully and clandestinely by activists."
+   },
+   {
+    "loc": 47,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "We connect city lesbians and country lesbians.",
+    "sentence": "We serve isolated lesbians and integrate them into the local and larger women’s communities.”Telewoman thought about connecting its subscribers over a distance to service their need for information and their need for other emotional forms of care that would, among other things, ameliorate isolation or provide access to mental health services.",
+    "after": "Newsletter networks promised subscribers the possibility of feeling less alone against a world hostile to women’s liberation and especially cruel to the figu e of the lesbian feminist."
+   },
+   {
+    "loc": 88,
+    "page": "p. 84",
+    "kind": "p",
+    "before": "",
+    "sentence": "Gay and lesbian hotlines connected information-seeking callers with basic services taken for granted within heteronormative frameworks, such as bars and restaurants, housing, health information, and organized social groups where callers might meet others like them.",
+    "after": "Autoethnographic reflections on these services written by volunteers reveal a great deal about why people chose to work at hotlines and, more specifically, how they understood the political and emotional investments of doing this work."
+   },
+   {
+    "loc": 109,
+    "page": "p. 105",
+    "kind": "p",
+    "before": "",
+    "sentence": "Imagine a new lesbian parent in the 1980s confronting homophobia in health care or juridical contexts.",
+    "after": "She might need legal, medical, and emotional support."
+   },
+   {
+    "loc": 145,
+    "page": "p. 141",
+    "kind": "p",
+    "before": "It could be adapted to make simple “databases” that were more like lists.",
+    "sentence": "The program had wide applications for bibliographic management, text editing, and simple programming and was used at large institutions, including the National Institutes of Health, the City University of New York, and the University of California system.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 4,
+  "input": "0937e79916e9",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "Scholars have paid significant attention to the duality of masculinity and blackness and its impact on mental well-being.",
+    "sentence": "Jewelle Gibbs’s classic edited volume Young, Black, and Male in America: An Endangered Species (1988) gave necessary attention to the status of young African American males, highlighting how that generation experienced even more disparate outcomes related to unemployment, involvement with criminal justice, homicide, suicide, health and mental health stigmas, and even unsupportive familial structures.",
+    "after": ""
+   },
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "Scholars describe how African American men’s repeated encounters with prejudice and racism creates an “invisibility syndrome,” defined as “an inner struggle with the feeling that one’s talents, abilities, personality, and worth are not valued or even recognized because of prejudice and racism.”",
+    "sentence": "The scholarship confirms that African American men’s encounters with prejudice and racism adversely affect physical and mental health.",
+    "after": "Racism and “racism-related stress” has consistently been found to be a predictor of psychological distress in working-class and upper-middle-class African American men."
+   },
+   {
+    "loc": 44,
+    "page": "PDF p. 44",
+    "kind": "p",
+    "before": "Research suggests that these dysfunctions could be a central factor in developing toxic masculinity.",
+    "sentence": "Violence, sexual assault, risky sexual behaviors, depression, parenting issues, and negative health outcomes have been correlated with high levels of strain.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 6,
+  "input": "1cbd3d0a1ec7",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "Indeed, we must prepare students to face unprecedented issues.",
+    "sentence": "Recent events including the COVID-19 global health pandemic and ongoing racial tensions due to systemic oppression and xenophobia have proven to technical communication scholars, instructors, and practitioners that the social aspect of technical communication is as important as—in some cases, more important than—its technical counterpart.",
+    "after": "Jason Swarts (2020) argued that technical communicators play the crucial role in socially constructing users’ interaction with technologies and with their respective communities."
+   },
+   {
+    "loc": 59,
+    "page": "p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "I was introduced to the Anderson Labs by Jonathan Kofel, a health sciences librarian turned emerging technology and innovation strategist at Minnesota.",
+    "after": "From our initial meetings, I was put in contact with William Durfee, head of the mechanical engineering department and faculty sponsor for the Anderson Labs."
+   },
+   {
+    "loc": 81,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "During the development of this book, our world was struck with two major crises—a worldwide health pandemic brought about by COVID-19 and a global uprising stirred by systemic racism.",
+    "after": "The public role of technical communicators has since become more prominent than ever."
+   },
+   {
+    "loc": 81,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "Meanwhile, as the health pandemic called for technical expertise, the strife for racial justice demanded attention by technical communicators to the social dimensions of their crafts.",
+    "after": "Technical communicators—including UX researchers, content strategists, instructional designers, etc.—can participate meaningfully in social advocacy through their professional practices."
+   },
+   {
+    "loc": 105,
+    "page": "p. 84",
+    "kind": "p",
+    "before": "Ideas presented to students as potential domains for investigation included student housing and meal plans, transportation, campus safety, and learning resources.",
+    "sentence": "Students were also invited to consider other ongoing issues around campus climate, extracurricular activities, and health services.",
+    "after": ""
+   },
+   {
+    "loc": 115,
+    "page": "p. 94",
+    "kind": "p",
+    "before": "Two of these students were female (Sheryl and Shelby) and one was male (George).",
+    "sentence": "George was pursuing a bachelor of independent studies, while Sheryl was an economics and actuarial science major, and Shelby was a health management major.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 8,
+  "input": "2f43e0ba44c2",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "Kimberly Nicole Foster has shown bloggers how to shift content from the blogosphere to YouTube seamlessly.",
+    "sentence": "Marah Lidey is one of the cofounders of Shine, a mental health app that speaks specifically to the experiences of women of color.",
+    "after": "As she writes, “Imagine all the ideas we’re missing out on because people from more marginalized experiences—that are uniquely positioned to solve problems because of that experience—struggle to see themselves in existing founders” (Shine, 2020)."
+   },
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "However, popularized phrases and hashtags lauding Black women for their decisions do not do the work of explaining the centuries of wisdom, labor, and ingenuity that have put Black women in a position to do the long-suffering and thankless task of attempting to save America from itself.",
+    "sentence": "As Treva Lindsey writes, “Black women and femmes keep developing radical ideas about social transformation, wrestling with the ways anti-Blackness manifests in areas such as the criminal justice system, health care, news media and popular culture, and tirelessly amplifying the experiences of Black women, girls and femmes.",
+    "after": "But even as our ideas are coopted, our victimization remains on the margins” (Lindsey, 2020, para."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "Inundated with harmful images, harassment, and violent rhetoric on social media, many digital Black feminists have determined that breaks from the news are a necessary practice of self-care.",
+    "sentence": "While I was steadfast in my newly found strength to protect my mental health, my colleague shamed my “lack of political engagement” and “inability to understand the significance of the moment” because of my age.",
+    "after": "She deemed this moment of self-care and extension of Black feminist praxis as childish and selfish."
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "In the film, the mother’s work as a vlogger makes it possible for the father to attend to his daughter’s hair.",
+    "sentence": "Because many who look to these sites for help may be new to their natural hair journey, blogger and vlogger guidance are critical to maintaining the health of their hair.",
+    "after": "Natural hair vlogs and blogs continue to serve an essential need in the Black community, offering practical guidance on hair maintenance and a community of support."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "Lucas devotes lucrative revenue-generating advertising space to only two concerns, the promotion of her book and a company providing at-home HIV tests.",
+    "sentence": "She does not separate her business decisions from her ability to use A Belle in Brooklyn to promote ideals of sexual health and reverse the stigma around HIV in the Black community.",
+    "after": "A Belle in Brooklyn is a virtual beauty shop that functions as a tool of self-promotion while providing generative and affirming content to Black women."
+   },
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "As she describes, self-care is not merely about remembering to do a kind thing for oneself.",
+    "sentence": "For Black women, self-care is a political decision to prioritize one’s health, safety, and care in a space where you are under assault.",
+    "after": "When Harris-Perry ended her show, she referred to it as “our show,” acknowledging that the decision carried consequences for herself and the many Black folks for whom her show was a platform and source of information."
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "The wealth gap?",
+    "sentence": "The health disparities reported as statistics, separated from the narratives of the individual and community’s lived experiences?",
+    "after": "Yeah, that’s me."
+   },
+   {
+    "loc": 107,
+    "page": "PDF p. 107",
+    "kind": "p",
+    "before": "Syllabi, special issues in journals, and entire academic monographs have been devoted to the importance of Beyoncé as a cultural icon and figure of Black feminist praise and critique.",
+    "sentence": "Scholars have delved into her lyrics to discuss Black love relationships, mental health, motherhood, and loss.",
+    "after": "Pop culture writers have considered Beyoncé’s relationship to Black music and Black people through her philanthropy and social justice."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 184,
+  "input": "768c381a9329",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "Mammy still serves as a mollifying myth that projects home and quality for white people, all the while obscuring the white male supremacist power structure’s investment in and actual profit from this image that still hides their continued sexual abuse of Black women.",
+    "sentence": "Whether the Pine-Sol lady, the Popeye’s Chicken lady, or a digital media meme of Hattie McDaniel from Gone with the Wind (1939), mammy remains an important archetype in all but name, and as such continues to weave misogynoir through Black women’s lives and their health outcomes.",
+    "after": "The impact of cleaning chemicals, environmental racism, and fast food on the health of Black women is made a problem of Black women’s poor choices rather than a predictable outcome linked to food deserts, brownfield lands, and limited access to healthcare."
+   },
+   {
+    "loc": 14,
+    "page": "pp. 4–5",
+    "kind": "p",
+    "before": "The impact of cleaning chemicals, environmental racism, and fast food on the health of Black women is made a problem of Black women’s poor choices rather than a predictable outcome linked to food deserts, brownfield lands, and limited access to healthcare.",
+    "sentence": "In a culture that equates thinness with good health and desirability, fat Black women are demonized for their bodies even as their bodies are used to sell goods and rear white children.",
+    "after": ""
+   },
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "Misogynoir can be weaponized against Black women in ways that harm their health.",
+    "sentence": "The World Health Organization (WHO) defines health as “a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.”",
+    "after": "This definition has been criticized by disability studies theorists for making health unobtainable for those who do not have “complete physical, mental and social well-being.”"
+   },
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "Race and gender not only play a role in the physical environment in which one lives but also impact the way one is perceived in society.",
+    "sentence": "Can a person achieve the WHO definition of health if they encounter racism, sexism, ableism, and other oppressions as part of their daily life in the world?",
+    "after": "The stress and material consequences of systemic oppression make it nearly impossible to have physical, mental, and social well-being in a white supremacist patriarchal country."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 13–14",
+    "kind": "p",
+    "before": "",
+    "sentence": "For the purposes of this book, I use the WHO definition of health to orient readers to the myriad ways misogynoir has material effects in the lives of Black women and expand our general thinking of health beyond statistical disparities.",
+    "after": "Misogynoir may impede Black women’s health by negatively impacting their physical, mental, and social lives."
+   },
+   {
+    "loc": 26,
+    "page": "pp. 30–31",
+    "kind": "p",
+    "before": "I focus on Black trans women’s use of social media as a lifesaving and health-affirming praxis that mitigates transmisogynoir.",
+    "sentence": "I argue that these practices extend our definitions of “health” beyond simple biomedical rubrics through the kind of generative digital alchemy enacted.",
+    "after": "I begin with trans advocate Janet Mock’s wildly successful hashtag #GirlsLikeUs, which continues to be an important digital network for trans women to connect with each other."
+   },
+   {
+    "loc": 45,
+    "page": "pp. 72–73",
+    "kind": "p",
+    "before": "This chapter explores Janet Mock’s and other Black trans women’s use of digital media platforms to create redefined representations of themselves outside the problematic lens of transmisogynoir.",
+    "sentence": "These images and texts counter negative stereotypes about the community in media through a process that addresses health and healing beyond the WHO definition of health.",
+    "after": "The creation of the hashtag #GirlsLikeUs by Janet Mock and the proliferation of other hashtags for trans women, including #TWOC and #FreeCeCe, are examples of how Black trans women transform social media into social justice magic that advocates for their lives."
+   },
+   {
+    "loc": 65,
+    "page": "pp. 114–115",
+    "kind": "p",
+    "before": "Skye is being guided to address the harm she allows Jay to cause in her life through the metaphor of gorging on unhealthy food.",
+    "sentence": "By comparing the spiritual body to the physical body, Mutha Indigo is expanding notions of health.",
+    "after": "This dialogue transforms misogynoir by offering a moment of process to viewers, where the audience can reflect on their own patterns and perhaps establish new ones."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "7d6491b3f57f",
+  "candidates": [
+   {
+    "loc": 37,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "These issues expose the fact that even the simplest-seeming act of data production involves a model.",
+    "sentence": "Our model might need to be modified depending on the purpose for which we are collecting the data—safety, health, or usage—or to justify new furnishings.",
+    "after": "Does it matter whether the occupants are male or female, trans or queer, non-binary, and range in age from five to seventy?"
+   },
+   {
+    "loc": 41,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "The “triangulation” or correlation of data sets raises serious issues with regard to individual privacy, since one or two pieces of information, once matched, can violate privacy statutes and erase anonymity.",
+    "sentence": "Certain kinds of data, such as medical records, are protected by particular statutes (HIPAA, the Health Information Portability and Accountability Act, and FERPA, the Family Educational Rights and Privacy Act, for instance), but again, these protections can be over-ridden when different data sets are combined.",
+    "after": "Studying the history of counterculture and underground activities, sub-cultural activities in which individuals participated pseudonymously or anonymously, for instance, can have unintended consequences if identities are revealed and connected in the present."
+   },
+   {
+    "loc": 98,
+    "page": "p. 83",
+    "kind": "p",
+    "before": "Further constraints on data access arise from other ethical considerations.",
+    "sentence": "Students should not have access to other students’ records and confidential information should not be shared in personnel and health matters.",
+    "after": "Personal information should not be shared without consent."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 13,
+  "input": "ac474e82dec4",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "",
+    "sentence": "As we shifted our class online in March 2020 in order to safeguard our health, our lives, and the lives of those around us, and to try to slow a deadly and highly transmissible virus, I found myself thinking about other types of destructive virality, and about October 2019, when I watched Mark Zuckerberg testify before Congress.",
+    "after": "During his questioning by Congresswoman Alexandria Ocasio- Cortez about misinformation on his platform, Zuckerberg tried to give a series of vague nonanswers but occasionally tripped up in ways that showed that he truly did not understand the scope and scale of the problems he had helped unleash on society."
+   },
+   {
+    "loc": 16,
+    "page": "pp. 19–20",
+    "kind": "p",
+    "before": "In the US since 2016, instead of more regulatory safeguards put into place by a democratically elected government, we have seen runaway centralization and the destruction of regulatory and safety agencies under an increasingly authoritarian federal government.",
+    "sentence": "During a global pandemic this has meant that even healthcare supplies and vital public information have been withheld from citizens and state governments.",
+    "after": "Scientists and epidemiologists at the CDC and NIH have been increasingly forced out or muzzled, and many of the teams dedicated to pandemic response had been dissolved prior to the COVID-19 crisis, leaving a gaping hole of expertise where our disaster response should have been."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 23–24",
+    "kind": "p",
+    "before": "The strength of the ballot box is not enough when a country’s informational infrastructure is in ruins.",
+    "sentence": "Supporting older, more stable technologies that enhance our society, like the postal system, traditional news media, and citizen-funded public health is as important as rejecting newer technologies that threaten to disrupt and divide.",
+    "after": ""
+   },
+   {
+    "loc": 33,
+    "page": "pp. 53–54",
+    "kind": "p",
+    "before": "",
+    "sentence": "But the cost savings don’t stop simply at the reduction in need for office space and health insurance.",
+    "after": "A cynic such as myself might also note that having fewer direct employees might be seen as a means to control the likelihood of labor organizing or collective action, or at least greatly reduce its impact by virtue of smaller numbers of direct employees and less chance of them encountering each other at a shared work site."
+   },
+   {
+    "loc": 91,
+    "page": "pp. 159–161",
+    "kind": "p",
+    "before": "In recent years, they have protested their companies’ ethics—from defense contracts to the industry’s handling of privacy and sexual harassment—through open letters, petitions, and walkouts.",
+    "sentence": "In the gaming industry, employees organize an international unionization drive to address precarious work conditions, such as long hours, frequent layoffs driven by the business cycle, and lack of health care.",
+    "after": "The fire of employee-relations issues is burning hot in the valley and in tech companies elsewhere."
+   },
+   {
+    "loc": 110,
+    "page": "pp. 193–194",
+    "kind": "p",
+    "before": "Looking back at the last fifty years of speech technology development, the fact that we have figured out how to teach and train our technology to speak and recognize human speech is in and of itself an amazing technological accomplishment.",
+    "sentence": "However, it is not enough that our technologies just speak, in the same way that it is not enough that our children just have a school to attend or that adults just have access to health care.",
+    "after": "In the same way we expect our physical spaces—where we work, play, and learn—to support and reflect our identity, culture, and values, so too we should expect and demand that our technology—as tools that support our work, play, and learning—also reflect our identity, culture, and values."
+   },
+   {
+    "loc": 114,
+    "page": "p. 202",
+    "kind": "p",
+    "before": "In the field of human–robot interaction (HRI), ideas about genderless or user-assigned gender are being studied, particularly as it concerns the acceptability of various kinds of tasks that can be programmed into robots who will interact with human beings across the globe.",
+    "sentence": "For example, questions as to whether assistive robots used in health care, who may touch various parts of the body, are studied to see if these kinds of robots are more easily accepted by humans when the gender of the robot is interpreted as female.",
+    "after": "Søraa has carefully traced the most popular commercial robots and the gendering of such technologies, and further detailed how the narratives we hold about robots have a direct bearing on how they are adopted, perceived, and engaged with."
+   },
+   {
+    "loc": 147,
+    "page": "pp. 263–264",
+    "kind": "p",
+    "before": "UC Berkeley was able to equalize male and female enrollment in an introductory computer class in part by placing “more emphasis on the impact and relevance of computing in the world.”",
+    "sentence": "NCWIT has found that young women respond to the message that as an IT professional they can create “products and solutions that save lives, solve health problems, improve the environment, and keep us connected” and that “She can use her skills to help solve pressing social problems in a variety of fields.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 50,
+  "input": "a9874625b61f",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "",
+    "sentence": "I begin my case studies with chapter 4, “Language Fluidity in Health Contexts on the Mexico/US Borderland.”",
+    "after": "In this chapter, I illustrate how language ideologies shape the way people experience health and healthcare, particularly in a borderland community that moves fluidly across many variations of Spanish and English in everyday interactions across contexts."
+   },
+   {
+    "loc": 33,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "I begin my case studies with chapter 4, “Language Fluidity in Health Contexts on the Mexico/US Borderland.”",
+    "sentence": "In this chapter, I illustrate how language ideologies shape the way people experience health and healthcare, particularly in a borderland community that moves fluidly across many variations of Spanish and English in everyday interactions across contexts.",
+    "after": "In this community, providing translations of medical information in standardized English or standardized Spanish is an ineffective strategy that will not reach community members who prefer using both Spanishes and Englishes to communicate in verbal and written forms."
+   },
+   {
+    "loc": 53,
+    "page": "p. 37",
+    "kind": "p",
+    "before": "As a language and translation scholar who has both experienced and continues to witness the anxiety, trauma, and embodied pain that can go into language work in context—as mothers fight to seek and understand healthcare for their families, as families seek employment and documentation, as under-resourced communities continue to be the most heavily impacted by health disparities and racist legal systems—I find intersectionality and interdependency, and the connections between critical race theory in language and disability studies, to be critical components of how technical communicators should (re)image and (re)engage with multilingualism in contemporary contexts.",
+    "sentence": "Rather than ignoring the trauma, anxiety, pain, and joy language transformation brings to marginalized communities, particularly those that have to engage in high-stakes processes (e.g., health and legal proceedings) in standardized languages like mainstream white English, technical communication researchers should recognize the ways multilingual experiences shape individuals and influence the contexts in which research happens.",
+    "after": "When multilingual communicators use their language practices in formal environments under standardized protocols like research, we bring with us our previous language-learning experiences, our bodyminds and language skills, as well as our various visible and invisible dis/abilities."
+   },
+   {
+    "loc": 76,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "The two research sites I introduce in this chapter represent communities of people I had the privilege to work with as part of a larger collaborative project focused on localizing healthcare on the Mexico/ US borderland through a multilingual user experience design (Durá, Gonzales, and Solis 2019).",
+    "after": "Along with my collaborator Lucía Durá, we developed a multi-site study geared toward developing linguistically and culturally sustainable tools and technologies for facilitating health-related communication and interventions for bilingual populations in the borderland city of El Paso."
+   },
+   {
+    "loc": 76,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "Along with my collaborator Lucía Durá, we developed a multi-site study geared toward developing linguistically and culturally sustainable tools and technologies for facilitating health-related communication and interventions for bilingual populations in the borderland city of El Paso.",
+    "sentence": "Decades of research in health communication and more recently in the subfield of the Rhetoric of Health and Medicine (RHM) demonstrates that more localized approaches are needed to provide accessible care for bilingual and multilingual communities (Bloom-Pojar 2018; Cristancho et al. 2008; Durá 2016; Gonzales and Bloom-Pojar 2018).",
+    "after": "As Sergio Cristancho and colleagues (2008) explain, “For Hispanics living in the United States, barriers such as lack of health insurance, non-eligibility for certain public assistance programs, costs of health care services, language, lack of medical interpretation services, discrimination related to documentation status, and lack of transportation” are well-documented barriers to access to and use of healthcare (634)."
+   },
+   {
+    "loc": 78,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "The community center was in the Chamizal neighborhood, named after the national parks that sit on each side of the Mexico/US border, separated by the Rio Bravo/Rio Grande (Del Hierro et al. 2019).",
+    "sentence": "During our weekly meetings, program leaders (including me and other faculty members from my academic institution) facilitated various activities that interrogate notions of health, wellness, and nutrition through mediums such as art, community-based mapping, and collaborative cooking.",
+    "after": "All of these activities took place in both Spanish and English, as all of our participants identified as bilingual."
+   },
+   {
+    "loc": 86,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "While one might attribute the emphasis on “proper” Spanish embraced by participants in the Diabetes Garage project to participants’ ages and lived experience, the youths who participated in La Escuelita also exhibited a critical awareness of the differences between “formal” and “informal” Spanish and their role in communicating with various audiences.",
+    "sentence": "Part of our work with La Escuelita included building a website to highlight the activities and perspectives of this borderland community, specifically in relation to localized notions of health and wellness.",
+    "after": "Over the course of three years, other facilitators of La Escuelita and I incorporated various activities into our meetings that helped us build a website for the group, which is temporarily hosted at www​.escuelitaep​.com."
+   },
+   {
+    "loc": 86,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "While many elements and moving pieces were involved in both facilitating and researching at La Escuelita, one of the main deliverables we sought to design, through funding from a research grant, was our bilingual website that represented notions of health and wellness as they were understood by borderland residents like our participants.",
+    "after": "The purpose of this website, as identified by our participants in collaboration"
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 23,
+  "input": "7b3de5c687e5",
+  "candidates": [
+   {
+    "loc": 56,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "As our relationships with technology become more nuanced, fluid, and personalized, the impact and importance of understanding the behavior of AI systems is even more critical “to our ability to control their actions, reap their benefits and minimize their harms” (Rahwan et al., 477).",
+    "sentence": "AI systems such as those used in sentencing guidelines, facial recognition systems, mortgage assessments, and health diagnoses have increasing influence over our social, cultural, economic, and political interactions even while the scale, complexity, and future impact of their power is still unknown.",
+    "after": ""
+   },
+   {
+    "loc": 59,
+    "page": "pp. 80–81",
+    "kind": "p",
+    "before": "However, for too long, our voices have been silenced and their absence “has resulted in an overwhelming statistical narrative of deficit for dispossessed Indigenous peoples around the globe” (Walter and Suina, 233).",
+    "sentence": "Although Indigenous peoples and nations differ vastly in terms of their languages, cultures, autonomy, and wealth, we suffer from the shared challenges of representation, alienation, and health disparities as a result of colonization.",
+    "after": ""
+   },
+   {
+    "loc": 84,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "",
+    "sentence": "The app flips the script of commercial and research data norms, allowing Aamjiwnaang First Nation to collect and share proprietary commercial data (about pollutants and their health effects) without collecting and sharing data about Aamjiwnaang people.",
+    "after": "The app provides information about the pollution from Imperial Oil and allows community members to report pollution events to the Ontario Ministry of Environment, but importantly, it does not demand or collect data from app users."
+   },
+   {
+    "loc": 114,
+    "page": "pp. 178–179",
+    "kind": "p",
+    "before": "Geofencing campaigns have been implemented in spaces such as Aboriginal health centers, abortion clinics, addiction treatment centers, courthouses, election polling stations, immigrant and refugee resettlement centers, halfway houses, hospitals, homeless shelters, needle exchange clinics, schools, sexual health clinics, and women’s shelters.",
+    "sentence": "These campaigns frequently engage in the trafficking of pseudoscience, debunked studies, sensationalized imagery, or other fear-mongering about medical procedures, health care policy, refugee resettlement, and the like, thereby willfully promoting and inciting hatred against targeted groups.",
+    "after": "The trajectory that connects the militarization of the field of geography to the later use of its technologies by geofencers demonstrates how academic fields can become vectors for surveillance in intended and unintended ways."
+   },
+   {
+    "loc": 114,
+    "page": "pp. 178–179",
+    "kind": "p",
+    "before": "Geofencing is used by marketing campaigns to deliver context-appropriate content to consumers, and it is also often deployed by special-interest groups to target vulnerable populations.",
+    "sentence": "Geofencing campaigns have been implemented in spaces such as Aboriginal health centers, abortion clinics, addiction treatment centers, courthouses, election polling stations, immigrant and refugee resettlement centers, halfway houses, hospitals, homeless shelters, needle exchange clinics, schools, sexual health clinics, and women’s shelters.",
+    "after": "These campaigns frequently engage in the trafficking of pseudoscience, debunked studies, sensationalized imagery, or other fear-mongering about medical procedures, health care policy, refugee resettlement, and the like, thereby willfully promoting and inciting hatred against targeted groups."
+   },
+   {
+    "loc": 150,
+    "page": "pp. 240–241",
+    "kind": "p",
+    "before": "Some of these technologies were embedded within the people themselves as griots, healers, and conduits of information from early lineages meant to serve the individual and community.",
+    "sentence": "Malidoma Patrice Somé notes that “technologies in the indigenous world are developed in order to fulfill basic human needs, such as community, health, harmony, and a sense of meaning and purpose in life” (71).",
+    "after": "This point of view is in direct conflict with many Western technologies that surveil Blackness."
+   },
+   {
+    "loc": 199,
+    "page": "pp. 326–327",
+    "kind": "p",
+    "before": "In America, one in four adults is legally considered to have a disability (“Disability Impacts All of Us”).",
+    "sentence": "Approximately 75 percent of Americans need vision correction, while around 4.4 billion people worldwide have myopia and other vision impairments (World Health Organization; Vision Council of America).",
+    "after": "Color blindness affects one in 12 men and one in 200 women worldwide (“Color Vision Deficiency”)."
+   },
+   {
+    "loc": 199,
+    "page": "pp. 326–327",
+    "kind": "p",
+    "before": "Over 31 percent of Americans will experience an anxiety disorder at some point during their lives, and 20 percent of college students were diagnosed with anxiety in 2018 (Kane).",
+    "sentence": "Similarly, 13 percent of American adults aged 18 to 25 have at least one major depressive episode, making anxiety and depression the most common mental health concerns among college students (“Any Anxiety Disorder”; “Major Depression”).",
+    "after": "Difficulty walking or climbing stairs affects 14 percent of American adults, while 11 percent have serious difficulty concentrating, remembering, or making decisions (“Disability Impacts All of Us”)."
+   }
+  ]
+ }
+]

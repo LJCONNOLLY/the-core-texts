@@ -1,0 +1,263 @@
+[
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 4,
+  "input": "7c26a1332881",
+  "candidates": [
+   {
+    "loc": 180,
+    "page": "p. 168",
+    "kind": "p",
+    "before": "Let us shift, then, from technology as an outcome to toolmaking as a practice, so as to consider the many different types of tools needed to resist coded inequity, to build solidarity, and to engender liberation.",
+    "sentence": "Initiatives like Appolition offer a window into a wider arena of “design justice” that takes many forms (see Appendix), some of which I will explore below.",
+    "after": "But first allow me a reflection on the growing discourse around technology and empathy (rather than equity or justice)."
+   },
+   {
+    "loc": 187,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "The panelists awkwardly ignored the questions for some twenty minutes until eventually the session ended with no response.",
+    "sentence": "Author of two of the questions, Sasha Costanza-Chock, a professor at the MIT, has developed the idea of “design justice” with Allied Media Network collaborators, to get us thinking more about the process and power dynamics of design across multiple axes of oppression.*?",
+    "after": "They define design justice as “a field of theory and practice that is concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people,” and is focused on procedural and distributive justice:"
+   },
+   {
+    "loc": 187,
+    "page": "p. 175",
+    "kind": "p",
+    "before": "Author of two of the questions, Sasha Costanza-Chock, a professor at the MIT, has developed the idea of “design justice” with Allied Media Network collaborators, to get us thinking more about the process and power dynamics of design across multiple axes of oppression.*?",
+    "sentence": "They define design justice as “a field of theory and practice that is concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people,” and is focused on procedural and distributive justice:",
+    "after": ""
+   },
+   {
+    "loc": 188,
+    "page": "p. 176",
+    "kind": "p",
+    "before": "What is gained and by whom in the process of submerging so much heterogeneity under the rubric of design?",
+    "sentence": "I can see how it might work as a way to draw out commonalities and build coalitions, as when Costanza- Chock writes: “Design justice as a theoretical framework recognizes the universality of design as a human activity.”°° In enrolling so many issues and experiences as design-related, maybe this could build a foundation for solidarity ... but it could also sanitize and make palatable deep-seated injustices, contained within the innovative practices of design.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 8,
+  "input": "d3faf46670e4",
+  "candidates": [
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "They are also a design professor at MIT, so they have a lot of experience both living with and thinking through oppressive classification systems.",
+    "sentence": "In a 2018 essay, “Design Justice, A.I., and Escape from the Matrix of Domination,” they give a concrete example of why design justice is needed in relation to data.",
+    "after": "The essay describes how the seemingly simple system employed by the operators of those hands-in-the-air millimeter-wave airport security scanning machines is in fact quite complex—and also fundamentally flawed."
+   },
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "Follow-up work about designing from the margins argues that designers and engineers shouldn’t only be engaging people at the margins but also actively working to dismantle the center/margins distinction in the first place.",
+    "sentence": "More recently, the Design Justice Network has transformed this key tenet of intersectional thinking into one of its design principles, stating: “We center the voices of those who are directly impacted by the outcomes of the design process.”",
+    "after": ""
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "Some groups are using movement-building strategies to effect change across entire industries.",
+    "sentence": "For example, Una Lee, Wesley Taylor, Victoria Barnett, Ebony Dumas, Carlos (L05) Garcia, and Sasha Costanza-Chock are coordinating a networked community of practice called design justice.",
+    "after": "The idea for design justice emerged from a workshop at the Allied Media Conference in Detroit in 2015, where thirty people assembled to challenge the idea of “design for good.”"
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "For example, Una Lee, Wesley Taylor, Victoria Barnett, Ebony Dumas, Carlos (L05) Garcia, and Sasha Costanza-Chock are coordinating a networked community of practice called design justice.",
+    "sentence": "The idea for design justice emerged from a workshop at the Allied Media Conference in Detroit in 2015, where thirty people assembled to challenge the idea of “design for good.”",
+    "after": "As co-organizer Una Lee put it, “How could we redesign design so that those who are normally marginalized by it, those who are characterized as passive beneficiaries of design thinking, become co-creators of solutions, of futures?”"
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "",
+    "sentence": "Since then, the design justice group has produced dozens of workshops, pop-up educational forums, and scholarly texts.",
+    "after": "One of its central projects is a set of ten Design Justice Network Principles, which guide designers in navigating inequality and achieving justice through design."
+   },
+   {
+    "loc": 177,
+    "page": "PDF p. 177",
+    "kind": "p",
+    "before": "Since then, the design justice group has produced dozens of workshops, pop-up educational forums, and scholarly texts.",
+    "sentence": "One of its central projects is a set of ten Design Justice Network Principles, which guide designers in navigating inequality and achieving justice through design.",
+    "after": "Principle 1, for example, reads: “We use design to sustain, heal, and empower our communities, as well as to seek liberation from exploitative and oppressive systems.”"
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 347,
+  "input": "9e2dd46b4ac1",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "",
+    "sentence": "Design justice is not a term I created; rather, it emerged from a community of practice whose work I hope this book will lift up, extend, and support.",
+    "after": "This community is made up of design practitioners who participate in and work with social movements and community-based organizations (CBOs) across the United States and around the world."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "As an engaged scholar and design practitioner who is guided by antiracist, feminist principles and epistemology, I want to make clear that although this is a single-authored book, many of the ideas it explores have bubbled up through the Design Justice Network as an emergent community of practice.",
+    "sentence": "All credit for the key ideas of design justice is due to this community, whereas all responsibility for the many errors in this text is mine.",
+    "after": "To paraphrase one of the anonymous reviewers of this manuscript, there is a tension between my attempt to provide a normative design justice framework as a single author and my claim to be amplifying knowledge that has been produced by a movement."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Intersectional feminist networked movements are also increasingly engaged in debates about the relationships between technology, design, and social justice.",
+    "sentence": "It is my hope that design justice as a framework can provide tools to support existing and emergent critique of design (from images to institutions, from products to platforms, from particular practitioners to professional associations), as well as encourage the documentation of innovative forms of community-led design, grounded in the specificity of particular social movements.",
+    "after": "In this book, I draw from the activities of the Design Justice Network, my own experience working on design projects and teaching design theory and practice, practitioner interviews, and texts by other scholars, designers, and community organizers."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "Before we dive in, a brief note on the limitations of my approach: first, I believe that design justice is a framework that is applicable to all forms of design.",
+    "after": "However, my own practice and knowledge are limited to certain subfields, and I have drawn examples primarily from these."
+   },
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "Does this mean that design justice denies the very possibility of universal design?",
+    "sentence": "Perhaps design justice is an approach that can be applied to both universalist and inclusive (one size fits one) design projects.",
+    "after": "Design justice might help universalist design processes more closely approach their never fully realizable goals and provide useful insights to inclusive design processes."
+   },
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "Design justice might help universalist design processes more closely approach their never fully realizable goals and provide useful insights to inclusive design processes.",
+    "sentence": "Retooling for design justice means developing new approaches to key design methods like A/B tests, benchmarks, user testing, and validation.",
+    "after": "In addition, this approach raises questions about the current dominant approach to the design of algorithmic decision support systems."
+   },
+   {
+    "loc": 116,
+    "page": "PDF p. 116",
+    "kind": "p",
+    "before": "In practice, though, a design justice team can work either quickly or slowly, just as in any design approach.",
+    "sentence": "In addition, design justice is an approach that will become easier as it matures, as more people practice it, and as specialized domain-specific tools and practices become available.",
+    "after": "Also, if it is true that a design justice process typically takes more time, perhaps going slower is worth it to build a better, more just and sustainable world."
+   },
+   {
+    "loc": 122,
+    "page": "PDF p. 122",
+    "kind": "p",
+    "before": "",
+    "sentence": "In addition, although chapter 4 is an attempt to think about design sites through a design justice lens, it is beyond my capacity to elaborate a spatial theory of design justice, to deeply engage with the extensive literature in architecture and urban planning, or to do justice to the many people and organizations who already do that work.",
+    "after": "For example, the Design Justice Platform, initially convened by architect Bryan C. Lee Jr. and his firm Colloqate Design, organized a series of local DesignAsProtest events in cities including New Orleans, New York, and Detroit on January 20, 2017."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 4,
+  "input": "667ed8b08f8f",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "I consider how accessibility in technology affects marginalized users’ adoption of technologies, concluding that design centers white, able, masculine bodies.",
+    "sentence": "I move design justice toward a discussion of not only design principles and intention but also consequences.",
+    "after": "Design intentions can influence usability and accessibility concerns for a diverse range of users."
+   },
+   {
+    "loc": 79,
+    "page": "PDF p. 79",
+    "kind": "p",
+    "before": "As Sasha Costanza-Chock explains, most design processes reproduce inequalities structured by the matrix of domination, which was discussed previously.",
+    "sentence": "They approach this through “design justice,” which is a field of theory and practice “concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people.”",
+    "after": "Design justice focuses on how design reproduces, is reproduced by, or challenges the matrix of domination (white supremacy, heteropatriarchy, capitalism, and settler colonialism)."
+   },
+   {
+    "loc": 79,
+    "page": "PDF p. 79",
+    "kind": "p",
+    "before": "They approach this through “design justice,” which is a field of theory and practice “concerned with how the design of objects and systems influences the distribution of risks, harms, and benefits among various groups of people.”",
+    "sentence": "Design justice focuses on how design reproduces, is reproduced by, or challenges the matrix of domination (white supremacy, heteropatriarchy, capitalism, and settler colonialism).",
+    "after": "In invoking intersectionality, I must also incorporate a discussion of the matrix of domination in making sense of discriminatory practices in technology."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "",
+    "sentence": "I move design justice toward a discussion of not only design principles and intention but also design consequences.",
+    "after": "Design intentions can influence usability and accessibility concerns for a wide range of users."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 3,
+  "input": "71cb92932cde",
+  "candidates": [
+   {
+    "loc": 79,
+    "page": "p. 144",
+    "kind": "p",
+    "before": "Will polyamory be the solution that enables the possibility for a nontoxic masculinity that is not predicated on its relationship to the feminine?",
+    "sentence": "Will we create a social media platform built on transformative and design justice principles that transforms misogynoir before it’s even noticeable?",
+    "after": "My hope is that this text provides an opening, a possibility model for a new way of relating to each other and the potential for the complete transformation of misogynoir."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "",
+    "sentence": "Cole evoked some of the principles of design justice.",
+    "after": "In communications theorist Sasha Costanza- Chock’s book Design Justice: Community-Led Practices to Build the Worlds We Need, they describe the practice as “an approach to design that is led by marginalized communities and that aims explicitly to challenge, rather than reproduce, structural inequalities.”"
+   },
+   {
+    "loc": 86,
+    "page": "pp. 159–160",
+    "kind": "p",
+    "before": "Cole evoked some of the principles of design justice.",
+    "sentence": "In communications theorist Sasha Costanza- Chock’s book Design Justice: Community-Led Practices to Build the Worlds We Need, they describe the practice as “an approach to design that is led by marginalized communities and that aims explicitly to challenge, rather than reproduce, structural inequalities.”",
+    "after": "In the context of redesigning a social media platform, Cole calls for those most impacted by the structural failures of previous platforms to be at the center of the planning."
+   }
+  ]
+ }
+]

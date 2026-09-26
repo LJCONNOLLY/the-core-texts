@@ -1,0 +1,2132 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 33,
+  "input": "581f04e41969",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "It is not the ‘fabulous’ animals that are impossible, since they are designated as such, but the narrowness of the distance separating them from (and juxtaposing them to) the stray dogs, or the animals that from a long way off look like flies.",
+    "sentence": "What transgresses the boundaries of all imagination, of all possible thought, is simply that alphabetical series (a, b, c, d) which links each of those categories to all the others.",
+    "after": ""
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "Even its writing does not reproduce the fugitive flight of the voice in horizontal lines; it erects the motionless and still-recognizeable images of things themselves in vertical columns.",
+    "sentence": "So much so that the Chinese encyclopaedia quoted by Borges, and the taxonomy it proposes, lead to a kind of thought without space, to words and categories that lack all life and place, but are rooted in a ceremonial space, overburdened with complex figures, with tangled paths, strange places, secret passages, and unexpected communications.",
+    "after": "There would appear to be, then, at the other extremity of the earth we inhabit, a culture entirely devoted to the ordering of space, but one that does not distribute the multiplicity of existing things into any of the categories that make it possible for us to name, speak, and think."
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "So much so that the Chinese encyclopaedia quoted by Borges, and the taxonomy it proposes, lead to a kind of thought without space, to words and categories that lack all life and place, but are rooted in a ceremonial space, overburdened with complex figures, with tangled paths, strange places, secret passages, and unexpected communications.",
+    "sentence": "There would appear to be, then, at the other extremity of the earth we inhabit, a culture entirely devoted to the ordering of space, but one that does not distribute the multiplicity of existing things into any of the categories that make it possible for us to name, speak, and think.",
+    "after": ""
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "",
+    "sentence": "And it is here that we find that only too well-known category, the microcosm, coming into play.",
+    "after": "This ancient notion was no doubt revived, during the Middle Ages and at the beginning of the Renaissance, by a certain neo- Platonist tradition."
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "The fact is that it had one, or rather two, precise functions in the epistemological configuration of this period.",
+    "sentence": "As a category of thought, it applies the interplay of duplicated resemblances to all the realms of nature; it provides all investigation with an assurance that everything will find its mirror and its macrocosmic justification on another and larger scale; it affirms, inversely, that the visible order of the highest spheres will be found reflected in the darkest depths of the earth.",
+    "after": "But, understood as a general configuration of nature, it poses real and, as it were, tangible limits to the indefatigable to-and-fro of similitudes relieving one another."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "‘The system indicates the plants, even those it has not mentioned; which is something that the enumeration of a catalogue can never do’[37].",
+    "sentence": "And the categories will not simply be arbitrary conventions laid out over this continuity of juxtaposition; they will correspond (if they have been properly established) to areas that have a distinct existence on this uninterrupted surface of nature; they will be areas that are larger than individuals but just as real.",
+    "after": "In this way, according to Linnaeus, the reproductive system made it possible to establish the existence of indisputably well-founded genera: ‘Know that it is not the character that constitutes the genus, but the genus that constitutes the character, that the character derives from the genus, not the genus from the character’[38]."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "In this way, according to Linnaeus, the reproductive system made it possible to establish the existence of indisputably well-founded genera: ‘Know that it is not the character that constitutes the genus, but the genus that constitutes the character, that the character derives from the genus, not the genus from the character’[38].",
+    "sentence": "In the methods, on the other hand, since resemblances – in their massive and clearly evident form – are posited to start with, the continuity of nature will not be this purely negative postulate (no blank spaces between distinct categories), but a positive requirement: all nature forms one great fabric in which beings resemble one another from one to the next, in which adjacent individuals are infinitely similar to each other; so that any dividing-line that indicates, not the minute difference of the individual, but broader categories, is always unreal.",
+    "after": "There is a continuity produced by fusion in which all generality is nominal."
+   },
+   {
+    "loc": 120,
+    "page": "PDF p. 120",
+    "kind": "p",
+    "before": "It does, however, entail one major consequence: the radicalization of the dividing-line between organic and inorganic.",
+    "sentence": "In the table of beings unfolded by natural history, the terms organized and non-organized defined merely two categories; these two categories overlapped, but did not necessarily coincide with, the antithesis of living and non-living.",
+    "after": "From the moment when organic structure becomes a basic concept of natural characterization, and makes possible the transition from visible structure to designation, it must of course cease to be no more than a character itself; it surrounds the taxonomic space in which it lay before, and in turn provides the ground for a possible classification."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 6,
+  "input": "fea4c21f1842",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the absence of elaborate analytic categories that depend on writing to structure knowledge at a distance from lived experience, oral cultures must conceptualize and verbalize all their knowledge with more or less close reference to the human lifeworld, assimilating the alien, objective world to the more immediate, familiar interaction of human beings.",
+    "after": "A chirographic (writing) culture and even more a typographic (print) culture can distance and in a way denature even the human, itemizing such things as the names of leaders and political divisions in an abstract, neutral list entirely devoid of a human action context."
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "Luria's work provides more adequate insights into the operation of orally based thought than had the theories of Lucien Levy-Bruhl (1923), who concluded that 'primitive' (in fact, orally based) thought was 'prelogical' and magical in the sense that it was based on belief systems rather than on practical actuality, or than had the proposals of Lévy-Bruhl's opponents such as Franz Boas (not George Boas, as erroneously in Luria 1976, p. 8), who maintained that primitive peoples thought as we do but used a different set of categories.",
+    "after": ""
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "",
+    "sentence": "(2) Subjects were presented with drawings of four objects, three belonging to one category and the fourth to another, and were asked to group together those that were similar or could be placed in one group or designated by one word.",
+    "after": "One series consisted of drawings of the objects hammer, saw, log, hatchet."
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "One could argue that responses were not optimal because the respondents were not used to being asked these kinds of questions, no matter how cleverly Luria could work them into riddle-like settings.",
+    "sentence": "But lack of familiarity is precisely the point: an oral culture simply does not deal in such items as geometrical figures, abstract categorization, formally logical reasoning processes, definitions, or even comprehensive descriptions, or articulated self-analysis, all of which derive not simply from thought itself but from text-formed thought.",
+    "after": "Luria's questions are schoolroom questions associated with the use of texts, and indeed closely resemble or are identical with standard intelligence test questions got up by literates."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "Although it is found in all cultures, narrative is in certain ways more widely functional in primary oral cultures than in others.",
+    "sentence": "First, in a primary oral culture, as Havelock pointed out (1978a; cf. 1963), knowledge cannot be managed in elaborate, more or less scientifically abstract categories.",
+    "after": "Oral cultures cannot generate such categories, and so they use stories of human action to store, organize, and communicate much of what they know."
+   },
+   {
+    "loc": 89,
+    "page": "PDF p. 89",
+    "kind": "p",
+    "before": "First, in a primary oral culture, as Havelock pointed out (1978a; cf. 1963), knowledge cannot be managed in elaborate, more or less scientifically abstract categories.",
+    "sentence": "Oral cultures cannot generate such categories, and so they use stories of human action to store, organize, and communicate much of what they know.",
+    "after": "Most, if not all, oral cultures generate quite substantial narratives or series of narratives, such as the stories of the Trojan wars among the ancient Greeks, the coyote stories among various Native American populations, the Anansi (spider) stories in Belize and other Caribbean cultures with some African heritage, the Sunjata stories of old Mali, the Mwindo stories among the Nyanga, and so on."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 74,
+  "input": "67cd537bcccd",
+  "candidates": [
+   {
+    "loc": 160,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "The version of the nature/culture distinction in the gender identity '' paradigm was part of a broad liberal reformulation of life and social sciences in the post-Second World War, Western, professional and governing élites’ divestment of pre-war renditions of biological racism.",
+    "sentence": "These reformulations _failed to interrogate the political-social history of binary categories like _ nature/culture, and so sex/gender, in colonialist Western discourse.",
+    "after": "This discourse structured the world as an object of knowledge in terms of the appropriation by culture of the resources of nature."
+   },
+   {
+    "loc": 160,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "This discourse structured the world as an object of knowledge in terms of the appropriation by culture of the resources of nature.",
+    "sentence": "Many recent oppositional, liberatory literatures have criticized this ethnocentric epistemological and linguistic dimension of the domination of those inhabiting ‘natural’ categories or living at the mediating boundaries of the binarisms (women, people of colour, animals, the non-human environment) (Harding, 1986, pp. 163-96; Fee, 1986).",
+    "after": "Second-wave feminists early criticized the binary logics of the nature/culture pair, including dialectical versions of the Marxist-humanist story of the domination, appropriation, or mediation of ‘nature’ by ‘man’ through ‘labour’."
+   },
+   {
+    "loc": 160,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the political and epistemological effort to remove women from the category of nature and to place them in culture as constructed and self-constructing social subjects in history, the concept of gender has tended to be quarantined from the infections of biological sex.",
+    "after": "Consequently, the ongoing constructions of what counts as sex or as female have been hard to theorize, except as ‘bad science’ where the female emerges as naturally subordinate."
+   },
+   {
+    "loc": 160,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "Thus, feminists have argued against ‘biological determinism’ and for ‘social constructionism’ and in the process have been less powerful in deconstructing how bodies, including sexualized and racialized bodies, appear as objects of knowledge and sites of intervention in ‘biology’.",
+    "sentence": "Alternatively, feminists have sometimes affirmed the categories of nature and the body as sites of resistance to the dominations of history, but the affirmations have tended to obscure the categorical and overdetermined aspect of ‘nature’ or the ‘female body’ as an oppositional ideological resource.",
+    "after": "Instead, nature has seemed simply there, a reserve to be preserved from the violations of civilization in general."
+   },
+   {
+    "loc": 173,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "The point involves the commitment to transformative social change, the moment of hope embedded in feminist theories of gender and other emergent discourses about the breakup of masterful subjectivity and the emergence of inappropriate/d others (Trinh, 1986-7, 1989).",
+    "sentence": "The multiple academic and other institutional roots of the literal (written) category ‘gender’, feminist and otherwise, sketched in this entry have been part of the race-hierarchical system of relations that obscures the publications by women of colour because of their origin, language, genre — in short, ‘marginality’, ‘alterity’, and ‘difference’ as seen from the ‘unmarked’ positions of hegemonic and imperializing (‘white’) theory.",
+    "after": "But ‘alterity’ and ‘difference’ are precisely what ‘gender’ is ‘grammatically’ about, a fact that constitutes feminism as a politics defined by its fields of contestation and repeated refusals of master theories."
+   },
+   {
+    "loc": 173,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "But ‘alterity’ and ‘difference’ are precisely what ‘gender’ is ‘grammatically’ about, a fact that constitutes feminism as a politics defined by its fields of contestation and repeated refusals of master theories.",
+    "sentence": "‘Gender’ was developed as a category to explore what counts as a ‘woman’, to problematize the previously taken-for-granted.",
+    "after": "If feminist theories of gender followed from Simone de Beauvoir’s '' thesis that one is not born a woman, with all the consequences of that insight, in the light of Marxism and psychoanalysis, for understanding that any finally coherent subject is a fantasy, and that personal and collective identity is precariously and constantly socially reconstituted (Coward, 1983, p. 265), then the title of bell hooks’s provocative book, echoing the great nineteenth-century black feminist and abolitionist, Sojourner Truth, 4Ain’t J a Woman (1981), bristles with irony, as the identity of ‘woman’ is both claimed and deconstructed simultaneously."
+   },
+   {
+    "loc": 184,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "",
+    "sentence": "Both Marxist/socialist-feminisms and radical feminisms have simultaneously naturalized and denatured the category ‘woman’ and consciousness of the social lives of ‘women’.",
+    "after": "Perhaps a schematic caricature can highlight both kinds of moves."
+   },
+   {
+    "loc": 184,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "Abstraction and illusion rule in knowledge, domination rules in practice.",
+    "sentence": "Labour is the pre-eminently privileged category enabling the Marxist to overcome illusion and find that point of view which is necessary for changing the world.",
+    "after": "Labour is the humanizing activity that makes man; labour is an ontological category permitting the knowledge of a subject, and so the knowledge of subjugation and alienation."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 23,
+  "input": "41464f4819e1",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "If one sees the universe as composed essentially of information, it makes sense that these “creatures” are life forms because they have the form of life, that is, an informational code.",
+    "sentence": "As a result, the theoretical bases used to categorize all life undergo a significant shift.",
+    "after": "As we shall see in chapters 9 and 10, when these theories are applied to human beings, Homo sapiens are so transfigured in conception and purpose that they can appropriately be called posthuman."
+   },
+   {
+    "loc": 27,
+    "page": "PDF p. 27",
+    "kind": "p",
+    "before": "Different technologies of text production suggest different models of signification; changes in signification are linked with shifts in consumption; shifting patterns of consumption initiate new experiences of embodiment; and embodied experience interacts with codes of representation to generate new kinds of textual worlds.",
+    "sentence": "In fact, each category—production, signification, consumption, bodily experience, and representation—is in constant feedback and feedforward loops with the others.",
+    "after": ""
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "He sensed that behavior had been defined so as to allow intention and desire to be imputed to machines.",
+    "sentence": "But he let slip by the larger point that behaviorist assumptions were used selectively to accomplish a political agenda implicit in the way that categories were constructed.",
+    "after": "For Wiener, this agenda included constituting one category that encompassed cybernetic machines and humans, which were put together because they shared the ability to use probabilistic methods to control randomness, and another category for noncybernetic mechanical systems."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "But he let slip by the larger point that behaviorist assumptions were used selectively to accomplish a political agenda implicit in the way that categories were constructed.",
+    "sentence": "For Wiener, this agenda included constituting one category that encompassed cybernetic machines and humans, which were put together because they shared the ability to use probabilistic methods to control randomness, and another category for noncybernetic mechanical systems.",
+    "after": "These boundary markers implied larger assumptions about the nature of the universe (probabilistic rather than deterministic), about effective strategies for dealing with this universe (controlling randomness through negative feedback), and about a system hierarchy that had moral connotations as well as practical values (flexible systems using negative feedback were better than mechanical devices that did not use feedback)."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "Countering these narrative constructions are other interpretations authorized by the drawings, nonverbal lines, puns, and lapses in narrative continuity.",
+    "sentence": "From these semiotic spaces, which Julia Kristeva has associated with the feminine, come inversions and disruptions of the hierarchical categories that the narrative uses to construct maleness and femaleness.",
+    "after": "Rosemary, written into nonexistence by her suicide within the text’s represented world, returns in the prosthetic space of the drawing and demands to be acknowledged."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "Rosemary, written into nonexistence by her suicide within the text’s represented world, returns in the prosthetic space of the drawing and demands to be acknowledged.",
+    "sentence": "On multiple levels, the drawing deconstructs the narrative’s gender categories.",
+    "after": "In the represented world, women are not allowed to be cyborgs, yet this female figure has more pros attached to her body than does any man."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "The challenge is reflected within the narrative by internal contradictions that translate into pros/e the intimations of the semiotic disruptions.",
+    "sentence": "As the voiced narrative tries to come to grips with these contradictions, it cycles closer to the realization that the hierarchical categories of male and female have imploded into the same space.",
+    "after": "The lobotomies that Martine performs suggest the depth of this collapse."
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "No matter how deeply the cuts are made, they can never excise the ambiguities that haunt and constitute these posthuman and post-typographic bodies.",
+    "sentence": "Limbo envisions cybernetics as a writing technology that inscribes over the hierarchical categories of traditional sexuality the indeterminate circuitry of cyborg gender.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 58,
+  "input": "1af98acf9454",
+  "candidates": [
+   {
+    "loc": 22,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "She argues that what this visuality does is to produce specific visions of social difference — of hierarchies of class, ‘race’, gender, sexuality and so on — while itself claiming not to be part of that hierarchy and thus to be universal.",
+    "sentence": "It is because this ordering of difference depends on a distinction between those who claim to see with universal relevance, and those who are seen and categorized in particular ways, that Haraway claims it is intimately related to the oppressions and tyrannies of capitalism, colonialism, patriarchy and so on.",
+    "after": "Part of Haraway’s critical project, then, is to examine in detail how certain institutions mobilize certain forms of visuality to see, and to order, the world."
+   },
+   {
+    "loc": 81,
+    "page": "p. 64",
+    "kind": "p",
+    "before": "This is a crucial stage.",
+    "sentence": "As Slater (1998: 236) notes, much of the rigour of classic content analysis relies on the structure of categories used in the coding process, because the categories should be apparently objective in a number of ways and therefore only describe what is ‘really’ there in the text or image.",
+    "after": "More recent users of content analysis like Lutz and Collins (1993) develop their categories in relation to their theoretical concerns so that their categories are immediately more obviously interpretive."
+   },
+   {
+    "loc": 82,
+    "page": "p. 65",
+    "kind": "p",
+    "before": "As Slater (1998: 236) notes, much of the rigour of classic content analysis relies on the structure of categories used in the coding process, because the categories should be apparently objective in a number of ways and therefore only describe what is ‘really’ there in the text or image.",
+    "sentence": "More recent users of content analysis like Lutz and Collins (1993) develop their categories in relation to their theoretical concerns so that their categories are immediately more obviously interpretive.",
+    "after": "This is one of their tactics that allows them to make their claim that content analysis and qualitative analysis are not mutually"
+   },
+   {
+    "loc": 82,
+    "page": "p. 65",
+    "kind": "p",
+    "before": "Are there arguments there that suggest other codes?",
+    "sentence": "This return to the broader context of the research question will hopefully ensure that the categories eventually decided upon are ‘enlightening’.",
+    "after": "Further codes might suggest themselves from the familiarity you already have with this particular set of images."
+   },
+   {
+    "loc": 84,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "",
+    "sentence": "As well as being enlightening, though, exhaustiveness and exclusivity must also be considered when coding categories are being formulated.",
+    "after": "The only way to ensure that the categories fulfil these latter two requirements is"
+   },
+   {
+    "loc": 84,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "run on a few of your sample images will almost certainly reveal overlaps between categories and relevant elements of images not covered by categories.",
+    "sentence": "The categories must be revised and tried again until they are exhaustive and exclusive.",
+    "after": "Oddly, the list of codes used by Lutz and Collins (1993), at least as it is reproduced in their book, do not seem to fulfil these other requirements of content analysis coding."
+   },
+   {
+    "loc": 84,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "Now, Lutz and Collins only offer the list of categories as I have reproduced it.",
+    "sentence": "Presumably the list they actually worked with had its categories defined much more fully.",
+    "after": "One would hope so, otherwise there are more ambiguities in their list; if ‘world location’ is taken to imply which country the article was picturing, then there is a potential overlap with ‘unit of article organization’."
+   },
+   {
+    "loc": 84,
+    "page": "p. 67",
+    "kind": "p",
+    "before": "",
+    "sentence": "Now, Lutz and Collins only offer the list of categories as I have reproduced it.",
+    "after": "Presumably the list they actually worked with had its categories defined much more fully."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 14,
+  "input": "47f0d02210e7",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "The reason for this change of tempo is that, instead of taking a reasonable position and imposing some order beforehand, ANT claims to be able to find order much better after having let the actors deploy the full range of controversies in which they are immersed.",
+    "sentence": "It is as if we were saying to the actors: ‘We won’t try to discipline you, to make you fit into our categories; we will let you deploy your own worlds, and only later will we ask you to explain how you came about settling them.’",
+    "after": "The task of defining and ordering the social should be left to the actors themselves, not taken up by the analyst."
+   },
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "Abandoning the fixed frame of reference offered by ether, as physicists did, appears in retrospect a rather simple affair when compared with what we will have to let go of if we want to leave the actors free to deploy the full incommensurability of their own worldmaking activities.",
+    "sentence": "Be prepared to cast off agency, structure, psyche, time, and space along with every other philosophical and anthropological category, no matter how deeply rooted in common sense they may appear to be.",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "In the developed world, there is no group that does not have at least some social science instrument attached to it.",
+    "sentence": "This is not some ‘inherent limitation’ of the discipline due to the fact that sociologists are also ‘social members’ and have difficulties in ‘extracting themselves’ out of the bonds of their own ‘social categories’.",
+    "after": "It is simply because they are on par with those they study, doing exactly the same job and participating in the same tasks of tracing social bonds, albeit with different instruments and for different professional callings."
+   },
+   {
+    "loc": 81,
+    "page": "PDF p. 81",
+    "kind": "p",
+    "before": "",
+    "sentence": "A second notebook should be kept for gathering information in such a way that it is possible simultaneously to keep all the items in a chronological order and to dispatch them into categories which will evolve later into more and more refined files and subfiles.",
+    "after": "There exists lots of software nowadays that maintain this contradictory specification, but older hands like me have benefited enormously from the tedious rewriting of data onto cards."
+   },
+   {
+    "loc": 111,
+    "page": "PDF p. 111",
+    "kind": "p",
+    "before": "",
+    "sentence": "To designate this first category of landmarks, I propose to use the word oligopticon as the generic term, reserving the expression of ‘centers of calculation’ for the sites where literal and not simply metaphorical calculations are made possible by the mathematical or at least arithmetic format of the documents being brought back and forth.",
+    "after": "As every reader of Michel Foucault knows, the ‘panopticon’, an ideal prison allowing for a total surveillance of inmates imagined at the beginning of the 19ᵗʰ century by Jeremy Bentham, has remained a utopia, that is, a world of nowhere to feed the double disease of total paranoia and total megalomania."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "In the case of such flimsy tracers, it might be more difficult to draw the map since the tracks might be fainter, the connections often interrupted.",
+    "sentence": "But it remains necessary to try in order to give the impression that we could be put ‘in a category’ at no cost.",
+    "after": ""
+   },
+   {
+    "loc": 140,
+    "page": "PDF p. 140",
+    "kind": "p",
+    "before": "Other circulations of standards seem more tenuous, even though their tractability is fairly good as long as the observer does not let the irruption of the ‘social explanation’ break this Ariadne thread.",
+    "sentence": "How would you know your ‘social category’ without the enormous work done by statistical institutions that work to calibrate, if not to standardize, income categories?",
+    "after": "How would one identify oneself as ‘upper-middle class’, ‘yuppy’, or ‘preppy’ without reading the newspapers?"
+   },
+   {
+    "loc": 140,
+    "page": "PDF p. 140",
+    "kind": "p",
+    "before": "How would you know your ‘psychological profile’ without more statistical surveys, more professional meetings, more consensus conferences?",
+    "sentence": "How would a psychiatrist categorize a mental patient without the DSM?",
+    "after": "It is no use saying that those categories are arbitrary, conventional, fuzzy, or, on the contrary, too sharply bounded or too unrealistic."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 61,
+  "input": "cd5fc3d5558a",
+  "candidates": [
+   {
+    "loc": 65,
+    "page": "p. 54",
+    "kind": "p",
+    "before": "",
+    "sentence": "The “dollz” category is the largest, containing over twelve thousand icons.",
+    "after": "In contrast to the state of gendered production in digital gaming, which is still dominated by men and male avatars, these are mostly female and appear to have been made by girls, since most of the nicknames of those who claim authorship of them are female."
+   },
+   {
+    "loc": 67,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "Buddyicon.info offers twenty-seven alphabetized separate categories for buddy icons and away messages.",
+    "after": "Some of these reference other media forms, like “celebrity” and “tv,” but others, like “women,” “nationality,” and “reli- gion,” directly confront identity (as is typical on sites of this kind, there is no category on this site for “race”)."
+   },
+   {
+    "loc": 68,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "(Under “religion” there is an icon depicting a white male wearing a baseball cap; this is so exceptional as to be noted in the description: “Description: i love Godalot of guys say there is not anofe guy icons so here a guy icon saying i love God.”)",
+    "sentence": "Rather than interpreting this use of the “nationality” category as a sign of an inaccurate understanding of what nation, race, religion, and astrology mean, the particular mode in which these categories overlap indicates a multidimensional conception of what “nationality” means.",
+    "after": "Since users decide where to post their own buddies on this site, this mode of categorization reveals intersectional thinking along the lines of race, politics, language use, religion, ethnic identity, and references to nationally deﬁning historical events such as September 11."
+   },
+   {
+    "loc": 68,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "",
+    "sentence": "In a neoliberal gesture that informs the “color blindness” of these categories of categorization, the site’s designers omitted a “race” category, yet users have managed to work race, such as “AZN,” or Asian, into the discourse of nation because they have pressing reasons to do so.",
+    "after": "Pan-Asian identity relies on a notion of race or at least a partially shared geopolitics and orientation to American racial politics that challenges the idea of separate and conﬂicting Asian nations, with different and competing interests, priorities, and degrees of political power."
+   },
+   {
+    "loc": 68,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "Pan-Asian identity relies on a notion of race or at least a partially shared geopolitics and orientation to American racial politics that challenges the idea of separate and conﬂicting Asian nations, with different and competing interests, priorities, and degrees of political power.",
+    "sentence": "On the other hand, the “nation” category does have the effect of including whiteness, a category that would generally be omitted from the “race” category even if it were offered.",
+    "after": "While it fails to challenge the idea of whiteness as a normative social identity on IM, it does work to question the idea that whiteness has no relation to ethnicity or geographic location."
+   },
+   {
+    "loc": 93,
+    "page": "p. 82",
+    "kind": "p",
+    "before": "",
+    "sentence": "Anthropologists have long agreed about the uselessness of the “race/ ethnicity” category as a census term.",
+    "after": "In the face of empirical evidence of the failure of vision as a means of identifying race, “Annette” redirects the conversation in such a way that the categories themselves are deconstructed."
+   },
+   {
+    "loc": 107,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "These ﬁlms, along with the extremely successful Apple iPod advertising campaign that began in 2004 depicting dancing silhouetted bodies, create a visual culture that reﬂects highly codiﬁed conditions of labor, race, and the body under informational capitalism.",
+    "sentence": "Several theorists have noted that the move toward informationalism and its political economy, networked consciousness, and new cultural categories for classifying sorts of people and things has resulted in a reconﬁguration of concepts of race.",
+    "after": "Patricia Williams writes: “It is with caution that we must notice that with the advent of a variety of new technologies, we presumed free agents are not less but increasingly deﬁned as body-centered."
+   },
+   {
+    "loc": 107,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "Donna Haraway as well sees a return to “self-alienation” and dispossession of the body as a result of technoscience but not in its previous early modern forms.",
+    "sentence": "In her discussion of “SimEve,” the digital composite of a woman created as a representative of “the future face of America,” Haraway remarks: “We are abruptly returned to the category of databases and the marriage of genomics and informatics in the artiﬁcial life worlds that reconstitute what it means to be human.",
+    "after": "Here, the category so ethereally and technically reconﬁgured is race.”"
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 7,
+  "input": "51856436532e",
+  "candidates": [
+   {
+    "loc": 55,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "Networks end postmodernism.",
+    "sentence": "They counter pastiche with the zoom and the overview; they animate and locate ‘wherever’ architecture; they resolve multiculturalism through neighborhood predictors that bypass yet reinforce categories such as race, gender, sexuality; they replace postmodern relativism with data analytics.",
+    "after": "They do so by moving away from subjects and narratives toward actors and captured actions that they knit into a monstrously connected chimera."
+   },
+   {
+    "loc": 56,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "These risks, which can only be delimited scientifically, reverse the normal relationship between experience and judgment: rather than judgment being based on personal encounters and knowledge, it is based on a general knowledge that defies personal experience—that is, a “second-hand non-experience” that cannot be imagined.",
+    "sentence": "Therefore, “a large group of the population faces devastation and destruction today, for which language and the powers of our imagination fail us, for which we lack any moral or medical category.",
+    "after": "We are concerned with the absolute and unlimited NOT, which threatens us here, the un- in general, unimaginable, unthinkable, un-, un-, un-.”"
+   },
+   {
+    "loc": 73,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "In other words, by finding seemingly unrelated correlations, Big Data can aggravate existing inequalities and lead to racist and discriminatory practices, justified through the use of seemingly innocuous proxies.",
+    "sentence": "Through these proxies, the allegedly “coarse” and “outdated” categories of race, class, sexuality, and gender are accounted for in unaccounted ways.",
+    "after": ""
+   },
+   {
+    "loc": 75,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "In more cynical colloquial terms, users can game the system.",
+    "sentence": "They can, based on what and how things are captured, work to score highly in those categories.",
+    "after": "For instance, in 2015 buses in a certain city in the United States were tracked and bus drivers assessed according to their ability to stick to a prescribed schedule."
+   },
+   {
+    "loc": 111,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "It would end slut shaming and turn the debate toward the creation and maintenance of public rights.",
+    "sentence": "Within the United States, “public figures,” a category that includes those involuntarily thrust into the public eye, have no expectation of privacy.",
+    "after": "Against this logic of “consent once, circulate forever,” we need to create spaces for mass loitering, in which we can be in public—we can claim public space—and be not attacked."
+   },
+   {
+    "loc": 165,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "Their biting critique exemplifies the bitterness directed at “Young-Girls” for their refusal to be properly private, for their embrace of celebrity, and for their carefully manicured appeal, which refuses embrace and possession even as it spreads privatization.",
+    "sentence": "Tiqqun’s supposedly progressive contempt for “Young-Girls” (a category that, they insist, is not really gendered) coincides with the ridicule that drives slut shaming and the mean-spirited comments posted on sites of would be “girl entrepreneurs.”",
+    "after": "In all these cases, these women are condemned for being pathetic in their pursuit of adoration; they are exposed as exposed, as shameless."
+   },
+   {
+    "loc": 165,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "To be clear, this is not to say that sexuality is irrelevant; it is rather to see the logic of the outing (inside/outside) as structuring communication more broadly.",
+    "sentence": "As Sedgwick herself argues, the “now chronic modern crisis of homo/heterosexual definition has affected our culture through its ineffaceable marking particularly of the categories secrecy/disclosure, knowledge/ignorance, private/public, masculine/feminine, majority/ minority, innocence/initiation, natural/artificial, new/old, discipline/ terrorism, canonic/noncanonic, wholeness/decadence, urbane/provincial, domestic/foreign, health/illness, same/different, active/passive, in/out, cognition/paranoia, art/kitsch, utopia/apocalypse, sincerity/sentimentality, and voluntarity/addiction.”",
+    "after": "As stated earlier, fears about cyberporn framed it as rupturing the walls of the home."
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 5,
+  "input": "d36357dcf56d",
+  "candidates": [
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "For literacy, the evidence that it is connected to the development of new ways of thinking has been hard to come by.",
+    "sentence": "In an exhaustive study, Sylvia Scribner and Michael Cole demonstrated that much of what we attribute to literacy is actually attributable to schooling: categorization, higher-order thinking skills, and so forth.",
+    "after": "The difficulty of extricating the influence of schooling from literacy and vice versa means that we don’t know much about whether literacy actually expands cognitive capability."
+   },
+   {
+    "loc": 81,
+    "page": "PDF p. 81",
+    "kind": "p",
+    "before": "As Adorno and Horkheimer argued, the Holocaust was another result of “the rationalization of the world,” with radically different implications than the Enlightenment.",
+    "sentence": "The Holocaust parsed humanity into “rational” and discrete categories and allowed for a devastating othering of certain human categories.",
+    "after": "Just as Weber feared a loss of humanity through industrialization, Stiegler argues that digital technologies threaten our mind and memory through the way they externalize it, discretize it, and displace “the infinities” that make human life possible or worth living."
+   },
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "But historians must also attend to the social structures that support mentalities: “the history of cultural systems, systems of beliefs, values and intellectual equipment within which they were given shape, lived and evolved.”",
+    "sentence": "For Lucien Febvre, there were three critical assumptions for a history of mentalities: “that methods of reasoning and forms of thinking are not universal; that they depend above all on the material instruments and conceptual categories associated with a particular era; and that the development of mental tools is not marked by any continuous or necessary progress.”",
+    "after": "In the work of these historians, we can see an emphasis on the materials from which mentalities were constructed."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Nicholas Orme claims that medieval English society was “collectively literate” at the end of the thirteenth century: “Everyone knew someone who could read, and everyone’s life depended to some extent on reading and writing.”",
+    "sentence": "A new category of person emerged: the “quasi-literate,” a person who couldn’t read or write but who had access to someone who could.",
+    "after": "Because of these circulation patterns of literacy, it is difficult to determine who had ready access to text through their personal connections, that is, was effectively literate."
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 32,
+  "input": "9f125d38a627",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "PDF p. 28",
+    "kind": "p",
+    "before": "The study of Google searches as an Internet artifact is telling.",
+    "sentence": "Black feminist scholars have already articulated the harm of such media misrepresentations: gender, class, power, sexuality, and other socially constructed categories interact with one another in a matrix of social relations that create conditions of inequality or oppression.",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "Racial identities are obtained not because one is unaware of the choice of ethnic labels with which to call oneself, but because one is not allowed to be without a race in a racialized society.",
+    "sentence": "Race is a sociocultural hierarchy, and racial categories are social spaces, or positions, that are carved out of that racial hierarchy.",
+    "after": "The study of racial categories is important, because categories change labels and meanings, and we may monitor changes in the racial hierarchy by monitoring changes in the meaning and manifestations of racial categories."
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "Race is a sociocultural hierarchy, and racial categories are social spaces, or positions, that are carved out of that racial hierarchy.",
+    "sentence": "The study of racial categories is important, because categories change labels and meanings, and we may monitor changes in the racial hierarchy by monitoring changes in the meaning and manifestations of racial categories.",
+    "after": ""
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "",
+    "sentence": "Historically created racial categories often carry hidden meanings.",
+    "after": "Until 2003 medical reports were cataloged in PubMed/MEDLINE and in the old Surgeon General’s Index Catalogue using 19th century racial categories such as Caucasoid, Mongoloid, Negroid and Australoid."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "Historically created racial categories often carry hidden meanings.",
+    "sentence": "Until 2003 medical reports were cataloged in PubMed/MEDLINE and in the old Surgeon General’s Index Catalogue using 19th century racial categories such as Caucasoid, Mongoloid, Negroid and Australoid.",
+    "after": "Originally suggesting a scale of inferiority and superiority, today such groupings continue to connote notions of human hierarchy."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "Inventions of racial categories are mutable and historically specific, such as the term “mulattoes” as a scientific categorization against which information could be collected to prove that “hybrid” people were biologically predisposed to “die out,” and of course these categories are not stable across national boundaries; classifications such as “Colored,” “Black,” and “White” have been part of racial purification processes in countries such as South Africa.",
+    "sentence": "Gender categorizations are no less problematic and paradoxical.",
+    "after": "Feminist scholars point to the ways that, at the same time that women reject biological classifications as essentializing features of sex discrimination, they are simultaneously forced to organize for political and economic resources and progress on the basis of gender."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "",
+    "sentence": "Inventions of racial categories are mutable and historically specific, such as the term “mulattoes” as a scientific categorization against which information could be collected to prove that “hybrid” people were biologically predisposed to “die out,” and of course these categories are not stable across national boundaries; classifications such as “Colored,” “Black,” and “White” have been part of racial purification processes in countries such as South Africa.",
+    "after": "Gender categorizations are no less problematic and paradoxical."
+   },
+   {
+    "loc": 91,
+    "page": "PDF p. 91",
+    "kind": "p",
+    "before": "",
+    "sentence": "In order to understand how racial and gender representations in Google Search express the same traditional bias that exists in other organizational systems, an overview of how women and non- Whites have been historically represented in information categorization environments is in order.",
+    "after": "The issue of misrepresentations of women and people of color in classification systems has been significantly critiqued."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 7,
+  "input": "c4ab61dc815f",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "The digital poorhouse deters the poor from accessing public resources; polices their labor, spending, sexuality, and parenting; tries to predict their future behavior; and punishes and criminalizes those who do not comply with its dictates.",
+    "sentence": "In the process, it creates ever-finer moral distinctions between the “deserving” and “undeserving” poor, categorizations that rationalize our national failure to care for one another.",
+    "after": ""
+   },
+   {
+    "loc": 21,
+    "page": "pp. 42–43",
+    "kind": "q",
+    "before": "",
+    "sentence": "Important: If you believe you may be eligible for Medicaid benefits under another category and have more information about your case, please contact us at the number listed at the top of this notice within ten days (13 days if this notice is received by mail) of the date of this notice.",
+    "after": ""
+   },
+   {
+    "loc": 36,
+    "page": "pp. 81–82",
+    "kind": "p",
+    "before": "",
+    "sentence": "For example, in the 1980s and 1990s Congress and many state legislatures enacted a series of “Tough on Crime” laws that established mandatory minimum sentences for many categories of crime and removed a great deal of discretion from judges.",
+    "after": "Ironically, the changes were a result of organizing both by conservative law-and-order types and by some progressive civil rights activists who saw the bias in judicial discretion as creating racially disparate outcomes in sentencing."
+   },
+   {
+    "loc": 51,
+    "page": "pp. 118–119",
+    "kind": "p",
+    "before": "",
+    "sentence": "The great majority of unhoused people in Los Angeles exist somewhere between the categories of chronic and crisis homelessness.",
+    "after": "Coordinated entry follows the resources: permanent supportive housing on one side of the spectrum and rapid re-housing on the other."
+   },
+   {
+    "loc": 67,
+    "page": "pp. 158–160",
+    "kind": "p",
+    "before": "In 2015, in the wake of the Jerry Sandusky scandal—the ex–Penn State football coach is currently serving 30 to 60 years for molesting ten boys—Pennsylvania lowered the standard for what constitutes child abuse.",
+    "sentence": "The state also created 15 categories of mandated reporters, including health-care and school employees, volunteers, clergy, and librarians.",
+    "after": "Under the law, mandated reporters must report any suspicion of child neglect or abuse, whether they learned about it through direct experience or heard about it secondhand."
+   },
+   {
+    "loc": 81,
+    "page": "pp. 192–193",
+    "kind": "p",
+    "before": "According to Seeta Peña Gangadharan of the London School of Economics and Political Science, financial institutions use metadata purchased from data brokers to split the real estate market into increasingly sophisticated micro-populations like “Rural and Barely Making It” and “X-tra Needy.”",
+    "sentence": "While the algorithms that drive this target-marketing don’t explicitly use race to make decisions—a practice outlawed by the Fair Housing Act of 1968—a category like “Ethnic Second-City Strugglers” is clearly a proxy for both race and class.",
+    "after": "Disadvantaged communities are then targeted for subprime lending, payday loans, or other exploitative financial products."
+   },
+   {
+    "loc": 84,
+    "page": "pp. 199–200",
+    "kind": "p",
+    "before": "",
+    "sentence": "The passbook system that controlled the movements, work opportunities, health care, and housing of 25 million Black South Africans was made possible by data mining the country’s 1951 census to create a centralized population register assigning every person to one of four racial categories.",
+    "after": "In an amicus brief filed in 2015 on behalf of Black South Africans attempting to sue IBM for aiding and abetting apartheid, Cindy Cohn of the Electronic Frontier Foundation wrote, “The technological backbone for the South African national identification system … enabled the apartheid regime to efficiently implement ‘denationalization’ of the country’s black population: the identification, forced segregation, and ultimate oppression of South African blacks by the white-run government.”"
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 19,
+  "input": "abf219d80b59",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "p. 14",
+    "kind": "p",
+    "before": "At first glance, disruption conjures blows struck against hegemony, a feeling of “out with the old and in with the new,” and hope for transformation.",
+    "sentence": "However, the very qualities that give disruption currency as an intellectual category have made it a buzzword for contemporary globalization, attracting the fond gaze of global capitalism and neocolonialism.",
+    "after": ""
+   },
+   {
+    "loc": 37,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "A common theme in these discussions was the relationship between formulations like “Global Anglophone” and “Global South” and the history and legacies of European colonialism implied and obscured by them.",
+    "sentence": "These conversations are also reflected in the reorganization of MLA discussion groups into forums that have proliferated in number, distinguishing “Global Anglophone,” “Global South,” and “Postcolonial,” among other categories, from each other.",
+    "after": "These new formulations emphasize how scholarship emerging from the lineage of postcolonial studies has branched out into new areas, such as delinking anticolonial critiques from Continental philosophy, exploring South-​to-​South networks, and challenging the centrality of Anglophone postcolonial literary studies in critiques of colonialism."
+   },
+   {
+    "loc": 89,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "Editors for the project used a rubric with a 1- to 5-point scale to evaluate a crowd-​ sourced list of projects from each region of the world.",
+    "sentence": "The categories of evaluation were scholarship, critique, and/or cultural heritage; humanities technology; pedagogy; and design and usability.",
+    "after": "The results of applying the rubric to digital humanities projects from around the world fell into two groups: very high point totals for projects that included collaboration with universities in the United States or United Kingdom, and very low point totals for those that did not."
+   },
+   {
+    "loc": 103,
+    "page": "p. 94",
+    "kind": "p",
+    "before": "Postcolonial digital pedagogy is distinct from broader approaches to digital humanities pedagogy because it is situated in the politics of knowledge production laid bare by postcolonial studies, and it introduces students to the colonial and neocolonial knowledge formations that link both print and digital cultures.",
+    "sentence": "It further negotiates some of the challenges of teaching postcolonial studies, namely the difficulty of navigating the many contexts, histories, and cultures subsumed under the category “postcolonial writing.”",
+    "after": "Understanding postcolonial texts requires mastery of a different set of knowledges, tools, and approaches than canonical texts of the Global North."
+   },
+   {
+    "loc": 104,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "Accordingly, postcolonial digital pedagogy seeks to intervene in the challenges of teaching texts that have been historically decentered.",
+    "sentence": "It further engages students in resisting the totalizing category of “postcolonial literature” to make space for national, regional, and local differences that are rife in the literatures of the Global South.",
+    "after": "It draws on the work of the New London Group, an academic team that examines multiliteracies, to explore how digital pedagogy can encourage student engagement with the politics of globalization, cultural diversity, and technology."
+   },
+   {
+    "loc": 122,
+    "page": "p. 113",
+    "kind": "p",
+    "before": "In response, students conducted research on these locations and discovered that they correlated with settlement patterns for immigrants (Caribbean for Brixton and South Asian for Hounslow and Southall).",
+    "sentence": "This prompted further examination of the relationship between South Asians and blackness, a phenomenon of government categorization that gave rise to solidarity movements around blackness in the United Kingdom during the late 1970s and early 1980s.",
+    "after": "With this knowledge, students were better equipped to interpret the texts they were reading."
+   },
+   {
+    "loc": 135,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
+    "sentence": "Rather, the two categories are both connected and interdependent.",
+    "after": "For example, Jane Bennett posits the existence of a vibrant materiality that connects human and nonhuman bodies."
+   },
+   {
+    "loc": 135,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "",
+    "sentence": "An important model for interrogating these matters in digital humanities appears in feminist and postcolonial science and technology studies scholarship, which brings together the philosophical and technical implications of human subjectivity by raising concern over divisions between the binary categories of “human” and “nonhuman.”",
+    "after": "Donna Haraway, for example, has emphasized the need to deconstruct the division between the two through her work on the cyborg."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 118,
+  "input": "2833dc41ddde",
+  "candidates": [
+   {
+    "loc": 71,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "Within discourses of technoscience, such binaries are often taken for granted as a matter of objective fact, but, as Haraway’s work suggests, the separation between the human and nonhuman is a false one.",
+    "sentence": "Rather, the two categories are both connected and interdependent.",
+    "after": "For example, Jane Bennett posits the existence of a vibrant materiality that connects human and nonhuman bodies."
+   },
+   {
+    "loc": 186,
+    "page": "p. 158",
+    "kind": "p",
+    "before": "We also seek to refute the traditional prosopographic assumption that data are transcendent and unambiguous, rather than contingent and fluid.",
+    "sentence": "In other words, we want to queer the data by interrogating the structural formations of the normative, questioning differences within categories, and being self-reflexive about our processes (Giffney, 19).",
+    "after": "As Noreen Giffney summarizes, “queer thus denotes a resistance to identity categories or easy categorization, marking a disidentification from the rigidity with which identity categories continue to be enforced and from beliefs that such categories are immovable” (21)."
+   },
+   {
+    "loc": 187,
+    "page": "p. 159",
+    "kind": "p",
+    "before": "The historical record offers many challenges to documenting the persons in our personography with sensitivity to non-normative identities and relationships.",
+    "sentence": "Indeed, the defining category of our work, “person,” is neither self-evident nor transhistorical.",
+    "after": "More than a quarter of the 351 individuals who contributed art, text, and editorial expertise to the Yellow Book, the Pagan Review, the Savoy, and the Evergreen did not fall within the standard personhood or status classifications of late-Victorian law and society."
+   },
+   {
+    "loc": 188,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "In the period during which our magazines were produced and read, intellectuals such as Havelock Ellis and Edward Carpenter, proponents of the new scientific field of sexology, formulated the binary concepts of homosexuality and heterosexuality (Marcus, 22).",
+    "sentence": "These concepts quickly gained traction as useful social categories, and a discourse of sexual deviation from the standard, heterosexuality, proliferated terms for different types of “inverted” individuals and relationships.",
+    "after": "In his History of Sexuality Vol. 1 (1990), Foucault famously contends that late-Victorian society implemented such categories in order to delineate, and therefore control, previously unspoken behavior (34)."
+   },
+   {
+    "loc": 188,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "These concepts quickly gained traction as useful social categories, and a discourse of sexual deviation from the standard, heterosexuality, proliferated terms for different types of “inverted” individuals and relationships.",
+    "sentence": "In his History of Sexuality Vol. 1 (1990), Foucault famously contends that late-Victorian society implemented such categories in order to delineate, and therefore control, previously unspoken behavior (34).",
+    "after": "The Yellow Nineties Personography project sets out to challenge these Victorian mechanisms and binaries."
+   },
+   {
+    "loc": 305,
+    "page": "p. 277",
+    "kind": "p",
+    "before": "",
+    "sentence": "Service as a category signals intrinsic and invaluable aspects of the digital humanities.",
+    "after": "However, epistemologies grounded in subject/object distinctions and a privileging of the ideal or conceptual or practical over the material impedes our ability to recognize the extent to which the devaluation of the feminized undergirds our evasions and our debates in ways that point to the political unconscious of the field."
+   },
+   {
+    "loc": 324,
+    "page": "p. 296",
+    "kind": "p",
+    "before": "",
+    "sentence": "An early response, whose limitations are now clearly visible to us, makes gender and race and “difference” visible as cultural content: as significant and overlooked categories in the construction of a cultural past that become visible where they are aggregated and intensified.",
+    "after": "Many early projects formed, as the Women Writers Project did, around various categories of invisibility and disenfranchisement, with gender and race very significantly among them."
+   },
+   {
+    "loc": 324,
+    "page": "p. 296",
+    "kind": "p",
+    "before": "An early response, whose limitations are now clearly visible to us, makes gender and race and “difference” visible as cultural content: as significant and overlooked categories in the construction of a cultural past that become visible where they are aggregated and intensified.",
+    "sentence": "Many early projects formed, as the Women Writers Project did, around various categories of invisibility and disenfranchisement, with gender and race very significantly among them.",
+    "after": "If the value of these early reclamation efforts lies in the ways they create distinctive intellectual spaces for the study of “other” cultural production, a value whose importance shouldn’t be underestimated even now, then their limitation lies precisely in that distinctiveness: they don’t permit the study of these “others” as anything but a separate category."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 8,
+  "input": "75acc8908c14",
+  "candidates": [
+   {
+    "loc": 57,
+    "page": "p. 45",
+    "kind": "p",
+    "before": "Race critical code studies, as I develop it here, is defined not just by what we study but also by how we analyze, questioning our own assumptions about what is deemed high theory versus pop culture, academic versus activist, evidence versus anecdote.",
+    "sentence": "The point is not just to look beneath the surface in order to find connections between these categories, but to pay closer attention to the surfaces themselves.",
+    "after": "Here I draw upon the idea of thin description as a method for reading surfaces — such as screens and skin - especially since a key feature of being racialized is “to be encountered as a surface.””?"
+   },
+   {
+    "loc": 75,
+    "page": "p. 63",
+    "kind": "q",
+    "before": "were conscious of race, class and gender, and none wanted to reproduce these normative stereotypes in the robots they created ...",
+    "sentence": "[They] avoided racially marking the “skin” of their creations ... preferred to keep their machines genderless, and did not speak in class-marked categories of their robots as “servants” or “workers,” but companions, friends and children.*°",
+    "after": ""
+   },
+   {
+    "loc": 86,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "",
+    "sentence": "Take the credit associated with the aforementioned categories of playing video games and buying diapers.",
+    "after": "There are many ways to parse the values embedded in the distinction between the “idle” and the “responsible” citizen so that it lowers the scores of gamers and increases the scores of diaper changers."
+   },
+   {
+    "loc": 123,
+    "page": "p. 111",
+    "kind": "q",
+    "before": "These have real world effects on how we see ourselves and each other.",
+    "sentence": "Even in systems that have very open identity creation options, like Second Life, there are still different valuations for skins, social groups and categories being formed.*?",
+    "after": ""
+   },
+   {
+    "loc": 129,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "Genetic discrimination, in turn, does not just describe what prospective parents have to do if they decide to select supposedly smart fetuses over their average siblings.",
+    "sentence": "Discriminatory design happens much earlier in the process, in the decisions that researchers make as to what behaviors to categorize as intelligent in the first place.",
+    "after": "As philosopher Ian Hacking (2006) put it in “Making Up People,” when we identify which people to control, help, change, or emulate as “geniuses,” methods of classification change those who [sic] scientists set out to study.** And not just change them, but actually create and re-create kinds of people in the process of naming and studying, which becomes a materialization of the scientific imagination."
+   },
+   {
+    "loc": 144,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "The scientists’ near uniform criticism of the UK project serves to highlight a key feature of the underlying science — its refusal to adhere to “terms of use” insofar as the UKBA was unwilling to shut down the project completely.",
+    "sentence": "Also essential to this discussion is the fact that such technologies of identity do not simply offer more objective means of confirming or disconfirming conventional identity claims; they actually redefine the social categories of identity on which immigration and asylum decisions are based.",
+    "after": "The HPPP stands as a salutary warning about the ways in which supposedly objective technologies of identification are increasingly being used at international borders to disempower the already vulnerable still further.*?"
+   },
+   {
+    "loc": 168,
+    "page": "p. 156",
+    "kind": "p",
+    "before": "According to Nadine Ehlers and Shiloh Krupar in “When Treating Patients Like Criminals Makes Sense,” hot-spotting uses not only GIS but also the principles of racial profiling.",
+    "sentence": "They focus on “how attempts to lower the monetary debt incurred by hospitals - through this new form of race-based medicine — situates minorities as responsible for this debt and actually re-entrenches racial disparity” and those targeted “are often classified as ‘socially disintegrated,’ as dependent, and as unable to self-care.”*° The medical and economic intervention, in short, fixes people into stigmatizing categories — the very forms of classificatory stigma that restrict people’s life chances and fuel health disparities in the first place.",
+    "after": ""
+   },
+   {
+    "loc": 169,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "As the analogy with technological systems suggests, racial logics are readily embedded in social systems when underlying normative assumptions and social biases are ignored.",
+    "sentence": "The denial of racial-ethnic categories may very well lead to some of the most sinister and systemic forms of racism, with very little recourse.",
+    "after": "This is especially the case when people refuse to acknowledge and to challenge how such logics structure the development and deployment of technoscience and, by extension, access to resources and the rights associated with such initiatives."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 22,
+  "input": "b5db38ea7d25",
+  "candidates": [
+   {
+    "loc": 46,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "Because oppression varies by type, target, and expression, it can be challenging to define this concept in a way that includes all oppressed groups and precludes claims of oppression by dominant groups (e.g., “reverse racism”).",
+    "sentence": "To address this challenge, Young (1990) developed categories for the various forms and conditions, which she called the five faces of oppression: Marginalization, cultural imperialism, powerlessness, violence, and exploitation.",
+    "after": "These faces of oppression overlap in social institutions and structures, affecting the lives of oppressed people in myriad ways."
+   },
+   {
+    "loc": 49,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "Mills (1997) argues that, since the birth of colonialism, society has operated and continues to operate according to two sets of rules that establish perspectives of justice and the law, notions of who can and cannot serve as a contributing member of society, expectations regarding who is civilized and fully human: One set applying to white people and one set applying to everyone else.",
+    "sentence": "The specific designations regarding who “counts” as white has shifted somewhat throughout history: For example, the categorization of Irish people and of Jewish people has varied.",
+    "after": "Whiteness shifts in order to maintain dominance over the Other; it is far more costly to lose dominance altogether than to decrease the exclusivity of privilege by shifting the “who” of categorical whiteness."
+   },
+   {
+    "loc": 49,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "Whiteness shifts in order to maintain dominance over the Other; it is far more costly to lose dominance altogether than to decrease the exclusivity of privilege by shifting the “who” of categorical whiteness.",
+    "sentence": "Those two basic categories—“white” and “Other”—established in the context of colonialism create a premise that denies the full humanity of the majority of humans on the planet.",
+    "after": ""
+   },
+   {
+    "loc": 54,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "Because of graduate students’ positionality in programs as both subservient to their graduate advisors and desperately in need of approval in order to secure jobs after their graduate work, graduate students are easily exploited for their labor.",
+    "sentence": "Except where students are unionized, graduate students’ hours are seldom documented, and expectations for work can easily fall into the “as much as necessary” category.",
+    "after": "Graduate students work for free, doing service to their departments and, especially in the sciences, conducting research for faculty, without pay and often without acknowledgment, all in the hopes that they may attain a dreamy position on the tenure track after graduation."
+   },
+   {
+    "loc": 55,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "For example, in discussing his approach to teaching queer rhetorics in technical communication, Cox (2018) reminds us that queer theory accounts for intersections in that it “is not only concerned with whatever is non-normative but also seeks to constantly disrupt the normative as well” (p. 291).",
+    "sentence": "As he asserts, intersectional approaches to TPC require that we “move beyond oversimplified ideas of ‘diversity’ and monolithic categories that do not allow for multiplicity and complexity” (p. 289).",
+    "after": "This accounting for complexity and multiplicity is why the concept of intersectionality emerged from Black feminisms and womanisms in part because both the feminist and the Black power movements isolated efforts to redress sexism and racism (respectively), completely missing the compounded impact of these oppressive systems on Black women."
+   },
+   {
+    "loc": 55,
+    "page": "p. 28",
+    "kind": "p",
+    "before": "Kimberlé Crenshaw, a legal scholar and Black feminist theorist, coined the term intersectionality in the 1980s as she explicated the ways discourses surrounding rape and battery failed to account for the intersections of race and gender experienced by Black women.",
+    "sentence": "Intersectional approaches to thinking about feminist, anti-racist, and social justice discourses honor difference among and within groups and—perhaps more importantly— theorize oppression in a new way: Not singularly, but pluralistically; not as if one identity category (say, race or sexuality) can be addressed and then once that has been handled, we can move on to another identity category.",
+    "after": "In other words, intersectionality acknowledges the problems of focusing on one form of oppression while excluding another."
+   },
+   {
+    "loc": 90,
+    "page": "p. 63",
+    "kind": "p",
+    "before": "Positionality is a way of conceiving subjectivity that simultaneously accounts for the constraints and conditions of context while also allowing for an individual’s action and agency.",
+    "sentence": "In other words, positionality asserts that the meaning of identity categories (such as race and gender) are not essential but rather are fluid and contextual.",
+    "after": "For example, there is no universal meaning for what it is to “be Black.”"
+   },
+   {
+    "loc": 93,
+    "page": "p. 66",
+    "kind": "p",
+    "before": "Similarly simplistic is a dyadic or dualistic perspective of identity: For example, a woman is either a lady or a whore.",
+    "sentence": "Called out and rejected by Chicana activist Gloria Anzaldúa (2007), dyadic perspectives and categorizations operate as oppressive ideologies which offer only two options: Full obedience to racist patriarchies or utter social rejection.",
+    "after": "Dyadic identities tend to be extreme and permanent, making for an effective tool of social control and oppression."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 14,
+  "input": "9dffb5205f9e",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "An example from political science would be John Locke’s Second Treatise, which is generally interpreted and taught as providing a labor theory of property.",
+    "sentence": "Locke did, in fact, make significant use of the categories of used and unused by defining the proper use of the land as agriculture.",
+    "after": "This is significant given how the category of “unused” was used to justify the colonial appropriation of land (see chapter 1)."
+   },
+   {
+    "loc": 24,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "Locke did, in fact, make significant use of the categories of used and unused by defining the proper use of the land as agriculture.",
+    "sentence": "This is significant given how the category of “unused” was used to justify the colonial appropriation of land (see chapter 1).",
+    "after": "An example from biology would be Jean-Baptiste Lamarck, whose primary law is articulated as a law of use and disuse."
+   },
+   {
+    "loc": 46,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "sign is also a lock: it is how you lock yourself in and lock others out.",
+    "sentence": "The use of a facility also references the use of a category.",
+    "after": "A public bathroom is a highly regulated as well as contested political space partly because you are performing a private function in a public space."
+   },
+   {
+    "loc": 46,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "Who is supposed to use a toilet can also be a matter of who is supposed to reside within a category.",
+    "sentence": "A social category is a category that is in use and of use.",
+    "after": "You use the women’s toilets because you identify as a woman."
+   },
+   {
+    "loc": 46,
+    "page": "p. 30",
+    "kind": "p",
+    "before": "",
+    "sentence": "Who is supposed to use a toilet can also be a matter of who is supposed to reside within a category.",
+    "after": "A social category is a category that is in use and of use."
+   },
+   {
+    "loc": 47,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "When your use of a facility is questioned, you are questioned.",
+    "sentence": "When you are questioned about your right to occupy a space, you are being questioned about your right to occupy a category.",
+    "after": "It is not just then a question of turning up, of being able to use something because the facility is vacant or free."
+   },
+   {
+    "loc": 155,
+    "page": "p. 139",
+    "kind": "p",
+    "before": "",
+    "sentence": "This use of death returns us to the political stakes in the category of the unused.",
+    "after": "In chapter 1, I considered how land can be declared or made unused to justify the appropriation of land."
+   },
+   {
+    "loc": 155,
+    "page": "p. 139",
+    "kind": "p",
+    "before": "In chapter 1, I considered how land can be declared or made unused to justify the appropriation of land.",
+    "sentence": "Judy Whitehead has tracked how the Lockean category of wasteland was used in the colonial project in India.",
+    "after": "As she describes, “The concept of wasteland began its career in India” as “a social category that applied both to the supposedly unproductive uses that lands were put to, to lands held in common, or to land left idle” (2010, 84)."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 231,
+  "input": "eb237cb21382",
+  "candidates": [
+   {
+    "loc": 44,
+    "page": "pp. 65–66",
+    "kind": "p",
+    "before": "In other words, a user “votes” with all of their previous actions.",
+    "sentence": "The automatic filtering of emails in Gmail into Important and Everything categories is a good example of this type of action.",
+    "after": "Most of the automatic actions we encounter in our interactions with web services and apps today can be partly controlled by us via settings; however, not every user is willing to spend the time to understand and change the default settings for every service (e.g., those at https://www.facebook.com/settings)."
+   },
+   {
+    "loc": 56,
+    "page": "p. 87",
+    "kind": "p",
+    "before": "Among all types of cultural behaviors, one category is so important that we need to discuss it separately.",
+    "sentence": "In fact, this category is what separates our contemporary culture from earlier periods even more critically then scale.",
+    "after": "Surprisingly, it has been almost completely ignored in quantitative studies of culture carried out across many academic fields."
+   },
+   {
+    "loc": 80,
+    "page": "pp. 129–130",
+    "kind": "p",
+    "before": "We should always consider how the existing metadata was arrived at, what characteristics the features describe, and what is left undescribed.",
+    "sentence": "A cultural analytics approach can be very helpful in this questioning because it aims to destabilize existing categories.",
+    "after": "These categories are often encoded in institutional metadata."
+   },
+   {
+    "loc": 80,
+    "page": "pp. 129–130",
+    "kind": "p",
+    "before": "A cultural analytics approach can be very helpful in this questioning because it aims to destabilize existing categories.",
+    "sentence": "These categories are often encoded in institutional metadata.",
+    "after": "For example, many art museum websites allow you to search a collection using a number of genre categories."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 140–141",
+    "kind": "p",
+    "before": "",
+    "sentence": "ImageNet is an international competition in which the top research labs working on computer vision algorithms compete every year in different categories.",
+    "after": "In the competitions that ran in the 2010s, the performance of algorithms was compared in each of three tasks: image classification (algorithms identify object categories present in the image), object detection (algorithms identify all objects and their position in an image), and single object localization (algorithms identifies one example of each type of content present)."
+   },
+   {
+    "loc": 90,
+    "page": "p. 148",
+    "kind": "p",
+    "before": "This adoption of data science may lead to a more nuanced view of phenomena as we shift from categorical to continuous data.",
+    "sentence": "However, systems of categories defined using words from natural languages (e.g., as color terms) that traditionally have been humans’ preferred way of representation did not go away.",
+    "after": "They remain central to political, social, and cultural life."
+   },
+   {
+    "loc": 99,
+    "page": "pp. 164–165",
+    "kind": "p",
+    "before": "",
+    "sentence": "Given that all cultural institutions still use categorical systems to structure their own and our understandings of cultural artifacts, as well as their production, exhibition, and archiving, examination of these categories is an important part of the cultural analytics program.",
+    "after": "For example, Wikipedia’s “List of Subcultures” article has 130 entries, while Japan’s manga industry classifies manga using four categories of readers defined by age and gender, and further by a few dozen genres."
+   },
+   {
+    "loc": 124,
+    "page": "pp. 209–210",
+    "kind": "p",
+    "before": "Similarly, if you use crowdsourcing services such as Amazon Mechanical Turk or Figure Eight in which workers tag each image, you also need to define these tags beforehand.",
+    "sentence": "And finally, supervised machine learning in which a computer is first trained to classify media objects into multiple categories and then given a new dataset to classify has the same limitation: we need to first define these categories.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 44,
+  "input": "9e2fd87fe79c",
+  "candidates": [
+   {
+    "loc": 53,
+    "page": "PDF p. 53",
+    "kind": "p",
+    "before": "Early twentieth-century redlining maps had an aura very similar to the “big data” approaches of today.",
+    "sentence": "These high-tech, scalable “solutions” were deployed across the nation, and they were one method among many that worked to ensure that wealth remained attached to the racial category of whiteness.",
+    "after": "At the same time that these maps were being made, the insurance industry, for example, was implementing similar data-driven methods for granting (or denying) policies to customers based on their demographics."
+   },
+   {
+    "loc": 96,
+    "page": "PDF p. 96",
+    "kind": "p",
+    "before": "",
+    "sentence": "Bowker and Star give the example of the public debates that took place in the 1990s around the categories of race employed on the US Federal Census.",
+    "after": "At issue was whether people should be able to choose multiple races on the census form."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "Queer theorist Judith Butler has long maintained that gender is best understood as a repeated performance, a set of categories that cohere by, for instance, wearing jeans with small pockets (or no pockets at all) or by participating in an activity that is similarly gender-coded, like child-rearing, or—importantly for Butler—having heterosexual sex.",
+    "sentence": "These performative acts, as she terms them, repeated so many times that they become taken as fact, are what define the gender categories that we have today.",
+    "after": "Butler’s idea of gender as performative moves away from an essentialist conception of the term: the idea that there is some innate or “essential” criteria that makes one, for instance, a woman or man."
+   },
+   {
+    "loc": 100,
+    "page": "PDF p. 100",
+    "kind": "p",
+    "before": "We’ve already asserted that gender is a social construct, but what does this phrase really mean?",
+    "sentence": "Queer theorist Judith Butler has long maintained that gender is best understood as a repeated performance, a set of categories that cohere by, for instance, wearing jeans with small pockets (or no pockets at all) or by participating in an activity that is similarly gender-coded, like child-rearing, or—importantly for Butler—having heterosexual sex.",
+    "after": "These performative acts, as she terms them, repeated so many times that they become taken as fact, are what define the gender categories that we have today."
+   },
+   {
+    "loc": 195,
+    "page": "PDF p. 195",
+    "kind": "p",
+    "before": "For individuals, we attempted to verify their race, gender, country of origin (which fed into our Global South/Global North distinction), and indigeneity.",
+    "sentence": "Additional categorizations included whether or not references were from within the academy and if they represented an example of good data practices or “what not to do.”",
+    "after": "References were logged as “communal” if they were community-driven (e.g., Data for Black Lives), and a separate category recorded whether the reference provided a “nonvisual example” of data work or not."
+   },
+   {
+    "loc": 195,
+    "page": "PDF p. 195",
+    "kind": "p",
+    "before": "Additional categorizations included whether or not references were from within the academy and if they represented an example of good data practices or “what not to do.”",
+    "sentence": "References were logged as “communal” if they were community-driven (e.g., Data for Black Lives), and a separate category recorded whether the reference provided a “nonvisual example” of data work or not.",
+    "after": "Each record was further classified by importance."
+   },
+   {
+    "loc": 195,
+    "page": "PDF p. 195",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although categories like “importance” and “nonvisual example” were straightforward to assign, others like race and gender were not.",
+    "after": "We tried to confirm these categorizations through online research, but without the self-identification of the referenced individuals, these categories are obviously subject to further inquiry."
+   },
+   {
+    "loc": 195,
+    "page": "PDF p. 195",
+    "kind": "p",
+    "before": "Discriminatory hiring on the basis of race and gender is the reason for General Motors’s inclusion in the book; therefore the company is listed as “white” and “man” in the audit.",
+    "sentence": "Also, if upon further research an organization was found to have an all-white board or staff, like Clarksons Research UK, it was categorized as “white.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 11,
+  "input": "360432a07696",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "These systems are biased against QTI/GNC people, as I’ve described; against Black women, who frequently experience invasive searches of their hair, as documented by the team of investigative journalists at ProPublica; and against Sikh men, Muslim women, and others who wear headwraps, as described by sociologist Simone Browne in her brilliant book Dark Matters.",
+    "sentence": "As Browne discusses, and as Joy Buolamwini, founder of the Algorithmic Justice League, technically demonstrates, gender itself is racialized: humans have trained our machines to categorize faces and bodies as male and female through lenses tinted by the optics of white supremacy.",
+    "after": "Airport security is also systematically biased against Disabled people, who are more likely to be flagged as risky if they have non-normative body shapes and/or use prostheses, as well as anyone who uses a wearable or implanted medical device."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "First, she discusses an instance in which Black women workers at General Motors (GM) were told they had no legal grounds for a discrimination case against their employer because antidiscrimination law only protected single-identity categories.",
+    "after": "The court found that, since GM hired white women, the company did not systematically discriminate against women."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "At the community level, platform design (for example) fosters certain kinds of communities while suppressing others, through setting and enforcing community guidelines, rules, and speech norms, instantiated through different kinds of content-moderation algorithms, clickworkers, and decision support systems.",
+    "sentence": "For example, when ProPublica revealed that Facebook’s internal content moderation guidelines explicitly mention that Black children are not a protected category, while white men are, this inspired very little confidence in Mark Zuckerberg’s congressional testimony that Facebook feels it can deal with hate speech and trolls through the use of AI content moderation systems.",
+    "after": "Nor was Facebook’s position improved by the leak of content moderation guidelines that note that “white supremacist” posts should be banned, but that “white nationalist” posts are within free speech bounds."
+   },
+   {
+    "loc": 34,
+    "page": "PDF p. 34",
+    "kind": "p",
+    "before": "In the earliest and most widely cited book on this approach, Human Values and the Design of Computer Technology, Friedman and Nissenbaum examine bias in computer systems and propose methods for the practice of VSD.",
+    "sentence": "They analyze seventeen computer systems from varied fields, expose instances of bias, and categorize them into three groups: preexisting bias, technical bias, and emergent bias.",
+    "after": "In preexisting bias, bias that exists in broader society, culture, and/or institutions is reproduced in the computer system, either intentionally or unintentionally, by systems developers."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "On the one hand, this approach has real potential to escape the reproduction of existing social categories as variables that are used to shape experience; it may destabilize existing social categories and replace them with truly personalized, behavior-driven user experience (UX) and UI customization.",
+    "sentence": "However, in practice this approach also leads to the reproduction and reification of existing social categories through algorithmic surveillance, tracking users across sites, gathering and selling their data, and the development of filter bubbles (only showing users content that we believe they are comfortable with).",
+    "after": ""
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "Indeed, web designers increasingly talk about culturally adaptive and personalized systems and hope to shift toward providing personalized experiences for each user based on what they know about them.",
+    "sentence": "On the one hand, this approach has real potential to escape the reproduction of existing social categories as variables that are used to shape experience; it may destabilize existing social categories and replace them with truly personalized, behavior-driven user experience (UX) and UI customization.",
+    "after": "However, in practice this approach also leads to the reproduction and reification of existing social categories through algorithmic surveillance, tracking users across sites, gathering and selling their data, and the development of filter bubbles (only showing users content that we believe they are comfortable with)."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "One question about this approach is how many identity variables to include because each adds complexity (and, in many situations, time and cost) to the audit.",
+    "sentence": "However, most of the researchers, developers, and engineers who are interested in correcting for algorithmic bias can probably be convinced that algorithmic bias analysis and correction should be intersectional and should at least include categories typically protected under US antidiscrimination law, such as sex, race, national origin, religion, and disability.",
+    "after": ""
+   },
+   {
+    "loc": 70,
+    "page": "PDF p. 70",
+    "kind": "p",
+    "before": "For example, the ways that algorithms are used by various actors and institutions to reproduce white supremacist capitalist heteropatriarchy and settler colonialism is reduced to a critique of “algorithmic bias.”",
+    "sentence": "The ways that the media system symbolically annihilates most communities and forms of human experience while it produces neoliberal hetero- and cis-normative subjectivities; promotes anti- Blackness; and normalizes the logics of the prison industrial complex, settler colonialism, and empire are reduced to questions about representational equity according to a limited group of identity categories.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 11,
+  "input": "e602119a94ef",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "Cultural studies of media shares political economy’s interest in media industries; new media and internet research from this perspective examines texts, identity, and audience reception and limits its critical take on communication and media to commodification, oppression, or resistance.",
+    "sentence": "When directed toward representation in digital spaces, cultural studies often glosses over race as a salient category to instead argue for internet culture as a freestanding aesthetic that is separate from offline identity politics.",
+    "after": ""
+   },
+   {
+    "loc": 35,
+    "page": "PDF p. 35",
+    "kind": "p",
+    "before": "Items were sorted by the date they were submitted to the site, and users could up-vote or down-vote them.",
+    "sentence": "Items could also be arranged by categories or tagged and sorted by popularity in a tag cloud.",
+    "after": "When comparing Digg and Grapevine, however, it’s possible to see that 40A’s aim to encourage cultural content sharing could have borne fruit."
+   },
+   {
+    "loc": 37,
+    "page": "PDF p. 37",
+    "kind": "p",
+    "before": "They were selected through a purposive sampling of twenty-six blogs retrieved from a Google search using the keywords “Blackbird browser.”",
+    "sentence": "I created three categories from the results: high-profile (mainstream) technology blogs, Black technology blogs, and general-interest Black cultural blogs.",
+    "after": "All the blogs published a Blackbird review and include threaded comments featuring responses from the blog’s community."
+   },
+   {
+    "loc": 77,
+    "page": "PDF p. 77",
+    "kind": "p",
+    "before": "Smartphones overlap and extend both the personal data assistant and the Pocket PC phone era (e.g., Windows CE, BlackBerry, and Palm phones and devices); these devices, characterized by resistive touch screens, physical keyboards, and styli, enacted a digital and ideological commitment to productivity and enterprise software needs and interfaces.",
+    "sentence": "I should mention an additional category of cell phones, the feature phone, which allows voice calls, limited internet browsing, and text messaging but offers few other features.",
+    "after": "These phones were once mainstays of prepaid and lower-cost cellular subscription plans, but low-cost Chinese smartphones have largely supplanted them."
+   },
+   {
+    "loc": 106,
+    "page": "PDF p. 106",
+    "kind": "p",
+    "before": "Curry, who has 375,000 followers, even briefly became a national trending topic, with the post garnering approximately 72,000 retweets and nearly 100,000 likes.",
+    "sentence": "There are three types of responses (out of dozens) to be discussed here: those of Curry’s supporters, those of Curry’s detractors (both categories include Black online media outlets and social media commentators), and those of white mainstream media outlets.",
+    "after": "I begin with the mainstream media outlets, as they directly critique Black digital practice in ways that the Black-authored tweets and responses do not."
+   },
+   {
+    "loc": 110,
+    "page": "PDF p. 110",
+    "kind": "p",
+    "before": "",
+    "sentence": "I earlier categorized both articles as think pieces.",
+    "after": "As such, they are valuable examples of Black digital practice, offering insight into the influence of Black culture on Black online content."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "On SportsGrid, Tanya Ray Fox embedded a number of tweets pungently replying to Ayesha Curry’s original post.",
+    "sentence": "Fox correctly categorizes these responses as “backlash” and adds that it was “predictably louder and more abundant” (para.",
+    "after": "7)."
+   },
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "",
+    "sentence": "In keeping with the intersectional tendencies of this text, it is important to consider Dinerstein’s technocultural categories of whiteness and masculinity as a set of relationships rather than as separate categories.",
+    "after": "Try a thought experiment: How do you visualize technology’s relationship with white women?"
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "6e4e4a6c2b1e",
+  "candidates": [
+   {
+    "loc": 35,
+    "page": "PDF p. 35",
+    "kind": "p",
+    "before": "In chapter 1 we considered hashtags created to address violence against women that trended on Feminist Twitter, within wider Twitter networks, and in some cases within the larger public sphere.",
+    "sentence": "As that chapter illustrates, many of the hashtags that interrogate issues of gendered violence on Twitter are started by women of color, then picked up by others to address overarching experiences shared by women across racial, ethnic, religious, class, and other social identity categories.",
+    "after": "Yet what is missing from much of the mainstream commentary about trending feminist hashtags is not only that women of color often lead creative and political work on popular hashtags but also that they regularly create and lead racial and ethnic in-group conversations about feminist issues."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "Tweets in this category also work to connect issues of trans liberation to intersectional concerns of poverty, racism, and sexism.",
+    "after": "For example, Janet Mock connected the case of CeCe McDonald to that of Trayvon Martin, the Black Florida teenager killed by neighborhood watchman George Zimmerman, whose case we consider in the next chapter."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 25,
+  "input": "1898e61409f7",
+  "candidates": [
+   {
+    "loc": 9,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "Tracing the digital life of a paper movement responds to Lisa Gitelman’s critique of “print culture’s” conceptual paucity—specifically, its inability to account for the specific ties of media and the messy work people do across forms.",
+    "sentence": "Rather than rely on “print” and “digital” as stable categories that represent a temporal progression—paper is scanned and “put online”—this book takes a more archaeological approach, considering complex transitions between media and listening for the unexpected echoes of the digital in the past: how, for example, lesbian-feminist indexers sifted through mountains of paper index cards while dreaming of computer databases.",
+    "after": ""
+   },
+   {
+    "loc": 11,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "Information activists created indexes and bibliographies to make the content in these newsletters searchable and actionable.",
+    "sentence": "These resource guides categorized information drawn from print newsletters by subject so that those in need of information on a given topic—Censorship, Chicana Lesbians, Pornography, or Soft all, to name a few—could find it at their fingertips.",
+    "after": "Indexes to lesbian materials became defin tive “guides to the literature,” assembled by capable lesbian-feminist hands that parsed raw information using paper index cards and, later, computer databases."
+   },
+   {
+    "loc": 14,
+    "page": "p. 10",
+    "kind": "p",
+    "before": "This book understands information primarily through the material work processes that organize and transmit information so that it might be useful to marginalized publics who otherwise lack easy access to these resources.",
+    "sentence": "Distinguishing information from data, or knowledge, is less important than the category’s emphasis on creating infrastructures and interfaces that open up worlds.",
+    "after": ""
+   },
+   {
+    "loc": 16,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "The invisibility of women’s work in histories of media and technology is perhaps most acute when this work takes the form of service, care, or emotional labor, categories that include activist projects understood as labors of love.",
+    "after": "By centering “minor players” in media histories we become attuned to how sexuality and emotion make technological systems work smoothly."
+   },
+   {
+    "loc": 21,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "Information brought lesbians together for support and acted as a catalyst for a broader critique of standards.",
+    "sentence": "My focus is on information’s role in lesbian feminist counterpublic formation and expression, even as “social movement” is most often the shorthand through which lesbian feminism is categorized.",
+    "after": "Approaches to lesbian feminism as a social movement varied, because of ties to discrete counterpublics formed around race, ethnicity, class, and disability, which mattered even as women came together in activism."
+   },
+   {
+    "loc": 30,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "Beginning in the l ha basement, I include my “archive stories” about coming to and moving among the objects and actors that make up my archive here.",
+    "sentence": "Doing this work has asked me to reckon with my own attachments to lesbian feminism and even to the category “lesbian.”",
+    "after": "I have moved through this research and the spaces it has brought me to with frequent uncertainty about how my nonbinary gender identity and commitments to transfeminist practice might fit—all this despite wanting to occupy some relation to lesbian and caring deeply about lesbian feminism’s ongoing place in digital archives of the ever-unfolding present."
+   },
+   {
+    "loc": 44,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "For Rawson, this shift reflects broader movements away from gay and lesbian toward l gbt q+, but more interestingly, it shows that archival collections, like the people stewarding them, have individual identities that are adaptable.",
+    "sentence": "The Lesbian Herstory Archives’ ongoing grounding in the lesbian community and collective organizational structure maintain the focus on lesbian materials, even as the meaning of this category changes.",
+    "after": "Following New Alexandria’s activities through Matrices over a period of years illustrates the publication’s ongoing entanglement with a larger, evolving activist movement and its instrumental role in facilitating outreach."
+   },
+   {
+    "loc": 91,
+    "page": "p. 87",
+    "kind": "p",
+    "before": "Some lesbian organizations defi ed themselves in part through exclusion—for example, many lesbians defi ed their identities through staunch separation from men, leaving bisexual women on the fringes of movements to which they wanted to belong.",
+    "sentence": "The Lesbian Switchboard’s call logs show that the organization served many trans callers and bisexual callers, as well as callers whose gender identifications or sexual practices did not fit neatly within the often strident category “lesbian.”",
+    "after": "These callers took risks phoning hotlines that did not claim to serve them with either their names or mandates."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 5,
+  "input": "a0740d984c68",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "By looking for certain behaviors and traits, one can distinguish fans from casual viewers and the wider public.",
+    "sentence": "For example, Jenkins describes fans as the citizens of “fandom,” which he defines as “a cultural community, one which shares a common mode of reception, a common set of critical categories and practices, a tradition of aesthetic production, a set of social norms and expectations.",
+    "after": "The relationship between fan and text encompasses activity and identity; it requires expenditures of time, effort and money, as well as an emotional and intellectual investment.”"
+   },
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "Nancy Baym’s foundational work, with its focus on cultures and communities that are created out of online televisual interaction, illustrates this.",
+    "sentence": "Her book Tune In, Log On highlights the connectivity around various soap operas, where users develop interpersonal relationships, and looks at how the users resist hegemonic categorization of their communities.",
+    "after": "Rhiannon Bury’s contributions also highlight how “fan practices cannot be analyzed separately from gender, class, sexuality, and nationality.”"
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "",
+    "sentence": "Collective identity can be defined as an individual’s cognitive, moral, and emotional connection with a broader community, category, practice, or institution.",
+    "after": "In digital gaming, this identity development stems from collective engagement about gaming narratives and personal experiences, shared with each other through that space."
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "(naming, categorizing, and defining), separating, and aestheticizing (making the separated",
+    "after": ""
+   },
+   {
+    "loc": 83,
+    "page": "PDF p. 83",
+    "kind": "p",
+    "before": "When one is profiled this way, the othering process begins.",
+    "sentence": "Othering is defined here as the process of categorizing a person or group of people as belonging to an out-group rather than an in-group.",
+    "after": "This stems from our desire to belong to groups with which we identify, with the dominant group having the power to dictate who belongs in both out- and in-groups."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 13,
+  "input": "ac32e7a14c9d",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "Marina Yalanska (2018) of FAQ Design Platform (tubikstudio.com) took on the slight nuances in the two terms and observes that “human-centered design is the process of things deeply based on general natural characteristics and peculiarities of human psychology and perception” while “user-centered design is [a] more focused and concise version of human-centered design with deeper analysis of target audience” (n.p.).",
+    "sentence": "Yalanska summarized that human-centered design and user-centered design work hand-in-hand; the idea is to first design for humans, then define the needs of the specific category of users.",
+    "after": "Nevertheless, the shared missions of user-centered design and human-centered design have left the semantic bale unresolved."
+   },
+   {
+    "loc": 155,
+    "page": "p. 134",
+    "kind": "q",
+    "before": "First, the team leader presents all available ideas on a wall.",
+    "sentence": "Looking at these ideas, the entire team helps to create top-level categories that are then split into subcategories that could house all of the ideas.",
+    "after": "All of these categories/subcategories should be clearly labeled (and better if color coded)."
+   },
+   {
+    "loc": 155,
+    "page": "p. 134",
+    "kind": "q",
+    "before": "Looking at these ideas, the entire team helps to create top-level categories that are then split into subcategories that could house all of the ideas.",
+    "sentence": "All of these categories/subcategories should be clearly labeled (and better if color coded).",
+    "after": "The last step is to organize all ideas into these subcategories."
+   },
+   {
+    "loc": 155,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "This simple exercise is a quick way for team members to choose their favorite ideas and shortlist options.",
+    "sentence": "Four-category mapping This method involves dividing generated ideas into relative abstract categories: the rational, the delightful, the darling, and the long shot.",
+    "after": "Similar to affinity mapping, team members should first have a view of all available ideas, then they assign these ideas into either of the four categories."
+   },
+   {
+    "loc": 155,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "Four-category mapping This method involves dividing generated ideas into relative abstract categories: the rational, the delightful, the darling, and the long shot.",
+    "sentence": "Similar to affinity mapping, team members should first have a view of all available ideas, then they assign these ideas into either of the four categories.",
+    "after": "The purpose of these categories is to create a set of doable ideas and those that may require more resources to accomplish, and may well be saved for the future."
+   },
+   {
+    "loc": 157,
+    "page": "p. 136",
+    "kind": "p",
+    "before": "Doing so allows designers to understand what labels work best to group different topics.",
+    "sentence": "In closed card sorting, participants will sort topics from your content into predefined categories (you give them the labels).",
+    "after": ""
+   },
+   {
+    "loc": 160,
+    "page": "p. 139",
+    "kind": "p",
+    "before": "",
+    "sentence": "To examine the impact of creativity on professional communication careers, Hailey, Cox, and Loader, together with a group of students, used a variation of the Delphi method to evaluate 45 selected job titles, assigning them into “more” or “less” creative categories.",
+    "after": "The study highlighted the ofshoring (outsourcing) phenomenon in a “creative” economy."
+   },
+   {
+    "loc": 162,
+    "page": "p. 141",
+    "kind": "p",
+    "before": "Purdy followed Richard Marback’s (2009) call to turn to design in composition studies and explored why design is invoked in five writing studies and computers and composition journals (from their inception to 2011).",
+    "sentence": "Purdy’s study yielded five categories of design use: 1) design as a synonym for plan/structure, 2) design as a conceptualization of multimodal composing, 3) design as a recognition of digital/multimedia compositions, 4) design as attending the material conditions of composing, and 5) design as a discussion of the discipline of design studies.",
+    "after": "Purdy then synthesized the ways design is approached in writing studies pedagogy, and attempted to align the prevalent steps of design thinking with the writing process."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 6,
+  "input": "16b9b2ee8f4c",
+  "candidates": [
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "Chinese immigrants, Italian immigrants, and Indian immigrants have at various points worked through the challenge of this two-part racial order, making their collective case that Blackness was, in fact, not an appropriate classifier (Loewen, 1988; Roediger, 2006; Waters, 1990).",
+    "sentence": "Even as race categories on the U.S. census have shifted over time to match current social and economic conditions, many immigrants still fight to be categorized as anything but Black.",
+    "after": "They distance themselves—perhaps without malicious intent but to the same effect—from the legacy of chattel slavery, hoping (potentially) to avoid the discrimination and bias attached to Black skin."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "In many cases, perception of what “counts” as a technological activity “is deeply intertwined with deleterious representations of the racialized other.",
+    "sentence": "In other words, technological activities that cannot be effectively categorized within the dominant canon of science and technology fall to the wayside” (Fouché, 2006, p. 642).",
+    "after": ""
+   },
+   {
+    "loc": 49,
+    "page": "PDF p. 49",
+    "kind": "p",
+    "before": "Banks maps features like mixing, remixing, and sampling as elements that predate the digital.",
+    "sentence": "Rayvon Fouché explains that “Black technological activities cannot be effectively categorized within the dominant canon of science and technology” and redirects our gaze to what he calls “Black vernacular technological creativity” (Fouché, 2006, p. 642).",
+    "after": "He explains Black vernacular technological creativity results “from resistance to existing technology and strategic appropriations of the material and symbolic power and energy of technology.”"
+   },
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "A Belle in Brooklyn was self-promoting but not self-aggrandizing.",
+    "sentence": "As the blog was one arm of Lucas’s bourgeoning relationship-advice business, her posts fell into two main categories: advice-response posts to readers’ questions and personal diary-like entries that used Lucas’s own life to provide guidance.",
+    "after": "The blog was not about celebrity culture, so when Lucas mentioned a celebrity, the focus was on their business, friendships, or intimate relationships as a catalyst to discuss broader relationship issues."
+   },
+   {
+    "loc": 97,
+    "page": "PDF p. 97",
+    "kind": "p",
+    "before": "Social media platforms require this type of engagement for participation.",
+    "sentence": "Black feminists use signifyin’ online to resist external classification, produce culturally specific dialogue and discourse, inscribe new modes of categorization and organization, and ultimately create and forge their own identities.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 11,
+  "input": "09fca1149998",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "pp. 15–16",
+    "kind": "p",
+    "before": "Like feminist legal scholar Kimberlé Crenshaw’s term “intersectionality,” “misogynoir” names a concept that Black feminists have discussed since our earliest preserved writings, speeches, and poetry.",
+    "sentence": "In 1851, abolitionist Sojourner Truth revealed the ways womanhood is raced such that Black women are excluded from the category and therefore subject to abuses that white women are not.",
+    "after": "Black studies scholar Hortense Spillers’s classic text “Mama’s Baby, Papa’s Maybe: An American Grammar Book” explores the degendering of Black women in US slavery and their subsequent treatment as commodities of labor and breeding for white slaveholders."
+   },
+   {
+    "loc": 20,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "Films popularized and written by Tyler Perry are consummate examples of this practice.",
+    "sentence": "Perry is in a category all his own, given his ability to finance his own productions and his popularity in Black markets, particularly among Black women.",
+    "after": "Yet his female protagonists are punished for their career ambition and assertive personalities through the contraction of HIV or humiliating chastising by a male paramour."
+   },
+   {
+    "loc": 22,
+    "page": "pp. 21–23",
+    "kind": "p",
+    "before": "When you read the term “Black feminists,” do not assume that it is interchangeable with “Black women,” for as this text and others I reference make clear, not all Black women are feminists and not all Black feminists are women.",
+    "sentence": "The projects and people I highlight in this text do not fit neatly into either category.",
+    "after": "Much like the media they create, these people are not easily slotted into a box labeled “feminist” or “women.”"
+   },
+   {
+    "loc": 22,
+    "page": "pp. 21–23",
+    "kind": "p",
+    "before": "Black nonbinary, agender, and gender-variant folks are often invisible in data-collection processes, making their realities marginal within the already liminal space of Black women’s digital alchemy.",
+    "sentence": "Nearly all of the data collected for this book assume that the category “Black women” is capacious enough to address misogynoir, but as I will detail in chapter 4, Black nonbinary and gender-variant people are also on the frontlines of the Black feminist transformation of misogynoir.",
+    "after": "As you have read in this introduction, Black women have been the central targets of misogynoir since the settling and colonization of the Americas."
+   },
+   {
+    "loc": 25,
+    "page": "pp. 28–29",
+    "kind": "p",
+    "before": "While Patricia Hill Collins, bell hooks, and Melissa Harris-Perry have critiqued what they call “controlling images,” and scholars such as Paula Giddings, M. Bahati Kuumba, and Brittney Cooper have traced Black women’s activist histories, none have centered queer and trans Black women’s activism as pivotal to the creative strategies that have grown resistance movements.",
+    "sentence": "My project troubles the assumed heteronormativity of the category “Black women” in other texts by speaking specifically to the realities of queer and trans women’s lives and production.",
+    "after": "Building on the work of queer Black feminists like Cathy Cohen, Kara Keeling, Roderick Ferguson, and Sharon Holland, I argue that the radical queer politics of many of these content creators is an essential part of what makes their work compelling and unique, extending beyond reactionary alternatives into imaginative new realities."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 67–69",
+    "kind": "p",
+    "before": "In the Ball scene—queer of color community, dance, and actual performance spaces—participants compete in categories like “school boy realness,” in which they are judged for their ability to appear as real or as much like an ostensibly straight cis school boy as possible.",
+    "sentence": "In the 1990 documentary film Paris Is Burning, trans women and gay men revel in their ability to “serve realness,” or “consolidate an impression of being” these genders better than their cis and straight counterparts, effectively achieving the look and mannerisms the category describes.",
+    "after": "Ball culture brings these implicit practices of choosing clothes, mannerisms, and so forth to the foreground while playing with the notion of performativity in a literal way as participants walk different categories and are judged on how successfully they execute the look."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 67–69",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the Ball scene—queer of color community, dance, and actual performance spaces—participants compete in categories like “school boy realness,” in which they are judged for their ability to appear as real or as much like an ostensibly straight cis school boy as possible.",
+    "after": "In the 1990 documentary film Paris Is Burning, trans women and gay men revel in their ability to “serve realness,” or “consolidate an impression of being” these genders better than their cis and straight counterparts, effectively achieving the look and mannerisms the category describes."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 67–69",
+    "kind": "p",
+    "before": "Realness is both theatrical and practical, essential for creative expression and potentially the ability to live one’s life without being subject to the extra violence that transphobia elicits.",
+    "sentence": "Realness both reifies and troubles the gender binary by adhering to a normative gender expression for safety even as it may be mocked and playfully chided in Ball categories.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 32,
+  "input": "e3696e659595",
+  "candidates": [
+   {
+    "loc": 36,
+    "page": "p. 21",
+    "kind": "p",
+    "before": "",
+    "sentence": "Reading a data model (as opposed to the specific data) means analyzing the categories into which the information has been organized.",
+    "after": "Even the small sample of structured data offered above suggests judgments have been made about what information to include and how to classify it."
+   },
+   {
+    "loc": 36,
+    "page": "p. 21",
+    "kind": "p",
+    "before": "This suggests that Jane Doe was born in the Eternal Rest cemetery, which would be unusual.",
+    "sentence": "Many categories, such as racial identity, gender, nationality, and religious or political affiliation, are specified according to categories that are biased.",
+    "after": "If an artist was born and raised in Spain, worked in France, but maintained Spanish citizenship, what is their nationality?"
+   },
+   {
+    "loc": 36,
+    "page": "p. 21",
+    "kind": "p",
+    "before": "The use of existing data allows analysis of records and materials in a format that lends itself to digital tools.",
+    "sentence": "For example, if we take an existing inventory of a museum collection, it will be well structured with categories of artist, location, date, medium, and dimensions.",
+    "after": "Research questions can be formulated on the basis of this data."
+   },
+   {
+    "loc": 37,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "How are the fields named and what does the classification system suggest?",
+    "sentence": "False binarisms and categories of racial or gendered identity may be reductive, simplistic, or abusive in certain circumstances.",
+    "after": "All of these questions are part of understanding the data model of existing data—and of making new data."
+   },
+   {
+    "loc": 91,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "Can format embody bias, or only content?",
+    "sentence": "The structure of data is always fraught with values and the very act of defining categories can create exclusionary results.",
+    "after": "Data collection is often shaped by biases and data can be constructed to support almost any position on the ideological and political spectrum."
+   },
+   {
+    "loc": 91,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "The breakup of the former Yugoslavia, for instance, created new independent states.",
+    "sentence": "Recognizing the historicity of categories and considering ways in which these details can be incorporated into the data structure is important for ethical reasons as well as for research purposes.",
+    "after": ""
+   },
+   {
+    "loc": 132,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "In a critical text focused on this issue, Laura Mandell posed the question of whether particular approaches to cultural analytics “find” or “make” their stereotypes (Mandell 2019).",
+    "sentence": "The fundamental recognition is that gender is not a simple Male/Female binary equated with biological categories.",
+    "after": "Mandell’s distinctions reinforce an approach in which gender is constructed—in literary work, language, lived experience, roles, and characterizations."
+   },
+   {
+    "loc": 133,
+    "page": "p. 118",
+    "kind": "p",
+    "before": "But her critical eye focused on work that assumed gendered identity as a given and then tracked it in literary texts.",
+    "sentence": "She noted that this resulted in the reaffirmation of gender stereotypes, since the model on which the text analysis was carried out took gender difference as an a priori category.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 16,
+  "input": "62bcc4d6e4c2",
+  "candidates": [
+   {
+    "loc": 26,
+    "page": "pp. 39–40",
+    "kind": "p",
+    "before": "The typical worker in an industrial textile factory was a woman who operated a highly specialized machine to perform one specific task within a rigidly organized division of labor.",
+    "sentence": "The new machines did not replace human workers; they created new forms of work that required (or at least enabled) the mobilization of new types and categories of labor.",
+    "after": "Whether it was the new machines that drove the search for new labor or the availability of new labor that encouraged the development of new machines is not relevant."
+   },
+   {
+    "loc": 27,
+    "page": "pp. 41–42",
+    "kind": "p",
+    "before": "As with many industrial processes, an increasing level of mechanization almost inevitably implied a corresponding reduction in skill, and workers with other options (which in this historical period generally meant men) would explore new opportunities.",
+    "sentence": "The typewriter was simultaneously a machine, a person, and a new job category.",
+    "after": ""
+   },
+   {
+    "loc": 74,
+    "page": "pp. 127–128",
+    "kind": "p",
+    "before": "Databases of missing and abused children held by NCMEC in the US disproportionately contain images of white children, and nonwhite children are statistically less likely to be reported as missing or have extensive case files of data.",
+    "sentence": "In examining how image-recognition software and content reviewers “see” abuse images, I consider how skin tone, as a category for detection, is made manifest as digital racial matter.",
+    "after": "In the course of my fieldwork, computer vision researchers often remark that they earnestly want to address the “problem” of underdetectability, or even undetectability, of darker skin tones, Black and East Asian features, and younger ages."
+   },
+   {
+    "loc": 78,
+    "page": "pp. 135–137",
+    "kind": "p",
+    "before": "Silicon Valley is the high-tech version of the American Dream, where anyone with talent can supposedly succeed, even if they start out in a garage.",
+    "sentence": "Yet its makeup does not reflect this—it is deeply skewed in terms of gender, race, class, sexuality, and many other categories, toward historically privileged groups.",
+    "after": ""
+   },
+   {
+    "loc": 81,
+    "page": "pp. 141–142",
+    "kind": "p",
+    "before": "For decades, the government fended off increasing pressure from workers to grant women civil servants equal pay.",
+    "sentence": "In 1955, an equal pay plan was slowly phased in over a period of several years, but only for job categories in which men and women held identical job titles, not jobs in which they did similar work.",
+    "after": "Since the Civil Service had been so highly segregated into men’s and women’s jobs, this meant that the majority of women working in government would not actually get equal pay."
+   },
+   {
+    "loc": 88,
+    "page": "pp. 153–154",
+    "kind": "p",
+    "before": "",
+    "sentence": "Historians of technology can point out the many ways in which status in high tech is arbitrary, how categories of prestige swiftly change, and how pay and rewards are often unmoored from the specific skills the industry purports to value.",
+    "after": "Yet, as a field, the history of computing has often taken for granted the ideal of meritocracy as an implicit structuring element in narratives of technological progress and the lessons drawn from those narratives."
+   },
+   {
+    "loc": 161,
+    "page": "pp. 288–289",
+    "kind": "p",
+    "before": "Despite whatever skills they learned in their training, their Muslim last names and their working-class addresses marked them as outside the charmed circle that they would need to be in to get white-collar jobs.",
+    "sentence": "As Sarkar shows, access to good-paying jobs in this case depends less on technical skills and more on identity categories.",
+    "after": "Sarkar also documents some of the playful uses the students made of their technology—for example, using Photoshop to place an image of a blonde woman from their official exercises into their own real-world contexts."
+   },
+   {
+    "loc": 161,
+    "page": "pp. 288–289",
+    "kind": "p",
+    "before": "This clever and playful use of computers resulted in chastisement from the instructors.",
+    "sentence": "Who gets to creatively play with computer technology depends less on creativity and more on identity categories.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 27,
+  "input": "efed96163f75",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "To do so, I suggest that we embrace, expand, and even complicate asset-based frameworks for doing community-based research in technical communication (Agboka 2013; Grabill 2007; Durá, Singhal, and Elias 2013; Haas 2012; Dorpenyo and Agboka 2018; Sun 2012; Simmons 2008; Walwema 2021) and that we apply these extended frameworks as we design multilingual experiences in, for, and with global communities (Cardinal 2019; Rose et al. 2017; Sackey 2020).",
+    "sentence": "As I demonstrate in this chapter, technical communicators are particularly well positioned to counter damage-based approaches to multilingual technical communication research, not simply by replacing “damages” with “assets” but rather by rejecting the notion that communication can be reduced to binaries and single-identity categories altogether.",
+    "after": "By leveraging technical communication’s long-standing emphasis on making information accessible across difference, there is an opportunity for this field to further embrace complexity in working toward justice within global communication practice."
+   },
+   {
+    "loc": 34,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "In this community, providing translations of medical information in standardized English or standardized Spanish is an ineffective strategy that will not reach community members who prefer using both Spanishes and Englishes to communicate in verbal and written forms.",
+    "sentence": "In collaboration with organizations in El Paso, Texas, that seek to provide access to healthcare for binational and bilingual community members in both El Paso and the neighboring city of Ciudad Juárez, Chihuahua, Mexico, this chapter provides insights into the complexities of designing multilingual experiences around technical medical documents and information that does not easily fall into a single linguistic category.",
+    "after": "The chapter introduces scenarios, conflicts, and possible strategies for designing language access experiences around issues of health and wellness in contemporary contexts where language categories are fluid and constantly evolving."
+   },
+   {
+    "loc": 34,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "In collaboration with organizations in El Paso, Texas, that seek to provide access to healthcare for binational and bilingual community members in both El Paso and the neighboring city of Ciudad Juárez, Chihuahua, Mexico, this chapter provides insights into the complexities of designing multilingual experiences around technical medical documents and information that does not easily fall into a single linguistic category.",
+    "sentence": "The chapter introduces scenarios, conflicts, and possible strategies for designing language access experiences around issues of health and wellness in contemporary contexts where language categories are fluid and constantly evolving.",
+    "after": ""
+   },
+   {
+    "loc": 42,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "Drawing on Sinfree Makoni and Alastair Pennycook (2006), Rosa and Flores (2017) explain that “in conjunction with the production of race, nation-state/colonial governmentality imposed ideologies of separate and bounded languages on colonized populations” (623).",
+    "sentence": "In other words, European colonization established binary categorizations among countries, nations, and languages—all as part of a broader project intended to maintain white supremacy.",
+    "after": "Colonization (i.e., colonizers) enslaved Black and Indigenous people and separated lands into nations, people into racial categories (where white European is superior and all Others are inferior), and languages into static, bounded practices that were either literate/legible or not—all based on a white European standard."
+   },
+   {
+    "loc": 42,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "In other words, European colonization established binary categorizations among countries, nations, and languages—all as part of a broader project intended to maintain white supremacy.",
+    "sentence": "Colonization (i.e., colonizers) enslaved Black and Indigenous people and separated lands into nations, people into racial categories (where white European is superior and all Others are inferior), and languages into static, bounded practices that were either literate/legible or not—all based on a white European standard.",
+    "after": "For example, “European colonizers described indigenous language practices as animal-like forms of ‘simple communication’ that were incapable of expressing the complex worldviews represented by European languages” (624)."
+   },
+   {
+    "loc": 48,
+    "page": "p. 32",
+    "kind": "p",
+    "before": "",
+    "sentence": "Intersectionality as a methodology for understanding innovation requires an attunement not only to how individual people design tools and technologies for their own purposes but also to the way collective groups of people leverage their experiences to design tools and technologies that are useful and accessible across social categories.",
+    "after": "Because language is best understood through intersectional lenses that account for interlocking relationships among social categories (e.g., race, ethnicity, gender), intersectionality can also help researchers understand the multiple intertwined layers encompassed in a multilingual experience."
+   },
+   {
+    "loc": 56,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "",
+    "sentence": "For example, recent work in disability studies has pointed to the importance of recognizing that (dis)ability is a fluid identity that extends far beyond “discrete, self-evident categories” such as “disabled” and “non-disabled” (Schalk 2018, 9).",
+    "after": "Recent work on what can be categorized as “invisible” or “undiagnosed” disabilities points researchers to the importance of expanding their attention to “non-normative” bodies in all their forms and iterations (Cedillo 2018; Price 2011)."
+   },
+   {
+    "loc": 56,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "For example, recent work in disability studies has pointed to the importance of recognizing that (dis)ability is a fluid identity that extends far beyond “discrete, self-evident categories” such as “disabled” and “non-disabled” (Schalk 2018, 9).",
+    "sentence": "Recent work on what can be categorized as “invisible” or “undiagnosed” disabilities points researchers to the importance of expanding their attention to “non-normative” bodies in all their forms and iterations (Cedillo 2018; Price 2011).",
+    "after": "This is particularly important when working within/in communities of color, for which trauma and racism permeate many other identity categories, including but not limited to race and language."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 31,
+  "input": "4f9c74c137b8",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "pp. 14–15",
+    "kind": "p",
+    "before": "For Wark, as for Marx, class is not categorical but a form of relation to a ruling class: “First, class means class antagonism.",
+    "sentence": "It’s not a category, it’s a relation” (Capital Is Dead, 98).",
+    "after": "This newly emerging subaltern class, which Wark theorized as far back as 2004, is the hacker class, comprised of information workers whose labor is unusual perhaps but still serves a ruling class:"
+   },
+   {
+    "loc": 68,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "In this sense, philosopher and dancer Erin Manning contends that “the body” is a misleading shorthand for a process of becoming and therefore needs to be understood as a “short-lived event” (16, 18) that cannot be seen across space and time but rather “is infinitely variable, not subject but verb” (29).",
+    "sentence": "The social aspects of this corporeal emergence appear in Miriam Posner’s example of a data model for race, which takes into account how categories of race are experienced and therefore the need to “start understanding markers like gender and race not as givens but as constructions that are actively created from time to time and place to place.”",
+    "after": "Dance scholar and social theorist Randy Martin brings together both the processual nature of physicality and the sociality of embodiment in his analysis of protest movements and what he calls the “social kinesthetic,” or a set of movement possibilities available within a specific sociohistorical situation."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 105–106",
+    "kind": "p",
+    "before": "",
+    "sentence": "For those who are interested in queer theory but remain skeptical of cultural analytics, it is counterproductive to dwell on CA’s use of categories (e.g., male/female) for the sake of computation.",
+    "after": "The conflation between the misuse of categories and categories per se is a reductive characterization of how most CA practitioners understand the role of categories in their work."
+   },
+   {
+    "loc": 73,
+    "page": "pp. 107–108",
+    "kind": "p",
+    "before": "Gender binarism limits our thinking about gender, for example, hence the need for deconstruction.",
+    "sentence": "One might recall Butler’s famous remark: “Since I was sixteen, being a lesbian is what I’ve been,” which demonstrates how the act of subversion, not the denouncement of category, is what frees our thinking (Butler, “Imitation and Gender Insubordination,” 311).",
+    "after": "In articulating her performative ontology, Butler does not so much eliminate the identity category of lesbian but rather problematizes its presumed stability: One cannot simply be lesbian; one can only be being lesbian."
+   },
+   {
+    "loc": 73,
+    "page": "pp. 107–108",
+    "kind": "p",
+    "before": "Many current machine-learning techniques involve classifying patterns on the basis of signals gleaned over the so-called learning process.",
+    "sentence": "Some classifications can be useful and enhance our understanding of the literary past or identity categories.",
+    "after": "Some, on the other hand, are the results of algorithmic bias and can have profound implications on individuals and groups, often discussed in terms of allocational harm and demographic bias (Hovy and Spruit; Buolamwini and Gebru; Noble)."
+   },
+   {
+    "loc": 73,
+    "page": "pp. 107–108",
+    "kind": "p",
+    "before": "",
+    "sentence": "Machine learning must be similarly understood—and interrogated—not because of its reliance on categorization per se but because of how those categories are used.",
+    "after": "Many current machine-learning techniques involve classifying patterns on the basis of signals gleaned over the so-called learning process."
+   },
+   {
+    "loc": 73,
+    "page": "pp. 107–108",
+    "kind": "p",
+    "before": "Mandell has argued with respect to cultural analytics that any stable classification of gender is fundamentally anti-Bulterian and is compatible with neither queer theory nor poststructuralism.",
+    "sentence": "The problem with such work, she argues, in addition to its uncritical embrace of stable gender categories, is that it stays within the comfortable confines of formalism that easily lends itself to large-scale analysis.",
+    "after": "Even in the projects that Mandell cites as exemplary, theoretical explorations are most often mentioned in the concluding discussions as “future work.”"
+   },
+   {
+    "loc": 171,
+    "page": "pp. 277–278",
+    "kind": "p",
+    "before": "Proving Kirschenbaum’s point, Laura McGrath has studied how aspiring authors pitch their work to literary agents on Twitter by using both qualitative and quantitative methods plus an archive of computationally collected tweets.",
+    "sentence": "Advocating for the broad potential of social media data in digital humanities research, Michael L. Black has suggested that it might help build a more interdisciplinary and global digital humanities community, drawing in “fields like new media studies, software studies, science and technology studies, and Internet history” while also offering an alternative to “major print data repositories, which continue to rely on cultural categories defined around national identities” (96).",
+    "after": "Whether or not this exciting vision is fulfilled, an increasing number of scholars and students will inevitably apply the technical methods of the digital humanities (e.g., computational text analysis, data mining, machine learning) to the social media sphere."
+   }
+  ]
+ }
+]

@@ -1,0 +1,148 @@
+[
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 14,
+  "input": "35c6dc34f0d9",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "Part Two explores contests for the power to determine stories about ‘nature’ and ‘experience’ — two of the most potent and ambiguous words in English.",
+    "sentence": "Part Three focuses on cyborg embodiment, the fate of various feminist concepts of gender, reappropriations of metaphors of vision for feminist ethical and epistemological purposes, and the immune system as a biopolitical map of the chief '' systems of ‘difference’ in a postmodern world.",
+    "after": "Throughout these diverse contents, this book treats constructions of nature as a crucial cultural process for people who need and hope to live in a world less riddled by the dominations of race, colonialism, class, gender, and sexuality."
+   },
+   {
+    "loc": 16,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "Monsters signify.",
+    "sentence": "Simians, Cyborgs, and Women interrogates the multi-faceted biopolitical, biotechnological, and feminist theoretical stories of the situated knowledges by and about these promising and non-innocent monsters.",
+    "after": "The power-differentiated and highly contested modes of being of these monsters may be signs of possible worlds — and they are surely signs of worlds for which we are responsible."
+   },
+   {
+    "loc": 16,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "Simians, Cyborgs, and Women collects essays written from 1978 through 1989, a period of complicated political, cultural, and epistemological foment within the many feminisms which have appeared in the last decades.",
+    "sentence": "Focusing on the biopolitical narratives of the sciences of monkeys and apes, the earliest essays were written from within US Eurocentric socialist-feminism.",
+    "after": "They treat the deep constitution of nature in modern biology as a system of production and reproduction, that is, as a labouring system, with all the ambiguities and dominations inherent in that metaphor."
+   },
+   {
+    "loc": 17,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "",
+    "sentence": "Finally, the mapping of the biopolitical body considered from the perspective of contemporary immune system discourse probes again for ways to refigure multiplicities outside the geometry of part/whole constraints.",
+    "after": "How can our ‘natural’ bodies be reimagined — and relived — in ways that '' transform the relations of same and different, self and other, inner and outer, recognition and misrecognition into guiding maps for inappropriate/d others?"
+   },
+   {
+    "loc": 24,
+    "page": "p. 10",
+    "kind": "p",
+    "before": "He betrayed the socialist possibilities of a dialectical theory of the body politic that neither worships nor rejects '' natural science, that refuses to make nature and its knowledge into a fetish.",
+    "sentence": "Firestone (1970), in the Dialectic of Sex, also faces the implications of Freud’s biopolitical theory of patriarchy and repression but tries to transform it to yield a feminist and socialist theory of liberation.",
+    "after": "She has been immensely important to feminists in this task."
+   },
+   {
+    "loc": 159,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "The concepts and technologies of ‘gender identity’ were crafted from several components: an instinctualist reading of Freud; the focus on sexual somatic-and psychopathology by the great nineteenth-century sexologists (Krafft- Ebing, Havelock Ellis) and their followers; the ongoing development of biochemical and physiological endocrinology from the 1920s; the psychobiology of sex differences growing out of comparative psychology; proliferating hypotheses of hormonal, chromosomal, and neural sexual dimorphism converging in the 1950s; and the first gender reassignment surgeries around 1960 (Linden, 1981).",
+    "sentence": "‘Second-wave’ feminist politics around ‘biological determinism’ vs. ‘social constructionism’ and the biopolitics of sex/gender differences occur within discursive fields pre-structured by the gender identity paradigm crystallized in the 1950s and 60s.",
+    "after": "The gender identity paradigm was a functionalist and essentializing version of Simone de Beauvoir’s 1940s insight that one is not born a woman."
+   },
+   {
+    "loc": 176,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "I am making an argument for the cyborg as a fiction mapping our social and bodily reality and as an imaginative resource suggesting some very fruitful couplings.",
+    "sentence": "Michael Foucault’s biopolitics is a flaccid premonition of cyborg politics, a very open field.",
+    "after": ""
+   },
+   {
+    "loc": 230,
+    "page": "p. 204",
+    "kind": "p",
+    "before": "My thesis is that the immune system is an elaborate icon for principal systems of symbolic and material ‘difference’ in late capitalism.",
+    "sentence": "Pre-eminently a twentieth-century object, the immune system is a map drawn to guide recognition and misrecognition of self and other in the dialectics of Western biopolitics.",
+    "after": "That is, the immune system is a plan for meaningful action to construct and maintain the boundaries for what may count as self and other in the crucial realms of the normal and the pathological."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 2,
+  "input": "99cbeb99242e",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "",
+    "sentence": "to survive in a bleak biopolitical landscape.",
+    "after": "This volume also emerges in an era when the tasks of intersectional feminisms,"
+   },
+   {
+    "loc": 225,
+    "page": "p. 197",
+    "kind": "p",
+    "before": "Weheliye takes issue with the notion that we are now “posthuman” and urges for a reconsideration of what it means to be human from the vantage point of the slave body, the colonized body, and I would add to this, the indigenous or marginalized body which for our particular context is more often than not the caste-ridden body.",
+    "sentence": "This sort of biopolitical racism is destined to embed and repeat itself time and again in the face of, as Nancy Fraser puts it, “a cruel twist of fate” that has led to “the movement for women’s liberation [that] has (to) become entangled in a dangerous liaison with neoliberal efforts to build a free-market society.”",
+    "after": "The “racial innocence,” to use Weheliye’s words, is uncomfortably present in our digital efforts at feminist activism that by and large exclude Dalit and other disadvantaged, marginalized bodies."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 1,
+  "input": "c67273b61131",
+  "candidates": [
+   {
+    "loc": 27,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "",
+    "sentence": "Michel Foucault’s discussions in Discipline and Punish (1977), as well as work by Anne Brunon-Ernst (2012b), who offers an important series of reflections on the relationship between utilitarianism and biopolitics.",
+    "after": "I explore use as a technique for shaping worlds as well as bodies."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 1,
+  "input": "4a19ebdbc9da",
+  "candidates": [
+   {
+    "loc": 65,
+    "page": "pp. 92–94",
+    "kind": "p",
+    "before": "",
+    "sentence": "As dance and performance scholars who also work in the field of digital humanities, we argue that DH needs ways of dealing with the complexity of bodies in data that neither overdetermine bodily possibility vis-à-vis demography and biopolitical, corporate, or government surveillance, nor position embodiment as a privileged site outside knowability and intelligibility.",
+    "after": "Looking to and from multiple sites of what we call “visceral data,” or data drawn from and reflective of bodily experience, we turn to examples of recent DH projects that point the way toward a more expansive approach in which bodies are articulated as experiential, in which practices of embodiment arrange knowledge, in which bodies stand as repositories of memory, in which they are recognized as in process, and in which physicality produces relationality."
+   }
+  ]
+ }
+]

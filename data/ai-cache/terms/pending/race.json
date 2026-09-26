@@ -1,0 +1,2072 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 3,
+  "input": "cefcee54ec2e",
+  "candidates": [
+   {
+    "loc": 66,
+    "page": "PDF p. 66",
+    "kind": "q",
+    "before": "",
+    "sentence": "The arbitrary signs of language and writing provide men with the means of ensuring the possession of their ideas and of communicating them to others in the manner of an inheritance, constantly augmented with the new discoveries of each age; and the human race, considered from its origin, appears to the eyes of the philosopher as an immense whole that itself possesses, like every individual, its childhood and its progress[91].",
+    "after": ""
+   },
+   {
+    "loc": 146,
+    "page": "PDF p. 146",
+    "kind": "p",
+    "before": "In the first place, this definition presupposes that languages are divided into broad groups which are discontinuous in relation to one another.",
+    "sentence": "General grammar excluded comparison in so far as it accepted the presence in any language whatever of two orders of continuity: one, a vertical continuity, permitted the arrangement of the most primitive of the allotment of roots, which, at the expense of a few transformations, bound each language to its initial articulations; the other, a horizontal one, enabled languages to communicate in the universality of representation: all languages had as their task the analysis, decomposition, and recomposition of representations, which, within fairly broad limits, were the same for the entire human race.",
+    "after": "So that it was possible to compare languages only in an indirect way, and by a triangular route, as it were; it was possible to analyse the way in which a particular language had treated and modified the common allocation of primitive roots; it was also possible to compare the way in which two languages patterned and linked together the same representations."
+   },
+   {
+    "loc": 154,
+    "page": "PDF p. 154",
+    "kind": "p",
+    "before": "Of course, it is possible to object that general grammar, natural history, and the analysis of wealth were all, in a sense, ways of recognizing the existence of man – but there is a distinction to be made.",
+    "sentence": "There is no doubt that the natural sciences dealt with man as with a species or a genus: the controversy about the problem of races in the eighteenth century testifies to that.",
+    "after": "Again, general grammar and economics made use of such notions as need and desire, or memory and imagination."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 91,
+  "input": "c05308ded4f2",
+  "candidates": [
+   {
+    "loc": 154,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "That fact itself was a complex problem, not a solution.",
+    "sentence": "Much of the most provocative feminist theory in the last twenty years has insisted on '' the ties of sex and race in ways that problematized the birth pangs of the sex/gender system in a discourse more focused on the interweaving of gender and class.”",
+    "after": "It has seemed very rare for feminist theory to hold race, sex/gender, and class analytically together — all the best intentions, hues of authors, and remarks in prefaces notwithstanding."
+   },
+   {
+    "loc": 155,
+    "page": "p. 129",
+    "kind": "p",
+    "before": "",
+    "sentence": "'' [The root of the English, French, and Spanish words is the Latin verb, generare, to beget, and the Latin stem gener-, race or kind.",
+    "after": "An obsolete English meaning of ‘to gender’ is ‘to copulate’ (Oxford English Dictionary)."
+   },
+   {
+    "loc": 156,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "The modern English and German words, ‘gender’ and ‘Geschlecht’, adhere closely to concepts of sex, sexuality, sexual difference, generation, engendering, and so on, while the French and Spanish seem not to carry those meanings as readily.",
+    "sentence": "Words close to ‘gender’ are implicated in concepts of kinship, race, biological taxonomy, language, and nationality.",
+    "after": "The substantive ‘Geschlecht’ carries the meanings of sex, stock, race, and family, while the adjectival form ‘geschlechtlich’ means in English translation both sexual and generic."
+   },
+   {
+    "loc": 172,
+    "page": "p. 146",
+    "kind": "p",
+    "before": "The positionings of African-American women are not the same as those of other women of colour; each condition of oppression requires specific analysis that refuses the separations but insists on the non-identities of race, “sex, and class.",
+    "sentence": "These matters make starkly clear why an adequate feminist theory of gender must simultaneously be a theory of racial difference in specific historical conditions of production and reproduction.",
+    "after": "They also make clear why a theory and practice of sisterhood cannot be grounded in shared positionings in a system of sexual difference and the cross-cultural '' structural antagonism between coherent categories called women and men."
+   },
+   {
+    "loc": 183,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "The rituals of poetry, music, and certain forms of academic practice have been pre-eminent.",
+    "sentence": "The politics of race and culture in the US women’s movements are intimately interwoven.",
+    "after": "The common achievement of King and Sandoval is learning how to craft a poetic/political unity without relying on a logic of appropriations incorporation, and taxonomic identification."
+   },
+   {
+    "loc": 186,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "socialist feminism — structure of class // wage labour // alienation labour, by analogy reproduction, by extension sex, by addition race radical feminism — structure of gender // sexual appropriation // objectification sex, by analogy labour, by extension reproduction, by addition race In another context, the French theorist, Julia Kristeva, claimed women appeared as a historical group after the Second World War, along with groups like youth.",
+    "sentence": "Her dates are doubtful; but we are now accustomed to remembering that as objects of knowledge and as historical actors, ‘race’ did not always exist, ‘class’ has a historical genesis, and ‘homosexuals’ are quite junior.",
+    "after": "It is no accident that the symbolic system of the family of man — and so the essence of woman — breaks up at the same moment that networks of connection among people on the planet are unprecedentedly multiple, pregnant, and complex."
+   },
+   {
+    "loc": 236,
+    "page": "p. 210",
+    "kind": "p",
+    "before": "The various contending biological bodies emerge at the intersection of biological research, writing, and publishing; medical and other business practices; cultural productions of all kinds, including available metaphors and narratives; and technology, such as the visualization tech- '' Reproduction Replication Individual Replicon Community ecology Ecosystem Racial chain of being United Nations humanism Colonialism Transnational capitalism Nature/culture Fields of difference Co-operation Communications enhancement Freud Lacan Sex Surrogacy Labour Robotics Mind Artificial intelligence Second World War Star Wars White capitalist patriarchy Informatics of domination It is impossible to see the entries in the right-hand column as ‘natural’, a realization that subverts naturalistic status for the left-hand column as well.",
+    "sentence": "From the eighteenth to the mid-twentieth centuries, the great historical constructions of gender, race, and class were embedded in the organically marked bodies of woman, the colonized or enslaved, and the worker.",
+    "after": "Those inhabiting these marked bodies have been symbolically other to the fictive rational self of universal, and so unmarked, species man, a coherent subject."
+   },
+   {
+    "loc": 236,
+    "page": "p. 210",
+    "kind": "p",
+    "before": "For example, the sexualized bodies of nineteenth-century middle-class medical advice literature in England and the United States, in their female form organized around the maternal function and the physical site of the uterus and in their male form ordered by the spermatic economy tied closely to the nervous system, were part of an elaborate discourse of organic economy.",
+    "sentence": "The narrative field in which these bodies moved generated accounts of rational citizenship, bourgeois family life, and prophylaxis against sexual pollution and inefficiency, such as prostitution, criminality, or race suicide.",
+    "after": "Some feminist politics argued for the full inclusion of women in the body politic on grounds of maternal functions in the domestic economy extended to a public world."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 15,
+  "input": "9d1539abbc6a",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "Identified with the rational mind, the liberal subject possessed a body but was not usually represented as being a body.",
+    "sentence": "Only because the body is not identified with the self is it possible to claim for the liberal subject its notorious universality, a claim that depends on erasing markers of bodily difference, including sex, race, and ethnicity.",
+    "after": "Gillian Brown, in her influential study of the relation between humanism and anorexia, shows that the anoretic’s struggle to “decrement” the body is possible precisely because the body is understood as an object for control and mastery rather than as an intrinsic part of the self."
+   },
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "Rather, “human” and “posthuman” coexist in shifting configurations that vary with historically specific contexts.",
+    "sentence": "Given these complexities, the past tense in the title—“became”—is intended both to offer the reader the pleasurable shock of a double take and to reference ironically apocalyptic visions such as Moravec’s prediction of a “postbiological” future for the human race.",
+    "after": ""
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "Already fascinated with epistemological questions that reveal how shaky our constructions of reality can be, Dick is drawn to cybernetic themes because he understands that cybernetics radically destabilizes the ontological foundations of what counts as human.",
+    "sentence": "The gender politics he writes into his novels illustrate the potent connections between cybernetics and contemporary understandings of race, gender, and sexuality.",
+    "after": ""
+   },
+   {
+    "loc": 41,
+    "page": "PDF p. 41",
+    "kind": "p",
+    "before": "More specifically, it represents a choice of one message from among a range of possible messages.",
+    "sentence": "Suppose there are thirty-two horses in a race, and we want to bet on Number 3.",
+    "after": "The bookie suspects the police have tapped his telephone, so he has arranged for his clients to use a code."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "For the more general situation, when the elementss1, s2, s3, ... sn are not equally likely, and p(s) is the probability that the element s will be chosen, This is the general formula for information communicated by a specific event, in our case the call to the bookie.",
+    "sentence": "Because electrical engineers must design circuits to handle a variety of messages, they are less interested in specific events than they are in the average amount of information from a source, for example, the average of all the different messages that a client might communicate about the horse race.",
+    "after": "This more complex case is represented by the following formula:"
+   },
+   {
+    "loc": 115,
+    "page": "PDF p. 115",
+    "kind": "p",
+    "before": "In my view, the only unconvincing part of Jameson’s argument is the supposition he uses to launch his analysis.",
+    "sentence": "He points out that Dr. Bloodmoney shows the event that the other mid-sixties novels presume but do not depict: the nuclear holocaust that destroys the environment and permanently changes the relation of the human race to Earth.",
+    "after": "He argues that the bomb demands a “flat yes or no,” thus defeating Dick’s aesthetic of creating an indeterminate reality and requiring a new technique."
+   },
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "Many commentators have criticized the universality of the Foucaultian body; this universality is a direct result of concentrating on discourse rather than embodiment.",
+    "sentence": "Fissuring along lines of class, gender, race, and privilege, embodied practices create heterogeneous spaces even when the discursive formations describing those practices seem uniformly dispersed throughout the society.",
+    "after": "The assimilation of embodiment into discourse has the additional disadvantage of making it difficult to understand exactly how certain practices spread through a society."
+   },
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "En route to this analysis, she makes an important observation: “Indeed, there is no body as such; there are only bodies—male or female, black, brown, white, large or small—and the gradations in between.",
+    "sentence": "Bodies can be represented or understood not as entities in themselves or simply on a linear continuum with its polar extremes occupied by male and female bodies ... but as a field, a two-dimensional continuum in which race (and possibly even class, caste, or religion) form body specifications” (p. 19).",
+    "after": "Although I am fully sympathetic with Grosz’s project, the Möbius strip model has limitations, as she recognizes (pp. 209—10)."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 43,
+  "input": "5de99c6412a4",
+  "candidates": [
+   {
+    "loc": 130,
+    "page": "p. 113",
+    "kind": "p",
+    "before": "Many gay and lesbian theorists reject psychoanalysis on the grounds that it assumes that heterosexuality established through the castration complex is the norm and that homosexuality is a deviation from it.",
+    "sentence": "And many black feminists reject psychoanalysis as a colonizing theory that simply erases race as an analytical and political category (see for example Iginla 1992).",
+    "after": "However, many feminists and theorists of homosexualities and ‘race’ continue to struggle with psychoanalysis for all its difficulties because they see it as the only productive theory of sexuality that can speak of its complexity, its disciplines and its disruptions."
+   },
+   {
+    "loc": 130,
+    "page": "p. 113",
+    "kind": "p",
+    "before": "And many black feminists reject psychoanalysis as a colonizing theory that simply erases race as an analytical and political category (see for example Iginla 1992).",
+    "sentence": "However, many feminists and theorists of homosexualities and ‘race’ continue to struggle with psychoanalysis for all its difficulties because they see it as the only productive theory of sexuality that can speak of its complexity, its disciplines and its disruptions.",
+    "after": "In one of the first sustained explorations of the usefulness of Freudian psychoanalysis for feminism, Juliet Mitchell (1974: xv), for example, insisted that ‘psychoanalysis is not a recommendation for a patriarchal society, but an analysis of one’."
+   },
+   {
+    "loc": 155,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Indeed, Gaines (1988) argues that racialized aspects of subjectivity are not just neglected by psychoanalysis, but actively erased from consideration, particularly in generalizing accounts of the so-called ‘male gaze’.",
+    "sentence": "Gaines suggests that the erasure of ‘race’ from psychoanalytic film theory is produced by the white middle-class norms of family relations that psychoanalysis implicitly assumes; and in her discussion of the film Mahogany starring Diana Ross, she shows that the only men whose gaze at Ross is sanctioned by the film are white.",
+    "after": "‘Race’, she insists, must therefore intersect with sexual difference in accounts of spectatorship, but Gaines (1988) sees psychoanalyisis as actively unhelpful in this regard."
+   },
+   {
+    "loc": 155,
+    "page": "p. 138",
+    "kind": "p",
+    "before": "Gaines suggests that the erasure of ‘race’ from psychoanalytic film theory is produced by the white middle-class norms of family relations that psychoanalysis implicitly assumes; and in her discussion of the film Mahogany starring Diana Ross, she shows that the only men whose gaze at Ross is sanctioned by the film are white.",
+    "sentence": "‘Race’, she insists, must therefore intersect with sexual difference in accounts of spectatorship, but Gaines (1988) sees psychoanalyisis as actively unhelpful in this regard.",
+    "after": "Lola Young (1996), among others, has nevertheless explored the possibility that psychoanalytic ideas may address issues of racialization as well as sexuality."
+   },
+   {
+    "loc": 171,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "",
+    "sentence": "Cowling shows how books like Physiognomy Made Easy (c.1880), Self- Instructor in Phrenology and Physiology (1886) and The Study ofthe Human Face (1868), among many others, showed faces and heads divided into types that were differentiated in terms of their morality, social position and notions of ‘race’.",
+    "after": "Aspects of heads and faces such as nose profile, forehead slope, chin profile, skull size and lip shape were all presented as clues to the moral standing, social class and ‘race’ of an individual, and these clues were used too in the work of cartoonists, novelists, scientists and artists."
+   },
+   {
+    "loc": 171,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "Cowling shows how books like Physiognomy Made Easy (c.1880), Self- Instructor in Phrenology and Physiology (1886) and The Study ofthe Human Face (1868), among many others, showed faces and heads divided into types that were differentiated in terms of their morality, social position and notions of ‘race’.",
+    "sentence": "Aspects of heads and faces such as nose profile, forehead slope, chin profile, skull size and lip shape were all presented as clues to the moral standing, social class and ‘race’ of an individual, and these clues were used too in the work of cartoonists, novelists, scientists and artists.",
+    "after": "An example of how these shared interpretations of heads and faces were commonplace is given by Cowling (1989: 64-5), and it is also a neat example of her own method."
+   },
+   {
+    "loc": 182,
+    "page": "p. 165",
+    "kind": "p",
+    "before": "Thus Jones (1989) ends his essay on the construction of the ‘cockney’ by noting that the cockney was always imagined as white, despite the constant presence of large black communities in the East End.",
+    "sentence": "The ‘cockney’ therefore erased racialized difference by making whiteness the taken-for-granted ‘race’ of the East Ender.",
+    "after": "As Jones (1989) also notes, however, this erasure did not last beyond the so-called race riots in Notting Hill in the west end of London in 1958."
+   },
+   {
+    "loc": 182,
+    "page": "p. 165",
+    "kind": "p",
+    "before": "The ‘cockney’ therefore erased racialized difference by making whiteness the taken-for-granted ‘race’ of the East Ender.",
+    "sentence": "As Jones (1989) also notes, however, this erasure did not last beyond the so-called race riots in Notting Hill in the west end of London in 1958.",
+    "after": "After that, ‘race’ could not be made invisible so easily, and the cockney fades as a meaningful cultural"
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 3,
+  "input": "db0f7c74994c",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "This is the reason why it is so crucial not to begin with a pronouncement of the sort: ‘Social aggregates are mainly made of (x).’",
+    "sentence": "It makes no difference if (x) stands for ‘individual agent’, ‘organizations’, ‘races’, ‘small bands’, ‘states’, ‘persons’, ‘members’, ‘will power’, ‘libido’, ‘biographies’, ‘fields’, etc. ANT simply doesn’t take as its job to stabilize the social on behalf of the people it studies; such a duty is to be left entirely to the ‘actors themselves’—a much maligned cliché which we will visit in due time.",
+    "after": ""
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "To shatter space and arrest time.",
+    "sentence": "To see what the human race can do.",
+    "after": "To amass the country’s retirement pension."
+   },
+   {
+    "loc": 132,
+    "page": "PDF p. 132",
+    "kind": "p",
+    "before": "s not the ‘Tortoise and the Hare’ fable rather like that of the ‘Ant and the Hare’ story?",
+    "sentence": "One character jumps, runs, leaps, slumbers, wakes up, and summersaults, so sure he is of winning the race and snatching the prize.",
+    "after": "But the other one never sleeps."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 497,
+  "input": "97ab471d9d8a",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "p. 14",
+    "kind": "p",
+    "before": "We are in a moment of continual and delicate negotiation between the positions of the object and the subject of digital visual culture.",
+    "sentence": "To repurpose Omi and Winant’s inﬂuential theory of racial formation, in this book I wish to posit a theory of digital racial formation, which would parse the ways that digital modes of cultural production and reception are complicit with this ongoing process.",
+    "after": "While scholars from a variety of disciplines have produced valuable work that traces the history of digital racial formation, in many cases predating the Internet and the World Wide Web, and have revealed the ways in which people of color have had extensive involvements with digital technologies, such as music sampling, telecommunications in the context of forms of urban labor like taxi driving, and complex forms of indigenous weaving, these have not been especially visual, and their emphasis on recovering suppressed histories of racialized involvements with technologies has purposely de-emphasized the Internet as a way of reframing the digital divide discourse that persistently envisioned users of color as backward and uninvolved in technology."
+   },
+   {
+    "loc": 42,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "This site gives users a quiz that asks them to determine whether photographs represent Korean, Japanese, or Chinese people, and then totes up their score.",
+    "sentence": "The site is a humorous one that nonetheless refers to a much more sinister practice of racial proﬁling based on physiognomical photographs and other images that come from anthropology, sociology, criminology, and the other social sciences.",
+    "after": "Racial proﬁling has a long and sordid history, especially when viewed within the context of colonial and postcolonial politics, politics that often compelled or allowed governmental functionaries to decide simply by looking whether or not an individual belonged to a speciﬁc race."
+   },
+   {
+    "loc": 68,
+    "page": "p. 57",
+    "kind": "p",
+    "before": "In a neoliberal gesture that informs the “color blindness” of these categories of categorization, the site’s designers omitted a “race” category, yet users have managed to work race, such as “AZN,” or Asian, into the discourse of nation because they have pressing reasons to do so.",
+    "sentence": "Pan-Asian identity relies on a notion of race or at least a partially shared geopolitics and orientation to American racial politics that challenges the idea of separate and conﬂicting Asian nations, with different and competing interests, priorities, and degrees of political power.",
+    "after": "On the other hand, the “nation” category does have the effect of including whiteness, a category that would generally be omitted from the “race” category even if it were offered."
+   },
+   {
+    "loc": 85,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "Unlike ethnicity, an aspect of identity that in the case of Navajo codetalkers could be considered a beneﬁt or commodity, race operates differently: it is a code that evokes a speciﬁc type of regulating response from the state that serves to make race “real.”",
+    "sentence": "The reiﬁcation of race as a social and quasi-empirical category by the state “hinge[s] on highly institutionalized and formalized juridical-legal racial codiﬁcations that operated as state law (which is precisely why ‘race’ and ‘ethnicity’ should not be conﬂated as interchangeable terms, a tendency quite common in the social sciences).”",
+    "after": ""
+   },
+   {
+    "loc": 86,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "This led to coalition building around the idea of a shared racial or “panethnic” identity that could temporarily or provisionally trump ethnicity or nationality.",
+    "sentence": "This created a paradox, in which panethnic “racial pride” came to possess a political valence that promised potential resistance to racism yet also tended to assume the notion of race as “real,” as both a visual and subvisual or genetic code shared among people who were otherwise quite different.",
+    "after": "The emphasis on racial or visible phenotypic difference as the primary deﬁning quality of all nonwhite people has always been an especially salient aspect of America’s wars with Asian nations and resulted in what was called in Vietnam the “mere gook rule,” by which any dead Vietnamese was counted as a dead enemy."
+   },
+   {
+    "loc": 86,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "The site requires the user to guess whether photographs of Asian faces are Chinese, Japanese, or Korean, and then calculates the user’s score to see if he or she can accurately tell the difference, which the majority of users cannot do.",
+    "sentence": "Thus the site works to deconstruct the idea of race as code, as well as the notion that this code operates visually.",
+    "after": "It emphasizes the ways in which the visual has always had primacy in our understandings of race; the mistaken-identity problem or the mere-gook rule that killed Vincent Chin was an example of the way that racialization occurs on the ﬂy and on the ground."
+   },
+   {
+    "loc": 86,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "In recent times, the Internet is becoming a site of increasingly visual rather than textual reading; the shift toward graphics and away from text-only environments online occasions the need for a new method of interpretation and analysis that will account for the role of visualization in the process of racialization.",
+    "sentence": "The Internet is an outstanding example of a racialized medium, in Omi’s sense: he explains that he and his frequent coauthor Howard Winant “employ the term racialization to signify the extension of racial meaning to a previously racially unclassiﬁed relationship, social practice, or group.”",
+    "after": "The Internet is certainly an infrastructure and a medium that seemed to many to be race free or color blind but is in fact imbued with racial politics as a result of the digital inequalities evident in its demographics, its political economy, and its content."
+   },
+   {
+    "loc": 108,
+    "page": "p. 97",
+    "kind": "p",
+    "before": "Haraway concurs with Williams that information and communications technologies are both a product and a symptom of an ideology that centers the body in a new way, a way that legitimates racial categories as real and useful under the sign of science.",
+    "sentence": "In her “20th Century Biological U.S. Kinship Categories” chart, Haraway writes that from the 1940s to the 1970s, “race is an illusory object constructed by bad science,” but from 1975 to the 1990s, “race reemerges in medical discourse on organ transplants and drug testing.”",
+    "after": "It is difﬁcult if not impossible for the poor, socially disenfranchised, and raced individual to own one’s own body in the best of times, but the terms have changed since the seventies; in a dataveillant society based in informational or late capitalism, ownership or at least partial control over one’s digital or databody is essential."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 18,
+  "input": "5043ff977fd6",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "Crises become ordinary, however, thwart change and make the present, as Lauren Berlant has put it, an impasse, an affectively intense cul-de-sac.",
+    "sentence": "Crises make the present a series of updates in which we race to stay close to the same and in which information spreads not like a powerful, overwhelming virus, but rather like a long, undead thin chain.",
+    "after": "Information is not Ebola, but instead the common cold."
+   },
+   {
+    "loc": 42,
+    "page": "p. 27",
+    "kind": "p",
+    "before": "Network maps mediate between the local and the global, the detail and the overview—their resolution figures the relationship between two different scales: the individual and the typical, the molecular and the molar.",
+    "sentence": "Even when these imagined networks coincide with the nation-state, they transform what is meant by ‘nation’ (and also ‘race’).",
+    "after": "Networks are based on YOUs value: a series of interconnecting and connected YOUs."
+   },
+   {
+    "loc": 55,
+    "page": "p. 40",
+    "kind": "p",
+    "before": "Networks end postmodernism.",
+    "sentence": "They counter pastiche with the zoom and the overview; they animate and locate ‘wherever’ architecture; they resolve multiculturalism through neighborhood predictors that bypass yet reinforce categories such as race, gender, sexuality; they replace postmodern relativism with data analytics.",
+    "after": "They do so by moving away from subjects and narratives toward actors and captured actions that they knit into a monstrously connected chimera."
+   },
+   {
+    "loc": 73,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "In other words, by finding seemingly unrelated correlations, Big Data can aggravate existing inequalities and lead to racist and discriminatory practices, justified through the use of seemingly innocuous proxies.",
+    "sentence": "Through these proxies, the allegedly “coarse” and “outdated” categories of race, class, sexuality, and gender are accounted for in unaccounted ways.",
+    "after": ""
+   },
+   {
+    "loc": 86,
+    "page": "p. 71",
+    "kind": "p",
+    "before": "You have no sovereignty where we gather.”",
+    "sentence": "We in cyberspace, he continues, are “creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth.",
+    "after": "We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.”"
+   },
+   {
+    "loc": 86,
+    "page": "p. 71",
+    "kind": "p",
+    "before": "We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity.”",
+    "sentence": "Blatantly disregarding then-current Internet demographics, corporations similarly touted the Internet as the great racial and global equalizer: MCI advertised the Internet as a race-free utopia; Cisco Systems similarly ran television advertisements featuring people from around the world, allegedly already online, who asked viewers, “Are you ready?",
+    "after": "We are.”"
+   },
+   {
+    "loc": 162,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "",
+    "sentence": "As mentioned previously, this linking of gender, race, and privacy has a long history within the United States, as Eden Osucha, Eva Cherniavsky, and Hortense Spillers among others have demonstrated.",
+    "after": "The right to privacy in the United States was defined in relation to a white femininity that was purportedly injured by the mass circulation images."
+   },
+   {
+    "loc": 162,
+    "page": "p. 147",
+    "kind": "p",
+    "before": "The right to privacy in the United States was defined in relation to a white femininity that was purportedly injured by the mass circulation images.",
+    "sentence": "This circulation was portrayed as intrinsically pornographic, as racialized and racializing.",
+    "after": "Osucha makes this point by comparing the case of Abigail M. Roberson, to which “The Right to Privacy” largely responded and which inspired New York State’s first privacy law, and that of Nancy Green, the woman who would become “Aunt Jemima.”"
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 11,
+  "input": "082b8be3d801",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "(I finally gave up scrolling without hitting results for anyone visibly Latino/a or a nonwhite/non-Asian female).",
+    "sentence": "Rhetorician Alexandria Lockett recalled this gendered, racialized, and problematic rhetoric of who is and isn’t a “programmer” in a provocative talk about code switching in language and technologies titled “I am not a computer programmer.”",
+    "after": "The recent rise of the “brogrammer,” associated with start-up culture only partially in jest, suggests a new kind of identity for programmers—as “bros,” or young, male, highly social and risk-taking fratboys."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "Their results are rarely fully automatic; they are adjusted by human readers, apparently to account for human bias or for political reasons.",
+    "sentence": "As Safiya Umoja Noble has pointed out, the reification of racial and gender bias in search results can be naturalized by algorithms, ostensibly absolving humans from blame because the “computer did it.”",
+    "after": "Hypersexualized images of black women are simply a reflection of society’s racism, not their own algorithms, Google may claim."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "The parallels I draw in this book between programming and writing tell us about a potential future for coding literacy, and they suggest responsibilities educators and communication specialists might have in shaping that future.",
+    "sentence": "As with the dispersal of textual literacy, coding literacy is not poised to be dispersed evenly across populations along lines of race, age, class, or gender.",
+    "after": "When literacy became widespread and when institutions began to be built on the assumption that many citizens were literate, some people began to be marked as illiterate."
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "Public attention about technology in the 1990s was focused on the digital divide of access to the hardware of computers rather than programming them.",
+    "sentence": "Adam Banks signals this moment in his book Race, Rhetoric, and Technology when he breaks down the concept of access at work in the 1990s, particularly for poor and minority groups.",
+    "after": "In reports such as the U.S. government’s “Falling through the Net” series, access was imagined as strictly material and focused on the use of computers rather than any transformative activities such as programming."
+   },
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "Most distinctively in this call, young women in Black Girls Code can “become masters of their technological worlds.”",
+    "sentence": "Black Girls Code redirects the masculine and racialized resonances of “wizards” and “masters” toward young black women.",
+    "after": "As with #YesWeCode, which is geared toward both men and women in groups underrepresented in the tech industry, there’s a sense of flipping a dominant script about coding."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "However, this idealistic democratic rhetoric came at some cost: pluralistic, unschooled literacies from the eighteenth century, especially those that supported workers’ rights in Britain, were homogenized into a more standardized and hierarchized schooled literacy.",
+    "sentence": "Stevens argues that as the voting qualifications of property, race, and sex were eventually abolished in the United States, education came to bear more weight in the definition of rational citizenship.",
+    "after": "Literacy thus became a qualification for voting as states implemented tests to exclude illiterates—an exclusion that, not coincidentally, fell disproportionately on people who were poor, African American, or foreign-born."
+   },
+   {
+    "loc": 129,
+    "page": "PDF p. 129",
+    "kind": "p",
+    "before": "The necessity of literacy for civic participation—one of the main justifications for national literacy campaigns (see chapter 1)—began to manifest itself in voting procedures, legal proceedings, and interpretations of contract law in the nineteenth century.",
+    "sentence": "As other voting requirements were gradually stripped away—location of birth, property ownership, race, and later sex —literacy and education began to stand in for those qualities in defining what it meant to be an American citizen.",
+    "after": "Until the Voting Rights Act of 1965, literacy tests were used to disenfranchise many African Americans, especially in the South."
+   },
+   {
+    "loc": 129,
+    "page": "PDF p. 129",
+    "kind": "p",
+    "before": "These tests were often administered prejudicially and so were not tests of reading per se.",
+    "sentence": "However, they reflect the way that the civic value of literacy established in the nineteenth century could provide cover for racial disenfranchisement.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 218,
+  "input": "bf54edb098f7",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "",
+    "sentence": "This book is about the power of algorithms in the age of neoliberalism and the ways those digital decisions reinforce oppressive social relationships and enact new modes of racial profiling, which I have termed technological redlining.",
+    "after": "By making visible the ways that capital, race, and gender are factors in creating unequal conditions, I am bringing light to various forms of technological redlining that are on the rise."
+   },
+   {
+    "loc": 27,
+    "page": "PDF p. 27",
+    "kind": "p",
+    "before": "The impetus for my work comes from theorizing Internet search results from a Black feminist perspective; that is, I ask questions about the structure and results of web searches from the standpoint of a Black woman—a standpoint that drives me to ask different questions than have been previously posed about how Google Search works.",
+    "sentence": "This study builds on previous research that looks at the ways in which racialization is a salient factor in various engagements with digital technology represented in video games, websites, virtual worlds, and digital media platforms.",
+    "after": "A Black feminist perspective offers an opportunity to ask questions about the quality and content of racial hierarchies and stereotyping that appear in results from commercial search engines such as Google’s; it contextualizes them by decentering the dominant lenses through which results about Black women and girls are interpreted."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "It is this system of affording more or less privileges to ethnic groups, including White Americans as the penultimate beneficiaries of power and privilege, that constitutes race.",
+    "sentence": "Ethnic groups are then “racialized” in the hierarchical system and vie for power within it.",
+    "after": "Treitler explains the social construction of race and the processes of racialization this"
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "Racial identities are obtained not because one is unaware of the choice of ethnic labels with which to call oneself, but because one is not allowed to be without a race in a racialized society.",
+    "sentence": "Race is a sociocultural hierarchy, and racial categories are social spaces, or positions, that are carved out of that racial hierarchy.",
+    "after": "The study of racial categories is important, because categories change labels and meanings, and we may monitor changes in the racial hierarchy by monitoring changes in the meaning and manifestations of racial categories."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "Understanding technological racialization as a particular form of algorithmic oppression allows us to use it as an important framework in which to critique the discourse of the Internet as a democratic landscape and to deploy alternative thinking about the practices instantiated within commercial web search.",
+    "after": "The sociologist and media studies scholar Jessie Daniels makes a similar argument in offering a key critique of those scholars who use racial formation theory as an organizing principle for thinking about race on the web, arguing that, instead, it would be more potent and historically accurate to think about White supremacy as the dominant lens and structure through which sense-making of race online can occur."
+   },
+   {
+    "loc": 91,
+    "page": "PDF p. 91",
+    "kind": "p",
+    "before": "",
+    "sentence": "If the information-retrieval priority of making access to recorded information efficient and expedient is the guiding process in the development of technical systems, from databases to web search engines, then what are the distinguishing data markers that define information about racialized people and women in the United States?",
+    "after": "What have primarily been missing from the field of information science, and to a lesser degree library science, are the issues of representation that are most often researched in the fields of African American studies, gender studies, communications, and increasingly digital media studies."
+   },
+   {
+    "loc": 93,
+    "page": "PDF p. 93",
+    "kind": "p",
+    "before": "We have to ask ourselves what it means in practical terms to search for concepts about gender, race, and ethnicity only to find information lacking or misrepresentative, whether in the library database or on the open web.",
+    "sentence": "Olson’s notion that cultural metaphor is the basis of the construction of classification systems means these cultural metaphors are profoundly represented in the notions of the “Jewish Question” or the “Race Question.”",
+    "after": "These subject headings suggest both an answer and a point of view from which the problems of Jews and race are presupposed."
+   },
+   {
+    "loc": 93,
+    "page": "PDF p. 93",
+    "kind": "p",
+    "before": "These subject headings suggest both an answer and a point of view from which the problems of Jews and race are presupposed.",
+    "sentence": "Simply put, to phrase “Jewish” or “race” as a question or problem to be answered suggests a point of view on the part of the cataloger that is quite different from how a Jewish person or a racialized person might frame themselves.",
+    "after": "It is here that the context and point of view of library and information science professionals who are responsible for framing people and communities as “problems” and “questions” is important."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 51,
+  "input": "ded1f75c63a0",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "pp. 19–21",
+    "kind": "p",
+    "before": "Residents described as Black, Negro, colored, mulatto, Chinese, and Mexican are common in poorhouse logbooks from Connecticut to California.",
+    "sentence": "The racial and ethnic integration of the poorhouse was a sore spot for white, native-born elites.",
+    "after": "As historian Michael Katz reports, “In 1855, a New York critic complained that the ‘poor of all classes and colors, all ages and habits, partake of a common fare, a common table, and a common dormitory.’”"
+   },
+   {
+    "loc": 13,
+    "page": "pp. 22–24",
+    "kind": "p",
+    "before": "Eugenics was an important component of the wave of white supremacy that swept the nation in the 1880s.",
+    "sentence": "Jim Crow rules were institutionalized and restrictive immigration laws were passed to protect the white race from “outside threats.”",
+    "after": "Eugenics was intended to cleanse the race from within by shining a clinical spotlight on what Dr. Albert Priddy called the “shiftless, ignorant, and worthless class of anti-social whites of the South.”"
+   },
+   {
+    "loc": 13,
+    "page": "pp. 22–24",
+    "kind": "p",
+    "before": "Jim Crow rules were institutionalized and restrictive immigration laws were passed to protect the white race from “outside threats.”",
+    "sentence": "Eugenics was intended to cleanse the race from within by shining a clinical spotlight on what Dr. Albert Priddy called the “shiftless, ignorant, and worthless class of anti-social whites of the South.”",
+    "after": "Both eugenics and scientific charity amassed hundreds of thousands of family case studies in what George Buzelle, general secretary of the Brooklyn Bureau of Charities, characterized as an effort to “arrange all the human family according to intellect, development, merit, and demerit, each with a label ready for indexing and filing away.”"
+   },
+   {
+    "loc": 35,
+    "page": "pp. 78–80",
+    "kind": "p",
+    "before": "",
+    "sentence": "The majority of public assistance recipients in Indiana are white, but race still played a major role in the automation experiment.",
+    "after": "Governor Mitch Daniels played on rural-urban tensions and white racial anxiety when he persistently framed problems in terms of dependency, cheating, criminality, and collusion despite evidence that only a small proportion of those eligible for public assistance benefits actually claimed them and that fraud was not a particularly severe problem at FSSA."
+   },
+   {
+    "loc": 35,
+    "page": "pp. 78–80",
+    "kind": "p",
+    "before": "The majority of public assistance recipients in Indiana are white, but race still played a major role in the automation experiment.",
+    "sentence": "Governor Mitch Daniels played on rural-urban tensions and white racial anxiety when he persistently framed problems in terms of dependency, cheating, criminality, and collusion despite evidence that only a small proportion of those eligible for public assistance benefits actually claimed them and that fraud was not a particularly severe problem at FSSA.",
+    "after": "The fraud case he held up as indicative of the worst problems in the system—the Greater Faith Missionary Baptist scam—involved Black defendants."
+   },
+   {
+    "loc": 39,
+    "page": "pp. 87–88",
+    "kind": "p",
+    "before": "",
+    "sentence": "The battle against public accommodations had far-reaching impacts for Los Angeles, constricting available housing and deepening racial segregation.",
+    "after": "Demolition occurred primarily in neighborhoods that were home to large populations of people of color and poor whites: Bunker Hill had a sizable Native American population and the Chavez Ravine, the proposed home for Elysian Park Heights, was majority Chicano."
+   },
+   {
+    "loc": 80,
+    "page": "pp. 189–191",
+    "kind": "p",
+    "before": "Both public and private lenders then refused loans in these areas.",
+    "sentence": "Real estate redlining was based in blatant racial hostility and greed.",
+    "after": "As Douglas S. Massey and Nancy A. Denton explain in their 1993 classic American Apartheid: Segregation and the Making of the Underclass, racial hostility was exploited through practices like blockbusting, where realtors would select working-class white neighborhoods for racial turnover, acquire a few homes, and quietly sell them to Black families."
+   },
+   {
+    "loc": 80,
+    "page": "pp. 189–191",
+    "kind": "p",
+    "before": "They would then go door-to-door stoking racist fears of an “invasion” and offering to purchase white homes at cut-rate prices.",
+    "sentence": "Redlining had such a profound impact on the shape of our cities that zip codes still serve as remarkably effective proxies for race.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 38,
+  "input": "b91df4cf2b7f",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "As the Puerto Rico Mapathon demonstrates, the digital cultural record has consequences for people’s lives.",
+    "sentence": "For events like the mapathon, intervening in the digital cultural record is an acute matter of life or death in the Anthropocene, where the stakes of race and colonialism play out in the medium of environmental disaster, on the bodies of Puerto Ricans— United States citizens cut off from access to food, water, shelter, and health care.",
+    "after": "And yet the digital cultural record, in its gaps, omissions, and rehearsal of colonial dynamics from the analog cultural record, also has a chronic problem of epistemic violence, which contravenes cultural survival for communities whose languages are underrepresented, histories are suppressed, and stories are untold."
+   },
+   {
+    "loc": 21,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "Another significant influence on postcolonial digital humanities is decolonial computing, which calls for renewed attention to critical race theory within technocultures.",
+    "after": "Syed Mustafa Ali grounds decolonial computing in the critiques of social contract theory raised by Charles Mills and in the decolonial theories of the Global South articulated by Walter Mignolo, among others."
+   },
+   {
+    "loc": 22,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "A decolonial approach to computing, Ali proposes, works from the peripheries rather than the European center and underscores delinking and the border, with emphasis on embodiment and situated knowledge within the Global South.",
+    "sentence": "In the context of digital humanities, decolonial computing calls attention to relationships between race, colonialism, and neocolonialism, which are shaping the digital cultural record.",
+    "after": "It further emphasizes the importance of South-​to-​South connections, which are integral to developing practices that are necessary to reimagine the digital cultural record from frameworks beyond those of the Global North."
+   },
+   {
+    "loc": 32,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "The digital cultural record is further complicated by the fact that the politics of digital knowledge production are not neutral either.",
+    "sentence": "The effects of compounding oppressions along lines of race, class, gender, sexuality, nation, and language on the digital cultural record, particularly in relation to colonialism, are in need of dire attention.",
+    "after": "These issues have merited note within digital humanities scholarship."
+   },
+   {
+    "loc": 32,
+    "page": "p. 23",
+    "kind": "p",
+    "before": "For example, Tara McPherson has asked, “Why are the digital humanities so white?”",
+    "sentence": "She argues that the modularity subtending both the Unix operating system and racism since the mid-​twentieth century reveals the challenge of addressing the connections between technology and racial politics in digital humanities.",
+    "after": "Amy Earhart asks, “Can information be unfettered?” suggesting that digital textual editing of writing by women, African Americans, and queer writers is an important intervention in the residual canonicity that fetters the digital cultural record."
+   },
+   {
+    "loc": 33,
+    "page": "p. 24",
+    "kind": "p",
+    "before": "These axes of identity and the variable levels of privilege and oppression they confer shape scholarship, theory, method, and project design within digital humanities.",
+    "sentence": "Initiatives like Chicana por mi Raza, an archive of oral histories, ephemera, and out-​of-​print publications from Chicanx activist movements, explicitly respond to absences in the digital cultural record at the intersections of gender, race and ethnicity, and colonialism.",
+    "after": "This grassroots digitization project, created by Maria Cotera and Linda Garcia Merchant in 2009, takes advantage of digital media to collect decentralized archival materials on Chicanx activism between 1960 and 1990, which are often held among the personal effects of participants."
+   },
+   {
+    "loc": 136,
+    "page": "p. 127",
+    "kind": "p",
+    "before": "There are a wide array of instances where universal notions of humanity are invoked and implied in computing.",
+    "sentence": "Syed Mustafa Ali’s work argues that humanoid robots produce and obscure racial concerns in purpose and form, questioning whether robot faces are being conceived as race-​ less, obscuring Eurocentrism with false universalism.",
+    "after": "Ali’s concerns are evident in the rhetoric surrounding the design of Sophia, a product of Hanson Robotics."
+   },
+   {
+    "loc": 137,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "He credits the humanoid face installed on Sophia with facilitating connections with humans, making the case that a robot needs a “beautiful and expressive” face to do so.",
+    "sentence": "Modeled after Hanson’s wife and Audrey Hepburn, Sophia raises not only the issue of the unacknowledged influence of race in the production of robots that Ali identifies, but also the question of the aesthetics governing “beauty.”",
+    "after": "The significant market for skin-​whitening products and plastic surgery in Asian countries is one example of the way that whiteness has come to signal the global standard for beauty, a legacy of both white supremacy and colonialism."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 164,
+  "input": "4181916a136a",
+  "candidates": [
+   {
+    "loc": 71,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "Syed Mustafa Ali’s work provides an example of how to uncover them and interrogate their politics.",
+    "sentence": "He raises the issue of robotics in this regard, making the case that humanoid robots produce and obscure racial concerns in purpose and form.",
+    "after": "Ali questions whether robot faces are being conceived as raceless, obscuring Eurocentrism with false universalism."
+   },
+   {
+    "loc": 72,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "He credits the humanoid face installed on Sophia with facilitating connections with humans, making the case that a robot needs a “beautiful and expressive” face to do so.",
+    "sentence": "Modeled after Hanson’s wife and Audrey Hepburn, Sophia raises not only the issue of the unacknowledged influence of race in the production of robots that Ali identifies but also the question of aesthetics governing “beauty.”",
+    "after": "The significant market for skin-whitening products and plastic surgery in Asian countries is one example of the way that whiteness has come to signal the global standard for beauty, a legacy of white supremacy and colonialism."
+   },
+   {
+    "loc": 107,
+    "page": "p. 79",
+    "kind": "p",
+    "before": "Sometimes, the stars align and the easy solution is the best one for the question.",
+    "sentence": "If someone were researching immediate reactions of racial bias in the West, analyzing skin tone may get us something useful.",
+    "after": "In this case, the research focus is not someone’s racial identity, but someone’s race as immediately perceived by others, which would likely align with skin tone."
+   },
+   {
+    "loc": 177,
+    "page": "p. 149",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although analogies are dangerous, as they invite politically divisive comparisons of incommensurate oppressions, there are important insights offered by critical race studies that we would like to introduce here to help guide our discussion before we turn to the worrying trend of trans* exclusion that has accompanied the revival of radical feminist politics.",
+    "after": "There has been backlash against the creation of separate space by oppressed people for oppressed people, wrongly likening these separate spaces to institutionally and legally enforced racial segregation or “old boys clubs.”"
+   },
+   {
+    "loc": 177,
+    "page": "p. 149",
+    "kind": "p",
+    "before": "Although analogies are dangerous, as they invite politically divisive comparisons of incommensurate oppressions, there are important insights offered by critical race studies that we would like to introduce here to help guide our discussion before we turn to the worrying trend of trans* exclusion that has accompanied the revival of radical feminist politics.",
+    "sentence": "There has been backlash against the creation of separate space by oppressed people for oppressed people, wrongly likening these separate spaces to institutionally and legally enforced racial segregation or “old boys clubs.”",
+    "after": "This analogy is felonious, since the broader ethos that supported racial segregation and the exclusion of women, racism and sexism was designed to define people of color and women at the expense of people of color and women."
+   },
+   {
+    "loc": 322,
+    "page": "p. 294",
+    "kind": "p",
+    "before": "",
+    "sentence": "Moya Bailey, in “All the Digital Humanists Are White, All the Nerds Are Men, but Some of Us Are Brave,” emphasizes the need for social change, and the need to theorize the field and its technologies in terms of race and other forms of diversity.",
+    "after": "Unlike Ramsay, she is not committed to a specific definition of “digital humanities” which can in turn be used to define the expertise and concerns appropriate to that field; instead, she is committed to a definition by inclusion, saying in effect that the field must be defined so as to include all of the activities, by all of the diverse peoples undertaking them, that bear on questions of cultural digitality."
+   },
+   {
+    "loc": 328,
+    "page": "p. 300",
+    "kind": "p",
+    "before": "And it is surely also interesting that COBOL was also commissioned as a standard language (to eliminate the unmanageable diversity of machine-specific languages), reflecting the fact that computers were becoming numerous enough that portability of code could be useful.",
+    "sentence": "That portability signals a set of design concerns that a few years later motivate the very modularity that Tara McPherson marks as part of the deep logic of racial separation she sees at the heart of Unix.",
+    "after": ""
+   },
+   {
+    "loc": 360,
+    "page": "p. 332",
+    "kind": "p",
+    "before": "In later work, Essed and David Theo Goldberg focused on how the normativity of cultural cloning excludes “deviants”: “The notion of cultural cloning, initially used to problematize the systemic reproduction of white, masculine homogeneity in high status positions, brings into focus another side of exclusion.",
+    "sentence": "Yet, same-kind preference reproducing white (Euro) masculine privileges in terms of race, ethnicity, gender, or profession is not countered with the same force of indignation as we find in the case of the suggestion of biological cloning” (1068).",
+    "after": "Their denunciation of the complicity of a system that fails to react against this cultural cloning is paired with their statement that “the (culturally contextualized) privileging of white men and the social delimitation and denigration of women and people of colour in the world have not been erased."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 267,
+  "input": "adf4dfb40779",
+  "candidates": [
+   {
+    "loc": 29,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "In this way, this book challenges us to question not only the technologies we are sold, but also the ones we manufacture ourselves.",
+    "sentence": "For most of US history, White Americans have used race as a tool to denigrate, endanger, and exploit non-White people - openly, explicitly, and without shying away from the deadly demarcations that racial imagination brings to life.",
+    "after": "And, while overt White supremacy is proudly reasserting itself with the election of Donald Trump in 2016, much of this is newly cloaked in the language of White victimization and false equivalency."
+   },
+   {
+    "loc": 55,
+    "page": "p. 43",
+    "kind": "p",
+    "before": "For example, as already mentioned, Jessie Daniels (2009) investigates the proliferation of White nationalist ideology and communities online, unsettling any techno-utopian hopes for a colorblind approach to social life in a digital era.",
+    "sentence": "And, as Alondra Nelson shows, both the digital divide and the raceless utopia framings posit race as a liability, as “either negligible or evidence of negligence,” so that “racial identity, and blackness in particular, is the anti-avatar of digital life.”°4 It is also worth noting how, in both conceptions, technology is imagined as impacting racial divisions - magnifying or obliterating them — but racial ideologies do not seem to shape the design of technology.",
+    "after": ""
+   },
+   {
+    "loc": 111,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "The writers seem to be telling us that more, not less, sensitivity is the solution to the technological and institutional dilemma of coded inequity.",
+    "sentence": "The episode also manages to illustrate how indifference to Blackness can be profitable within the logic of racial capitalism until the social costs become too high to maintain. ”",
+    "after": ""
+   },
+   {
+    "loc": 111,
+    "page": "p. 99",
+    "kind": "p",
+    "before": "",
+    "sentence": "Photography was developed as a tool to capture visually and classify human difference; it also helped to construct and solidify existing technologies, namely the ideas of race and assertions of empire, which required visual evidence of stratified difference.'!",
+    "after": "Unlike older school images, such as the paintings and engravings of exotic “others” that circulated widely before the Victorian period, photographs held an allure of objectivity, a sense that such images “were free from the bias of human imagination ... a neutral reflection of the world.” !2 Yet such reflections were fabricated according to the demands and desires of those who exercised power and control over others."
+   },
+   {
+    "loc": 112,
+    "page": "p. 100",
+    "kind": "p",
+    "before": "Some photographs were staged, of course, to reflect White supremacist desires and anxieties.",
+    "sentence": "But race as a means of sorting people into groups on the basis of their presumed inferiority and superiority was staged in and of itself, long before becoming the object of photography.",
+    "after": ""
+   },
+   {
+    "loc": 166,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "Medical historian Lundy Braun’s Breathing Race into the Machine offers a poignant illustration of the duplicity of fixity, wherein race is used simultaneously to help and harm Black workers.",
+    "sentence": "She examines how “cultural notions of race became embedded in the architecture of an apparently ordinary instrument,” the spirometer (a device built to assess lung function), and reviews the widespread implications of this process — from research to clinics to medical school training to insurance claims.°!",
+    "after": "In 1999 the world’s largest insulation manufacturer was busily trying to limit disability claims in a class-action lawsuit brought by 15,000 asbestos workers by drawing upon the long-standing belief among pulmonologists that racial groups differed in the capacity and the function of their lungs."
+   },
+   {
+    "loc": 166,
+    "page": "p. 154",
+    "kind": "p",
+    "before": "",
+    "sentence": "Drawing upon the widely accepted practice of “race correction . . . the idea of racial difference in lung capacity” — so normalized that there is a button for it on the spirometer that produces different measurements of normalcy by race — the company made it more difficult for Black workers to qualify for workers’ compensation.",
+    "after": "Black workers were required to demonstrate worse lung function and more severe clinical symptoms than White workers owing to this feature of the spirometer, whose developer, Dr. John Hutchinson, was employed by insurance companies in the mid-1800s to minimize payouts."
+   },
+   {
+    "loc": 200,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "(Recall the assumption of guilt for those who refused DNA collection by the United Kingdom’s Human Provenance Pilot Project, discussed in chapter 3.)",
+    "sentence": "In this way, data portability, like other forms of movement, is already delimited by race as a technology that constricts one’s ability to move freely.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 121,
+  "input": "5ccf0c76a443",
+  "candidates": [
+   {
+    "loc": 48,
+    "page": "p. 21",
+    "kind": "p",
+    "before": "One explanation for the persistence with which marginalization maintains its stronghold is interest convergence theory.",
+    "sentence": "Introduced by critical race theorist Derrick Bell, interest convergence theory posits that progress against marginalization occurs when such progress serves dominant interests (Delgado & Stefancic, 2012, pp. 22–24).",
+    "after": "Initial research by Bell and later archival work by Mary Dudziak supported this theory by investigating the national and international contexts surrounding the landmark ruling on the U.S. court case Brown v."
+   },
+   {
+    "loc": 82,
+    "page": "p. 55",
+    "kind": "p",
+    "before": "",
+    "sentence": "I think we need to be more reflective, more critical and more explicit about our concepts of community. […] An African-American woman might find it much easier to work together with a Chicana than with another Black woman whose politics of race, class, gender, and sexuality would place her in an entirely different community.",
+    "after": ""
+   },
+   {
+    "loc": 97,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "In the context of professional roles, performing racial identity poses challenges for employees of color not faced by white employees, particularly in institutions claiming a “colorblind” organizational culture (Carbado & Gulati, 2000).",
+    "after": "Colorblind cultures place the burden on people of color to perform their racial identity in a way that makes white people comfortable, that is, able to ignore race except in clear-cut cases of hatred and intentional harm, which can be condemned by “good” white people."
+   },
+   {
+    "loc": 97,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "",
+    "sentence": "The pressure to perform racial identity in a way that makes dominant groups comfortable illustrates the reach of respectability politics (see Chapter 7).",
+    "after": "Respectability politics condemns people who do not conform to the white aesthetic and mythical norms considered to be “proper” and “respectable.”"
+   },
+   {
+    "loc": 97,
+    "page": "p. 70",
+    "kind": "p",
+    "before": "Respectability politics condemns people who do not conform to the white aesthetic and mythical norms considered to be “proper” and “respectable.”",
+    "sentence": "Efforts to conform to these molds of respectability may include hiding or downplaying aspects of one’s identity (e.g., choosing not to listen to rap music at work) and/or self-censoring (e.g., deciding not to explain why you turn down colleagues’ invitation to a movie that reinscribes racial stereotypes) (Carbado & Gulati, 2000).",
+    "after": "But often respectability politics is a double-edged sword, with negative outcomes for attempting to conform to the white aesthetic and for refusing to do so."
+   },
+   {
+    "loc": 119,
+    "page": "p. 92",
+    "kind": "p",
+    "before": "",
+    "sentence": "In terms of race, one potential difference, whiteness, is not marked and is primarily “underexamined” (Haas, 2012, p. 284).",
+    "after": "This is true for other sociocultural identity markers that are considered to be the “norm”: Male, heterosexual, able-bodied."
+   },
+   {
+    "loc": 125,
+    "page": "p. 98",
+    "kind": "p",
+    "before": "The lived experience of the individual experiencing racism is quite directly called out as incorrect, inaccurate, a misunderstanding.",
+    "sentence": "The phrase “race card” is a metaphor that “attempts to discredit any racialized suffering that can be turned to advantage now that colorblindness is supposedly in effect” (Williams, 2002, p. 4).",
+    "after": "By deploying this term, people reveal their underlying assumption that race does not matter and demands further evidence of wrongdoing."
+   },
+   {
+    "loc": 125,
+    "page": "p. 98",
+    "kind": "p",
+    "before": "Proof/evidence questioning occurs when the less privileged are asked (usually by those with more privilege) to prove that they have been impacted by or experience(d) oppression.",
+    "sentence": "One prominent example of this type of questioning is commonly called “playing the race card.”",
+    "after": "Colloquially, “playing the race card” refers to using someone using race to justify their actions or beliefs when race is not perceived to be relevant to a situation or issue."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 44,
+  "input": "72eb9f3dfa8f",
+  "candidates": [
+   {
+    "loc": 35,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "I write this book in mixed company.",
+    "sentence": "I am inspired by scholars working on questions of race, colonialism, gender, sexuality, and disability who write from or about “bodies out of place,” “misfits,” or “troublemakers,” including Judith Butler, Rosemarie Garland-Thomson, Alexis Pauline Gumbs, Aimi Hamraie, Alison Kafer, Heidi Mirza, Aileen Moreton-Robinson, Nirmal Puwar, Shirley Anne Tate, Gloria Wekker, as well as many, many others.",
+    "after": "Those who are not quite at home—in a body, a discipline, a world—have much to teach us about how things are built, that is to say, have much to teach us about the uses of use."
+   },
+   {
+    "loc": 35,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "Who is housed by a world?",
+    "sentence": "We could think of Gloria Wekker’s (2016) description of “the house that race built” or Aileen Moreton-Robinson’s (2005) description of the nation as a “white possession” and as “the house that Jack built.”",
+    "after": "We might recall Audre Lorde and think of that house as “the master’s house” (1984): the house built with the master’s tools."
+   },
+   {
+    "loc": 111,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "The history of cotton shows us how we cannot understand capitalism without reference to colonialism and slavery; the expansion of this industry depended on “slaves in the Southern United States growing cotton on land expropriated from Native Americans” (85).",
+    "sentence": "The necessity of slave labor and of expropriation of land from native peoples to the expansion of capitalism requires us to understand capitalism as “racial capitalism,” to use Cedric J. Robinson’s term.",
+    "after": "In Black Marxism, Robinson notes, “The British trade movement firmly seats slavery in the movement from mercantile to industrial capitalism” ([1984] 2000, 116)."
+   },
+   {
+    "loc": 111,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "As George Shulman describes with reference to Saidiya Hartman’s Scenes of Subjection (2002), the slave becomes “an empty vessel to be occupied, enjoyed, and used up” (2016, 35).",
+    "sentence": "A history of being used up is the history of racial capitalism: a history of those who are worn down, worn out; depletion as the extraction of surplus value or profit.",
+    "after": ""
+   },
+   {
+    "loc": 188,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "A woman of color academic explained: “I was on the equality and diversity group in the university.",
+    "sentence": "And as soon as I started mentioning things to do with race they changed the portfolio of who could be on the committee and I was dropped.”",
+    "after": "I noted earlier that diversity might be used more because it does less."
+   },
+   {
+    "loc": 188,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "I noted earlier that diversity might be used more because it does less.",
+    "sentence": "The word race might be used less because it does more.",
+    "after": "Any use of the word race is thus an overuse."
+   },
+   {
+    "loc": 204,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "That’s a question we often get asked.",
+    "sentence": "Racism is how we know it’s about race; that wall, whiteness, or let’s call it what it is, as she has, white supremacy, we come to know intimately as it is what keeps coming up.",
+    "after": "She adds: “I had put down that I would like to work towards becoming a professor and she just laughed in my face.”"
+   },
+   {
+    "loc": 204,
+    "page": "p. 188",
+    "kind": "p",
+    "before": "And that command is being sent not only to her, but to those who are deemed to share the status of being subordinate, students and administrators.",
+    "sentence": "Racial harassment can be the effort to restore a hierarchy: how someone is being told you are not where you should be or you are above where you should be, or you are where I should be or even you have taken my place.",
+    "after": "Some of us in becoming professors become trespassers; you are being told you need permission to enter by being told you do not have permission."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 3,
+  "input": "ac3e1f547029",
+  "candidates": [
+   {
+    "loc": 65,
+    "page": "p. 103",
+    "kind": "p",
+    "before": "",
+    "sentence": "Computer scientists published many algorithms that predict users’ age, gender, race, education, and other details from their social media posts and profiles.",
+    "after": "These techniques are widely used in marketing and advertising—but they also offer benefits for other fields, such as public health research."
+   },
+   {
+    "loc": 67,
+    "page": "pp. 106–107",
+    "kind": "p",
+    "before": "But because Gallup selected people at random and conducts these interviews every day, it accumulates fifteen thousand responses per month and 175,000 per year.",
+    "sentence": "We learn that “Gallup also weights its final samples to match the U.S. population according to gender, age, race, ethnicity, education, region, population density, and phone status.”",
+    "after": "This weighting was done using data from a number of other surveys."
+   },
+   {
+    "loc": 91,
+    "page": "pp. 149–150",
+    "kind": "p",
+    "before": "However, things are different in social and cultural realms.",
+    "sentence": "Some of the most important systems of categories used by many societies—such as sex, race, gender, and ethnicity— are hierarchical.",
+    "after": "The struggles against these hierarchies have been central to political, social, and intellectual agendas of many countries for a number of decades, while in other countries this started only more recently."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 100,
+  "input": "1a7ada9165df",
+  "candidates": [
+   {
+    "loc": 35,
+    "page": "PDF p. 35",
+    "kind": "p",
+    "before": "For people in positions of power and privilege, issues of race and gender and class and ability—to name only a few—are OPP: other people’s problems.",
+    "sentence": "Author and antiracist educator Robin DiAngelo describes instances like the “shock” of Darden’s boss or the surprise in the media coverage of Buolamwini’s various projects as a symptom of the “racial innocence” of white people.",
+    "after": "In other words, those who occupy positions of privilege in society are able to remain innocent of that privilege."
+   },
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "The detainee’s answers feed into the software, in which they are compared with other data to determine that person’s risk score.",
+    "sentence": "Although the questionnaire does not ask directly about race, it asks questions that, given the structural inequalities embedded in US culture, serve as proxies for race.",
+    "after": "These include questions like whether you were raised by a single mother, whether you have ever been suspended from school, or whether you have friends or family that have been arrested."
+   },
+   {
+    "loc": 55,
+    "page": "PDF p. 55",
+    "kind": "p",
+    "before": "These include questions like whether you were raised by a single mother, whether you have ever been suspended from school, or whether you have friends or family that have been arrested.",
+    "sentence": "In the United States, each of those questions is linked to a set of larger social, cultural, and political—and, more often than not, racial —realities.",
+    "after": "For instance, it has been demonstrated that 67 percent of Black kids grow up in single-parent households, whereas only 25 percent of white kids do."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "How does one report on a black box, as these harmful algorithms are sometimes described?",
+    "sentence": "Much like the situation encountered by Gwendolyn Warren when she looked into the data on the Detroit children’s deaths, or like María Salguero when she started logging femicides in Mexico, ProPublica found no existing studies that examined whether the risk scores were racially biased, or existing datasets they could use to point them to answers.",
+    "after": "To write the risk assessment story, ProPublica had to assemble a dataset of their own."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "The researchers looked at ten thousand criminal defendants from a single county in Florida and compared their recidivism risk scores with people who actually reoffended in a two-year period.",
+    "sentence": "After doing some initial exploratory analysis, they created their own regression model that considered race, age, criminal history, future recidivism, charge degree, and gender.",
+    "after": "They found that age, race, and gender were the strongest predictors of who received a high risk score—with Black defendants 77 percent more likely than white ones to receive a higher violent recidivism score."
+   },
+   {
+    "loc": 68,
+    "page": "PDF p. 68",
+    "kind": "p",
+    "before": "This led to several issues.",
+    "sentence": "For instance, the curriculum designers had intended to focus primarily on income inequality, but they discovered that “the students consistently surfaced race.”",
+    "after": "Because race and ethnicity were not part of the teaching material, the teachers felt that they did not have the experience or background to discuss them explicitly and deflected those conversations."
+   },
+   {
+    "loc": 95,
+    "page": "PDF p. 95",
+    "kind": "p",
+    "before": "All sorts of systems for classifying people have their roots in that era—not only sex but also, crucially, race.",
+    "sentence": "Before the eighteenth century, Western societies understood race as a concept tied to religious affiliation, geographic origin, or some combination of both.",
+    "after": "Race had very little to do with skin color until the rise of the transatlantic slave trade, in the seventeenth century."
+   },
+   {
+    "loc": 147,
+    "page": "PDF p. 147",
+    "kind": "p",
+    "before": "The first problem is that this is starting to look like a deficit narrative, which we discuss in chapter 2—a narrative that reduces a social group to negative stereotypes and fails to portray them with creativity and agency.",
+    "sentence": "The second issue is that by naming racism and then talking about people of color in the title, the graphic reinforces the idea that race is an issue for people of color only.",
+    "after": "If we care about righting the balance of power, the choice of words matters as much as the data under analysis."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 128,
+  "input": "7e34a64b2d52",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "Accordingly, I begin here by locating my own position and trajectory for the reader.",
+    "sentence": "I’m a nonbinary trans* femme queer person, of Italian-Russian-Polish-Jewish descent, raced white within the current logic of racial capitalism in the United States.",
+    "after": "I was born into a rural, hippie, cooperative home near Ithaca, in upstate New York, to parents who took part in feminist, antiwar, anti-imperialist, Latin American solidarity, and environmentalist movements of the time."
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "Historian and scholar of race, gender, and science and technology studies Ruha Benjamin defines discriminatory design as the normalization of racial hierarchies within the underlying design of sociotechnical systems.",
+    "sentence": "Benjamin uses the example of the spirometer, a device meant to assess lung capacity: because early pulmonologists believed that “race” determined lung capacity, spirometers were built with a “race correction” button to adjust measurements relative to an expected norm.",
+    "after": "In a 1999 class action lawsuit from fifteen thousand asbestos workers against their employer, this made it difficult for Black workers to qualify for workers compensation because “they would have to demonstrate worse lung function and more severe clinical symptoms than those for white workers due to this feature of the spirometer, whose developer, Dr. John Hutchinson, was employed by insurance companies in the mid-1800s to minimize payouts.”"
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "",
+    "sentence": "Historian and scholar of race, gender, and science and technology studies Ruha Benjamin defines discriminatory design as the normalization of racial hierarchies within the underlying design of sociotechnical systems.",
+    "after": "Benjamin uses the example of the spirometer, a device meant to assess lung capacity: because early pulmonologists believed that “race” determined lung capacity, spirometers were built with a “race correction” button to adjust measurements relative to an expected norm."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "To take a simple example, consider a UI for personal profile creation on a university admissions portal.",
+    "sentence": "The site designer is required, for institutional diversity metrics, to request the race or ethnicity of the applicant.",
+    "after": "The designer is deciding how to implement the race/ethnicity selection process in as few clicks as possible to improve UX."
+   },
+   {
+    "loc": 39,
+    "page": "PDF p. 39",
+    "kind": "p",
+    "before": "The site designer is required, for institutional diversity metrics, to request the race or ethnicity of the applicant.",
+    "sentence": "The designer is deciding how to implement the race/ethnicity selection process in as few clicks as possible to improve UX.",
+    "after": "In one version of the page (call it A), there is a default race/ethnicity set to White, Non-Hispanic."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "Third, we should challenge the underlying assumption that our ultimate goal in algorithm design is symmetrical treatment.",
+    "sentence": "In other words, we have to raise the question of whether algorithm design should be structured according to the logic of “fairness,” read as color and gender blindness, or according to the logic of racial, gender, and disability justice.",
+    "after": "The former implies that our goal is a fair algorithm that “treats all individuals the same,” within the tightly bound limits of its operational domain and regardless of the effects of past or present-day discrimination."
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "This is now fairly well understood in mainstream business literature.",
+    "sentence": "As the 2017 Breaking the Mold report notes: “McKinsey & Company has reported that companies in the top quartile in terms of racial diversity are 35 percent more likely to have financial returns higher than the national median in their industry.",
+    "after": "This research complements multiple studies which conclude that gender diversity clearly improves corporate financial performance.”"
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "Women make up just 16 percent of executive teams in US companies, 12 percent in the United Kingdom, and 6 percent in Brazil.",
+    "sentence": "In terms of race, 97 percent of US companies have senior leadership teams composed primarily of white people.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 333,
+  "input": "8aea476ec02c",
+  "candidates": [
+   {
+    "loc": 11,
+    "page": "PDF p. 11",
+    "kind": "p",
+    "before": "The Black body has long been a feature—and shibboleth—of articulations and theorizations of Black culture.",
+    "sentence": "The materiality of the Black body is easily understood as a benighted canvas for the iniquities and oppressions levied upon it, but its materiality has also led to elaborate, strained, scientific rationales about the legitimacy of race as a social construct.",
+    "after": "When scholars first sought to understand information technology use by Black folk, the Black body was only legible through its perceived absence: absence from the material, technical, and institutional aspects of computers and society."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "I must admit to having been cautioned that you, dear reader, may already be aware of the concepts ahead, but I can assure you they have never been assembled in this fashion with the intent of analyzing race, the digital, and technoculture.",
+    "sentence": "For example, this text’s definition of Blackness qua racial identity begins with a sociological concept of ethnic identity, where ethnicity is understood as the agreement between in-group and out-group members on what the in-group says, does, and believes.",
+    "after": "I chose this formulation to relinquish the Middle Passage epistemology (Henry, 2006; Sharpe, 2013; Wright, 2015) often used to define Blackness and also to allow Black folk—inescapably connected to the concept of race in the West—to define themselves, in their own voices, as members of a multitudinous culture without being reduced to the political or historical positions proffered by academics."
+   },
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "For example, this text’s definition of Blackness qua racial identity begins with a sociological concept of ethnic identity, where ethnicity is understood as the agreement between in-group and out-group members on what the in-group says, does, and believes.",
+    "sentence": "I chose this formulation to relinquish the Middle Passage epistemology (Henry, 2006; Sharpe, 2013; Wright, 2015) often used to define Blackness and also to allow Black folk—inescapably connected to the concept of race in the West—to define themselves, in their own voices, as members of a multitudinous culture without being reduced to the political or historical positions proffered by academics.",
+    "after": ""
+   },
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "This is Blackness as an “informational identity,” a doubly conscious figuration of Black discursive identity and digital practice.",
+    "sentence": "As mentioned, my definition of Blackness qua racial identity stems from Du Bois’s “double consciousness.”",
+    "after": "Tal (1996) cogently observes that double consciousness offers a conceptually rich approach for cyberculture researchers examining identity in virtual spaces; Du Bois’s concept addresses community and alienation experienced by the same body/person."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "The browser affords an implicitly “unmarked” technological commons even as each internet surfer personalizes his installation to conform to his personal browsing habits through bookmarks, cookies, add-ons, and user scripts.",
+    "sentence": "The seeming openness of the platform, coupled with libertarian (and neoliberal) rhetoric about the internet as a culture-neutral space, obscures the reality that most online content available through the browser and its technological implements still constructs and maintains Western and modern notions of race, gender, and class.",
+    "after": "Without examining content specifically, the next section begins the analysis of Blackbird by briefly outlining the browser’s representation as an informational, racial, and cultural artifact."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "",
+    "sentence": "Without closing off possibilities for understanding race as a relational construct, my conceptual framework encourages a view of race as an infrastructural quality.",
+    "after": "By closing off, I mean that Blackness is not defined solely by being subordinated, nor is whiteness only understood as a subordinating identity."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "Discourse and discourse analysis are natural fits for online research given the prominence of textual interaction in online spaces, but the production of racial identities online necessitates some investigation into how those identities were always-already extant in the offline spaces hosting online interactions.",
+    "sentence": "If race is a social construct, then how does racial identity manifest online, particularly in the absence of offline signifiers like embodiment?",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "Robert Gooding-Williams (1998) offers an alternative take on Black racial identity as a consequence of white American racial classification schema rather than solely “the beliefs and practices which are shared by or distinctive to the people whom that practice designates as black” (p. 21).",
+    "sentence": "Gooding-Williams’s definition allows racial identity to be understood as a shared, socially constructed identity that is not hard coded into an essentialized “common culture.”",
+    "after": "This move sheds the need for analyses of Black online identity to rely solely on the identification of phenotypical or visual signifiers."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 91,
+  "input": "5ec31aad904e",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "As avid users of the platform and diversely trained scholars of media, we watched and participated in many of the hashtags and stories that came to shape global, national, and local politics.",
+    "sentence": "We began to specifically study race and gender work on Twitter in 2014, with Sarah J. Jackson and Brooke Foucault Welles studying #MyNYPD and #Ferguson while Moya Bailey investigated #GirlsLikeUs.",
+    "after": "Our interests, the interdisciplinary theory and methods we offered one another, and serendipity brought us together."
+   },
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "Five years ago, when we began this journey, we could only imagine what we would learn through this collaborative project.",
+    "sentence": "It has been an incredible experience to write about a medium so dynamic and in a raucous political environment, as more and more people in the United States turned to Twitter with new versions of old demands for race and gender equality.",
+    "after": "In the course of our writing this book, Twitter character counts expanded, media policy changed, Donald J. Trump was elected president of the United States and adopted the platform as his own, hashtag politics became increasingly influential offline, the debate over social media’s role in democracy raged, and a plethora of new hashtags were born."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "We illustrate the particularly complementary roles of network science procedures, communication studies theory, and critical humanities interventions.",
+    "sentence": "Through these approaches we offer readers multiple entry points into the data in an inquiry that illuminates how counterpublic networks construct and define issues of race, gender, and sexual politics.",
+    "after": ""
+   },
+   {
+    "loc": 35,
+    "page": "PDF p. 35",
+    "kind": "p",
+    "before": "We believe that the most profound and potentially radical politics come directly out of our own identity, as opposed to working to end someone else’s oppression.”",
+    "sentence": "The collective articulated the particular nature of their perspective as Black women radicals, stating, “The most general statement of our politics at the present time would be that we are actively committed to struggling against racial, sexual, heterosexual, and class oppression, and see as our particular task the development of integrated analysis and practice based upon the fact that the major systems of oppression are interlocking.”",
+    "after": "Their words laid the foundation for the Black feminist legal theorist Kimberlé Williams Crenshaw’s solidifying the concept in the term intersectionality in 1989."
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "Their words laid the foundation for the Black feminist legal theorist Kimberlé Williams Crenshaw’s solidifying the concept in the term intersectionality in 1989.",
+    "sentence": "Crenshaw’s work in relation to discrimination law details that race and gender hierarchies don’t have an additive negative effect but rather intersect and interact to produce uniquely discriminatory realities for those multiply marginalized.",
+    "after": "In her canonical text, “Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color,” Crenshaw explains, “My objective there was to illustrate that many of the experiences Black women face are not subsumed within the traditional boundaries of race or gender discrimination as these boundaries are currently understood, and that the intersection of racism and sexism factors into Black women’s lives in ways that cannot be captured wholly by looking at the women’s race or gender dimensions of those experiences separately.”"
+   },
+   {
+    "loc": 69,
+    "page": "PDF p. 69",
+    "kind": "p",
+    "before": "Was race the reason he was labeled suspicious by shooter? @AC360 8p, 10p,” and a tweet sent one week later that focused on Zimmerman’s version of the story: “Just interviewed #trayvonmartin’s shooter’s attorney.",
+    "sentence": "He says race was not a factor in George Zimmerman killing Martin. @AC360 8p, 10p.”",
+    "after": "Notably, the latter tweet received only about one-tenth the response of Cooper’s first-person, “What I question …” tweet, reflecting the prioritizing in the network of news narratives that legitimized Martin’s victimhood and connected it directly to racism."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "Features such as hashtags and retweeting offer Twitter users ways to signal support for any issue with a few keystrokes.",
+    "sentence": "The research on online racial and gender justice activism presented in this book brings to the center the voices of people of color and women, especially by unpacking the technical and discursive processes that have facilitated marginalized citizens’ influence on mainstream discussions of racism and sexism in the United States.",
+    "after": "We have explained throughout why it is important to making visible the digital labor of these often ignored groups."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "Yet the question of how members of dominant groups do (or do not) show up to support this labor is ever present.",
+    "sentence": "How do white allies to racial justice struggles and male allies to feminist projects engage digitally?",
+    "after": "Focusing only on people of color when one is considering solutions to racial inequality or only on women when considering gender oppression risks perpetuating the myth that the struggle for justice is a minority struggle alone, that majority white and male citizens bear no responsibility for grappling with and dismantling the systems of white male supremacy."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 28,
+  "input": "e7eaae8a4251",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "My focus is on information’s role in lesbian feminist counterpublic formation and expression, even as “social movement” is most often the shorthand through which lesbian feminism is categorized.",
+    "sentence": "Approaches to lesbian feminism as a social movement varied, because of ties to discrete counterpublics formed around race, ethnicity, class, and disability, which mattered even as women came together in activism.",
+    "after": ""
+   },
+   {
+    "loc": 22,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "By the mid-1970s, lesbian feminists who had worked tirelessly to sustain women’s movements were frustrated by a lack of reciprocal attention to lesbian issues and invigorated by developing lesbian activist methodologies.",
+    "sentence": "Similarly, lesbians worked in the gay liberation movement but wanted to carve out alternative spaces for organizing around sexuality that centered feminist concerns about gender, race, class, and other forms of difference that were often sidelined by gay men’s issues.",
+    "after": "Still, forming coalitions with men remained crucial to women of color, especially Black lesbians, who needed “solidarity around the fact of race.”"
+   },
+   {
+    "loc": 22,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "Similarly, lesbians worked in the gay liberation movement but wanted to carve out alternative spaces for organizing around sexuality that centered feminist concerns about gender, race, class, and other forms of difference that were often sidelined by gay men’s issues.",
+    "sentence": "Still, forming coalitions with men remained crucial to women of color, especially Black lesbians, who needed “solidarity around the fact of race.”",
+    "after": ""
+   },
+   {
+    "loc": 22,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "Lesbian-feminist counterpublics have never been monolithic, in part because attention to the ways in which women are difff erent from one another informs consciousness-raising as a communications method and guides how embodied, structurally informed experience can be a ground for politics.",
+    "sentence": "Despite these commitments, SaraEllen Strongman argues that interracial organizing among lesbians depended on deep investments in exploring the intimacies and erotics of racial difference, consciousness that white women often failed to develop.",
+    "after": "Aware that a singular lesbian-feminist counterpublic was neither realistic nor desirable, the information activists featured in the book—many of whom are white—tried to create useful resources that would speak about and across difference."
+   },
+   {
+    "loc": 93,
+    "page": "p. 89",
+    "kind": "p",
+    "before": "",
+    "sentence": "While the hotline’s approach to trans callers was uneven, particularly in its early days, the organization conscientiously built other kinds of intersectional care, including capacity for providing peer support to women of color that understood the location of their experiences at the axis of gender, race, and sexuality.",
+    "after": "Some lesbian organizations developed antiracism by ensuring that leadership roles were filled by women of color who could direct an organization’s resources and attention to the needs of their communities."
+   },
+   {
+    "loc": 93,
+    "page": "p. 89",
+    "kind": "p",
+    "before": "New volunteers were evaluated after their initial training shifts on whether they “promote or exhibit racism, classism, ageism, het-erosexism, anti-Semitism and/or discrimination against women on the basis of physical ability and/or appearance.”",
+    "sentence": "Women of color calling the switchboard were most likely to have their call “peer counseled” by a white volunteer, but these volunteers were careful to recognize the importance of race and difference in selecting information to relay to callers.",
+    "after": ""
+   },
+   {
+    "loc": 125,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "The antiracist techniques Roberts practiced with Black Lesbians were also deployed in the circle’s work on The Lesbian Periodicals Index, although they were not the focus of the index.",
+    "sentence": "The circle wanted its indexing work to “reflect the diversity of the lesbian experience and be representative of our political, racial, class, and cultural differences.”",
+    "after": "This politics influenced the circle members’ title selection—they indexed Azalea: A Magazine by Third World Lesbians published by the Salsa Soul Sisters collective (New York) and the Lesbians of Color Caucus Quarterly (Seattle), two of the limited 1970s lesbian feminist periodicals by and for queer women of color."
+   },
+   {
+    "loc": 125,
+    "page": "p. 121",
+    "kind": "p",
+    "before": "This politics influenced the circle members’ title selection—they indexed Azalea: A Magazine by Third World Lesbians published by the Salsa Soul Sisters collective (New York) and the Lesbians of Color Caucus Quarterly (Seattle), two of the limited 1970s lesbian feminist periodicals by and for queer women of color.",
+    "sentence": "The circle classified materials by subject headings that would provide pathways for researchers to explore how lesbians of color had written about specific experiences of race and ethnicity within movement print cultures.",
+    "after": "For example, the heading “Latina Lesbians” gathers articles from the circle’s whole corpus."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 241,
+  "input": "f9f36dcbb95a",
+  "candidates": [
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "",
+    "sentence": "In making structural sense of digital gaming culture, it is important to situate it as a racial project whereby social dynamics are distinguished by one’s positionality in relation to the default user—the white male.",
+    "after": "André Brock Jr. discusses the normative presumptions of whiteness and maleness serving as the default identity of users of digital technologies."
+   },
+   {
+    "loc": 24,
+    "page": "PDF p. 24",
+    "kind": "p",
+    "before": "In making sense of the internet as a social structure that represents and maintains white, masculine, bourgeois, heterosexual, and Christian culture through its content, Brock explores how (white) racial frames are brought into design and practice where racial dynamics are expressed through electronic media.",
+    "sentence": "These practices neatly recreate online social dynamics that mirror real-world patterns of racial interaction by marginalizing women and people of color.",
+    "after": ""
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "From the symbolic violence of invisibility, hypersexualization, and stereotyping to the actual acts of violence associated with harassment campaigns, racism, doxxing (disclosure of personal identifying information), and death threats, I grapple with the possibility that race is only made (digitally) legible via violence.",
+    "after": "The threats of real and symbolic violence that have been hurled at racialized users of gaming technologies must be examined beyond individual acts of discrimination and intimidation."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "From the symbolic violence of invisibility, hypersexualization, and stereotyping to the actual acts of violence associated with harassment campaigns, racism, doxxing (disclosure of personal identifying information), and death threats, I grapple with the possibility that race is only made (digitally) legible via violence.",
+    "sentence": "The threats of real and symbolic violence that have been hurled at racialized users of gaming technologies must be examined beyond individual acts of discrimination and intimidation.",
+    "after": "This violence must be explored through the structures and institutions that sustain the culture of inequality isolating marginalized groups."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "As David Leonard explains, “Video games are not just games, or sites of stereotypes, but a space to engage American discourses, ideologies, and racial dynamics.”",
+    "after": "As a part of the larger conversation around media, the internet, and digital technologies, these spaces continue to be a cultural map of assumed whiteness."
+   },
+   {
+    "loc": 26,
+    "page": "PDF p. 26",
+    "kind": "p",
+    "before": "As a part of the larger conversation around media, the internet, and digital technologies, these spaces continue to be a cultural map of assumed whiteness.",
+    "sentence": "When there is an attempt to make race and ethnicity present, it is met with color-blind resistance.",
+    "after": "As Tanner Higgin explains, “The White dominance of gamespace has been recast as a racially progressive movement that ejects race in favor of a default, universal whiteness and has been ceded, in part, by a theoretical tendency to embrace passing and anonymity in cyberspace.”"
+   },
+   {
+    "loc": 48,
+    "page": "PDF p. 48",
+    "kind": "p",
+    "before": "In making sense of the horror genre in video game culture, the generic pattern of the classic American horror film oscillates between the “normal,” mostly represented by the white, middle-class heterosexuality of the films’ heroes and heroines, and the “monstrous,” frequently colored by racial, sexual, class, or other ideological markers.",
+    "sentence": "When we examine these films through the lens of a racial project, we should not be surprised that the vast majority use race as a marker of monstrosity in ways generically consistent with larger assumptions about white supremacy and superiority.",
+    "after": "As the horror genre has evolved, so has the nature of constructing blackness."
+   },
+   {
+    "loc": 53,
+    "page": "PDF p. 53",
+    "kind": "p",
+    "before": "",
+    "sentence": "Urbanite: They don’t even realize that race is the problem.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 5,
+  "input": "e3fe21cdf0ea",
+  "candidates": [
+   {
+    "loc": 23,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "Indeed, we must prepare students to face unprecedented issues.",
+    "sentence": "Recent events including the COVID-19 global health pandemic and ongoing racial tensions due to systemic oppression and xenophobia have proven to technical communication scholars, instructors, and practitioners that the social aspect of technical communication is as important as—in some cases, more important than—its technical counterpart.",
+    "after": "Jason Swarts (2020) argued that technical communicators play the crucial role in socially constructing users’ interaction with technologies and with their respective communities."
+   },
+   {
+    "loc": 81,
+    "page": "p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "Meanwhile, as the health pandemic called for technical expertise, the strife for racial justice demanded attention by technical communicators to the social dimensions of their crafts.",
+    "after": "Technical communicators—including UX researchers, content strategists, instructional designers, etc.—can participate meaningfully in social advocacy through their professional practices."
+   },
+   {
+    "loc": 83,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "",
+    "sentence": "had researched and fought against racial bias in machine learning.",
+    "after": "Noticing that"
+   },
+   {
+    "loc": 83,
+    "page": "p. 62",
+    "kind": "p",
+    "before": "",
+    "sentence": "book, Racial Shorthand, a series of culturally relevant examples that demonstrate the",
+    "after": ""
+   },
+   {
+    "loc": 161,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "Jones et al. examined the dominant narrative in the field’s published literature and then presented a collection of nondominant threads that “unravel” the dominant narratives.",
+    "sentence": "These threads come from feminism and gender studies, race and ethnicity, international/intercultural professional communication, community and public engagement, user advocacy, and disability and accessibility.",
+    "after": "The antenarrative threads invite reinterpretation of the past and open room for a more inclusive future."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 75,
+  "input": "fb1b52ea83bb",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "I use the term digital instead of cyber to likewise disrupt cyber studies that place Black women on the periphery.",
+    "sentence": "Cyberfeminism or technofeminism may address women in internet technologies, but they fail to capture race and other identifiers that must also be at the forefront of analysis.",
+    "after": "Daniels, commenting on the work of cyberfeminist scholars of the 1990s, explains, “Some cyberfeminists contend that the Internet shifts gender and racial regimes of power through the human/machine hybridity of cyborgs (Haraway, 1985), identity tourism (Nakamura, 2002; Turkle, 1997), and the escape from embodiment (Hansen, 2006; Nouraie-Simone, 2005 . . .), I argue that the lived experience and actual Internet practices of girls and self-identified women reveals ways that they use the Internet to transform their material, corporeal lives in a number of complex ways that both resist and reinforce hierarchies of gender and race” (Daniels, 2009, p. 101)."
+   },
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "Daniels, commenting on the work of cyberfeminist scholars of the 1990s, explains, “Some cyberfeminists contend that the Internet shifts gender and racial regimes of power through the human/machine hybridity of cyborgs (Haraway, 1985), identity tourism (Nakamura, 2002; Turkle, 1997), and the escape from embodiment (Hansen, 2006; Nouraie-Simone, 2005 . . .), I argue that the lived experience and actual Internet practices of girls and self-identified women reveals ways that they use the Internet to transform their material, corporeal lives in a number of complex ways that both resist and reinforce hierarchies of gender and race” (Daniels, 2009, p. 101).",
+    "sentence": "Daniels repositions the work of cyberfeminism from an interrogation of a postmodern experience of the feminine body to an examination of structural changes to hierarchies of gender and race.",
+    "after": "It is a useful shift that focuses on both subordination and agency in digital technology creation and use."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "",
+    "sentence": "Likewise, racial binaries place Blackness as the perpetual foe and opponent to whiteness.",
+    "after": "In a U.S. context, our need for bicameral differentiation results from the shift from indentured servitude to chattel slavery."
+   },
+   {
+    "loc": 22,
+    "page": "PDF p. 22",
+    "kind": "p",
+    "before": "In a U.S. context, our need for bicameral differentiation results from the shift from indentured servitude to chattel slavery.",
+    "sentence": "Within our binary system of race, the U.S. has historically assigned newcomers a place in one of the two racial groups that formed the basis of our economic and political system.",
+    "after": "New immigrants to the U.S. find themselves in the predicament of fitting into this binary, at times working to secure their position by distancing themselves from deviant Blackness."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "To understand how Black feminists use technology, we must first interrogate how Black womanness comes to be and why Black feminist thought work continues to function as a survival strategy.",
+    "sentence": "In this chapter, I consider how white women and Black men have secured their positions in the racial and gender hierarchy by positioning themselves in opposition to Black womanhood.",
+    "after": "It is unusual in a book about digital technology to spend the first chapter in this way."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "Our very oppression has served as the mechanism by which we generate ingenuity, technological capability, and strength.",
+    "sentence": "While digital Black feminism is for everyone, it is the lived experience, writing, and thought work of Black women that make Black feminism accessible to multiple races and genders.",
+    "after": "As such, digital Black feminism begins by considering Black feminist thought as a product of this historically binary system of race and gender wherein Black women are marginalized but still function as an integral part of the American technological machine."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "Black women’s use of respectability, a concept created to restrict their autonomy, “reflected more than simply bourgeois Victorian ideology; it was a foundation of African American women’s survival strategies and self-definition irrespective of class” (Wolcott, 2001, p. 7).",
+    "sentence": "As Wolcott explains, “Female activists such as Fannie Barrier Williams, Anna Julia Cooper, and Nannie Helen Burroughs wrote copiously in African American periodicals and lectured nationwide, arguing that issues of particular relevance to African American women . . . should be central to racial reform.",
+    "after": "Through their writing and activism, these women propagated an ideology of racial uplift that focused on the unique role women would play in racial advancement” (Wolcott, 2001, p. 6)."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "In their public speech and writings, Black women of the early twentieth century used the systems and institutions that were a binding cord of their oppression to refashion a garment of progress.",
+    "sentence": "“Race women” (B. C. Cooper, 2017) used the bounds and expectations of patriarchy to hone arguments for Black liberation.",
+    "after": "Many feminists regard institutions like heterosexual marriage as restrictive to women’s agency."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 50,
+  "input": "c6abb7c1ac67",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "p. xiv",
+    "kind": "p",
+    "before": "It was in writing that dissertation that I landed on the word “misogynoir” to describe the particular venom directed at Black women through negative representations in media.",
+    "sentence": "How do you describe the ways that Black women are uniquely denigrated because of their gender and race?",
+    "after": "I played with a couple of terms before landing on “misogynoir.”"
+   },
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "By definition, those who use wheelchairs, manage their depression with medication, or have mental and/or physical impairments, chronic illness, or disease fall outside the scope of “complete physical, mental and social well-being.”",
+    "sentence": "As a scholar of disability, race, and gender studies, I also question how “complete physical, mental and social well-being” can be achieved if one lives in a neighborhood with little access to fresh food or ways to safely exercise.",
+    "after": "Race and gender not only play a role in the physical environment in which one lives but also impact the way one is perceived in society."
+   },
+   {
+    "loc": 17,
+    "page": "pp. 10–12",
+    "kind": "p",
+    "before": "As a scholar of disability, race, and gender studies, I also question how “complete physical, mental and social well-being” can be achieved if one lives in a neighborhood with little access to fresh food or ways to safely exercise.",
+    "sentence": "Race and gender not only play a role in the physical environment in which one lives but also impact the way one is perceived in society.",
+    "after": "Can a person achieve the WHO definition of health if they encounter racism, sexism, ableism, and other oppressions as part of their daily life in the world?"
+   },
+   {
+    "loc": 20,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "The practice of displaying respectable representations of themselves in media as a strategy for uplift gave way to recognition that any secondary positive feelings white audiences had for Black people as a result of self-generated representation had little material purchase in their lives.",
+    "sentence": "Racial uplift in a white supremacist world remains a central theme in many media projects over the years; however, queer and trans Black women create cultural works that challenge intraracial misogynoir because of their liminal space within a community that is already marginalized.",
+    "after": "By crafting reflections of the racialized and gendered violence that happens in our own spaces because of colorism, homophobia, and trans antagonism, queer and trans Black women push for accountability within their own networks as opposed to without."
+   },
+   {
+    "loc": 20,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "Racial uplift in a white supremacist world remains a central theme in many media projects over the years; however, queer and trans Black women create cultural works that challenge intraracial misogynoir because of their liminal space within a community that is already marginalized.",
+    "sentence": "By crafting reflections of the racialized and gendered violence that happens in our own spaces because of colorism, homophobia, and trans antagonism, queer and trans Black women push for accountability within their own networks as opposed to without.",
+    "after": "It seems that Black women must continue to look to themselves for representations that affirm and expand who they are as human beings."
+   },
+   {
+    "loc": 32,
+    "page": "pp. 44–45",
+    "kind": "p",
+    "before": "For Black women who travel from the United States to Europe and other parts of the world, these stereotypes become people’s point of reference for who they are.",
+    "sentence": "In a 2015 article on Black women’s study abroad experiences, researcher Tasha Willis found that Black girls experienced gender and racialized harassment that their white peers did not experience.",
+    "after": "Their race and gender made them particularly susceptible to catcalls, sexual harassment, and the assumption that they were sex workers in the places they traveled."
+   },
+   {
+    "loc": 37,
+    "page": "pp. 55–57",
+    "kind": "p",
+    "before": "The contrast of her small frame in a bikini bathing suit makes her all the more vulnerable, as Casebolt is fully clothed in his uniform and “twenty pounds of gear.”",
+    "sentence": "For most commenters, race is the issue that provoked the incident, not the synergistic force of misogynoir that singled out Becton among her Black and white peers.",
+    "after": ""
+   },
+   {
+    "loc": 39,
+    "page": "pp. 60–61",
+    "kind": "p",
+    "before": "",
+    "sentence": "Commentators debated whether race was a contributing factor in the escalation of the tactics used to remove Shakara from her seat.",
+    "after": "Unlike with the video Brooks captured of Casebolt’s excessive force on Becton, most of these commenters were adults who felt that Shakara should have listened to Fields and because she did not, she deserved what she got."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 21,
+  "input": "eb1ed9eb78fd",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "",
+    "sentence": "Other debates about the fundamental politics of doing digital work arise from within critical race studies, where links between the larger contexts of digitization and long term practices of exclusion and oppression call for attention (Risam 2015).",
+    "after": "Other critics have suggested that digital humanities is intimately connected to the policies of entrepreneurial neo-liberalism within higher education."
+   },
+   {
+    "loc": 22,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "Authorship attribution was a central question in early textual analysis.",
+    "sentence": "Now discernment of racial bias, computation of non-binary gender patterns, and activist decolonization of knowledge are trending.",
+    "after": "Maintenance is a constant problem."
+   },
+   {
+    "loc": 36,
+    "page": "p. 21",
+    "kind": "p",
+    "before": "This suggests that Jane Doe was born in the Eternal Rest cemetery, which would be unusual.",
+    "sentence": "Many categories, such as racial identity, gender, nationality, and religious or political affiliation, are specified according to categories that are biased.",
+    "after": "If an artist was born and raised in Spain, worked in France, but maintained Spanish citizenship, what is their nationality?"
+   },
+   {
+    "loc": 37,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "How are the fields named and what does the classification system suggest?",
+    "sentence": "False binarisms and categories of racial or gendered identity may be reductive, simplistic, or abusive in certain circumstances.",
+    "after": "All of these questions are part of understanding the data model of existing data—and of making new data."
+   },
+   {
+    "loc": 129,
+    "page": "p. 114",
+    "kind": "p",
+    "before": "Problems in the relationship between distant reading and critical race studies have been brought up by Richard Jean So and Edwin Roland (So and Roland 2020).",
+    "sentence": "Distant reading requires explicit quantification, and the terms of racial identity, only sometimes explicit in authors, characters, and texts, have to be defined to expose the limits of the ways computational approaches have been formulated as well as to expand the possibilities for writing the histories of people of color as cultural figures.",
+    "after": ""
+   },
+   {
+    "loc": 129,
+    "page": "p. 114",
+    "kind": "p",
+    "before": "One of the positive claims for distant reading was that it might shift focus away from the established canon, allowing for a broader insight into cultural patterns of reading.",
+    "sentence": "The recovery of a wide swath of ignored titles from the oblivion into which habits of teaching and critical writing had cast them promised to address class issues, and to some extent, those of race.",
+    "after": "But the works that are digitized in Hathi Trust, Google Books, and other major repositories cannot recover fully lost texts, only make available a wider array than the narrow canon that had formed a core of literary study."
+   },
+   {
+    "loc": 175,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "",
+    "sentence": "Taking racialized bodies into account in spatial modeling requires conceptualization from within an embodied perspective.",
+    "after": "Racial experience is a dynamic feature of the unfolding of events in space, central to a recognition of perceived and lived identity."
+   },
+   {
+    "loc": 175,
+    "page": "p. 160",
+    "kind": "p",
+    "before": "Taking racialized bodies into account in spatial modeling requires conceptualization from within an embodied perspective.",
+    "sentence": "Racial experience is a dynamic feature of the unfolding of events in space, central to a recognition of perceived and lived identity.",
+    "after": "The design of data always carries values, and the crucial initial intervention in digital work takes place there, in the classification and identification of information about spatial experience."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 53,
+  "input": "6ebc5406633f",
+  "candidates": [
+   {
+    "loc": 9,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "Computing and new media depend upon flesh-and-bone metabolism.",
+    "sentence": "Our “virtual worlds” are made possible by battalions of human beings (as well as nonhuman organisms): cable layers, miners, e-waste recyclers, content moderators, call-center operators, data-entry technicians, and repair technicians, many of whom come from marginalized class, racial, and gendered positions.",
+    "after": "Computing and new media run on a vast metabolic conflagration."
+   },
+   {
+    "loc": 10,
+    "page": "pp. 7–8",
+    "kind": "p",
+    "before": "Each contributor strikes a balance between certain sober realities about computing and new media, while always acknowledging their ubiquity, often their indispensability, and the sometimes awe-inspiring nature of technologies that have or are quickly becoming part of our everyday lives.",
+    "sentence": "Likewise, while the contributors grapple with questions of inequality—inequalities of gender, race, language, and more—we also remain vigilant about not inadvertently reproducing such inequalities by means of stereotype threat.",
+    "after": "While we feel it is essential to take an uncompromising look at ongoing dilemmas of gender and racial inequality, for example, the goal is not to dissuade readers—whether women, persons of color, first-generation students, or others—from pursuing their passions within the context of one or another STEM field."
+   },
+   {
+    "loc": 10,
+    "page": "pp. 7–8",
+    "kind": "p",
+    "before": "Likewise, while the contributors grapple with questions of inequality—inequalities of gender, race, language, and more—we also remain vigilant about not inadvertently reproducing such inequalities by means of stereotype threat.",
+    "sentence": "While we feel it is essential to take an uncompromising look at ongoing dilemmas of gender and racial inequality, for example, the goal is not to dissuade readers—whether women, persons of color, first-generation students, or others—from pursuing their passions within the context of one or another STEM field.",
+    "after": "This volume is not, in other words, crafted as a call of despair but as a call to arms."
+   },
+   {
+    "loc": 65,
+    "page": "pp. 110–111",
+    "kind": "p",
+    "before": "The historical forces that simultaneously shaped modern ontological assumptions about human difference and infrastructures of technological globalization are alive today.",
+    "sentence": "Racial, gendered, and national differences are embedded, in both familiar and surprising ways, in a space that John Perry Barlow once described as a utopia free from the tyranny of corporate and national sovereignty.",
+    "after": "With sympathy for Barlow’s passionate manifesto for cyberspace’s independence from the prejudices of the industrial era (“We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth,” he announced in Davos in 1996), this chapter recognizes, also, that we cannot get there from here if we uncritically reuse the narratives and technologies thus far deployed by the internet’s visionaries, bureaucrats, builders, and regulators."
+   },
+   {
+    "loc": 74,
+    "page": "pp. 127–128",
+    "kind": "p",
+    "before": "",
+    "sentence": "There is an intimacy as well between police agencies and the computer scientists experimenting, developing, and playing with machine-learning algorithms for facial recognition in sex offender and child exploitation cases to better detect offender and child faces across gender and racial diversity.",
+    "after": "Machine-learning software is trained against virtual databases of existing, reported child pornography known to exist online."
+   },
+   {
+    "loc": 74,
+    "page": "pp. 127–128",
+    "kind": "p",
+    "before": "Recent work in science and technology studies (STS) and the social study of algorithms has pointed out, critically, that algorithms have embedded values and biases, leading to potential discrimination as well as the erasure of human analysis and input.",
+    "sentence": "In the case study of child pornography detection, digital forensics designers use certain training sets to improve their algorithm’s ability to detect faces, genders, and races.",
+    "after": "Historically, these training sets have treated the white male adult face as a default against which computer vision algorithms are trained."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 199–201",
+    "kind": "p",
+    "before": "In January of 2018, I had a novel experience of meeting with some of the leading women in the field of robotics in the United States, gathered by Professor Londa Schiebinger and the Gendered Innovations initiative at Stanford University to share research about the ways that gender is embedded in robotics research and development.",
+    "sentence": "One key takeaway from our meeting is that the field of robotics rarely engages with social science and humanities research on gender and race, and that social scientists have much to offer in conceptualizing and studying the impact of robotics on society.",
+    "after": "An important point of conversation I raised at our gathering was that there is a need to look closely at the ways that race and gender are used as hierarchical models of power in the design of digital technologies that exacerbate and obfuscate oppression."
+   },
+   {
+    "loc": 113,
+    "page": "pp. 199–201",
+    "kind": "p",
+    "before": "One key takeaway from our meeting is that the field of robotics rarely engages with social science and humanities research on gender and race, and that social scientists have much to offer in conceptualizing and studying the impact of robotics on society.",
+    "sentence": "An important point of conversation I raised at our gathering was that there is a need to look closely at the ways that race and gender are used as hierarchical models of power in the design of digital technologies that exacerbate and obfuscate oppression.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 68,
+  "input": "8e112ccd30db",
+  "candidates": [
+   {
+    "loc": 28,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "",
+    "sentence": "When understood through what I call an intersectional and interdependent orientation, a methodology that draws from both critical race studies and disability studies, language diversity can be used as a point of analysis, intervention, and collaboration in technical communication—allowing researchers to continue to develop critical frameworks for designing and sharing tools, technologies, platforms, pedagogies, and projects that work toward language access.",
+    "after": "At the same time, I argue that accomplishing language access is just one component of designing a successful multilingual experience and that technical communication researchers should continue to acknowledge their own positionalities when working with communities that do not communicate predominantly in standardized white English (Jones and Williams 2018)."
+   },
+   {
+    "loc": 32,
+    "page": "p. 16",
+    "kind": "p",
+    "before": "To define what I mean by “multilingual experiences in technical communication,” I begin by threading together theoretical and methodological frameworks within and beyond the field of technical communication.",
+    "sentence": "To this end, in chapter 2, “An Intersectional, Interdependent Approach to Language Accessibility in Technicial Communication,” I present what I call an intersectional, interdependent approach to accessibility in technical communication, where I bring together scholarship in racial and linguistic diversity with scholarship in disability studies to argue that when working in multilingual environments, technical communication researchers should consider language and translation through an intersectional perspective that considers access beyond their own positionalities as researchers.",
+    "after": "As social justice and disability studies scholars have taught us, accessibility in any environment is a shared responsibility."
+   },
+   {
+    "loc": 38,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "",
+    "sentence": "In her introduction to Communicating Race, Ethnicity, and Identity in Technical Communication, Williams (Williams and Pimentel 2014) explains that while the field of technical communication continues to expand, particularly alongside the development of emerging information technologies, “still, and unfortunately, we lag behind our colleagues in other areas of English studies (literature, rhetoric and composition, and creative writing) in finding ways to wrestle with two core elements of American identity—race and ethnicity” (1).",
+    "after": "Indeed, as Williams (Williams and Pimentel 2014) further elaborates, race and ethnicity are “elements of our identity [that] shape user experiences as much as education, literacy, gender, nationality, or any of the other criteria we use to analyze audiences” (1)."
+   },
+   {
+    "loc": 38,
+    "page": "p. 22",
+    "kind": "p",
+    "before": "In her introduction to Communicating Race, Ethnicity, and Identity in Technical Communication, Williams (Williams and Pimentel 2014) explains that while the field of technical communication continues to expand, particularly alongside the development of emerging information technologies, “still, and unfortunately, we lag behind our colleagues in other areas of English studies (literature, rhetoric and composition, and creative writing) in finding ways to wrestle with two core elements of American identity—race and ethnicity” (1).",
+    "sentence": "Indeed, as Williams (Williams and Pimentel 2014) further elaborates, race and ethnicity are “elements of our identity [that] shape user experiences as much as education, literacy, gender, nationality, or any of the other criteria we use to analyze audiences” (1).",
+    "after": "Jones (2016) continues emphasizing the need for technical communicators to continue to address issues of race and ethnicity in their work, especially in relation to issues of social justice."
+   },
+   {
+    "loc": 42,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "",
+    "sentence": "In “Unsettling Race and Language: Toward a Raciolinguistic Perspective,” Jonathan Rosa and Nelson Flores (2017) “interrogate the historical and contemporary co-naturalization of language and race” to describe what they term “raciolinguistic ideologies” (622).",
+    "after": "Through this discussion, Rosa and Flores (2017) tie the separation of communicative practices into categorical “named” languages (e.g., Spanish, English, French) directly to a broader colonial project."
+   },
+   {
+    "loc": 42,
+    "page": "p. 26",
+    "kind": "p",
+    "before": "Through this discussion, Rosa and Flores (2017) tie the separation of communicative practices into categorical “named” languages (e.g., Spanish, English, French) directly to a broader colonial project.",
+    "sentence": "Drawing on Sinfree Makoni and Alastair Pennycook (2006), Rosa and Flores (2017) explain that “in conjunction with the production of race, nation-state/colonial governmentality imposed ideologies of separate and bounded languages on colonized populations” (623).",
+    "after": "In other words, European colonization established binary categorizations among countries, nations, and languages—all as part of a broader project intended to maintain white supremacy."
+   },
+   {
+    "loc": 49,
+    "page": "p. 33",
+    "kind": "p",
+    "before": "Instead, as Schalk (2018) elaborates, intersectionality is “an epistemological orientation and practice that is invested in coalition building and resistance to dominant structures of power” (8).",
+    "sentence": "Intersectionality, then, can help technical communicators recognize, rather than ignore, “the role that language plays in shaping our ideas about race and vice versa” (Alim, Rickford, and Ball 2016, 1).",
+    "after": "Ultimately, my goal in centering intersectionality as a methodology in multilingual technical communication is to insist that language diversity projects that ignore race can very easily erase important nuances about the role language plays in technological innovation while also maintaining oppressive power structures that deem particular (i.e., white/Western) people as the only ones capable of being innovative and intelligent."
+   },
+   {
+    "loc": 49,
+    "page": "p. 33",
+    "kind": "p",
+    "before": "Intersectionality, then, can help technical communicators recognize, rather than ignore, “the role that language plays in shaping our ideas about race and vice versa” (Alim, Rickford, and Ball 2016, 1).",
+    "sentence": "Ultimately, my goal in centering intersectionality as a methodology in multilingual technical communication is to insist that language diversity projects that ignore race can very easily erase important nuances about the role language plays in technological innovation while also maintaining oppressive power structures that deem particular (i.e., white/Western) people as the only ones capable of being innovative and intelligent.",
+    "after": "Thus, embracing intersectionality in language research, both within and beyond technical communication, requires an interrogation and intentional redressing of anti-Black and anti-Indigenous racism that has historically and contemporarily structured power relations in research (Tuck and Yang 2012; Alim and Pennycook 2007; Rosa and Flores 2017)."
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 96,
+  "input": "12f5f05f30d0",
+  "candidates": [
+   {
+    "loc": 8,
+    "page": "pp. viii–x",
+    "kind": "p",
+    "before": "March 19, 2020, California becomes the first state to issue a statewide stay-at-home order prompted by the pandemic.",
+    "sentence": "May 25, 2020, George Floyd is murdered at the hands of the Minneapolis Police Department; the next day, May 26, protesters take to the streets, prompting a wave of racial reckoning across the country.",
+    "after": "Meanwhile, on August 18, 2020, California Governor Gavin Newsome declares a state of emergency as the worst wildfire season in modern history sweeps up and down the West Coast."
+   },
+   {
+    "loc": 17,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "As an expanded field, DH incorporates critical theories both to expand representation within the field and ground research projects in critical theories of identity and power.",
+    "sentence": "The chapters in Debates in Digital Humanities 2023 demonstrate forcefully the continued excellence of scholarly work applying critical theories of positionality around questions of race (chapters 9, 12, and 15), gender (chapter 8), ability and embodiment (chapters 8 and 21), sexuality (chapter 7), language (chapters 3 and 19), and indigeneity (chapter 8).",
+    "after": "Furthermore, scholars apply critical methods to questions of oppression and inequality in computation and data, representing new humanistic considerations of tech."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 12–13",
+    "kind": "p",
+    "before": "If we are doing so much to integrate cultural theory into DH, why have we largely ignored the work of Marxist thinkers who have theorized and critiqued capitalism in ways that could help us respond to our detractors and spur the field to consider economic questions?",
+    "sentence": "Why is there not yet a Marxist digital humanities working to foreground economic issues in concert with critical interventions along intersectional axes of race, gender, ability, sexuality, and sovereignty?",
+    "after": "This absence is all the more surprising given the disproportional impact of Covid on these communities, both within the university and without (Shapiro; Cahn)."
+   },
+   {
+    "loc": 66,
+    "page": "pp. 95–96",
+    "kind": "p",
+    "before": "Brian Massumi observed that scholars instead parsed the “ideological apparatuses” that “rendered [bodies] legible according to a dominant signifying scheme into which human subjects in the making were ‘interpellated’” (1–2).",
+    "sentence": "However, disentangling material flesh from histories of sociocultural signification props up the false universality of the white liberal humanist subject, as Alexander Weheliye has elaborated in his account of racializing assemblages following Hortense Spillers.",
+    "after": "Similar to Spillers’s distinction between body and flesh, performance scholars in the late 1990s posited that it was possible and necessary to recognize that embodiment occupies “the fraught space between subject and object” (Schneider, Explicit Body, 18)."
+   },
+   {
+    "loc": 87,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "The digital humanities offers a uniquely powerful means to activate and to mobilize archival records.",
+    "sentence": "Records created by communities minoritized along lines of race, gender, sexuality, socioeconomic status, and HIV serostatus in the United States can be used to provoke and support social justice movements.",
+    "after": "In this short reflection, I focus on my experiences collaboratively building the digital project called “Early African American Film: Reconstructing the History of Early Race Films, 1909–1930.”"
+   },
+   {
+    "loc": 87,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "Records created by communities minoritized along lines of race, gender, sexuality, socioeconomic status, and HIV serostatus in the United States can be used to provoke and support social justice movements.",
+    "sentence": "In this short reflection, I focus on my experiences collaboratively building the digital project called “Early African American Film: Reconstructing the History of Early Race Films, 1909–1930.”",
+    "after": "This project was created and developed collaboratively over the course of one academic quarter."
+   },
+   {
+    "loc": 99,
+    "page": "p. 152",
+    "kind": "p",
+    "before": "",
+    "sentence": "How do assemblages of Blackness—that is to say, the racialized sets of “relations structured in political, economic, social, and heteropatriarchal dominance” at the university—unmask systems of power at work in collaborative spaces (Weheliye, 49)?",
+    "after": "For example, how does a Black contingent worker who is the only racial minority on a project team make their voice heard in spaces where their race and position at the university marginalize their voice?"
+   },
+   {
+    "loc": 99,
+    "page": "p. 152",
+    "kind": "p",
+    "before": "How do assemblages of Blackness—that is to say, the racialized sets of “relations structured in political, economic, social, and heteropatriarchal dominance” at the university—unmask systems of power at work in collaborative spaces (Weheliye, 49)?",
+    "sentence": "For example, how does a Black contingent worker who is the only racial minority on a project team make their voice heard in spaces where their race and position at the university marginalize their voice?",
+    "after": "Or how does the Black diversity officer handle being spoken over by senior university officials when their findings indicate a need for material investment in transformative efforts for meaningful change?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,220 @@
+[
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 2,
+  "input": "2df4caebc6e3",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "p. 8",
+    "kind": "p",
+    "before": "",
+    "sentence": "You might be tempted to see the datafication of injustice in that era as having been much worse than in the present, but I suggest we hold off on easy distinctions because, as we shall see, the language of “progress” is too easily weaponized against those who suffer most under oppressive systems, however sanitized.",
+    "after": ""
+   },
+   {
+    "loc": 128,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "Demanding more data on subjects that we already know much about is, in my estimation, a perversion of knowledge.",
+    "sentence": "The datafication of injustice ... in which the hunt for more and more data is a barrier to acting on what we already know.",
+    "after": "We need something like an academic equivalent of “I said what I said!” — the catchphrase of reality TV star NeNe Leakes — for those who insist on digging deeper and deeper into the genome for scientific solutions to social problems."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "6f08a069c878",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "pp. 13–14",
+    "kind": "p",
+    "before": "These research areas include machine behavior, and the already mentioned algorithm studies and critical data studies.",
+    "sentence": "(The 2017 open access anthology The Datafied Society: Studying Culture through Data collects a number of articles addressing methodological and ethical questions related to the use of data and algorithms in academic research.)",
+    "after": ""
+   },
+   {
+    "loc": 90,
+    "page": "p. 148",
+    "kind": "p",
+    "before": "Until the twenty-first century, only selected knowledge areas (i.e., natural sciences, biological sciences, and quantitative social sciences) and business have relied on quantitative data.",
+    "sentence": "But the “datafication” of many other fields and areas of human life means that they also now use quantitative representations.",
+    "after": "And this makes them subjectable to the same techniques of data mining, statistical modeling, and predictive analytics."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "78946fa1b9e7",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "This is the data economy, and corporations, often aided by academic researchers, are currently scrambling to see what behaviors—both online and off—remain to be turned into data and then monetized.",
+    "sentence": "Nothing is outside of datafication, as this process is sometimes termed—not your search history, or Catherine’s cats, or the butt that Lauren is currently using to sit in her seat.",
+    "after": "To wit: Shigeomi Koshimizu, a Tokyo-based professor of engineering, has been designing matrices of sensors that collect data at 360 different positions around a rear end while it is comfortably ensconced in a chair."
+   },
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although datafication may occasionally verge into the realm of the absurd, it remains a very serious issue.",
+    "after": "Decisions of civic, economic, and individual importance are already and increasingly being made by automated systems sifting through large amounts of data."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "eeaaf78f2765",
+  "candidates": [
+   {
+    "loc": 124,
+    "page": "PDF p. 124",
+    "kind": "p",
+    "before": "Religion also is a grounding for the digital’s links to transcendence; where the body is rendered in 1s and 0s while eschewing the bonds of material existence.",
+    "sentence": "The future can be understood as whiteness’s (and the West’s) quest for omniscience, where informational control over bodies (surveillance) and the material world (networks and datafication) is directly linked to spiritual, economic, and political gain.",
+    "after": "Information technologies are always seen as futuristic, drawing as they do on beliefs about control of the spirit and on the abstract reason of mathematics."
+   },
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "For example, consider the plantation.",
+    "sentence": "While it is relatively simple to consider it as an agricultural institution, the plantation depended on webs of trade, the datafication of the enslaved body (Reynolds, 2018), imperialist state policies of conquest and communication, and renegotiations of the state’s and the individual’s relationship to Black bodies.",
+    "after": "Modernity’s contribution to the mythology of information and communication technologies, then, differs little from its contribution to technoculture overall: reflexivity."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 7,
+  "input": "ec7ecbf76b7d",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "p. 1",
+    "kind": "p",
+    "before": "",
+    "sentence": "The fundamental activities that take the materials through processing and into presentation are mediation/remediation, datafication/modelling, processing/analytics, presentation/display, and sustainability/preservation.",
+    "after": "Understanding the ways in which each aspect of these activities engages technical as well as ethical considerations helps shape responsible work in digital projects."
+   },
+   {
+    "loc": 18,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "",
+    "sentence": "Datafication/modeling",
+    "after": ""
+   },
+   {
+    "loc": 18,
+    "page": "p. 3",
+    "kind": "p",
+    "before": "Materials or phenomena of almost any kind (such as the height of churches, the length of edited segments of film, the number of persons in a social network, or a list of names or places) can be turned into quantifiable and/or discrete data.",
+    "sentence": "The practice of datafication depends upon modeling.",
+    "after": "What are the assumptions that are built into deciding what can be extracted from an artifact, text, or other object of research?"
+   },
+   {
+    "loc": 19,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "",
+    "sentence": "Remediation/mediation, datafication/modeling, processing/analytics, presentation/display, and sustainability/preservation are the fundamental activities of digital humanities research.",
+    "after": "Each involves a series of decisions and tasks that will be described in the sections ahead in more detail."
+   },
+   {
+    "loc": 20,
+    "page": "p. 5",
+    "kind": "p",
+    "before": "",
+    "sentence": "The underlying activities just noted—remediation, datafication, processing, presentation, and sustainability—remain central to digital work and methods in the humanities and other fields.",
+    "after": "The chapters break these activities into more specific tasks, so they will be referenced throughout in the sequence that follows the workflow from materials through processing to presentation stages."
+   },
+   {
+    "loc": 22,
+    "page": "p. 7",
+    "kind": "p",
+    "before": "Many are built on existing tools and platforms, rather than in customized environments.",
+    "sentence": "Remediation/mediation, datafication/modeling, processing/analytics, presentation/display, and sustainability/preservation are the fundamental activities of digital humanities research.",
+    "after": "Learning how these components then a set of imaginary examples will be introduced to make the principles from the last section more concrete."
+   },
+   {
+    "loc": 32,
+    "page": "p. 17",
+    "kind": "p",
+    "before": "",
+    "sentence": "datafication, processing/analytics, presentation, and sustainability need to",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 3,
+  "input": "39e419aa929f",
+  "candidates": [
+   {
+    "loc": 69,
+    "page": "pp. 100–101",
+    "kind": "p",
+    "before": "Exploring the role of contemporary communities in the context of slavery’s archives, she argues that “truly embodied and data-rich histories” require “a methodology and praxis that centers the descendants of the enslaved, grapples with the uncomfortable, messy, and unquantifiable, and in doing so, refuses disposability” (71).",
+    "sentence": "In these spaces, lived connections are critical to resisting the drive toward abstraction or datafication.",
+    "after": ""
+   },
+   {
+    "loc": 86,
+    "page": "pp. 131–132",
+    "kind": "p",
+    "before": "While digitization projects centered on the pre-emancipation era hold the potential for powerful new humanistic narratives about Black resilience and redress to emerge, projects that take a more data-centric approach to the lived experiences of enslaved people have proved to be fraught and often problematic research sites.",
+    "sentence": "Here, I address concerns about the ways that the mass digitization and datafication of slavery-era archives have contributed to a distancing of the lived experiences of enslaved people from slavery’s historical imaginary, or what I call the digital afterlives of slavery-era archives.",
+    "after": ""
+   },
+   {
+    "loc": 87,
+    "page": "p. 133",
+    "kind": "p",
+    "before": "Principle 4 of the Manifest-NO demands that we refuse to understand data as disembodied and thereby dehumanized and departicularized and that we commit instead to understanding data as always and variously attached to bodies, which is one way forward—in both theory and practice—to approach the digital afterlives of slavery-era archives with compassion and care.",
+    "sentence": "I challenge us all to refuse to ignore the ways that Black people’s lives are affected and changed in the present by new digitized and datafied engagements with the past, and to commit to (re)articulating and to (re)membering the humanity in our digital humanities work.",
+    "after": ""
+   }
+  ]
+ }
+]

@@ -1,0 +1,1864 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 5,
+  "input": "c215d4ce40eb",
+  "candidates": [
+   {
+    "loc": 105,
+    "page": "PDF p. 105",
+    "kind": "p",
+    "before": "That the latter, in consequence, believed that the value of what the land produced was increased when it was transformed or transported; that they were preoccupied, by force of circumstance, with a market economy in which needs and desires created the laws.",
+    "sentence": "And that the Physiocrats, on the other hand, believed only in agricultural production, and claimed that its remuneration should be higher; that, being landowners, they attributed a natural basis to ground rent, and that, since they were claiming political power, they wanted to be the only ones subject to taxation, and thus in exclusive enjoyment of the rights taxation conferred.",
+    "after": "And there is no doubt that the broad economic choices of both sides can be perceived beyond their coherence of interests."
+   },
+   {
+    "loc": 127,
+    "page": "PDF p. 127",
+    "kind": "p",
+    "before": "It is thus apparent how the phenomenological task that Husserl was later to set himself is linked, in its profoundest possibilities and impossibilities, to the destiny of Western philosophy as it was established in the nineteenth century.",
+    "sentence": "It is trying, in effect, to anchor the rights and limitations of a formal logic in a reflection of the transcendental type, and also to link transcendental subjectivity to the implicit horizon of empirical contents, which it alone contains the possibility of constituting, maintaining, and opening up by means of infinite explicitations.",
+    "after": "But perhaps it does not escape the danger that, even before phenomenology, threatens every dialectical undertaking and causes it to topple over, willy-nilly, into an anthropology."
+   },
+   {
+    "loc": 160,
+    "page": "PDF p. 160",
+    "kind": "p",
+    "before": "",
+    "sentence": "If man is indeed, in the world, the locus of an empirico-transcendental doublet, if he is that paradoxical figure in which the empirical contents of knowledge necessarily release, of themselves, the conditions that have made them possible, then man cannot posit himself in the immediate and sovereign transparency of a cogito; nor, on the other hand, can he inhabit the objective inertia of something that, by rights, does not and never can lead to self-consciousness.",
+    "after": "Man is a mode of being which accommodates that dimension – always open, never finally delimited, yet constantly traversed – which extends from a part of himself not reflected in a cogito to the act of thought by which he apprehends that part; and which, in the inverse direction, extends from that pure apprehension to the empirical clutter, the chaotic accumulation of contents, the weight of experiences constantly eluding themselves, the whole silent horizon of what is posited in the sandy stretches of non-thought."
+   },
+   {
+    "loc": 180,
+    "page": "PDF p. 180",
+    "kind": "p",
+    "before": "To each of the sciences of man it offers a background, which establishes it and provides it with a fixed ground and, as it were, a homeland; it determines the cultural area – the chronological and geographical boundaries – in which that branch of knowledge can be recognized as having validity; but it also surrounds the sciences of man with a frontier that limits them and destroys, from the outset, their claim to validity within the element of universality.",
+    "sentence": "It reveals in this way that though man – even before knowing it – has always been subjected to the determinations that can be expressed by psychology, sociology, and the analysis of language, he is not therefore the intemporal object of a knowledge which, at least at the level of its rights, must itself be thought of as ageless.",
+    "after": "Even when they avoid all reference to history, the human sciences (and history may be included among them) never do anything but relate one cultural episode to another (that to which they apply themselves as their object, and that in which their existence, their mode of being, their methods, and their concepts have their roots); and though they apply themselves to their own synchronology, they relate the cultural episode from which they emerged to itself."
+   },
+   {
+    "loc": 184,
+    "page": "PDF p. 184",
+    "kind": "p",
+    "before": "Linguistic analysis is more a perception than an explanation: that is, it is constitutive of its very object.",
+    "sentence": "Moreover, we find that by means of this emergence of structure (as an invariable relation within a totality of elements) the relation of the human sciences to mathematics has been opened up once more, and in a wholly new dimension; it is no longer a matter of knowing whether one can quantify results, or whether human behaviour is susceptible of being introduced into the field of a measurable probability; the question that arises is that of knowing whether it is possible without a play on words to employ the notion of structure, or at least whether it is the same structure that is referred to in mathematics and in the human sciences; a question that is central if one wishes to know the possibilities and rights, the conditions and limitations, of a justified formalization; it will be seen that the relation of the sciences of man to the axis of the formal and a priori disciplines – a relation that had not been essential till then, and as long as the attempt was made to identify it with the right to measure – returns to life and perhaps becomes fundamental now that within the space of the human sciences there emerges their relation both to the empirical positivity of language and to the analytic of finitude; the three axes which define the volume proper to the sciences of man thus become visible, and almost simultaneously so, in the questions they pose.",
+    "after": "Lastly, as a result of the importance of linguistics and of its application to the knowledge of man, the question of the being of language, which, as we have seen, is so intimately linked with the fundamental problems of our culture, reappears in all its enigmatic insistence."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 2,
+  "input": "b542dd7ca40d",
+  "candidates": [
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "Print created a new sense of the private ownership of words.",
+    "sentence": "Persons in a primary oral culture can entertain some sense of proprietary rights to a poem, but such a sense is rare and ordinarily enfeebled by the common share of lore, formulas, and themes on which everyone draws.",
+    "after": "With writing, resentment at plagiarism begins to develop."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "Richard Pynson secured such a privilegium in 1518 from Henry VIII.",
+    "sentence": "In 1557 the Stationers' Company was incorporated in London to oversee authors' and printers' or printer-publishers' rights, and by the eighteenth century modern copyright laws were shaping up over western Europe.",
+    "after": "Typography had made the word into a commodity."
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 15,
+  "input": "b7bf014c703a",
+  "candidates": [
+   {
+    "loc": 67,
+    "page": "p. 53",
+    "kind": "p",
+    "before": "First, Yerkes put the entire investigation of sex drive and dominance-subordination explicitly in the context of pressing contemporary debates.",
+    "sentence": "Yerkes assumed that feminism was equivalent to the proposition that males and females were biologically ‘equal’; that is to say, he assumed that the concept of rights in political philosophy was properly rooted in natural economy.",
+    "after": "On ‘scientific grounds’, Yerkes firmly rejected the proposition that males were mentally superior, or, for that matter, naturally dominant."
+   },
+   {
+    "loc": 115,
+    "page": "p. 101",
+    "kind": "p",
+    "before": "The rules of observation themselves are very much contested by the daughters of the Washburn lineage.",
+    "sentence": "But most of all, the stories are contested — which ‘idealizations’ about primate life, human and non-human, will have the status of scientific knowledge.!° REPRODUCTIVE RIGHTS AMONG OPPORTUNISTS:",
+    "after": ""
+   },
+   {
+    "loc": 115,
+    "page": "p. 101",
+    "kind": "p",
+    "before": "Ripley also enters in the contest for primate nature a candidate for a model for human possibility within inherited constraint.",
+    "sentence": "Her model turns on the logic of mechanisms for population regulation and calls on the language of women’s contemporary struggles for reproductive rights, as well as the language of ecological stress and population catastrophes.",
+    "after": "Stress is a basic determinant of the story’s plot."
+   },
+   {
+    "loc": 122,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "",
+    "sentence": "This chapter has argued that Jay’s (and DeVore’s) stories about the social group as the principal primate adaptation, Hrdy’s sociobiological challenges based on game theory, strict liberal political economy, and Hobbesian origin stories, Ripley’s curious rendering of reproductive rights in stressed conditions, and Bogess’s destabilization of what counts as fact are all important scientific products of ordinary good scientific practice judged by standards applicable at publication.",
+    "after": "That tradition of practice has been symbolized by the fictional device of controversies in a patriline."
+   },
+   {
+    "loc": 163,
+    "page": "p. 137",
+    "kind": "p",
+    "before": "She then called for a Marxian analysis of sex/gender systems as products of human activity which are changeable through political struggle.",
+    "sentence": "Rubin viewed the sexual division of labour and the psychological construction of desire (especially the oedipal formation) as the foundations of a system of production of human beings vesting men with rights in women which they do not have in themselves.",
+    "after": "To survive materially where men and women cannot perform the other’s work and to satisfy deep structures of desire in the sex/gender system in which men exchange women, heterosexuality is obligatory."
+   },
+   {
+    "loc": 163,
+    "page": "p. 137",
+    "kind": "p",
+    "before": "",
+    "sentence": "If the sexual property system were reorganized in such a way that men did not have overriding rights in women (if there was no exchange of women) and if there were no gender, the entire Oedipal drama would be a relic.",
+    "after": "In short, feminism must call for a revolution in kinship."
+   },
+   {
+    "loc": 171,
+    "page": "p. 145",
+    "kind": "p",
+    "before": "Carby clarified how in the New World, and specifically in the United States, black women were not constituted as ‘woman’, as white women were.",
+    "sentence": "Instead, black women were constituted simultaneously racially and sexually — as marked female (animal, sexualized and without rights), but not as woman (human, potential wife, conduit for the name of the father) — in a specific institution, slavery, that excluded them from ‘culture’ defined as the circulation of signs through the system of marriage.",
+    "after": "If kinship vested men with rights in women that they did not have in themselves, slavery abolished kinship for one group in a legal discourse that produced whole groups of people as alienable property (Spillers, 1987)."
+   },
+   {
+    "loc": 171,
+    "page": "p. 145",
+    "kind": "p",
+    "before": "Instead, black women were constituted simultaneously racially and sexually — as marked female (animal, sexualized and without rights), but not as woman (human, potential wife, conduit for the name of the father) — in a specific institution, slavery, that excluded them from ‘culture’ defined as the circulation of signs through the system of marriage.",
+    "sentence": "If kinship vested men with rights in women that they did not have in themselves, slavery abolished kinship for one group in a legal discourse that produced whole groups of people as alienable property (Spillers, 1987).",
+    "after": "MacKinnon (1982, 1987) defined woman as an imaginary figure, the object of another’s desire, made real."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 3,
+  "input": "92136051f361",
+  "candidates": [
+   {
+    "loc": 86,
+    "page": "p. 69",
+    "kind": "p",
+    "before": "Yet the 1960s were a period of conflict both in the USA and elsewhere, and of conflict moreover focusing on precisely the issues of ‘race, power, and history’.",
+    "sentence": "Both the civil rights movement in the USA and anti-colonial struggles elsewhere in the world, particularly in Vietnam, made the relations between West and non-West, black and white, especially troubled.",
+    "after": "The National Geographic responded by removing pictures that showed West and non-West, black and white, in contact."
+   },
+   {
+    "loc": 198,
+    "page": "p. 181",
+    "kind": "q",
+    "before": "The coin-like, bas-relief seals of the United States and of the Liberty Bell are stamped on the front panels.",
+    "sentence": "Inscribed across the top are the words TRUTH, KNOWLEDGE, VISION and the dedication to Roosevelt as ‘a great leader of the youth of America, in energy and fortitude in the faith of our fathers, in defense of the rights of the people, in the love and conservation of nature and of the best in life and in man’.",
+    "after": "Youth, paternal solicitude, virile defense of democracy, and intense emotional connection to nature are the unmistakable themes."
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 3,
+  "input": "884cfd2c50e2",
+  "candidates": [
+   {
+    "loc": 126,
+    "page": "PDF p. 126",
+    "kind": "p",
+    "before": "Without the avid reading of countless fashion magazines, would you know how to bake a cake?",
+    "sentence": "And what about putting on a condom, consoling your lover, brushing your hair, fighting for your rights, or picking out the right clothes?",
+    "after": ""
+   },
+   {
+    "loc": 143,
+    "page": "PDF p. 143",
+    "kind": "p",
+    "before": "I am not deluded enough to believe that ANT could escape the fate of all theories: to think is not to solve arduous problems, only to displace them.",
+    "sentence": "For such an encounter with objects to take place, other circulating entities have to be granted back some rights of citizenry, so that they, too, can have a seat with the older members.",
+    "after": "But aren’t sociologists of the social proud of having dissolved all those exotic objects?"
+   },
+   {
+    "loc": 154,
+    "page": "PDF p. 154",
+    "kind": "p",
+    "before": "Thus economists, for instance, are not simply describing some economic infrastructure which has always been there since the beginning of time.",
+    "sentence": "They are revealing calculative abilities in actors who did not know before they had them and making sure that some of these new competences are sunk into common sense through the many practical tools of bank accounts, property rights, cash register slips, and other plug-ins.",
+    "after": "Sociologists of the social, as we have seen, have done much more than ‘discover’ what a society is."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 15,
+  "input": "c61476edc7f4",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "Powell is also best known for deregulating cable Internet services, facilitating media conglomeration, and “easing the burden on companies that make voice over Internet telephone technology.”",
+    "sentence": "When the early Internet’s historians wish to glorify its interactivity, gift economy, and decentralized structure, they tend to trace its technological and cultural roots to the ethos of the sixties, with its implicit connections to liberation movements such as the civil rights movement, the women’s movement, and the hippie movement.",
+    "after": "However, when we look to the post-2000 graphical popular Internet, this utopian story of the Internet’s beginnings in popular culture can be told with a different spin, one that instead tracks its continuing discourse of color blindness in terms of access, user experience, and content that is reﬂected in the scholar- ship as well as in nineties neoliberalism’s emphasis on “moderate redistribution and cultural universalism.”"
+   },
+   {
+    "loc": 85,
+    "page": "p. 74",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Michael Omi notes, one strategic response to the reiﬁcation of race by many of its subjects, for example, newly anointed “Asian Americans,” a racialized term that Omi asserts did not come into existence until after the civil rights movement, has been to employ the notion of panethnicity as a way to gain political power by enabling them to form a larger political constituency.",
+    "after": "The purposeful elision of signiﬁcant and often divisive cultural, linguistic, and ethnic differences between groups such as Japanese, Chi- nese, Filipinos, Vietnamese, and Koreans enforced by U.S. policies caused race to signify far more than ethnicity."
+   },
+   {
+    "loc": 137,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "The ICAO proposes to create a national biometric database by requiring all air travelers to submit to facial recognition systems, retinal scans, and ﬁngerprinting; many of these measures are already required of U.S. visitors.",
+    "sentence": "A consortium of human rights and civil liberties groups opposes these measures on the grounds that they violate the right to privacy of movement, as well as helping to create “interconnecting databases that, according to E.U. privacy ofﬁcials, ‘could lead to detailed proﬁles of an individual’s habits both in the public and in the private sector.’”",
+    "after": "In particular, the letter notes the inaccuracy of facial recognition systems, which contain a high likelihood of “false non-matches” (where valid individuals are refused border entry because the technology fails to recognize them) and false matches (where an individual is matched to another individual incorrectly) and also “may reveal racial or ethnic origin.”"
+   },
+   {
+    "loc": 137,
+    "page": "p. 126",
+    "kind": "p",
+    "before": "",
+    "sentence": "As Castells notes, children and single mothers are especially exploited under informational capitalism on account of the demise of patriarchalism and the absence of alternative social mechanisms to protect the rights of mothers and children.",
+    "after": "Minority Report’s Precognitives embody the exploitation of these abject bodies by the dataveillant state."
+   },
+   {
+    "loc": 145,
+    "page": "p. 134",
+    "kind": "p",
+    "before": "",
+    "sentence": "While debates between the religious Right and advocates for women’s reproductive rights continue to rage, calling into question a woman’s ability to “own” her own body, the Internet provides a place where pregnant and TTC (trying to conceive) women can create and own their own digital bodies.",
+    "after": "Pregnant avatars are databodies that women deploy as part of a visual counterdiscourse to the images of databodies on the Internet that come out of much nineties cyberpunk ﬁction and that still persist: images of male cyberhackers constitute the illusory and normative “unmarked body” to which Phelan refers."
+   },
+   {
+    "loc": 181,
+    "page": "p. 170",
+    "kind": "p",
+    "before": "Beyond this, women’s creation of digital signatures enables genuine resistance to institutional forms of identity management that only continue to proliferate in daily life.",
+    "sentence": "While the seemingly free spaces of composable identities evident in build-your-own avatar games like MMORPGs continue to instantiate stereotyped images of women, as Rodowick observes, “there is still an unequal division of power in the data images that count— for access to credit, medical insurance, voting and residency rights, ownership of property, and so forth—[and they are] still culled, collated, and controlled by a few large corporations and marketing organizations.”",
+    "after": "What are the “data images that count,” the avatars that matter, in relation to women’s reproductive labor online?"
+   },
+   {
+    "loc": 207,
+    "page": "p. 196",
+    "kind": "p",
+    "before": "Concerns that the racialized body or “meat” might itself be the basis for effective activism cause these writers to question whether social change can occur without “putting your body on the line,” as they dramatically put it.",
+    "sentence": "Protests, particularly civil rights ones, have often depended on the ability to successfully visualize activism, especially when the particular offense in question is itself visual in nature, as in the case of racism in advertising and media.",
+    "after": "In addition to seeking visibility as a cause in and of itself (some protests are less concerned with accomplishing actual speciﬁc goals than with “getting themselves out there” and being correctly counted by the media), civil rights protests in particular have capitalized on producing visual evidence of racial diversity in their support base."
+   },
+   {
+    "loc": 207,
+    "page": "p. 196",
+    "kind": "p",
+    "before": "Protests, particularly civil rights ones, have often depended on the ability to successfully visualize activism, especially when the particular offense in question is itself visual in nature, as in the case of racism in advertising and media.",
+    "sentence": "In addition to seeking visibility as a cause in and of itself (some protests are less concerned with accomplishing actual speciﬁc goals than with “getting themselves out there” and being correctly counted by the media), civil rights protests in particular have capitalized on producing visual evidence of racial diversity in their support base.",
+    "after": "It is thus that the presence of whites in Martin Luther King’s civil rights protests and the presence of men at pro-choice rallies attest to the ideas, as well as that a cause beneﬁts from visible diversity."
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 15,
+  "input": "47737ab8c03b",
+  "candidates": [
+   {
+    "loc": 12,
+    "page": "PDF p. 12",
+    "kind": "p",
+    "before": "However, instead of simply bemoaning this situation, this book also asks: Can we—by inhabiting the habitual— change society?",
+    "sentence": "Further, rather than pushing for a privacy that is no privacy—a security that fosters insecurity—what would happen if we demanded more rigorous public rights?",
+    "after": "If we fought for the right to be exposed—to take risks and to be in public—and not be attacked?"
+   },
+   {
+    "loc": 25,
+    "page": "p. 10",
+    "kind": "p",
+    "before": "Neoliberalism, to repeat a cliché, destroys the public by fostering the private.",
+    "sentence": "It leads to the rampant privatization of all public services, and, at least in the United States, gives private corporations the rights of citizens.",
+    "after": "Neoliberalism, as David Harvey succinctly explains, is “a theory of political economic practices that proposes that human well-being can best be advanced by liberating individual entrepreneurial freedoms and skills within an institutional framework characterized by strong private property rights, free markets, and free trade.”"
+   },
+   {
+    "loc": 25,
+    "page": "p. 10",
+    "kind": "p",
+    "before": "It leads to the rampant privatization of all public services, and, at least in the United States, gives private corporations the rights of citizens.",
+    "sentence": "Neoliberalism, as David Harvey succinctly explains, is “a theory of political economic practices that proposes that human well-being can best be advanced by liberating individual entrepreneurial freedoms and skills within an institutional framework characterized by strong private property rights, free markets, and free trade.”",
+    "after": "In a neoliberal society, the logic of the market has become its ethics; all human interactions, from love to education, become economic transactions to be analyzed in terms of costs and benefits."
+   },
+   {
+    "loc": 76,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "This empowerment—via grammars of action—also silences by denying the importance of language.",
+    "sentence": "If language is central to the act of claiming rights, the rejection of spoken language in favor of parsed actions, as Rouvroy points out, has troubling consequences for the future of democracy.",
+    "after": ""
+   },
+   {
+    "loc": 111,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "This next section reveals that such a reframing would move the focus away from protecting or condemning private subjects, who are treated as potential leaks, toward sheltering public subjects, whose actions are currently ‘privatized,’ that is ‘housed’ by states and corporations.",
+    "sentence": "It would end slut shaming and turn the debate toward the creation and maintenance of public rights.",
+    "after": "Within the United States, “public figures,” a category that includes those involuntarily thrust into the public eye, have no expectation of privacy."
+   },
+   {
+    "loc": 140,
+    "page": "p. 125",
+    "kind": "p",
+    "before": "As the then-anonymous New York organizer “Bill” noted, “There seems to be something inherently political about an inexplicable mob.”",
+    "sentence": "Indeed, the gathering of a mob, speaking in a language not entirely understandable in the words and gestures of official politics (that is, in a language not easily recognized as political), recalls the traditional “noisy” claiming of rights.",
+    "after": "The fact that these flash mobs were deliberately nonpolitical and couched in terms of play and yet were so disruptive—coupled with the fact that they would later mutate into highly orchestrated commercial public relations events and criminalized swarms, as well as TXTmob—also exemplifies the dangers of occupying and opening this liquid space between public and private, the dangers and possibilities also exemplified by the opening that is a friend."
+   },
+   {
+    "loc": 161,
+    "page": "p. 146",
+    "kind": "p",
+    "before": "“bad boys, jello shooters, and body art”) was taken without consent from Ms. Chaney’s Facebook.com page.",
+    "sentence": "After school officials refused to apologize or hold a requested assembly on “respecting the rights of others on the Internet,” Ms. Chaney sued the school district for two million dollars, arguing that the district had acted as a bully by branding her publicly as a “sexually-promiscuous abuser of alcohol”—that is, by essentially outing her as shameless and trying to shame her.",
+    "after": "The moral of this and so many other stories of slut shaming is: don’t be stupid enough to expose yourself because “Once It’s There—It’s There to Stay.”"
+   },
+   {
+    "loc": 174,
+    "page": "p. 159",
+    "kind": "p",
+    "before": "To do this, we need to redefine our understanding of violence in relation to public space—to see … the denial of access to public space as the worst possible outcome for women.",
+    "sentence": "Instead of safety, what women would then seek is the right to take risks, placing the claim to public space in the discourse of rights rather than protectionism.”",
+    "after": "As they note, this call for safety frames these women as “not safe in public spaces, sanctioning even greater restrictions on their movements.”"
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 15,
+  "input": "83f4ad11f80c",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "The parallel between programming and literacy has also made its way into popular commentary: Douglas Rushkoff says that learning programming gives people “access to the control panel of civilization,” and Marc Prensky argues that “as programming becomes more important, it will leave the back room and become a key skill and attribute of our top intellectual and social classes, just as reading and writing did in the past.”",
+    "sentence": "Code.org, a nonprofit started in 2013 and supported by Mark Zuckerberg and Bill Gates, showcases on its website a litany of quotes from educators, technologists, and public figures claiming that learning to code is an issue of “civil rights,” the “4ᵗʰ literacy,” and a way to “control your destiny, help your family, your community, and your country.”",
+    "after": "One of Code.org’s promotional videos is titled, “Code: The New Literacy.”"
+   },
+   {
+    "loc": 45,
+    "page": "PDF p. 45",
+    "kind": "p",
+    "before": "The Economic Opportunity Act of 1964 and the Adult Education Act of 1966, which split off the literacy component from the 1964 act, were focused on the individual economic disadvantages of illiteracy.",
+    "sentence": "They sought specifically to widen opportunities for disadvantaged American adults, in concordance with the civil rights movement and President Lyndon B. Johnson’s War on Poverty.",
+    "after": "But the disadvantages of illiteracy were national as well, which is more directly noted in the National Literacy Act of 1991."
+   },
+   {
+    "loc": 46,
+    "page": "PDF p. 46",
+    "kind": "p",
+    "before": "Coupled with the Nation at Risk report, these statistics were alarming and prompted action.",
+    "sentence": "In 1990, President George H.W. Bush included adult education for the first time in the National Goals, which optimistically declared, “By the year 2000, every adult in America will be literate and will possess the knowledge and skills necessary to compete in a global economy and exercise the rights and responsibilities of citizenship.”",
+    "after": "Established in 1991 with the National Literacy Act (and closed in 2010), the National Institute for Literacy in its mission statement connects the expanding terrain of literacy to its development as “a national asset”:"
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "A democracy—at least ideally—demands an informed citizenry, and when information circulates in text, being informed means being able to read.",
+    "sentence": "However, this idealistic democratic rhetoric came at some cost: pluralistic, unschooled literacies from the eighteenth century, especially those that supported workers’ rights in Britain, were homogenized into a more standardized and hierarchized schooled literacy.",
+    "after": "Stevens argues that as the voting qualifications of property, race, and sex were eventually abolished in the United States, education came to bear more weight in the definition of rational citizenship."
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "Will.i.am’s idea of global citizenship elevates the rhetoric above the national level, underscoring programming’s universal applications to daily life and activity.",
+    "sentence": "Hadi Partovi connects Code.org’s mission to the American dream, which invokes the rights an American citizen has to education: “It is a fundamental American ideal—and an ideal people worldwide aspire to— that access to education and opportunity should be equal for all.",
+    "after": "It seems un-American to accept that computer science classes are only available to the privileged few, in only 10 percent of schools."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "Here, Jones echoes Lawrence Lessig’s characterization of East Coast Code (laws on the books) versus West Coast Code (law in code).",
+    "sentence": "He also ties it to demographics and civil rights, tapping into notions of citizenship and empowerment.",
+    "after": ""
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "It is very dangerous to have a tiny, tiny demographic control all the technology to build the future.",
+    "sentence": "Democratizing the tools to create the future is a civil rights issue, a human rights issue, and a commonsense issue.",
+    "after": "Here, Jones echoes Lawrence Lessig’s characterization of East Coast Code (laws on the books) versus West Coast Code (law in code)."
+   },
+   {
+    "loc": 113,
+    "page": "PDF p. 113",
+    "kind": "p",
+    "before": "from Archive.org.",
+    "sentence": "Reprinted courtesy of Cloanto Corporation, rights holder for Commodore Computer.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 37,
+  "input": "28441bbaf083",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "PDF p. 10",
+    "kind": "p",
+    "before": "On the Internet and in our everyday uses of technology, discrimination is also embedded in computer code and, increasingly, in artificial intelligence technologies that we are reliant on, by choice or not.",
+    "sentence": "I believe that artificial intelligence will become a major human rights issue in the twenty-first century.",
+    "after": "We are only beginning to understand the long-term consequences of these decision-making tools in both masking and deepening social inequality."
+   },
+   {
+    "loc": 40,
+    "page": "PDF p. 40",
+    "kind": "p",
+    "before": "Those who have been inappropriately and unfairly represented in racist and sexist ways in old media have been able to cogently critique those representations and demand expanded representations, protest stereotypes, and call for greater participation in the production of alternative, nonstereotypical or oppressive representations.",
+    "sentence": "This is part of the social charge of civil rights organizations such as the Urban League and the National Association for the Advancement of Colored People, which monitor and report on minority misrepresentations, as well as celebrate positive portrayals of African Americans in the media.",
+    "after": "At a policy level, some civil rights organizations and researchers such as Darnell Hunt, dean of the division of social science and department chair of sociology at UCLA, have been concerned with media representations of African Americans, and mainstream organizations such as Free Press have been active in providing resources about the impact of the lack of diversity, stereotyping, and hate speech in the media."
+   },
+   {
+    "loc": 40,
+    "page": "PDF p. 40",
+    "kind": "p",
+    "before": "This is part of the social charge of civil rights organizations such as the Urban League and the National Association for the Advancement of Colored People, which monitor and report on minority misrepresentations, as well as celebrate positive portrayals of African Americans in the media.",
+    "sentence": "At a policy level, some civil rights organizations and researchers such as Darnell Hunt, dean of the division of social science and department chair of sociology at UCLA, have been concerned with media representations of African Americans, and mainstream organizations such as Free Press have been active in providing resources about the impact of the lack of diversity, stereotyping, and hate speech in the media.",
+    "after": "Indeed, some of these resources have been directed toward net-neutrality issues and closing the digital divide."
+   },
+   {
+    "loc": 80,
+    "page": "PDF p. 80",
+    "kind": "p",
+    "before": "Recall that what shows up on the first page of search is typically highly optimized advertising-related content, because Google is an advertising company and its clients are paying Google for placement on the first page either through direct engagement with Google’s AdWords program or through a gray market of search engine optimization products that help sites secure a place on the first page of results.",
+    "sentence": "Jessie Daniels’s book Cyber Racism: White Supremacy Online and the New Attack on Civil Rights is the most comprehensive and important research to date on the ways that “cloaked websites,” or websites that purport to be one thing, such as a viable news source or a legitimate social and cultural organization, operate as fronts for organizations such as the CCC, the Ku Klux Klan, and thousands of hate-based websites, which also pay to play.",
+    "after": "Daniels names the mainstream process of making sense of online information a “white racial frame,” which allows many White Americans to essentially segregate online into spaces that question the legitimacy and viability of cultural pluralism and racial equality."
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Much of the debate has focused on maintaining an open Internet, free from traffic-routing discrimination.",
+    "sentence": "In this context, discrimination refers to the movement of data and the rights of content providers not to have their traffic delayed or managed across the network regardless of size or content.",
+    "after": "Focus on content prioritization processes should enter the debates over net neutrality and the openness of the web when mediated by search engines, especially Google."
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Over the past few years, consumer watchdog organizations have been enhancing their efforts to provide data about Google’s commercial practices to the public, and the Federal Trade Commission is investigating everything from Wi-Fi data harvesting of consumer data to Google’s horizontal ownership and dominance of web-based services such as YouTube, AdSense, Google Maps, Blogger, Picasa, Android, Feedburner, and so on.",
+    "sentence": "Internet service providers have been set back by the recent U.S. court of appeals decision to protect the rights of consumers via maintaining the FCC stance on protecting net neutrality.",
+    "after": "The decision prevents Comcast from prioritizing or discriminating in traffic management over its networks."
+   },
+   {
+    "loc": 108,
+    "page": "PDF p. 108",
+    "kind": "p",
+    "before": "Most of the attention to the protection of online information has been argued legally as a matter of “rights.”",
+    "sentence": "Rights are a type of property, or entitlement, that function on the web through a variety of narratives, such as “free speech” and “freedom of expression,” all of which are constitutionally protected in the United States.",
+    "after": "The framing of web content and ownership of web URLs as “property” afforded private protections is of consequence for individuals, as noted in Jessie Daniels’s aforementioned work, which documents the misrepresentation of Dr. Martin Luther King Jr. at the site martinlutherking.org, a cloaked website managed by neo-Nazis and White supremacists at Stormfront."
+   },
+   {
+    "loc": 108,
+    "page": "PDF p. 108",
+    "kind": "p",
+    "before": "",
+    "sentence": "Most of the attention to the protection of online information has been argued legally as a matter of “rights.”",
+    "after": "Rights are a type of property, or entitlement, that function on the web through a variety of narratives, such as “free speech” and “freedom of expression,” all of which are constitutionally protected in the United States."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 88,
+  "input": "51e69f1d74ea",
+  "candidates": [
+   {
+    "loc": 8,
+    "page": "pp. 9–10",
+    "kind": "p",
+    "before": "Stories of new technologies facilitating communication and opening opportunity became harder to find.",
+    "sentence": "Today, I mostly hear that the new regime of data constricts poor and working-class people’s opportunities, demobilizes their political organizing, limits their movement, and undercuts their human rights.",
+    "after": "What has happened since 2007 to alter so many people’s hopes and dreams?"
+   },
+   {
+    "loc": 16,
+    "page": "pp. 30–31",
+    "kind": "p",
+    "before": "",
+    "sentence": "At the same time, the civil rights movement articulated a moral right to equal public accommodation and political participation for African Americans.",
+    "after": "The argument that supported the integration of public schools and the expansion of the vote was easily extended to the integration of public assistance."
+   },
+   {
+    "loc": 17,
+    "page": "pp. 32–34",
+    "kind": "p",
+    "before": "Databases were linked together to track recipient behavior and spending across different social programs.",
+    "sentence": "The conflict between the expanding legal rights of welfare recipients and weakened support for public assistance was resolved by a wave of high-tech tools.",
+    "after": "Because public assistance programs are federally funded and locally controlled, the uptake of welfare administration technology varied from state to state."
+   },
+   {
+    "loc": 18,
+    "page": "pp. 35–36",
+    "kind": "p",
+    "before": "But the route followed by New York provides an illuminating example.",
+    "sentence": "New York had the largest, most vocal welfare rights movement and the fastest expanding AFDC rolls in the country.",
+    "after": "By the late 1960s, one out of ten of the nation’s welfare recipients lived in New York City, and they had organized into somewhere between 60 and 80 local welfare rights groups."
+   },
+   {
+    "loc": 87,
+    "page": "pp. 206–208",
+    "kind": "p",
+    "before": "",
+    "sentence": "If you lack even one of the economic rights promised by the 1948 Universal Declaration of Human Rights—including health care, housing, a living-wage job, and quality education—PPEHRC counts you among the poor.",
+    "after": "The redefinition is tactical, an attempt to help poor and working-class people see themselves reflected in each others’ experiences."
+   },
+   {
+    "loc": 87,
+    "page": "pp. 206–208",
+    "kind": "p",
+    "before": "The redefinition is tactical, an attempt to help poor and working-class people see themselves reflected in each others’ experiences.",
+    "sentence": "The movement engages in a wide array of strategies, from building tent cities and reoccupying abandoned “human rights houses” to direct action marches and documenting economic human rights abuses.",
+    "after": "But storytelling is central to their work."
+   },
+   {
+    "loc": 87,
+    "page": "pp. 206–208",
+    "kind": "p",
+    "before": "",
+    "sentence": "In February 1968, King and other members of the SCLC drafted a letter to President Johnson and the Congress making their demands for an economic and social Bill of Rights clear.",
+    "after": "“We do not come here to ask for charity,” they wrote, “We demand justice.… We speak as black men and women on behalf of black men and women."
+   },
+   {
+    "loc": 87,
+    "page": "pp. 206–208",
+    "kind": "p",
+    "before": "“We do not come here to ask for charity,” they wrote, “We demand justice.… We speak as black men and women on behalf of black men and women.",
+    "sentence": "But the rights we insist upon do not apply only to our own people.",
+    "after": "They are, as this nation has proclaimed, but not practiced … the rights of all men.”"
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 2,
+  "input": "ea43b466d0c8",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "As project directors Allen Isaacman, Premesh Lalu, and Thomas Nygren note, “As it relates specifically to the domain of history as a discipline, the digitization process places contested archives in a cyberspace that is highly commodified.”",
+    "sentence": "The ingestion of Aluka into JSTOR has raised a host of issues, from intellectual property rights to the misappropriation of national heritage.",
+    "after": "Advocates, on the other hand, suggest that the histories brought together in the archive, drawn from across southern African countries, shed new light on narratives that might otherwise be read exclusively in national contexts when they are, in fact, transnational and thus transform how we understand the term “postcolonial” today."
+   },
+   {
+    "loc": 70,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "Around the same time, activists within the Occupy movement took advantage of the Twitter platform to facilitate a decentralized movement of activists.",
+    "sentence": "Still other Twitter-​based activism includes the Idle No More movement, which coordinates political actions for First Nations rights in Canada, and MMIW, which calls attention to the epidemic of missing and murdered indigenous women in Canada.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 26,
+  "input": "34358662aab3",
+  "candidates": [
+   {
+    "loc": 34,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "15).",
+    "sentence": "The desires and rights of the individual are diminished in favor of a pro-life stance in which the only life considered to matter is that of the fetus.",
+    "after": ""
+   },
+   {
+    "loc": 63,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "Returning to Maeve and her daughter, I see a real-world parallel in Sophia, the android from Hansen robotics.",
+    "sentence": "The BBC reports that on October 25, 2017, Sophia was granted citizenship by Saudi Arabia at the Future Investment Initiative in Riyadh, and many women were quick to point out on social media that she now had more rights than Saudi women (Sini).",
+    "after": "Within a few weeks, on November 28, 2017, Newsweek reported that Sophia stated that she wants to have a child, and that robots deserve to have families (Ray)."
+   },
+   {
+    "loc": 63,
+    "page": "p. 35",
+    "kind": "p",
+    "before": "Within a few weeks, on November 28, 2017, Newsweek reported that Sophia stated that she wants to have a child, and that robots deserve to have families (Ray).",
+    "sentence": "Sentient androids are already asking for more rights than many trans women in the United States have.",
+    "after": "In a debate on stage with another Hansen android in July 2017 at the RISE conference, which Korea Times describes as “the largest tech conference in Asia,” Sophia stated that she wanted to “work together with people to make a better world for all of us” through empathy (Park, Perez)."
+   },
+   {
+    "loc": 138,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "Of the existing digital humanities projects that directly address queer issues, some use established DH practices, such as archiving and generating visualizations, to make information regarding queer artistic and political lineages more widely available.",
+    "sentence": "The Lesbian and Gay Liberation in Canada project, for example, presents users with an interactive online map that highlights key events and locations in Canadian lesbian and gay rights activism between 1964 and 1981 (lglc.ca).",
+    "after": "Through this map, the project brings queer history to life, reanimating it via dynamic digital interfaces."
+   },
+   {
+    "loc": 170,
+    "page": "p. 142",
+    "kind": "p",
+    "before": "Gay liberationists were interested in a radical break with a culture that permitted institutional, financial, legal, and physical violence against gay people.",
+    "sentence": "Contemporary gay rights activism, with its focus on legal rights and marriage, is more invested in integration, and in some cases even assimilation, than liberation activism was.",
+    "after": "We hope, through the project, to make visible the historically specific struggle and politics of gay liberation, which, while relatively recent, are in danger of being lost, as though the political interests of contemporary gay people are the same as they were in the mid-twentieth century."
+   },
+   {
+    "loc": 171,
+    "page": "p. 143",
+    "kind": "p",
+    "before": "",
+    "sentence": "Don has retained the rights to the chronology, and much to our good fortune, gave us permission to digitize and publish the text online.",
+    "after": "The digitization process was, at the very beginning, rather DIY."
+   },
+   {
+    "loc": 403,
+    "page": "p. 375",
+    "kind": "p",
+    "before": "Digital humanists have begun to develop best practices for certain forms of collaboration, providing models that we might use to articulate how we would like our field to interact with historically marginalized communities.",
+    "sentence": "The 2010 workshop “Off the Tracks: Laying New Lines for Digital Humanities Scholars” produced the “Collaborator’s Bill of Rights,” which made important steps toward defining ethical practices as about alternative academic (alt-ac) individuals involved in projects.",
+    "after": "The more recent “A Student Collaborators’ Bill of Rights” has refocused our attention on undergraduate students involved in projects."
+   },
+   {
+    "loc": 403,
+    "page": "p. 375",
+    "kind": "p",
+    "before": "The 2010 workshop “Off the Tracks: Laying New Lines for Digital Humanities Scholars” produced the “Collaborator’s Bill of Rights,” which made important steps toward defining ethical practices as about alternative academic (alt-ac) individuals involved in projects.",
+    "sentence": "The more recent “A Student Collaborators’ Bill of Rights” has refocused our attention on undergraduate students involved in projects.",
+    "after": "What remains missing from these standards, though, are the collaborations with those connected to the subjects that we are studying and an ethics that focuses on collaborations that occur outside of academic structures."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 32,
+  "input": "e8cf7fc64773",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "p. 6",
+    "kind": "p",
+    "before": "For instance, in a recent audit of California’s gang database, not only do Blacks and Latinxs constitute 87 percent of those listed, but many of the names turned out to be babies under the age of 1, some of whom were supposedly “self-described gang members.”",
+    "sentence": "So far, no one ventures to explain how this could have happened, except by saying that some combination of zip codes and racially coded names constitute a risk.'!° Once someone is added to the database, whether they know they are listed or not, they undergo even more surveillance and lose a number of rights.!!",
+    "after": ""
+   },
+   {
+    "loc": 25,
+    "page": "p. 13",
+    "kind": "p",
+    "before": "If someone is marked “risky” in one arena, that stigma follows him around much more efficiently, streamlining marginalization.",
+    "sentence": "A leading Europe-based advocate for workers’ data rights described how she was denied a bank loan despite having a high income and no debt, because the lender had access to her health file, which showed that she had a tumor.’’",
+    "after": "In the United States, data fusion centers are one of the most pernicious sites of the New Jim Code, coordinating “data-sharing among state and local police, intelligence agencies, and private companies”7® and deepening what Stop LAPD Spying Coalition calls the stalker state."
+   },
+   {
+    "loc": 30,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "White student unions?",
+    "sentence": "No longer content with the power of invisibility, a vocal subset of the population wants to be recognized and celebrated as White — a backlash against the civil rights gains of the mid-twentieth century, the election of the country’s first Black president, diverse representations in popular culture, and, more fundamentally, a refusal to comprehend that, as Baldwin put it, “white is a metaphor for power,” unlike any other color in the rainbow.*?",
+    "after": ""
+   },
+   {
+    "loc": 43,
+    "page": "p. 31",
+    "kind": "p",
+    "before": "Historian Yuval Noah Harari warns that tech knows us better than we know ourselves, and that “we are facing not just a technological crisis but a philosophical crisis.”®° This is an industry with access to data and capital that exceeds that of sovereign nations, throwing even that sovereignty into question when such technologies draw upon the science of persuasion to track, addict, and manipulate the public.",
+    "sentence": "We are talking about a redefinition of human identity, autonomy, core constitutional rights, and democratic principles more broadly.",
+    "after": ""
+   },
+   {
+    "loc": 50,
+    "page": "p. 38",
+    "kind": "p",
+    "before": "",
+    "sentence": "Such fictional accounts find their real-life counterpart in “electronic sweatshops,” where companies such as Apple, HP, and Dell treat humans like automata, reportedly requiring Chinese workers to complete tasks every three seconds over a 12-hour period, without speaking or using the bathroom.”° Indeed, as I write, over 1,000 workers at Amazon in Spain have initiated a strike over wages and rights, following similar protests in Italy and Germany in 2017.",
+    "after": "If we probe exploitative labor practices, the stated intention would likely elicit buzzwords such as “lower costs” and “greater efficiency,” signaling a fundamental tension and paradox — the indispensable disposability of those whose labor enables innovation."
+   },
+   {
+    "loc": 68,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "This fact alone offers a glimpse into the implicit Whiteness of early tech culture.",
+    "sentence": "We cannot assume that the hierarchical values and desires that are projected onto “we” — We, the People with inalienable rights and not You, the Enslaved who serve us meals — are simply a thing of the past (Figure 1.2).",
+    "after": ""
+   },
+   {
+    "loc": 199,
+    "page": "p. 187",
+    "kind": "p",
+    "before": "",
+    "sentence": "But individual-level rights such as those implemented by the European Union and espoused by tech entrepreneurs do not by themselves address the New Jim Code.",
+    "after": "In fact, a major exception built into Europe’s law is that these rights do not apply if personal data are processed by “competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.” °° This provision offers wide latitude for government Officials to revoke data rights in an instant."
+   },
+   {
+    "loc": 199,
+    "page": "p. 187",
+    "kind": "p",
+    "before": "But individual-level rights such as those implemented by the European Union and espoused by tech entrepreneurs do not by themselves address the New Jim Code.",
+    "sentence": "In fact, a major exception built into Europe’s law is that these rights do not apply if personal data are processed by “competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.” °° This provision offers wide latitude for government Officials to revoke data rights in an instant.",
+    "after": "It reminds us how coded inequity builds, and even deepens, existing inequities of race, class, nationality, and more."
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 30,
+  "input": "97d3e1117ea8",
+  "candidates": [
+   {
+    "loc": 45,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "Failure to do so upon the reading of this technical documentation justified their enslavement and dispossession of land.",
+    "sentence": "Political philosopher Charles Mills (1997) concludes, “While appearing to respect the ‘rights’ the requerimiento, in fact, takes them away” (p. 22).",
+    "after": ""
+   },
+   {
+    "loc": 46,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "These instantiations of marginalization can help us to recognize who is at the center: In this case, cisgender able-bodied people.",
+    "sentence": "For feminist civil rights activist Audre Lorde, this centralization can be understood as the “mythical norm,” in which the experiences of white, straight, male, middle class, and Christian are the assumed, the de facto, and the “right.”",
+    "after": "This mythical norm, with the addition of able-bodied and cisgender characterizes the center in broad strokes, challenging those who do not adhere to these norms (or even those who do not appear to adhere to these norms) to have a say, to have a space, to occupy a meaningful position in contemporary society."
+   },
+   {
+    "loc": 66,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "Officially, according to the law, U.S. citizens have the same rights.",
+    "sentence": "As Young (1990) defined rights, this would mean that the rules governing the social actions people can and cannot engage in apply equally to all: “Rights are relationships, not things; they are institutionally defined rules specifying what people can do in relation to one another” (p. 25).",
+    "after": "However, the application of institutionally defined rules in relation to oppressed groups differs significantly from the application of rules to dominant groups."
+   },
+   {
+    "loc": 66,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "As Alexander’s (2012) examples illustrate, procedural justice does not (necessarily) equate with fairness in policing (or other contexts); and yet Bradford (2014) identifies fairness as the most important factor affecting people’s opinions and ideas about police: “Fairness promotes a sense of inclusion and value, while unfairness communicates denigration and exclusion” (p. 22).",
+    "sentence": "Procedural justice can lose sight of its core values (equity and fair play) because it binds itself to laws rather than to principles; it relies on the standardization of processes without necessarily considering the ways those processes can be imbued with discrimination, effectively stripping some stakeholders of their rights.",
+    "after": "Officially, according to the law, U.S. citizens have the same rights."
+   },
+   {
+    "loc": 74,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "As noted in a United Nations Security Council report (2004), transitional justice is typically enacted through official judicial mechanisms, with international agencies coming into post-conflict societies to temporarily restore rule of law “in order to ensure accountability, serve justice and achieve reconciliation” (p. 4).",
+    "sentence": "Transitional justice can include a range of actions, such as prosecuting individual offenders who violated human rights in the previous regime, making reparations for injustice and atrocities, or vetting and dismissing people who are serving in positions of authority (UN, 2004).",
+    "after": ""
+   },
+   {
+    "loc": 74,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "Transitional justice emerged in the mid-1940s with the international cooperation, sanctions, and war trials which marked the way forward after World War II (WWII) (Teitel, 2003, p. 70).",
+    "sentence": "Although transitional justice mechanisms have changed since then, the basis for contemporary human rights laws today was formed by the post-WWII trials, which “criminalized state wrongdoing as part of a universal rights scheme” (Teitel, 2003, p. 70).",
+    "after": "As noted in a United Nations Security Council report (2004), transitional justice is typically enacted through official judicial mechanisms, with international agencies coming into post-conflict societies to temporarily restore rule of law “in order to ensure accountability, serve justice and achieve reconciliation” (p. 4)."
+   },
+   {
+    "loc": 74,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "But dangers lurk in a rule of law envisioned and enforced solely or primarily by professional legal parties.",
+    "sentence": "McEnvoy (2007) summarizes many of these problems, but arguably the most insidious are those flying the banner of human rights.",
+    "after": "For example, widespread and unquestioning support for “human rights” can create an environment in which simplistic, top-down visions of justice are pursued, legalized, and praised by international bodies, who claim the right to speak for local communities."
+   },
+   {
+    "loc": 75,
+    "page": "p. 48",
+    "kind": "p",
+    "before": "McEnvoy (2007) summarizes many of these problems, but arguably the most insidious are those flying the banner of human rights.",
+    "sentence": "For example, widespread and unquestioning support for “human rights” can create an environment in which simplistic, top-down visions of justice are pursued, legalized, and praised by international bodies, who claim the right to speak for local communities.",
+    "after": "But local communities are left to wrestle with social and historical complexities of injustice and reconciliation."
+   }
+  ]
+ },
+ {
+  "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+  "title": "What's the Use?: On the Uses of Use",
+  "authors": [
+   "Sara Ahmed"
+  ],
+  "year": 2019,
+  "uses": 4,
+  "input": "90adb6e8e70d",
+  "candidates": [
+   {
+    "loc": 49,
+    "page": "p. 33",
+    "kind": "p",
+    "before": "The word strip points to the violence of this history: it derives from the West Saxon bestrypan, meaning to plunder.",
+    "sentence": "When you preserve a life by stripping something from use, what you are preserving is not a life but the rights of some to decide what and who counts as life.",
+    "after": "The politics of preservation so often involves the rights of some to appropriate what is of use to others, because they assume they alone have the technologies needed to preserve things."
+   },
+   {
+    "loc": 49,
+    "page": "p. 33",
+    "kind": "p",
+    "before": "When you preserve a life by stripping something from use, what you are preserving is not a life but the rights of some to decide what and who counts as life.",
+    "sentence": "The politics of preservation so often involves the rights of some to appropriate what is of use to others, because they assume they alone have the technologies needed to preserve things.",
+    "after": "This assumption of the right to withdraw things from other people’s use is how some people become the guardians—who often speak of taking care."
+   },
+   {
+    "loc": 50,
+    "page": "p. 34",
+    "kind": "p",
+    "before": "We might note that a decision could have been made to eject the birds in order to enable the postbox to stay functional.",
+    "sentence": "But the birds were not ejected; they were given rights of residence, which means the postbox is currently a nest and is out of circulation as a postbox.",
+    "after": "When the birds leave, the thing we called a postbox might return to being a postbox."
+   },
+   {
+    "loc": 63,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "Appropriation is justified as getting the most use from what is available to use (a most implying here a many), as stopping what is held in common from being wasted or becoming waste.",
+    "sentence": "It is important to add that waste is understood by Locke as an active process of neglect, and that to waste what is one’s own is to cease to have property rights.",
+    "after": "As Barbara Arneil notes, “Locke’s use of neglect is important, for it implies that one can judge in the case of property which has been used by other people, whether they had in fact neglected the land and thereby made it nothing more than waste and available again for appropriation by the labour of others” (1996, 142)."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 5,
+  "input": "60704280111a",
+  "candidates": [
+   {
+    "loc": 41,
+    "page": "pp. 59–60",
+    "kind": "p",
+    "before": "One part of media analytics—the practices of gathering and algorithmic analysis of user interaction data (i.e., digital traces)—has received significant attention.",
+    "sentence": "However, most discussions of these practices are focused on political and social issues such as privacy, surveillance, access rights, discrimination, fairness, and biases, as opposed to the history and theory of technological media.",
+    "after": ""
+   },
+   {
+    "loc": 56,
+    "page": "p. 87",
+    "kind": "p",
+    "before": "Will millions of people living in megacities agree to make their real-time brain activity and eye movement recordings available to urban planners and architects so they can improve cities?",
+    "sentence": "Or will such data collection be required for citizens to have the rights to use basic city services?",
+    "after": "Or . . . add your own scenario."
+   },
+   {
+    "loc": 107,
+    "page": "pp. 178–180",
+    "kind": "p",
+    "before": "The organizations that do music rights management include ASCAP (ten million works by 680,000 songwriters, composers, and publishers), BMI (twelve million works by 750,000 members), Sony/ATV (four million works), and Universal Music Publishing Group (UMPG; 3.2 million).",
+    "sentence": "Such a structured practice of rights for samples does not exist in other cultural areas, but we can invent ways to get around this limitation.",
+    "after": "In the landmark project Culturegraphy (2014), visualization designer Kim Albrecht used references between films recorded in the Internet Movie Database (IMDB)."
+   },
+   {
+    "loc": 107,
+    "page": "pp. 178–180",
+    "kind": "p",
+    "before": "In design, architecture, fashion, cinema, literature, or visual arts, authors borrow visual ideas and elements from other works, but this is not documented.",
+    "sentence": "However, in some fields, such as pop music, numerous “citations” are explicit because the authors and publishers have to get the rights to any samples or whole works they want to use.",
+    "after": "In pop music, the use of electronic and later digital recording media for all published works made sampling central to its functioning since the early 1980s, when hip hop producers such as Grandmaster Flash started using sampled breaks."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 22,
+  "input": "d062b1fc591d",
+  "candidates": [
+   {
+    "loc": 14,
+    "page": "PDF p. 14",
+    "kind": "p",
+    "before": "Published in 1963, The Feminine Mystique is often credited with starting feminism’s so-called second wave.",
+    "sentence": "Fed up with the enforced return to domesticity following the end of World War II, and inspired by the national conversation about equality of opportunity prompted by the civil rights movement, women across the United States began to organize around a wide range of issues, including reproductive rights and domestic violence, as well as the workplace inequality and restrictive gender roles that Darden faced at Langley.",
+    "after": ""
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "This domain organizes and codifies oppression.",
+    "sentence": "Take, for example, the history of voting rights in the United States.",
+    "after": "The US Constitution did not originally specify who was authorized to vote, so various states had different policies that reflected their local politics."
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "Most had to do with owning property, which, conveniently, only men could do.",
+    "sentence": "But with the passage of the Fourteenth Amendment in 1868, which granted the rights of US citizenship to those who had been enslaved, the nature of those rights—including voting—were required to be spelled out at the national level for the first time.",
+    "after": "More specifically, voting was defined as a right reserved for “male citizens.”"
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "",
+    "sentence": "It might sound like an even exchange, but Zimbabwe has a dismal record on human rights.",
+    "after": "Making things worse, CloudWalk provides facial recognition technologies to the Chinese police—a conflict of interest so great that the global nonprofit Human Rights Watch voiced its concern about the deal."
+   },
+   {
+    "loc": 36,
+    "page": "PDF p. 36",
+    "kind": "p",
+    "before": "It might sound like an even exchange, but Zimbabwe has a dismal record on human rights.",
+    "sentence": "Making things worse, CloudWalk provides facial recognition technologies to the Chinese police—a conflict of interest so great that the global nonprofit Human Rights Watch voiced its concern about the deal.",
+    "after": "Face harvesting is happening in the US as well."
+   },
+   {
+    "loc": 38,
+    "page": "PDF p. 38",
+    "kind": "p",
+    "before": "Whatever it’s called, it’s been going on for a long time.",
+    "sentence": "In 1895, civil rights activist and pioneering data journalist Ida B. Wells assembled a set of statistics on the epidemic of lynching that was sweeping the United States.",
+    "after": "She accompanied her data with a meticulous exposé of the fraudulent claims made by white people—typically, that a rape, theft, or assault of some kind had occurred (which it hadn’t in most cases) and that lynching was a justified response."
+   },
+   {
+    "loc": 128,
+    "page": "PDF p. 128",
+    "kind": "p",
+    "before": "But murals are just one possible output from this type of pluralistic, community-centered process.",
+    "sentence": "For example, Digital Democracy works with Indigenous groups around the world to defend their rights through collecting data and making maps.",
+    "after": "In the process, they have developed SMS services with domestic violence groups in Haiti and supported the Wapichana people in Guyana to make a data-driven case for land rights to the government."
+   },
+   {
+    "loc": 128,
+    "page": "PDF p. 128",
+    "kind": "p",
+    "before": "For example, Digital Democracy works with Indigenous groups around the world to defend their rights through collecting data and making maps.",
+    "sentence": "In the process, they have developed SMS services with domestic violence groups in Haiti and supported the Wapichana people in Guyana to make a data-driven case for land rights to the government.",
+    "after": "In another example, the Westside Atlanta Land Trust (WALT) has worked toward affordable housing in Atlanta, Georgia, through participatory data collection."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 45,
+  "input": "eeefa6d94cbe",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "Although the idea has a longer legacy (think of African American abolitionist and women’s rights activist Sojourner Truth’s “Ain’t I a Woman?,” Communist Party Secretary Claudia Jones’s writings about being “triply oppressed,” or the Combahee River Collective’s critiques of white feminism), the specific term intersectionality was first published by Black feminist legal scholar Kimberlé Crenshaw in her 1989 article “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.”",
+    "sentence": "In the article, Crenshaw describes how existing antidiscrimination law (Title VII of the Civil Rights Act) repeatedly failed to protect Black women workers.",
+    "after": ""
+   },
+   {
+    "loc": 56,
+    "page": "PDF p. 56",
+    "kind": "p",
+    "before": "",
+    "sentence": "Over time, disability rights and justice scholars and activists pushed for a shift from the medical model of disability, which locates disability within individual “dysfunctional” bodies, toward the social-relational model: that is, an analysis of how disability is constructed by culture, institutions, and the built environment, which are all organized in ways that privilege some bodies and minds over others.",
+    "after": "For example, the medical model might seek “solutions” for wheelchair users that would help them stop using wheelchairs, whereas the social-relational model might seek to ensure that buildings, streets, and bathrooms are all constructed to allow mobility for both wheelchair users and non-wheelchair-users."
+   },
+   {
+    "loc": 97,
+    "page": "PDF p. 97",
+    "kind": "p",
+    "before": "",
+    "sentence": "Pop ed has also long played an important role in US social movements, especially the Civil Rights movement.",
+    "after": "For example, the Highlander Research and Education Center, founded in 1932 by educator Myles Horton, is a social justice leadership training school and cultural center that has used pop ed for decades to build grassroots leadership within movements for civil rights, organized labor, and environmental justice, among others."
+   },
+   {
+    "loc": 97,
+    "page": "PDF p. 97",
+    "kind": "p",
+    "before": "Pop ed has also long played an important role in US social movements, especially the Civil Rights movement.",
+    "sentence": "For example, the Highlander Research and Education Center, founded in 1932 by educator Myles Horton, is a social justice leadership training school and cultural center that has used pop ed for decades to build grassroots leadership within movements for civil rights, organized labor, and environmental justice, among others.",
+    "after": "At Highlander, Horton taught and worked with Civil Rights luminaries including Martin Luther King, Jr., Rosa Parks, and John Lewis."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "",
+    "sentence": "Throughout the summer of 2018, #TechWontBuildIt grew in parallel with a cycle of immigrant rights protests. #KeepFamiliesTogether mobilizations swept the country after revelations about the Trump administration’s policy of separating thousands of migrant children from their parents, along with images of very young children and toddlers locked in makeshift detention centers under awful conditions.",
+    "after": "Investigative reporters and human rights organizations found that some of these children were drugged against their will, and documented cases of child sexual, physical, and emotional abuse, as well as child deaths in ICE custody."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "Throughout the summer of 2018, #TechWontBuildIt grew in parallel with a cycle of immigrant rights protests. #KeepFamiliesTogether mobilizations swept the country after revelations about the Trump administration’s policy of separating thousands of migrant children from their parents, along with images of very young children and toddlers locked in makeshift detention centers under awful conditions.",
+    "sentence": "Investigative reporters and human rights organizations found that some of these children were drugged against their will, and documented cases of child sexual, physical, and emotional abuse, as well as child deaths in ICE custody.",
+    "after": "In response, as #KeepFamiliesTogether and #AbolishICE took prominence in the media cycle, Microsoft workers pushed their company to drop a $19.4 million dollar contract with ICE."
+   },
+   {
+    "loc": 118,
+    "page": "PDF p. 118",
+    "kind": "p",
+    "before": "In HCI, practitioners of user-centered design are guided by the International Organization for Standardization (ISO) document ISO 9241-210:2010, “Ergonomics of Human- System Interaction—Part 210: Human-Centred Design for Interactive Systems.”",
+    "sentence": "To take yet another example, there is a tradition of human rights and social justice advocacy at the Internet Engineering Task Force (IETF), the key standards-setting body for the global internet.",
+    "after": "Lawyers, hackers, scholars, and activists like Niels ten Oever, Joana Varon (executive directrix of codingrights.org), Corinne Cath, and others have worked for years to develop the IETF guidelines for Human Rights Protocol Considerations."
+   },
+   {
+    "loc": 119,
+    "page": "PDF p. 119",
+    "kind": "p",
+    "before": "To take yet another example, there is a tradition of human rights and social justice advocacy at the Internet Engineering Task Force (IETF), the key standards-setting body for the global internet.",
+    "sentence": "Lawyers, hackers, scholars, and activists like Niels ten Oever, Joana Varon (executive directrix of codingrights.org), Corinne Cath, and others have worked for years to develop the IETF guidelines for Human Rights Protocol Considerations.",
+    "after": "This document translates human rights concepts into technical terms relevant for those working on internet networking protocols."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 10,
+  "input": "fa805e59f8e1",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "In doing so, interpretive flexibility undergirds one of this manuscript’s claims about Western technoculture: the internet’s base purpose is to behave as a rational, productive information space because of its association with whiteness.",
+    "sentence": "Even when online whiteness becomes unruly and deadly, Western beliefs drawn from classical liberalism serve as warrants for individualist—never to be understood as cultural—white digital practices such as incivility, racism, xenophobia, misogyny, and violence in the name of “protecting” the freedom of speech and property rights.",
+    "after": ""
+   },
+   {
+    "loc": 45,
+    "page": "PDF p. 45",
+    "kind": "p",
+    "before": "",
+    "sentence": "Amber is not sold on the idea but joins in to contextualize the furor over the tech within the longer arc of civil rights struggles in America:",
+    "after": ""
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "",
+    "sentence": "Suffrage, civil rights, and labor movements altered (but did not eliminate) racial and gender roles.",
+    "after": "Early modernity reified and commodified the “private sphere” introduced by bourgeois nationalism (White, 1990) while creating institutions that identified and controlled people."
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "The introduction of information technologies expanded these institutional capacities, leading to “social reflexivity” (Giddens & Pierson, 1998, p. 115), or reflexive modernity, where the world is increasingly constituted by information rather than “pre-given modes of conduct,” and one must constantly reassess one’s relationship to and information about reality.",
+    "sentence": "When evaluating the role radio and televisual media played in airing Black political grievances against governmental, civil, and individual transgressions during the civil rights era, we can understand the reflexivity that was demanded by these new media as another way to enact Black culture: informational Blackness.",
+    "after": "That is, in the absence of physical bodies, this combination of information technologies and cultural content made possible the distribution and reception of Black culture in ways that were previously only possible in face-to-face settings, which were often clandestine in response to white domestic terrorism."
+   },
+   {
+    "loc": 102,
+    "page": "PDF p. 102",
+    "kind": "p",
+    "before": "Moreover, Black radio broadcasts led by these performers promoted the breakout of jazz, blues, and even gospel music as popular forms of American culture to white audiences.",
+    "sentence": "At one point, one educator even complained that political discussions of “Negro Rights” were subsumed by entertainment shows (Ward, 2004, p. 110).",
+    "after": ""
+   },
+   {
+    "loc": 120,
+    "page": "PDF p. 120",
+    "kind": "p",
+    "before": "I wrote the previous sentence long before I read Wilderson (2010), but his words advance my claim: “As an accumulated and fungible object, rather than an exploited and alienated subject, the Black is openly vulnerable to the whims of the world and so is his or her cultural ‘production’” (p. 56).",
+    "sentence": "Here Wilderson states that because Black folk have no legible stature in the West as political agents, they have no inalienable rights to Black cultural production.",
+    "after": "Thus Blackness (in online spaces and elsewhere) is immediately captured by Western culture, leaving little possibility for emancipation from that framework."
+   },
+   {
+    "loc": 121,
+    "page": "PDF p. 121",
+    "kind": "p",
+    "before": "Many, like April Reign (@reignofapril), creator of #OscarsSoWhite, and Cashawn Thompson (@thepbg), creator of the viral catchphrase and hashtag #BlackGirlMagic, have agitated to be fairly compensated for the pithy content they generate, which is often repurposed into corporate and nonprofit marketing campaigns for lifestyle, media, and consumer brands.",
+    "sentence": "Social media content distribution rights are typically retained by the service; these power users have little control over their virtuosic social media practice.",
+    "after": "Like other social networking services, Twitter’s (n.d.) terms of service note, “Such additional uses by Twitter, or other companies, organizations or individuals, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.”"
+   },
+   {
+    "loc": 130,
+    "page": "PDF p. 130",
+    "kind": "p",
+    "before": "Modernity For Black technoculture, modernity is precisely the informational, capitalistic, and institutional regime of antiblackness.",
+    "sentence": "Surveillance and sousveillance, digital redlining (Gilliard & Culik, 2016), access to education, even voting rights are all positioned in ways that limit—if not directly injure— Black folk on the way to reifying whiteness.",
+    "after": "Respectability is a chilling example of Black aspirations to modernity in its well-intentioned paeans of hygiene, control, and assimilation."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 37,
+  "input": "42defd5a9854",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "",
+    "sentence": "In chapter 4, our first on the digital activism of what some have dubbed “the new civil rights movement,” we examine how racialized counterpublics used Twitter as early as 2009, following the killing of Oscar Grant, and through 2012, following the killing of Trayvon Martin, to make state-sanctioned anti-Black violence visible to those outside traditional African American and civil rights communities.",
+    "after": "We examine how Twitter’s shifting infrastructures in just a few short years changed the way members of racial justice counterpublics engaged one another, as well as media-makers, celebrities, and politicians."
+   },
+   {
+    "loc": 23,
+    "page": "PDF p. 23",
+    "kind": "p",
+    "before": "It was later discovered that Rodger had created YouTube videos and a written manifesto explaining the impetus for his violence, citing a desire to retaliate against women who would not date him.",
+    "sentence": "His logic was nurtured in dangerous online men’s rights and incel (involuntarily celibate) groups that the Southern Poverty Law Center has recently added to its list of hate groups.",
+    "after": "Rodger’s manifesto was circulated by many news outlets, some of which played portions of the videos in which Rodger professed disdain for immigrants and disgust for white women who would date men of color but not him."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "In particular, women of color activists and stories about intersectional activism are widely visible in the #GirlsLikeUs network.",
+    "sentence": "Thus, not only does the discourse created in the network contribute to an educational project on trans rights and issues, it also works toward framing the solutions to antitrans violence and transphobia as inextricably tied to fights against racism and sexism.",
+    "after": "Such hashtagged advocacy contributes to what Sarah Florini has called a “recontextualization” of mainstream social movement memory—in this case, a recentering of trans experiences in civil rights, LGBT, and feminist projects."
+   },
+   {
+    "loc": 57,
+    "page": "PDF p. 57",
+    "kind": "p",
+    "before": "Thus, not only does the discourse created in the network contribute to an educational project on trans rights and issues, it also works toward framing the solutions to antitrans violence and transphobia as inextricably tied to fights against racism and sexism.",
+    "sentence": "Such hashtagged advocacy contributes to what Sarah Florini has called a “recontextualization” of mainstream social movement memory—in this case, a recentering of trans experiences in civil rights, LGBT, and feminist projects.",
+    "after": ""
+   },
+   {
+    "loc": 63,
+    "page": "PDF p. 63",
+    "kind": "p",
+    "before": "",
+    "sentence": "In politics, the lingering call for “state’s rights” has been swept up in egregious policies designed to exclude trans people from public spaces.",
+    "after": "In March 2016, North Carolina banned trans people from using bathrooms that did not correspond to their sex assigned at birth."
+   },
+   {
+    "loc": 63,
+    "page": "PDF p. 63",
+    "kind": "p",
+    "before": "Unfortunately, the legal red tape has yet to be resolved, and trans North Carolinians remain caught in the middle for the foreseeable future.",
+    "sentence": "A number of other states, including Massachusetts, have passed or confirmed public accommodation access bills that uphold the rights of trans people.",
+    "after": "The successful #YesOn3 initiative in Massachusetts successfully kept language that protected trans and intersex rights."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "",
+    "sentence": "Other popular tweets about #PhilandoCastile openly pointed out the hypocrisy of gun rights advocates who insist on the right to conceal carry but who were silent on an innocent Black man being murdered by an officer who felt threatened after being informed that there was a permitted gun in the vehicle.",
+    "after": "For example, one popular tweet in the network offered, “I want @NRA to defend #PhilandoCastile and #AltonSterling."
+   },
+   {
+    "loc": 82,
+    "page": "PDF p. 82",
+    "kind": "p",
+    "before": "Likewise, @MamaBKrayy tweeted, “#PhilandoCastile told officers he had a permit to carry BEFORE they murdered him.",
+    "sentence": "Where is the #NRA to defend him and his rights??”",
+    "after": "These calls remained popular in the network over the course of our data collection, including after the June 2017 acquittal of the officer who killed Castile and larger public debates and events about guns, the NRA, and the Second Amendment."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 8,
+  "input": "2901d29ce536",
+  "candidates": [
+   {
+    "loc": 29,
+    "page": "p. 25",
+    "kind": "p",
+    "before": "Lesbian feminism is not a visible social movement with a fi m set of aesthetic and actionable commitments anymore, yet it continues to guide these projects and the principles of organizations such as the l ha .",
+    "sentence": "Founded in 1974, this archives is staffed not only by women in their sixties and seventies who came to activism during the civil rights and women’s liberation movements, but also by a growing contingent of young folks in their twenties born under the sign of queerness.",
+    "after": "This younger generation often brings commitments to transfeminism or queer politics, even as they revel in “deep-lez” desires to understand and embody butch-femme dynamics and terminologies or wear labrys necklaces without irony."
+   },
+   {
+    "loc": 48,
+    "page": "p. 44",
+    "kind": "p",
+    "before": "This desire for proximity is about more than just achieving a critical mass, couched as it was in the language of “sisterhood” and “survival.”",
+    "sentence": "Meeker argues that the “politics of communication [was placed] squarely at the center of the emerging movement for homosexual civil rights,” reaching “its most forceful articulation in the context of lesbian feminism.”",
+    "after": "Lesbian-feminist information activists approached the formal, material aspects of movement communication as key activist work."
+   },
+   {
+    "loc": 60,
+    "page": "p. 56",
+    "kind": "p",
+    "before": "As a printed document that mediates between the archives and its public, the newsletter speaks to the Lesbian Herstory Archives’ goals of outreach and access, rather than just preservation and research.",
+    "sentence": "While Matrices demonstrates the interstitial role of newsletters in a larger, dispersed lesbian-feminist history and archives movement, the archives’ use of newsletters shows how community archives, far from just storehouses grounding this movement, are dynamic networks in their own rights.",
+    "after": ""
+   },
+   {
+    "loc": 65,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "Th Lesbian Herstory Archives Newsletter’s effects are visible in the archive’s collections development.",
+    "sentence": "For example, requests for regional clippers published in the newsletter led to the development of subject files so unusual and comprehensive that they were licensed for microfilming by Gale as part of its Gay Rights Movement series.",
+    "after": "The newsletter’s centralized design made communication through the network more palpable because engagement from readers went directly back to the archives."
+   },
+   {
+    "loc": 84,
+    "page": "p. 80",
+    "kind": "p",
+    "before": "",
+    "sentence": "media representation and the achievement of equal rights under the law.",
+    "after": ""
+   },
+   {
+    "loc": 161,
+    "page": "p. 157",
+    "kind": "p",
+    "before": "Large clearinghouses such as Gale’s Primary Sources produce themed microfilm and digital collections of full-text l gbt q materials.",
+    "sentence": "Gale’s LGBT Rights Movement & Activists series draws from many l gbt q community archives, including",
+    "after": ""
+   },
+   {
+    "loc": 176,
+    "page": "p. 172",
+    "kind": "p",
+    "before": "",
+    "sentence": "volved in civil rights organizing as a college student in the early 1960s and",
+    "after": ""
+   },
+   {
+    "loc": 205,
+    "page": "p. 201",
+    "kind": "p",
+    "before": "",
+    "sentence": "Looking underneath the confide t grins of these ’80s leather dykes, users find metadata description that references the photographer’s shifting identifications over time: the “creator” and “rights” holder for the image is listed as Del LaGrace Volcano, the filename is “dellagrace_08.jp2,” with the further addition of a “Description” that reads, “Del LaGrace Volcano, previously known as Della Grace and Della Disgrace” (figu e 4.5).",
+    "after": "On the surface, this seems like an archives deadnaming one of its donors, but this description was conceived by Saskia after consultation with Volcano."
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 4,
+  "input": "c90018ea29f6",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "This mediated trend on contemporary cable news was popularized during the lynching era, when lynching photography served as a representation of, or a pictorial shorthand for, the consensus among white communities about the roles of black (subordinate) and white (dominant) men and women.",
+    "sentence": "It proffered a version of white supremacist ideology that has maintained its hegemonic power while being masked in a variety of ways (behind civil rights legislation, affirmative action, color-blind ideology, and so on).",
+    "after": "It offered a view of what Michael Hatt has called the “unified constituency of whiteness.”"
+   },
+   {
+    "loc": 65,
+    "page": "PDF p. 65",
+    "kind": "p",
+    "before": "",
+    "sentence": "inspiring generations of African-descended activists and civil rights leaders.",
+    "after": "Among these was"
+   },
+   {
+    "loc": 84,
+    "page": "PDF p. 84",
+    "kind": "p",
+    "before": "other identities.",
+    "sentence": "This idea can trace its roots back to the civil rights era, to the lynching era, to the",
+    "after": ""
+   },
+   {
+    "loc": 91,
+    "page": "PDF p. 91",
+    "kind": "p",
+    "before": "Myths about the racial other and revisionist narratives informing personal identity have been crucial to the American imaginary, particularly in the construction of white masculinity (and the deconstruction of black masculinity, in particular).",
+    "sentence": "The myth of the threatening black male appears again and again in American discourse, from fears about slave insurrections to terror about miscegenation in The Birth of a Nation; from Tom Buchanan’s dread of racial infiltration in The Great Gatsby to Lothrop Stoddard’s The Rising Tide of Color against White World-Supremacy; from civil rights–era apprehensions about black power to anxieties about Barack Obama’s legitimacy as president of the United States to SonicFox, the black, queer furry, winning the title of Gamer of the Year in a community bent on sustaining white heterosexual masculinity as the core demographic.",
+    "after": "This level of panic, resistance, and revisionist history is consistently deployed to protect white supremacy and the American ideal of manhood."
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 2,
+  "input": "47e8170c6286",
+  "candidates": [
+   {
+    "loc": 80,
+    "page": "p. 59",
+    "kind": "p",
+    "before": "• Social justice benefits everyone.",
+    "sentence": "Working to achieve or restore equity for one population or community does not require anyone with access to those rights to relinquish them—quite the opposite actually.",
+    "after": "For technical communication, specifically, equity means fair and just access to and representation in scientific and technical communication for all stakeholders."
+   },
+   {
+    "loc": 97,
+    "page": "p. 76",
+    "kind": "p",
+    "before": "Gather informed consent.",
+    "sentence": "Let the community members know of their rights as participants of the workshop.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 21,
+  "input": "068baca5aa23",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "PDF p. 15",
+    "kind": "p",
+    "before": "Scholars like Brittney Cooper, Treva Lindsey, and Aisha Durham are also ensuring this critical development in Black feminist discourse is not overlooked in scholarly research.",
+    "sentence": "Durham defines hip-hop feminism as “a socio-cultural, intellectual, and political movement grounded in the situated knowledge of women of color from the post-civil rights generation who recognize culture as a pivotal site for political intervention to challenge, resist and mobilize collectives to dismantle systems of exploitation” (Durham, 2007, p. 306).",
+    "after": "Lindsey describes hip-hop feminist theory as a “generationally specific and historically contingent iteration of intersectionality and of critical race feminist theory” (Lindsey, 2014, p. 54), pointing to Gloria Anzaldúa, Patricia Hill Collins, Kimberlé Crenshaw, and bell hooks as the foremothers who made hip-hop feminism possible."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "Black women’s role as laborers has complicated their relationship with societal constructs of femininity.",
+    "sentence": "While we now know she was intentionally misquoted, Sojourner Truth’s “Ain’t I a Woman” speech delivered in Akron, Ohio, in 1851 makes a case for Black women’s suffrage and rights to an audience reticent to see Black women as real women.",
+    "after": "The speech given by Truth displays her rhetorical and oratorical skills."
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "In the context of the burgeoning democracy, legal marital binds became a symbol of citizenship and acculturation into life as free persons.",
+    "sentence": "Too often in the U.S., becoming a citizen is viewed as synonymous with being deserving of full human rights.",
+    "after": "For enslaved Africans living in the U.S., the law withheld the possibility of engaging fully with citizenship, creating legal binds through marriage, and therefore establishing themselves as deserving of their full rights."
+   },
+   {
+    "loc": 31,
+    "page": "PDF p. 31",
+    "kind": "p",
+    "before": "Too often in the U.S., becoming a citizen is viewed as synonymous with being deserving of full human rights.",
+    "sentence": "For enslaved Africans living in the U.S., the law withheld the possibility of engaging fully with citizenship, creating legal binds through marriage, and therefore establishing themselves as deserving of their full rights.",
+    "after": "After emancipation, women sought out husbands who had been sold away, while others found themselves in the challenging predicament of having more than one husband, though neither union was legally binding."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "Buoyed by the popularity of the hashtag, regional organizations emerged to work locally on racial justice, some connected to Black Lives Matter, others to organizations under the umbrella of the Movement for Black Lives, and many more functioning independently.",
+    "sentence": "History teaches us that even as Black women do the work of social movements, the fight for rights for Black folks has traditionally focused on men.",
+    "after": "Black feminist activists and scholars have always worked for civil rights and freedom from oppression in the U.S. For much of this fight, though, their work has been ignored, co-opted, or further maligned."
+   },
+   {
+    "loc": 67,
+    "page": "PDF p. 67",
+    "kind": "p",
+    "before": "History teaches us that even as Black women do the work of social movements, the fight for rights for Black folks has traditionally focused on men.",
+    "sentence": "Black feminist activists and scholars have always worked for civil rights and freedom from oppression in the U.S. For much of this fight, though, their work has been ignored, co-opted, or further maligned.",
+    "after": "Despite the sexism rampant in many factions of the civil rights movement, Black women have always contributed to the struggle, often using their platforms to advocate for the rights of Black men."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "",
+    "sentence": "In her transformative text When and Where I Enter, Paula Giddings (1984) describes Black women activists’ work as a defense of their names, which have been and continue to be tarnished as a means to deprive them of their full rights as citizens.",
+    "after": "In antilynching movements, women’s clubs, and speeches for voting rights, “naming” is an agentic practice."
+   },
+   {
+    "loc": 98,
+    "page": "PDF p. 98",
+    "kind": "p",
+    "before": "In her transformative text When and Where I Enter, Paula Giddings (1984) describes Black women activists’ work as a defense of their names, which have been and continue to be tarnished as a means to deprive them of their full rights as citizens.",
+    "sentence": "In antilynching movements, women’s clubs, and speeches for voting rights, “naming” is an agentic practice.",
+    "after": "Black women—too frequently called out of their names—use their rhetorical skills to name themselves, rename, and rebrand others."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 9,
+  "input": "96f6e82f2211",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "pp. 6–7",
+    "kind": "p",
+    "before": "This practice was so widespread in Mississippi it was dubbed a “Mississippi appendectomy.”",
+    "sentence": "Famed civil rights activist Fannie Lou Hamer was one of the women subjected to this practice, and the experience was a major impetus for her activism.",
+    "after": "Sterilization abuse as a tool of white supremacy exceeded the Jim Crow era and continued well into the 1970s with victims like the young Relf sisters in Alabama, sterilized without their knowledge or consent as teenagers."
+   },
+   {
+    "loc": 43,
+    "page": "pp. 67–69",
+    "kind": "p",
+    "before": "However, this safety remains elusive for trans women, as being undetectable still means being subject to the violence that cis women experience regularly.",
+    "sentence": "According to the LGBTQ advocacy group Human Rights Campaign, 91 percent of all trans women murdered in 2019 were Black women.",
+    "after": "Cis Black women have the highest murder rate among cis women in the United States, at a rate of 4.4 murders for every 100,000 Black women."
+   },
+   {
+    "loc": 45,
+    "page": "pp. 72–73",
+    "kind": "p",
+    "before": "In March 2012, when writer and editor Janet Mock learned that Jenna Talackova—a multiracial trans woman contestant for Miss Universe—was being denied access to the pageant because Talackova was trans, Mock worked quickly to bolster a collective response.",
+    "sentence": "Mock wanted to show her support and called on her Twitter followers to send theirs when she tweeted, “Please sign & share this women’s rights petition in support of transgender beauty queen Jenna Talackova & #girlslikeus: https://www.change.org/93-miss-universe-canada-donald-trump-reverse-the-unfair-disqualification-of-jenna-talackova.”",
+    "after": "The linked petition explained that Talackova was one of sixty-five finalists for the Miss Canada competition, the winner of which would advance to the global Miss Universe Pageant."
+   },
+   {
+    "loc": 45,
+    "page": "pp. 72–73",
+    "kind": "p",
+    "before": "",
+    "sentence": "Mock framed her support of Talackova as an act of solidarity for women’s rights, but lending support to a woman who wants to participate in a beauty pageant begs the question, Is this feminist online organizing?",
+    "after": "Should a beauty pageant’s discriminatory policies be the subject of a feminist campaign?"
+   },
+   {
+    "loc": 49,
+    "page": "pp. 81–82",
+    "kind": "p",
+    "before": "Users discussed the pros and cons of telling potential partners they are trans up front, places where they met their boyfriends, and even their reluctance to date because of the violence they might face.",
+    "sentence": "The Human Rights Campaign’s 2018 Anti-Trans Violence report noted that 54 percent of trans people report having experienced intimate partner violence, while one in six murders of trans people are suspected to have been committed by intimate partners.",
+    "after": "Dating while trans is not only difficult but can also be dangerous and deadly."
+   },
+   {
+    "loc": 51,
+    "page": "pp. 85–86",
+    "kind": "p",
+    "before": "The type of care trans patients are trying to access is the same care that cis people take for granted; access to hormones and surgery that are medically necessary is routinely denied despite the state and federal mandates that prohibit such discrimination.",
+    "sentence": "Chung’s use of the hashtag #GirlsLikeUs alongside #SRHR (Sexual and Reproductive Health and Rights) and #AIDS2014 created a connection between activist communities that might not automatically see the resonance between themselves.",
+    "after": "One tweet of less than 140 characters is demonstrating the link between trans healthcare, HIV, and sexual health."
+   },
+   {
+    "loc": 57,
+    "page": "pp. 98–100",
+    "kind": "p",
+    "before": "Please sign, share & RT this #freeCeCe petition: http://ow.ly/1L0Xlc #girlslikeus.”",
+    "sentence": "At the May Day 2012 protests in support of workers’ rights, activists carried signs in remembrance of Clay and in support of McDonald.",
+    "after": "The late trans activist and author Leslie Feinberg visited McDonald in jail and was later arrested for support actions in Minneapolis, which included tagging the jail with “Free CeCe” in purple spray paint. #FreeCeCe was used to announce Facebook events of local Support CeCe chapters that organized letter-writing campaigns and workshops."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 129–130",
+    "kind": "p",
+    "before": "In her 1999 piece “Representations of Black Lesbians” in the Harvard Gay and Lesbian Review, Black lesbian poet and author Jewelle Gomez describes the dearth of Black lesbian images and the disproportionate impact that a character like Cleo, the Black masculine lesbian violently murdered in the film Set It Off (1996), has on the way other Black people imagine Black lesbians.",
+    "sentence": "Gomez described overhearing Black people express disapproval for gay rights, in large part because their images of Black lesbians were colored by portrayals like Cleo, who is presented as sexually aggressive, one-dimensional, and violent.",
+    "after": "Misogynoir is mitigated because Brooke’s transformation does not lock her into a singular reality."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 26,
+  "input": "7172772343a2",
+  "candidates": [
+   {
+    "loc": 13,
+    "page": "PDF p. 13",
+    "kind": "p",
+    "before": "The additional challenges of sustainability faced by digital methods are substantial and sobering.",
+    "sentence": "We have to consider all of the costs involved— human rights, ecological abuse, and labor practices.",
+    "after": ""
+   },
+   {
+    "loc": 19,
+    "page": "p. 4",
+    "kind": "p",
+    "before": "Initial design decisions will depend on the institutional site in which the project is conceived and will be managed, on the amount of resources and expertise available (costs and labor), and on other factors specific to the project (such as the intellectual property involved, issues of privacy and protections, and regulations to which the work is subject).",
+    "sentence": "Sustainability also involves consideration of ecological costs and human rights issues central to digital labor in a globally networked environment.",
+    "after": "All digital projects are costly to produce and maintain."
+   },
+   {
+    "loc": 234,
+    "page": "p. 219",
+    "kind": "p",
+    "before": "So, if you radically alter an original work of art by making it into a parody or putting it into a very different framework, you may be able to justify it as fair use.",
+    "sentence": "Note that several musical figures have sued political campaigns for appropriation of their work, and the music industry is particularly vigilant with regard to rights.",
+    "after": "Many artists sign away rights in an early phase of their career, taken advantage of by agents or producers."
+   },
+   {
+    "loc": 235,
+    "page": "p. 220",
+    "kind": "p",
+    "before": "Note that several musical figures have sued political campaigns for appropriation of their work, and the music industry is particularly vigilant with regard to rights.",
+    "sentence": "Many artists sign away rights in an early phase of their career, taken advantage of by agents or producers.",
+    "after": "The rights holder of a work may not be the artist."
+   },
+   {
+    "loc": 236,
+    "page": "p. 221",
+    "kind": "p",
+    "before": "Limited access has justifications that include the rights of communities and individuals.",
+    "sentence": "Legal rights and ethical rights are not the same—access need to be constrained by law in order for it to be controlled by intellectual rights holders (Sonderholm 2010).",
+    "after": "But unlike legal limits, which, though sometimes unclear, are at least spelled out and established with precedents, ethical limits have to be carefully negotiated."
+   },
+   {
+    "loc": 236,
+    "page": "p. 221",
+    "kind": "p",
+    "before": "Not all materials should be accessible to all viewers.",
+    "sentence": "Limited access has justifications that include the rights of communities and individuals.",
+    "after": "Legal rights and ethical rights are not the same—access need to be constrained by law in order for it to be controlled by intellectual rights holders (Sonderholm 2010)."
+   },
+   {
+    "loc": 239,
+    "page": "p. 224",
+    "kind": "p",
+    "before": "The concept has strict guidelines and was attached to his GNU operating system and the GNU Manifesto he published (Stallman 1996– 2018).",
+    "sentence": "Stallman created licensing agreements that conform to the principles of copyleft: the rights to use, study, share, and modify.",
+    "after": "The most important principle is that derivatives of open source materials inherit the rights of the source."
+   },
+   {
+    "loc": 239,
+    "page": "p. 224",
+    "kind": "p",
+    "before": "Stallman created licensing agreements that conform to the principles of copyleft: the rights to use, study, share, and modify.",
+    "sentence": "The most important principle is that derivatives of open source materials inherit the rights of the source.",
+    "after": "For instance, if the source code is protected by a Creative Commons license that requires attribution, that must be given."
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 17,
+  "input": "14f9ac815355",
+  "candidates": [
+   {
+    "loc": 15,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "If we look back with a critical eye, we recall that Yahoo, through its auctions site, early on ran afoul of hate speech laws in other countries by hosting, and defending, the sale of Nazi paraphernalia.",
+    "sentence": "Yahoo did this on ahistorical grounds, putting their corporation’s business needs over the rights of citizens likely to be harmed by hate speech, or killed by genocidal political ideals.",
+    "after": "Google, especially after the advent of street view and Gmail, provoked major concerns about the centralization of so many citizens’ information in the hands of a private corporation, as well as concerns about how it was casually undoing expectations that many people had about the privacy of their personal information."
+   },
+   {
+    "loc": 15,
+    "page": "pp. 17–18",
+    "kind": "p",
+    "before": "In addition to a lack of accountability, power imbalances continued to be a bug—or, if you prefer, a feature—in the drive to computerize everything.",
+    "sentence": "Even as swords turned to plowshares in the twentieth century and electronic computers moved out of the realm of warfare and squarely into business and government administration, computing corporations showed repeatedly how computers tended to privilege those with the most money and power already, and provided centralized solutions that could easily lead to devastating loss of life or of people’s civil rights.",
+    "after": "Technologies provided by IBM, the bellwether of the tech market in the mid-twentieth century, played a role in the Holocaust, then later supported the white supremacist apartheid government of South Africa."
+   },
+   {
+    "loc": 17,
+    "page": "pp. 21–22",
+    "kind": "p",
+    "before": "Their leaders insist that they, and they alone, know what is best for us—from what information we should see to how much privacy we should retain.",
+    "sentence": "Increasingly, these companies have placed themselves in the role of determining how we move about in the world, literally and figuratively, and their power to define our reality increasingly extends to the power to decide elections in the US and other nations, taking away our most fundamental rights as citizens to self-determination.",
+    "after": "These corporations tacitly assert that our future should be decided in the end by what is most profitable and efficient for them, rather than being left to the messy process of democracy unfiltered by the technocratic class."
+   },
+   {
+    "loc": 17,
+    "page": "pp. 21–22",
+    "kind": "p",
+    "before": "Even when it loses money, a broken system that consolidates more power will not be discarded.",
+    "sentence": "Civil rights, workers’ rights, and care for consumers are never as convenient or profitable as oppression and exploitation, because oppression is about power as much as it is about profit.",
+    "after": "It is hard enough to dislodge and correct such broken systems when we do have a say—a legally protected vote—in how they should function."
+   },
+   {
+    "loc": 91,
+    "page": "pp. 159–161",
+    "kind": "p",
+    "before": "How are different people—white, Black, men, women, straight, LGBTQ, abled, disabled—integrated in the corporate “family”?",
+    "sentence": "And what roles, and rights, do they have within it?",
+    "after": "What happens when this model is extended globally, as when IBM reorganized its operations in West Germany in the mid-twentieth century?"
+   },
+   {
+    "loc": 92,
+    "page": "p. 162",
+    "kind": "p",
+    "before": "IBM was a latecomer to such welfare capitalist measures, which other companies had created in the first three decades of the twentieth century, and which then still counted as progressive compared to the violent suppression of labor unions in other companies.",
+    "sentence": "Following the Great Depression, welfare capitalism floundered because many workers began to vote for the Democratic Party in federal elections and to join industrial unions to fight for their rights, bolstered by New Deal legislation easing the organization of workers.",
+    "after": "But IBM, formed in 1913 through a merger of three fledgling companies, could afford welfare capitalist measures only in the 1930s, thanks partly to profitable contracts for the new Social Security system."
+   },
+   {
+    "loc": 96,
+    "page": "pp. 169–170",
+    "kind": "p",
+    "before": "German executives copied the Watsons’ gendered presentation at company events but employed the family rhetoric more sparingly.",
+    "sentence": "At the fortieth-anniversary celebration for Mr. Watson, for example, the German subsidiary invited all employees and their spouses to a festive evening on April 30, 1954—the eve of the international labor movement day, a bank holiday in West Germany to celebrate international labor solidarity and promote workers’ rights in memory of the Chicago Haymarket riots.",
+    "after": "Similar to the festive events marking the Watsons’ visit to Germany the previous summer, now the German executives Johannes H. Borsdorf and Oskar E. Hörrmann and their wives personally greeted every guest."
+   },
+   {
+    "loc": 96,
+    "page": "pp. 169–170",
+    "kind": "p",
+    "before": "Representatives across the political spectrum passed legislation that promoted women’s family roles.",
+    "sentence": "For example, the 1949 German Basic Law— the German constitution—granted special protection of marriage, motherhood, and families as well as equal rights to women for the first time.",
+    "after": "But guided by conservative family value, the law also stated that housework constituted women’s primary contribution to their families and that women could hold gainful employment only when it did not interfere with their duties as housewives and mothers."
+   }
+  ]
+ },
+ {
+  "bookId": "gonzales-designing-multilingual-experiences-in-te",
+  "title": "Designing Multilingual Experiences in Technical Communication",
+  "authors": [
+   "Laura Gonzales"
+  ],
+  "year": 2022,
+  "uses": 30,
+  "input": "15c8d5c7c566",
+  "candidates": [
+   {
+    "loc": 26,
+    "page": "p. 10",
+    "kind": "p",
+    "before": "Our field has also begun paying more attention to the way technical communication work happens with Indigenous, transnational, and immigrant communities and other historically marginalized groups with expertise in multilingual communication within and beyond the US.",
+    "sentence": "In this work, some researchers emphasize the important role of social justice in working with linguistically and ethnically diverse communities, highlighting the ways globalization efforts can render colonizing violence (Agboka 2013; Haas 2012) when human dignity and human rights (Walton 2016) are ignored (Jones and Williams 2018; Williams and Pimentel 2014).",
+    "after": "In short, as a profession that has historically been described through translation metaphors and as the experts and partners in engineering who “translate” techno-scientific information for lay audiences (Slack, Miller, and Doak 1993), technical communicators are well poised to recognize and value the importance of language diversity in relation to information access and technical content creation, particularly in the context of globalization (Batova 2018; Haas and Eble 2018; Walwema 2016, 2021)."
+   },
+   {
+    "loc": 64,
+    "page": "p. 48",
+    "kind": "p",
+    "before": "",
+    "sentence": "While I appreciate and embrace the emphasis on “human dignity and human rights” (Walton 2016) put forth by human-centered design principles and while I incorporate this approach into the projects represented in this book due to its value and emphasis on working with marginalized communities, I also recognize that “evidence of the extraction model of UX can be seen in the language and practices that surround much of UX design” (Cardinal, Gonzales, and Rose 2020).",
+    "after": "For example, the emphasis on “efficiency” and the assumption about what marks “improvements” in factors such as health and safety echo white/Western ableist values and orientations to satisfaction and well-being."
+   },
+   {
+    "loc": 65,
+    "page": "p. 49",
+    "kind": "p",
+    "before": "In chapter 5, I pair participatory translation and UX activities with the history of colonization in South Asia to better understand how language practices in contemporary academic spaces in Kathmandu, Nepal, can still be guided by long-standing legacies of linguistic oppression while at the same time, multilingual researchers and community members in Nepal continue to find innovative solutions for navigating linguistically oppressive technologies.",
+    "sentence": "Finally, in chapter 6, I thread Indigenous epistemologies with decolonial theories alongside participatory design and UX to describe the work my research team in Oaxaca de Juárez, Mexico, is engaging with to bring visibility to the connections between language and land rights in and beyond the Mexican settler states.",
+    "after": "In short, embracing an intersectional, interdependent methodology when practicing UX research requires an interdisciplinary approach that acknowledges and centers participants’ values and histories into design and innovation."
+   },
+   {
+    "loc": 132,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "I further want to develop my career in environmental conservation and family forestry.",
+    "sentence": "I am also a good communicator and presenter and I use my skills for sensitizing people about their rights.",
+    "after": "Personally, my keen interest lies in volunteering, building up networks, exploring new places, and writing."
+   },
+   {
+    "loc": 132,
+    "page": "p. 116",
+    "kind": "p",
+    "before": "My interest lies in the issues related to gender and social inclusion, environmental conservation, which perfectly matches with the experience I had gained from my professional career as a development worker.",
+    "sentence": "As a person, I am fond of advocating for the rights of people (esp. gender-based violence) and women’s rights.",
+    "after": "I further want to develop my career in environmental conservation and family forestry."
+   },
+   {
+    "loc": 144,
+    "page": "p. 128",
+    "kind": "p",
+    "before": "",
+    "sentence": "Moving from Kathmandu to Oaxaca de Juárez, Mexico, in this chapter I extend the discussion of translation as a participatory design tool even further, outlining a project in which participants who speak over 200 languages and language variants came together with the common goal of supporting Indigenous language rights and representation.",
+    "after": "Through a discussion of how Indigenous language interpreters and translators negotiated linguistic and cultural differences to design an event that brought attention to the importance of Indigenous language translation and interpretation across the world, I present strategies for negotiating large-scale language differences in participatory design and user experience projects."
+   },
+   {
+    "loc": 167,
+    "page": "p. 151",
+    "kind": "q",
+    "before": "In all the proceedings we conduct as interpreters, we are dealing with cultural differences, and we try to demonstrate these cultural differences and intercultural issues in our work.",
+    "sentence": "As interpreters, we advocate for what we call strategic litigation, which means making visible the human rights of Indigenous communities.",
+    "after": "Right now, we are also trying to develop what we call structural litigation, where we can show not only that there is a lack of due process when it comes to the presence of an interpreter but that there are also various structural human rights violations that are at the core of these processes and that influence the integration of Indigenous communities into [colonial] systems, including violations related to our territories."
+   },
+   {
+    "loc": 167,
+    "page": "p. 151",
+    "kind": "q",
+    "before": "As interpreters, we advocate for what we call strategic litigation, which means making visible the human rights of Indigenous communities.",
+    "sentence": "Right now, we are also trying to develop what we call structural litigation, where we can show not only that there is a lack of due process when it comes to the presence of an interpreter but that there are also various structural human rights violations that are at the core of these processes and that influence the integration of Indigenous communities into [colonial] systems, including violations related to our territories.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 41,
+  "input": "bb823a45e3b9",
+  "candidates": [
+   {
+    "loc": 10,
+    "page": "pp. xiii–xiv",
+    "kind": "p",
+    "before": "Elsewhere, scholars and archivists Maria Eugenia Cotera, Linda García Merchant, and Marco Seiferle-Valencia, along with their student collaborators, have created the Chicana por Mi Raza.",
+    "sentence": "This archive includes oral histories, photographs, and documents related to Chicana feminist practitioners during the civil rights era.",
+    "after": "A central aspect of the archive’s collecting practices involves visits to, and long conversations with, feminist activists as part of an in-situ documentation effort that digitizes personal collections in the context of personal and community work."
+   },
+   {
+    "loc": 13,
+    "page": "pp. 2–4",
+    "kind": "p",
+    "before": "This neoliberal specter casts its shadow over all of academia, especially as the Covid-19 pandemic has strained budgets, shuttered universities, and accelerated austerity.",
+    "sentence": "Neoliberalism is an economic model emphasizing individual rights, derived from classical liberalism, in conjunction with the belief that markets compete best when they regulate themselves (Henry).",
+    "after": "Neoliberal economics has had a dramatic effect on higher education, marked by defunding less “lucrative” programs, adjunctification of the professoriat, overreliance on graduate workers, and rising tuition."
+   },
+   {
+    "loc": 17,
+    "page": "p. 11",
+    "kind": "p",
+    "before": "Nearly ten years on, positing a postcritical-theory DH, which eschews theoretical reflexivity and critique regarding race, gender, sexuality, nationalism, colonialism, or identity, seems quaint.",
+    "sentence": "With the rise of openly white-supremacist far-right political parties, erosions of human rights surrounding immigration and migration, reckonings over racism in response to police brutality and state-sanctioned murder, sexual and gender inequalities, wealth and income disparity, governmental failure in response to Covid-19, and imminent climate collapse, critical theories articulating sociopolitical issues are more crucial than ever.",
+    "after": "Whereas Frances Fukuyama declared an “end to history” in 1992, predicting the hegemony of neoliberal democracy, we are witnessing a resurgence of history and a renewed need for a critical theory that will help us map our political positionality vis-à-vis such challenges."
+   },
+   {
+    "loc": 28,
+    "page": "pp. 31–32",
+    "kind": "p",
+    "before": "Lisa Nakamura analyzed gendered and racialized labor performed by Navajo women in early electronics manufacture.",
+    "sentence": "Katrina Anderson, Pamela Andrews, Spencer Keralis, and the coauthors of “A Student Collaborator’s Bill of Rights” and “Postdoctoral Laborers Bill of Rights” critiqued DH labor practices exploiting students and early career researchers (Anderson et al.; Di Pressi et al.; Keralis; Keralis and Andrews; Alpert-Abrams et al.).",
+    "after": "And an impressive community of scholars including Roopika Risam and Safiya Umoja Noble foregrounded DH’s connections to exploitative labor conditions, particularly in the Global South."
+   },
+   {
+    "loc": 33,
+    "page": "p. 39",
+    "kind": "p",
+    "before": "For instance, building on the tradition of scientific notebooks, Cultural Heritage Imaging in San Francisco has developed a protocol that makes it possible to log and analyze the steps of a digitizer.",
+    "sentence": "This protocol, called the Digital Lab Notebook (DLN), collects and manages data through the life cycle of a digital object, capturing context metadata such as the equipment used, locations, documents, stakeholders, and rights (see Figure 2.4).",
+    "after": "Importantly, the DLN is flexible."
+   },
+   {
+    "loc": 56,
+    "page": "pp. 74–75",
+    "kind": "p",
+    "before": "A quick scan through these documents highlights a broad approach for implementing AI policy in areas such as “scientific research, talent development, skills and education, public and private sector adoption, ethics and inclusion, standards and regulations, and data and digital infrastructure” (Dutton).",
+    "sentence": "Premised on establishing global principles and standards, corporate governance and compliance, industrial competitiveness, and sustainable development (Renda), these standards and regulations outline the common good and benefit for humanity, establish principles of fairness and intelligibility, address data and privacy rights, and propose benefit sharing and restrictions or outright bans on vesting AI with the autonomous power to hurt, destroy, or deceive humans (IEEE).",
+    "after": ""
+   },
+   {
+    "loc": 190,
+    "page": "pp. 309–310",
+    "kind": "p",
+    "before": "",
+    "sentence": "There have been a variety of efforts over the past decade to help provide language for, and to frame the debate around, the rights of those whose labor is necessary for digital projects.",
+    "after": "Early considerations of DH labor focused almost exclusively on recognition for tenure and promotion for teaching and research faculty (Modern Language Association; Rockwell)."
+   },
+   {
+    "loc": 190,
+    "page": "pp. 309–310",
+    "kind": "p",
+    "before": "Though this is slowly changing, resistance still remains, as we saw in the MLA/Ithaka S+R report.",
+    "sentence": "The “Collaborators’ Bill of Rights” (CBR), which will be a decade old by the time this chapter appears in print, emerged from a workshop on professionalization in digital humanities centers, “Off the Tracks: Laying New Lines for Digital Humanities Scholars,” funded by a 2010 National Endowment for the Humanities DH Level 1 Start-Up Grant.",
+    "after": "The CBR is part of the discourse of alt-ac, “alternative academic careers,” in this case “hybrid scholar-programmers . . . staffing many DH centers.”"
+   }
+  ]
+ }
+]

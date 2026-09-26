@@ -1,0 +1,1460 @@
+[
+ {
+  "bookId": "foucault-order-of-things-an-archaeology-of-human",
+  "title": "Order of Things: An Archaeology of Human Sciences",
+  "authors": [
+   "Michel Foucault"
+  ],
+  "year": 1966,
+  "uses": 49,
+  "input": "987a64918589",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "And here the great canvas with its back to us on the extreme left of the picture exercises its second function: stubbornly invisible, it prevents the relation of these gazes from ever being discoverable or definitely established.",
+    "sentence": "The opaque fixity that it establishes on one side renders forever unstable the play of metamorphoses established in the centre between spectator and model.",
+    "after": "Because we can see only that reverse side, we do not know who we are, or what we are doing."
+   },
+   {
+    "loc": 30,
+    "page": "PDF p. 30",
+    "kind": "p",
+    "before": "‘Nature’ is trapped in the thin layer that holds semiology and hermeneutics one above the other; it is neither mysterious nor veiled, it offers itself to our cognition, which it sometimes leads astray, only in so far as this superimposition necessarily includes a slight degree of non-coincidence between the resemblances.",
+    "sentence": "As a result, the grid is less easy to see through; its transparency is clouded over from the very first.",
+    "after": "A dark space appears which must be made progressively clearer."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "Language stands halfway between the visible forms of nature and the secret conveniences of esoteric discourse.",
+    "sentence": "It is a fragmented nature, divided against itself and deprived of its original transparency by admixture; it is a secret that carries within itself, though near the surface, the decipherable signs of what it is trying to say.",
+    "after": "It is at the same time a buried revelation and a revelation that is gradually being restored to ever greater clarity."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "",
+    "sentence": "In its original form, when it was given to men by God himself, language was an absolutely certain and transparent sign for things, because it resembled them.",
+    "after": "The names of things were lodged in the things they designated, just as strength is written in the body of the lion, regality in the eye of the eagle, just as the influence of the planets is marked upon the brows of men: by the form of similitude."
+   },
+   {
+    "loc": 33,
+    "page": "PDF p. 33",
+    "kind": "p",
+    "before": "The names of things were lodged in the things they designated, just as strength is written in the body of the lion, regality in the eye of the eagle, just as the influence of the planets is marked upon the brows of men: by the form of similitude.",
+    "sentence": "This transparency was destroyed at Babel as a punishment for men.",
+    "after": "Languages became separated and incompatible with one another only in so far as they had previously lost this original resemblance to the things that had been the prime reason for the existence of language."
+   },
+   {
+    "loc": 45,
+    "page": "PDF p. 45",
+    "kind": "p",
+    "before": "What we are faced with here is not, however, a surreptitious return to a ternary system, but rather an inevitable displacement within the two-term figure, which moves backward in relation to itself and comes to reside entirely within the signifying element.",
+    "sentence": "In fact, the signifying clement has no content, no function, and no determination other than what it represents: it is entirely ordered upon and transparent to it.",
+    "after": "But this content is indicated only in a representation that posits itself as such, and that which is signified resides, without residuum and without opacity, within the representation of the sign."
+   },
+   {
+    "loc": 45,
+    "page": "PDF p. 45",
+    "kind": "p",
+    "before": "In fact, the signifying clement has no content, no function, and no determination other than what it represents: it is entirely ordered upon and transparent to it.",
+    "sentence": "But this content is indicated only in a representation that posits itself as such, and that which is signified resides, without residuum and without opacity, within the representation of the sign.",
+    "after": "It is characteristic that the first example of a sign given by the Logique de Port-Royal is not the word, nor the cry, nor the symbol, but the spatial and graphic representation – the drawing as map or picture."
+   },
+   {
+    "loc": 155,
+    "page": "PDF p. 155",
+    "kind": "p",
+    "before": "In return, however, at the meeting-point between representation and being, at the point where nature and human nature intersect – at the place in which we believe nowadays that we can recognize the primary, irrefutable, and enigmatic existence of man – what Classical thought reveals is the power of discourse.",
+    "sentence": "In other words, language in so far as it represents – language that names, patterns, combines, and connects and disconnects things as it makes them visible in the transparency of words.",
+    "after": "In this role, language transforms the sequence of perceptions into a table, and cuts up the continuum of beings into a pattern of characters."
+   }
+  ]
+ },
+ {
+  "bookId": "ong-orality-and-literacy-the-technologizing",
+  "title": "Orality and Literacy: The Technologizing of the Word",
+  "authors": [
+   "Walter J. Ong"
+  ],
+  "year": 1982,
+  "uses": 4,
+  "input": "9cddda3ef347",
+  "candidates": [
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Although it was tied in to a residually oral mentality, it provided no direct access to the unconscious of the sort that a mother tongue provides.",
+    "sentence": "Under these conditions, a literary text in Latin, however complex, and however learnedly understood, was bound to be opaque by comparison with a text in one's own mother's tongue, written out of a richer mix of unconscious and conscious elements.",
+    "after": "Given the relative intrinsic opacity of Latin texts, it was not surprising that comment on the text should be deflected somewhat from the text itself to the author, his psychology, the historical background, and all the externals that so annoyed advocates of the New Criticism."
+   },
+   {
+    "loc": 101,
+    "page": "PDF p. 101",
+    "kind": "p",
+    "before": "Under these conditions, a literary text in Latin, however complex, and however learnedly understood, was bound to be opaque by comparison with a text in one's own mother's tongue, written out of a richer mix of unconscious and conscious elements.",
+    "sentence": "Given the relative intrinsic opacity of Latin texts, it was not surprising that comment on the text should be deflected somewhat from the text itself to the author, his psychology, the historical background, and all the externals that so annoyed advocates of the New Criticism.",
+    "after": ""
+   },
+   {
+    "loc": 103,
+    "page": "PDF p. 103",
+    "kind": "p",
+    "before": "Writing breaks the pipeline model because it can be shown that writing has an economy of its own so that it cannot simply transmit unchanged what it receives from speech.",
+    "sentence": "Moreover, looking back from the break made by writing, one can see that the pipeline is broken even earlier by spoken words, which do not themselves transmit an extramental world of presence as through transparent glass.",
+    "after": "Language is structure, and its structure is not that of the extramental world."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "L'écriture and orality are both 'privileged', each in its own distinctive way.",
+    "sentence": "Without textualism, orality cannot even be identified; without orality, textualism is rather opaque and playing with it can be a form of occultism, elaborate obfuscation—which can be endlessly titillating, even at those times when it is not especially informative.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+  "title": "Simians, cyborgs, and women: the reinvention of nature",
+  "authors": [
+   "Donna J. Haraway"
+  ],
+  "year": 1991,
+  "uses": 4,
+  "input": "4107d61edf4f",
+  "candidates": [
+   {
+    "loc": 140,
+    "page": "p. 114",
+    "kind": "p",
+    "before": "It is possible to foreground or to obscure the publishing practices that make some fiction particularly visible or particularly unavailable in women’s studies markets.",
+    "sentence": "The material object, the book itself, may be made to seem invisible and transparent or to provide a physical clue to circulations of meanings and power.",
+    "after": "These points have been made forcefully in Katie King’s (1988) reading of the ‘genre’ of biomythography in Audre Lorde’s (1982) Zami."
+   },
+   {
+    "loc": 179,
+    "page": "p. 153",
+    "kind": "p",
+    "before": "Our best machines are made of sunshine; they are all light and clean because they are ut signals, electromagnetic waves, a section of a spectrum, and these machines are eminently portable, mobile — a matter of immense human pain in Detroit and Singapore.",
+    "sentence": "People are nowhere near so fluid, being both material and opaque.",
+    "after": "Cyborgs are ether, quinte e."
+   },
+   {
+    "loc": 199,
+    "page": "p. 173",
+    "kind": "p",
+    "before": "Intensifications of hardship experienced world-wide in connection with the social relations of science and technology are severe.",
+    "sentence": "But what people are experiencing is not transparently clear, and we lack sufficiently subtle connections for collectively building effective theories of experience.",
+    "after": "Present efforts — Marxist, psychoanalytic, feminist, anthropological — to clarify even ‘our’ experience are rudimentary."
+   },
+   {
+    "loc": 215,
+    "page": "p. 189",
+    "kind": "p",
+    "before": "",
+    "sentence": "A tribute to this ideology of direct, devouring, generative, and unrestricted vision, whose technological mediations are simultaneously celebrated and presented as utterly transparent, the volume celebrating the 100th anniversary of the National Geographic Society closes its survey of the magazine’s quest literature, effected through its amazing photography, with two juxtaposed chapters.",
+    "after": "The first is on ‘Space’, introduced by the epigraph, ‘The choice is the universe — or nothing’ (Bryan, 1987, p. 352)."
+   }
+  ]
+ },
+ {
+  "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+  "title": "How We Became Posthuman: Virtual Bodies in Cybernetics",
+  "authors": [
+   "N. Katherine Hayles"
+  ],
+  "year": 1999,
+  "uses": 5,
+  "input": "bd43081e6142",
+  "candidates": [
+   {
+    "loc": 27,
+    "page": "PDF p. 27",
+    "kind": "p",
+    "before": "",
+    "sentence": "As the emphasis shifts to pattern and randomness, characteristics of print texts that used to be transparent (because they were so pervasive) are becoming visible again through their differences from digital textuality.",
+    "after": "We lose the opportunity to understand the implications of these shifts if we mistake the dominance of pattern/randomness for the disappearance of the material world."
+   },
+   {
+    "loc": 78,
+    "page": "PDF p. 78",
+    "kind": "p",
+    "before": "Wiener’s interest in lobotomy is played out in a short story he wrote entitled “The Brain,” with which Wolfe may have been familiar.",
+    "sentence": "Published in a 1950 science fiction anthology under the transparent pseudonym “W. Norbert,” the story was explicitly attributed by the editor to Norbert Wiener.",
+    "after": ""
+   },
+   {
+    "loc": 85,
+    "page": "PDF p. 85",
+    "kind": "p",
+    "before": "His voiced concessions to sexual politics are similarly limited to realizing that women are not entirely monsters.",
+    "sentence": "The real power relations at stake in sexist relations remain opaque to him, just as do the deeper implications of being wired into a cybernetic circuit.",
+    "after": ""
+   },
+   {
+    "loc": 150,
+    "page": "PDF p. 150",
+    "kind": "p",
+    "before": "Stanislaw Ulam, a Polish mathematician who worked with von Neumann at Los Alamos during World War II, suggested to von Neumann that he could achieve the same result by abstracting the automaton into a grid of cells.",
+    "sentence": "Thus von Neumann reduced the massive and resistant materiality of the self-reproducing automaton as he had originally envisioned it to undifferentiated cells with bodies so transparent that they were constituted as squares marked off on graph paper and later as pixels on computer screens.",
+    "after": ""
+   },
+   {
+    "loc": 168,
+    "page": "PDF p. 168",
+    "kind": "p",
+    "before": "It is always tricky to try to answer the question of how close an author is to the character who represents the author within an autobiographical work.",
+    "sentence": "In this novel structured through multiple recursions, doublings, and back-propagations, the relationship between Rick and Powers remains teasingly opaque (Powers subtitled his work A Novel, as if to remind his readers that they should not assume any necessary correspondence between author and character).",
+    "after": "From this opaqueness emerges another similarity between Rick and Helen."
+   }
+  ]
+ },
+ {
+  "bookId": "rose-visual-methodologies-an-introduction-to",
+  "title": "Visual methodologies: an introduction to researching with",
+  "authors": [
+   "Gillian Rose"
+  ],
+  "year": 2001,
+  "uses": 3,
+  "input": "b0295f5fee2f",
+  "candidates": [
+   {
+    "loc": 19,
+    "page": "p. 2",
+    "kind": "p",
+    "before": "But this rendering, even by photographs, is never innocent.",
+    "sentence": "These images are never transparent windows onto the world.",
+    "after": "They interpret the world; they display it in very particular ways."
+   },
+   {
+    "loc": 190,
+    "page": "p. 173",
+    "kind": "p",
+    "before": "Sekula and writers like him make that analytical move because they place their understandings of discourses firmly in relation to the account of institutions given by Foucault.",
+    "sentence": "Archives are one sort of institution, in the Foucauldian sense, and this second sort of analysis would not treat them as transparent windows onto source materials in the way that Tonkiss seems to.",
+    "after": "Archives work in quite particular ways that have effects on what is stored within them, and on those who use them (Rose 2000)."
+   },
+   {
+    "loc": 255,
+    "page": "p. 238",
+    "kind": "p",
+    "before": "Hence photos are used by these social scientists because they can carry or evoke three things - information, affect and reflection — particularly well.",
+    "sentence": "As a result, photos can be described as ‘a more transparent representation of the life experiences of participants in [a] study’ (Dodman 2003: 294).",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "latour-reassembling-the-social-an-introduction",
+  "title": "Reassembling the Social: An Introduction to",
+  "authors": [
+   "Bruno Latour"
+  ],
+  "year": 2005,
+  "uses": 10,
+  "input": "baad1d4fcf8d",
+  "candidates": [
+   {
+    "loc": 18,
+    "page": "PDF p. 18",
+    "kind": "p",
+    "before": "It is directed at practitioners as a how-to book, helping them to find their bearings once they are bogged down in the territory.",
+    "sentence": "For others, I am afraid it will remain totally opaque, since the social ties to be traced will never resemble those they have been trained to follow.",
+    "after": ""
+   },
+   {
+    "loc": 32,
+    "page": "PDF p. 32",
+    "kind": "p",
+    "before": "Social scientists and actors were on par with each other and both raised essentially the same type of question: How do we know what the social world is made of?",
+    "sentence": "We now have to learn how to exploit a second source of uncertainty, one that is even more fundamental and which resides at the heart of all the social sciences, namely that which sees action as not transparent.",
+    "after": "Action is not done under the full control of consciousness; action should rather be felt as a node, a knot, and a conglomerate of many surprising sets of agencies that have to be slowly disentangled."
+   },
+   {
+    "loc": 34,
+    "page": "PDF p. 34",
+    "kind": "p",
+    "before": "",
+    "sentence": "It’s not because there is some hesitation about the source of action that we have to hurry to say where it springs from, taking for instance the ‘global forces of society’, the ‘transparent calculations of the self’, the ‘inner passions of the heart’, the ‘intentionality of the person’, the ‘gnawing scruples of moral consciousness’, ‘the roles given to us by social expectations’, or ‘bad faith’.",
+    "after": "Uncertainty should remain uncertain throughout because we don’t want to rush into saying that actors may not know what they are doing, but that we, the social scientists, know that there exists a social force ‘making them do’ things unwittingly."
+   },
+   {
+    "loc": 50,
+    "page": "PDF p. 50",
+    "kind": "p",
+    "before": "A microsecond?",
+    "sentence": "One thing is certain: if we interrupt our fieldwork at each relay by focusing only on the list of already gathered connections, the social world would become immediately opaque, shrouded into those strange autumn fogs that leave visible only tiny and unpredictable smears of the landscape.",
+    "after": "And yet, on the other hand, if sociologists have also to become engineers, artisans, craftsmen, designers, architects, managers, promoters etc., they will never end up following their actors through those many intermittent existences."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "Bringing the writing of reports into the foreground might irritate those who claim to know what the social is made of.",
+    "sentence": "They would much prefer to be like ‘hard’ scientists and try to understand the existence of a given phenomenon, refusing to consider the written account and relying instead on direct contact with the thing at hand via the transparent medium of a clear and unambiguous technical idiom.",
+    "after": "But we, who have been trained in science studies, don’t need to ignore the thickness of any given text, its pitfalls, its dangers, its awful way to make you say things you don’t want to say, its opacity, its resistance, its mutability, its tropism."
+   },
+   {
+    "loc": 75,
+    "page": "PDF p. 75",
+    "kind": "p",
+    "before": "They would much prefer to be like ‘hard’ scientists and try to understand the existence of a given phenomenon, refusing to consider the written account and relying instead on direct contact with the thing at hand via the transparent medium of a clear and unambiguous technical idiom.",
+    "sentence": "But we, who have been trained in science studies, don’t need to ignore the thickness of any given text, its pitfalls, its dangers, its awful way to make you say things you don’t want to say, its opacity, its resistance, its mutability, its tropism.",
+    "after": "We know too well that, even in ‘hard’ sciences, authors clumsily try to write texts about difficult matters of concern."
+   },
+   {
+    "loc": 90,
+    "page": "PDF p. 90",
+    "kind": "p",
+    "before": "S: Meaning?",
+    "sentence": "P: Meaning that it’s not just a transparent windowpane, transporting without deformation some information about your study.",
+    "after": "‘There is no in-formation, only trans-formation.’"
+   },
+   {
+    "loc": 108,
+    "page": "PDF p. 108",
+    "kind": "p",
+    "before": "",
+    "sentence": "Other sociologists may ignore these production sites as so many transparent intermediaries since, according to their epistemology, they play no other role than to reveal the ‘fundamental structures’ of human actions, but historians and sociologists of science pay close attention.",
+    "after": "Ever since we decided to follow how matters of concern are generated by the various disciplines, we have to take into account the practical ways through which the knowledge of others’ actions is being daily produced."
+   }
+  ]
+ },
+ {
+  "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+  "title": "Digitizing Race: Visual Cultures of the Internet (Volume 23)",
+  "authors": [
+   "Lisa Nakamura"
+  ],
+  "year": 2008,
+  "uses": 31,
+  "input": "41bd9605495a",
+  "candidates": [
+   {
+    "loc": 106,
+    "page": "p. 95",
+    "kind": "p",
+    "before": "The proper relationship to the interface is codiﬁed quite clearly: competency or mastery is deﬁned by the level of immediacy the user experiences in relation to it.",
+    "sentence": "Eugene Thacker deﬁnes immediacy as follows: it “involves the use of new media to the extent that the media themselves—the ‘window’— disappear, bringing forth a kind of direct experience where technology is transparent and unnoticed by the subject.”",
+    "after": "This is an eloquent formulation of entitlement regarding the new media interface."
+   },
+   {
+    "loc": 107,
+    "page": "p. 96",
+    "kind": "p",
+    "before": "The Matrix trilogy and the 2002 ﬁlm Minority Report racialize digital information access and production by depicting scenes of white and male users experiencing “direct” or immediate relations with computer interfaces, while users of color are relegated to the background, depicted with truncated and relatively distant, highly technologically mediated relationships to their hardware and software.",
+    "sentence": "These users are visible reminders of the necessity of human objects to support and underwrite others’ sublime experience of “transparent” and direct interactions with digital technology; they supply the marginal blackness in the Matrix ﬁlms and Minority Report against which whiteness stands in sharp relief.",
+    "after": "And in both ﬁlms, Asians and Asian Americans function as the material base for technologies of digitized vision and surveillance."
+   },
+   {
+    "loc": 117,
+    "page": "p. 106",
+    "kind": "p",
+    "before": "The most privileged of these are interfaces that we use to control operating systems and manipulate images—ATM usage and pumping gas at electronic pumps are uses of interfaces as well but do not have the element of production and open interactivity associated with these privileged interfaces.",
+    "sentence": "Interfaces are seductive: interface designers call a successful interface “transparent” when it is easy to use, intuitive, and immersive, and when it provides its intended user with a sense of “ﬁt.”",
+    "after": "The metaphor of transparency is literalized in scenes depicting interface usage in Minority Report."
+   },
+   {
+    "loc": 118,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "",
+    "sentence": "The ﬁlm’s images of a transparent interface, controlled by gestures of the hands rather than a keyboard, are modeled after an MIT Media Lab experiment.",
+    "after": "The interfaces are literally transparent: we can see through them; we are on the other side of the looking glass, occupying the point of view of the computer itself, were this a traditional setup."
+   },
+   {
+    "loc": 118,
+    "page": "p. 107",
+    "kind": "p",
+    "before": "The ﬁlm’s images of a transparent interface, controlled by gestures of the hands rather than a keyboard, are modeled after an MIT Media Lab experiment.",
+    "sentence": "The interfaces are literally transparent: we can see through them; we are on the other side of the looking glass, occupying the point of view of the computer itself, were this a traditional setup.",
+    "after": "As Anderton “scrubs” and manipulates the image, we hear classical music, which reinforces the idea of the interface user as a conductor, a master of digital production."
+   },
+   {
+    "loc": 134,
+    "page": "p. 123",
+    "kind": "p",
+    "before": "Detection, always a visual trope, has literally become an act of computer-aided vision in this ﬁlm, a kind of privileged seeing through postproduction.",
+    "sentence": "Like the Zion gate operator in The Matrix, Anderton is engaging in a transparent relationship with the interface that conﬁrms his privilege in the racial landscape.",
+    "after": "Anderton has the privileged view that comes with a proprioceptive, immediate relationship to networked digital imaging."
+   },
+   {
+    "loc": 135,
+    "page": "p. 124",
+    "kind": "p",
+    "before": "None of the other characters possess this ability.”",
+    "sentence": "Echoing the visual setup of Minority Report, Foster notes: “The [Matrix] ﬁlms then deﬁne a new ideology of transparency, associated not with the unthinking acceptance of surface appearances, but with the ability to see through such realistic illusions.",
+    "after": "While immersion in the illusion naturalizes appearances, Neo’s ability to perceive their constructedness naturalizes that ability as a function of the unaided critical faculties of the human mind, independent of any technological prosthesis or interface.”"
+   },
+   {
+    "loc": 167,
+    "page": "p. 156",
+    "kind": "p",
+    "before": "In Feminism and the Technological Fix, Carol Stabile describes the deﬁning paradox of the visual culture of pregnancy as follows: “With the advent of visual technologies, the contents of the uterus have become demystiﬁed and entirely representable, but pregnant bodies themselves remain concealed.”",
+    "sentence": "Hence the paradox: while medical imaging technologies like ultrasounds and laparoscopy have turned the pregnant female body inside out, rendering it as transparent as a pane of glass, a vessel containing inﬁnite visual wonders of procreation and opportunities for witnessing with machine-enabled vision the miracle (or spectacle) of birth, its exterior remains hidden in plain sight.",
+    "after": "As Stabile writes: “The pregnant body. . . remains invisible and undertheorized in feminist theory.”"
+   }
+  ]
+ },
+ {
+  "bookId": "chun-updating-to-remain-the-same-habitual-new",
+  "title": "Updating to Remain the Same: Habitual New Media (The MIT",
+  "authors": [
+   "Wendy Hui Kyong Chun"
+  ],
+  "year": 2016,
+  "uses": 24,
+  "input": "60b7504d3538",
+  "candidates": [
+   {
+    "loc": 33,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "Chapter 4, Inhabiting Writing: Against the Epistemology of Outing (I Never Remember; YOUs Never Forget) draws the book to a close by exploring alternative ways to inhabit networks.",
+    "sentence": "It starts with the observation that network safety is increasingly framed in gendered terms: the need to protect teenage girls drives calls for online transparency; at the same time, the ‘bad user’ is the ‘girl’ who threatens her own (and other people’s) safety through her promiscuity.",
+    "after": "Tracing this logic in several high-profile bullying cases and linking it to the long history within the United States of defining the right to privacy in relation to white, bourgeois femininity, this chapter argues that, rather than accept this safety (which is in fact no safety), we need to fight for the right to loiter in public."
+   },
+   {
+    "loc": 34,
+    "page": "p. 19",
+    "kind": "p",
+    "before": "In response, it revealed the centrality of computers—understood as networked hardware/software machines—to neoliberalism: they are essential to organizing and managing, assessing and predicting—that is, programming—populations and individuals.",
+    "sentence": "In making this argument, Programmed Visions focused not simply or primarily on the varied tasks computers now accomplish, but rather on the very notion of programmability—a vision of rationality that covers over incomprehensible and opaque executions—that they have come to encapsulate.",
+    "after": "It did so not in order to condemn and move beyond computer interfaces and software, but rather to understand how this combination of visibility with invisibility, of past experiences with future expectation, makes new media such a powerful thing for each and all."
+   },
+   {
+    "loc": 73,
+    "page": "p. 58",
+    "kind": "p",
+    "before": "Further, this type of system seeks quiescence by quickly figuring out who to target and who to leave alone, so that the smallest number of people are subjected to invasive security measures and discipline.",
+    "sentence": "It is “transparent,” where transparency, as Antoinette Rouvroy has argued, refers not to user knowledge of the system, but rather to user ignorance.",
+    "after": "Most insidiously, as Rouvroy points out, this type of system seeks to eradicate preemptively everything in the human being that remains uncertain or virtual."
+   },
+   {
+    "loc": 97,
+    "page": "p. 82",
+    "kind": "p",
+    "before": "It perversely renders code, because of machinic, dead repetition, into logos.",
+    "sentence": "Like the King’s speech in Plato’s Phaedrus, code does not pronounce knowledge or demonstrate it; it transparently pronounces itself, for it does what it says.",
+    "after": "The hidden signified—meaning; the father’s intentions—shines through and transforms itself into action."
+   },
+   {
+    "loc": 123,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "",
+    "sentence": "Crucially, this new version of the Internet envisioned trusted social interactions as based on transparency and conceived of the default user not as a lurker but a friend.",
+    "after": "This move toward transparency responded to the failures of the initial Internet to live up to its hype as an ideal marketplace of ideas, as the Athenian agora come true."
+   },
+   {
+    "loc": 123,
+    "page": "p. 108",
+    "kind": "p",
+    "before": "Crucially, this new version of the Internet envisioned trusted social interactions as based on transparency and conceived of the default user not as a lurker but a friend.",
+    "sentence": "This move toward transparency responded to the failures of the initial Internet to live up to its hype as an ideal marketplace of ideas, as the Athenian agora come true.",
+    "after": "By the early 2000s, the early promises of the web were exposed for what they were: unfulfilled and perhaps unfulfillable imaginings."
+   },
+   {
+    "loc": 125,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "The development of the Internet has made Nissenbaum’s words prophetic.",
+    "sentence": "With ‘transparency,’ we have seen not only an explosion of e-commerce but also a blossoming of dataveillance, cyberbullying, and cyberporn.",
+    "after": "The naïve presumption that transparency would ‘cure’ the evils of the early Internet—pornography, trolling, flame wars, etc.—has proven to be false."
+   },
+   {
+    "loc": 125,
+    "page": "p. 110",
+    "kind": "p",
+    "before": "With ‘transparency,’ we have seen not only an explosion of e-commerce but also a blossoming of dataveillance, cyberbullying, and cyberporn.",
+    "sentence": "The naïve presumption that transparency would ‘cure’ the evils of the early Internet—pornography, trolling, flame wars, etc.—has proven to be false.",
+    "after": "Cyberbullying takes place most effectively within the trusted structure of ‘friend’ networks, for it is most traumatic when both parties are known or are assumed to be ‘friends of friends.’"
+   }
+  ]
+ },
+ {
+  "bookId": "vee-coding-literacy-how-computer-programming",
+  "title": "Coding Literacy: How Computer Programming Is Changing",
+  "authors": [
+   "Annette Vee"
+  ],
+  "year": 2017,
+  "uses": 13,
+  "input": "1f17e8eeb881",
+  "candidates": [
+   {
+    "loc": 20,
+    "page": "PDF p. 20",
+    "kind": "p",
+    "before": "The use of code can allow us to accelerate aspects of surveillance, law, finance, information, and bureaucracy, but, perhaps less frighteningly, it can also facilitate greater accountability in governance.",
+    "sentence": "Applications designed to monitor spending and political donations can lead to more transparent governance, in the same way that text can serve not only to keep records on citizens but also as paper trails for government officials.",
+    "after": "For example, the Sunlight Foundation is committed “to improving access to government information by making it available online, indeed redefining ‘public’ information as meaning ‘online,’” They offer programs and apps that allow people to track state bills (Open States), view the many golf outings, breakfasts and concerts that comprise the political fundraising circuit (Party Time), and access the deleted Tweets of politicians (Politwhoops)."
+   },
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "A focus on an “infrastructural communication technology” is meant to draw attention to literacies connected to power and to differentiate them from other useful skills.",
+    "sentence": "Susan Leigh Star describes “infrastructure” as a comprehensive, societally embedded, structural standard that is largely transparent to insiders.",
+    "after": "She writes, “We see and name things differently under different infrastructural regimes."
+   },
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "",
+    "sentence": "A recent controversy about Facebook’s adjustment of their opaque “news feed” algorithm for (perhaps dubious) research purposes is only one of many moments when the control that algorithms exert over our lives has risen to the surface.",
+    "after": "Wryly commenting on this incident, comic artist Randall Munroe points out that regardless of the ethical merits of this “research,” Facebook’s algorithm has always been controlling (see figure 2)."
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "",
+    "sentence": "Though HTML is a markup language used for formatting, not a programming language used for data processing and flow control, it copied BASIC’s template of simplicity, similarity to natural language, device independence, and transparency to become many users’ first introduction to manipulating code.",
+    "after": "The easy-entry possibilities of HTML, plus the fact that it can lead users to other more extensive languages like Javascript, Perl, and PHP, enacts that gentle novice-to-expert climb that Kemeny and Kurtz sought for BASIC."
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "The cognitive pillar concerns human intelligence; people need certain cognitive skills in order to learn to read and write, for instance.",
+    "sentence": "The technological intersects with the social and cognitive in the ways that the material form of literacy affects its circulation. diSessa uses the example of calculus to illustrate this point: we use Leibniz’s notation rather than Newton’s because it is more transparent and easier to understand.",
+    "after": "Calculus would never have become so widely taught if its notation were as arcane as Newton’s, diSessa argues."
+   },
+   {
+    "loc": 71,
+    "page": "PDF p. 71",
+    "kind": "p",
+    "before": "Thus, a specific notation technology made the kinds of knowledge that calculus fosters more available to a broader group of people.",
+    "sentence": "Of course, social factors can also mean that the easier or more transparent technology does not always win out, as demonstrated by the QWERTY keyboard’s persistence.",
+    "after": "A concept of material intelligences can explain how specific technologies affect the kinds of cognitive abilities fostered and the circulation of those abilities in a society."
+   },
+   {
+    "loc": 83,
+    "page": "PDF p. 83",
+    "kind": "p",
+    "before": "",
+    "sentence": "For standard programming environments, the objective is generally to produce code that is clear and consistent for both the computer and the human reader, to omit unnecessary processes for the computer and make active processes transparent to human readers.",
+    "after": "But even standard code can be poetic—“elegant”—when meaning and form merge in aesthetically pleasing ways, as Brooks suggests."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "As Karim Lakhani and Robert Wolf report from a study of 684 software developers in 287 free or open-source software projects, community identity is very strong and cohesive in these projects and structures the participation of members of the community.",
+    "sentence": "Anthropologist Gabriella Coleman describes the open-source community of Debian as being held together not only by their shared coding project but also by “a set of moral precepts—transparency, openness, accountability, and non-discrimination—that are used to establish correct procedures for technological production, licensing, and social organization.”",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "noble-algorithms-of-oppression",
+  "title": "Algorithms of Oppression",
+  "authors": [
+   "Safiya Umoja Noble"
+  ],
+  "year": 2018,
+  "uses": 13,
+  "input": "49ddabc61d8b",
+  "candidates": [
+   {
+    "loc": 25,
+    "page": "PDF p. 25",
+    "kind": "p",
+    "before": "Nevertheless, many of these models encoded human prejudice, misunderstanding, and bias into the software systems that increasingly managed our lives.",
+    "sentence": "Like gods, these mathematical models were opaque, their workings invisible to all but the highest priests in their domain: mathematicians and computer scientists.",
+    "after": "Their verdicts, even when wrong or harmful, were beyond dispute or appeal."
+   },
+   {
+    "loc": 34,
+    "page": "PDF p. 34",
+    "kind": "p",
+    "before": "Yahoo!, another leading U.S. search engine, was forced into a protracted legal battle in France for allowing pro-Nazi memorabilia to be sold through its search engine, in violation of French law.",
+    "sentence": "What these cases point to is that search results are deeply contextual and easily manipulated, rather than objective, consistent, and transparent, and that they can be legitimated only in social, political, and historical context.",
+    "after": ""
+   },
+   {
+    "loc": 64,
+    "page": "PDF p. 64",
+    "kind": "p",
+    "before": "He shows that design impacts social relations at economic and political levels.",
+    "sentence": "The more we can make transparent the political dimensions of technology, the more we might be able to intervene in the spaces where algorithms are becoming a substitute for public policy debates over resource distribution—from mortgages to insurance to educational opportunities.",
+    "after": ""
+   },
+   {
+    "loc": 83,
+    "page": "PDF p. 83",
+    "kind": "p",
+    "before": "",
+    "sentence": "At the center of the calls for greater transparency over the kinds of information that people are requesting removal of from the Internet is a struggle over power, rights, and notions of what constitutes freedom, social good, and human rights to privacy and the right to futures unencumbered by the past.",
+    "after": "The rulings against Google that support the “right to be forgotten” law currently affects only the European Union."
+   },
+   {
+    "loc": 87,
+    "page": "PDF p. 87",
+    "kind": "p",
+    "before": "The discussion about the right to be forgotten has largely lived in the frameworks of contesting neoliberal control and encroachments on social and public life organized around unstable notions of a public sphere.",
+    "sentence": "In the academics’ letter, calls for transparency about delisting requests point to the ways that ideologies of transparency privilege a kind of fact-based, information-oriented gathering of evidence to make clear and thoughtful decisions within the context of how privacy should operate within the records of Google.",
+    "after": "The questions about who controls the records of our social life and how they can be forgotten must move to the fore in the United States."
+   },
+   {
+    "loc": 88,
+    "page": "PDF p. 88",
+    "kind": "p",
+    "before": "In addition to public policy, we can reconceptualize the design of indexes of the web that might be managed by librarians and information institutions and workers to radically shift our ability to contextualize information.",
+    "sentence": "This could lead to significantly greater transparency, rather than continuing to make the neoliberal capitalist project of commercial search opaque.",
+    "after": ""
+   },
+   {
+    "loc": 97,
+    "page": "PDF p. 97",
+    "kind": "p",
+    "before": "The interface on the screen presents an information reality, while the operations are rendered increasingly invisible.",
+    "sentence": "The media and communications scholar Alex Galloway destabilizes the idea that digital technologies are transparent, benign windows or doors providing a view or path to somewhere and in themselves insignificant—the digital interface is a material reality structuring a discourse, embedded with historical relations, working often under the auspices of ludic capitalism, where a kind of playful engagement of labor is masked in vital digital media platforms such as Google.",
+    "after": "Search does not merely present pages but structures knowledge, and the results retrieved in a commercial search engine create their own particular material reality."
+   },
+   {
+    "loc": 112,
+    "page": "PDF p. 112",
+    "kind": "p",
+    "before": "Indeed, we can and should imagine search with a variety of other possibilities.",
+    "sentence": "In my own imagination and in a project I am attempting to build, access to information on the web could be designed akin to the color-picker tool or some other highly transparent interface, so that users could find nuanced shades of information and easily identify the borderlands between news and entertainment, or entertainment and pornography, or journalism and academic scholarship.",
+    "after": "In this scenario, I might also be able to quickly identify the blogosphere and personal websites."
+   }
+  ]
+ },
+ {
+  "bookId": "eubanks-automating-inequality-how-high-tech-tool",
+  "title": "Automating inequality: how high-tech tools profile, police",
+  "authors": [
+   "Virginia Eubanks"
+  ],
+  "year": 2018,
+  "uses": 12,
+  "input": "a3d8fa94ef70",
+  "candidates": [
+   {
+    "loc": 9,
+    "page": "pp. 11–13",
+    "kind": "p",
+    "before": "It reframes shared social decisions about who we are and who we want to be as systems engineering problems.",
+    "sentence": "And while the most sweeping digital decision-making tools are tested in what could be called “low rights environments” where there are few expectations of political accountability and transparency, systems first designed for the poor will eventually be used on everyone.",
+    "after": ""
+   },
+   {
+    "loc": 19,
+    "page": "pp. 37–38",
+    "kind": "p",
+    "before": "The advocates of automated and algorithmic approaches to public services often describe the new generation of digital tools as “disruptive.”",
+    "sentence": "They tell us that big data shakes up hidebound bureaucracies, stimulates innovative solutions, and increases transparency.",
+    "after": "But when we focus on programs specifically targeted at poor and working-class people, the new regime of data analytics is more evolution than revolution."
+   },
+   {
+    "loc": 33,
+    "page": "pp. 73–75",
+    "kind": "p",
+    "before": "They were clearly reflected in contract metrics: response time in the call centers was a key performance indicator; determination accuracy was not.",
+    "sentence": "Efficiency and savings were built into the contract; transparency and due process were not.",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "pp. 135–137",
+    "kind": "p",
+    "before": "Nearly every community member I spoke to in my travels to Pittsburgh agreed with Mulvey, praising Cherna’s team for their participatory approach, clear communication, and high ethical standards.",
+    "sentence": "Today’s CYF is more diverse, more responsive, more transparent.",
+    "after": "It invites community input and leadership."
+   },
+   {
+    "loc": 71,
+    "page": "pp. 168–170",
+    "kind": "p",
+    "before": "Parents in Allegheny County helped me articulate an inchoate idea that had been echoing in my head since I started my research.",
+    "sentence": "In Indiana, Los Angeles, and Allegheny County, technologists and administrators explained to me that new high-tech tools in public services increase transparency and decrease discrimination.",
+    "after": "They claimed that there is no way to know what is going on in the head of a welfare caseworker, a homeless service provider, or an intake call screener without using big data to identify patterns in their decision-making."
+   },
+   {
+    "loc": 71,
+    "page": "pp. 168–170",
+    "kind": "p",
+    "before": "",
+    "sentence": "I find the philosophy that sees human beings as unknowable black boxes and machines as transparent deeply troubling.",
+    "after": "It seems to me a worldview that surrenders any attempt at empathy and forecloses the possibility of ethical development."
+   },
+   {
+    "loc": 71,
+    "page": "pp. 168–170",
+    "kind": "p",
+    "before": "It seems to me a worldview that surrenders any attempt at empathy and forecloses the possibility of ethical development.",
+    "sentence": "The presumption that human decision-making is opaque and inaccessible is an admission that we have abandoned a social commitment to try to understand each other.",
+    "after": "Poor and working-class people in Allegheny County want and deserve more: a recognition of their humanity, an understanding of their context, and the potential for connection and community."
+   },
+   {
+    "loc": 72,
+    "page": "pp. 171–172",
+    "kind": "p",
+    "before": "In many ways, the AFST is the best-case scenario for predictive risk modeling in child welfare.",
+    "sentence": "The design of the tool was open, participatory, and transparent.",
+    "after": "Elsewhere, child welfare prediction systems have been designed and implemented by private companies with very little input or discussion from the public."
+   }
+  ]
+ },
+ {
+  "bookId": "risam-new-digital-worlds-postcolonial-digital",
+  "title": "New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy",
+  "authors": [
+   "Roopika Risam"
+  ],
+  "year": 2018,
+  "uses": 2,
+  "input": "42ceea9ac186",
+  "candidates": [
+   {
+    "loc": 27,
+    "page": "p. 18",
+    "kind": "p",
+    "before": "",
+    "sentence": "Fulfilling the goal of “conducting research in a transparent manner that invites critical interrogation and debate,” the project reveals the complexities and contradictions of Livingstone’s life: his contributions to cultural imperialism through missionary work, his abolitionist politics, and the role of his explorations in the colonization of Africa.",
+    "after": "In “The Theory behind Livingstone Online,” an essay that makes the theoretical decisions subtending the project legible, Wisnicki and Ward note that “although no digital museum, library, or archive can redress such biases, Livingstone Online uses digital technologies to foreground the often lost hands, voices, and sources that shaped Livingstone’s work and writing.”"
+   },
+   {
+    "loc": 141,
+    "page": "p. 132",
+    "kind": "p",
+    "before": "When we consider the variety of ways in which algorithms are deployed to assist with conclusions that might otherwise be drawn by people alone—such as banking and loan decisions, likely recidivism for criminals, or employee hiring—the stakes of algorithms are high.",
+    "sentence": "The lack of transparency and the seemingly black-​box nature of algorithms obscure the fact that they are subject to biases, in spite of myths that suggest their objectivity.",
+    "after": "When they are deployed for subjective decision-​making, there are no guarantees of accuracy and they function as gatekeepers of information."
+   }
+  ]
+ },
+ {
+  "bookId": "losh-bodies-of-information",
+  "title": "Bodies of Information",
+  "authors": [
+   "Elizabeth Losh",
+   "Jacqueline Wernimont"
+  ],
+  "year": 2019,
+  "uses": 16,
+  "input": "88de3fb29065",
+  "candidates": [
+   {
+    "loc": 75,
+    "page": "p. 47",
+    "kind": "p",
+    "before": "However, considering the variety of ways in which algorithms are deployed to assist with conclusions that might otherwise be drawn by people alone—banking and loan decisions, likely recidivism for criminals, or employee hiring—the stakes of algorithms are high.",
+    "sentence": "The lack of transparency and the seeming black box nature of algorithms obscure the fact that they are subject to biases, in spite of myths that suggest their objectivity.",
+    "after": "When they are deployed for subjective decision making, there are no guarantees of accuracy, and they function as gatekeepers of information."
+   },
+   {
+    "loc": 113,
+    "page": "p. 85",
+    "kind": "p",
+    "before": "[People] assume that she [a woman] had some time out of the labor market and that she was doing something that was basically worthless, because she wasn’t being paid for it.”",
+    "sentence": "In academia specifically, the labyrinthine relationship of pay to tasks and labor further obscures value: we are rarely paid per task (per paper published or presented) on the research front; service work is almost entirely invisible; and teaching factors in with course loads, often with more up-front transparency for contingent laborers such as adjuncts and part-timers.",
+    "after": ""
+   },
+   {
+    "loc": 145,
+    "page": "p. 117",
+    "kind": "p",
+    "before": "It also directs us to consider the queer potential of other forms of digital praxis. transCoder can be seen as a queer application of what has been called codework.",
+    "sentence": "Codework subverts the tenets of “well-written” code: simplicity, functionality, transparency, and legibility.",
+    "after": "Examples of codework range from the nonexecutable net.art creations of “Mez” (Mary-Ann Breeze), written in a hybrid language called “m[ez]ang.elle,” to obfuscated code and esoteric programming languages (“esolangs”)."
+   },
+   {
+    "loc": 197,
+    "page": "p. 169",
+    "kind": "p",
+    "before": "We want users to query the personographic data in meaningful ways and critique our strategies for queering the data—the ways in which we have modeled our interrogative engagement with the factoids of historical lives.",
+    "sentence": "By transparently documenting our processes and inviting users to critique and reinterpret our presentation of the historical record, we insist that how sources present biographical traces and how we interpret them are as important as what the traces themselves express.",
+    "after": ""
+   },
+   {
+    "loc": 267,
+    "page": "p. 239",
+    "kind": "p",
+    "before": "But instead of hiding how visualization and visuality of the digital interface organize and interpret informational data, how exactly can we make room to highlight how visualization is an interpretative act?",
+    "sentence": "How do we allow room to make transparent the AEME’s choices in its visual design and footprint?",
+    "after": "If visuality always is perceived as a transparent model of information that helps hide precisely how “constructed” data themselves really are, how can projects escape this building trap?"
+   },
+   {
+    "loc": 267,
+    "page": "p. 239",
+    "kind": "p",
+    "before": "How do we allow room to make transparent the AEME’s choices in its visual design and footprint?",
+    "sentence": "If visuality always is perceived as a transparent model of information that helps hide precisely how “constructed” data themselves really are, how can projects escape this building trap?",
+    "after": "What Drucker advocates is ways to build projects and build visualization models that encourage, highlight, present, and play with ambiguity and uncertainty."
+   },
+   {
+    "loc": 302,
+    "page": "p. 274",
+    "kind": "p",
+    "before": "",
+    "sentence": "Thinking of delivery in terms of the complexities of interfaces foregrounds the liminal, unstable, and permeable over the hegemonic, simplifying, or transparent, suggesting its potential as a transformative rather than an instrumental process of bringing together data; analysis; media; and interpreting, embodied subjects.",
+    "after": "For example, investigation of the history of visualization has led Lauren Klein (“Visualization”) to argue that rather than presenting complex entities as static data points, visualization can work to foreground the process of knowledge production, including “two-way exchange between subject and object of knowledge,” as in the case of Elizabeth Peabody’s carefully crafted pedagogical visualizations."
+   },
+   {
+    "loc": 302,
+    "page": "p. 274",
+    "kind": "p",
+    "before": "For example, investigation of the history of visualization has led Lauren Klein (“Visualization”) to argue that rather than presenting complex entities as static data points, visualization can work to foreground the process of knowledge production, including “two-way exchange between subject and object of knowledge,” as in the case of Elizabeth Peabody’s carefully crafted pedagogical visualizations.",
+    "sentence": "Peabody, a first-wave feminist “knowledge worker,” created initially opaque, very abstract, quilt-like visualizations of events designed to engage others actively in the interpretation of history in dialogue with her narrative chronology, aiming to appeal aesthetically and affectively to those who engaged with her work.",
+    "after": "In Klein’s analysis, Peabody’s interface or knowledge delivery system subverts the female teacher’s conventional service role of reproducing unproblematically a set of given social relations, underscoring the power of visualization to communicate different epistemological frameworks."
+   }
+  ]
+ },
+ {
+  "bookId": "benjamin-race-after-technology",
+  "title": "Race After Technology",
+  "authors": [
+   "Ruha Benjamin"
+  ],
+  "year": 2019,
+  "uses": 3,
+  "input": "53e0219e59cd",
+  "candidates": [
+   {
+    "loc": 195,
+    "page": "p. 183",
+    "kind": "p",
+    "before": "For example, the Algorithmic Justice League has launched a Safe Face Pledge that calls on organizations to take a public stand “towards mitigating the abuse of facial recognition analysis technology.",
+    "sentence": "This historic pledge prohibits lethal use of the technology, lawless police use, and requires transparency in any government use”®? and includes radical commitments such as “show value for human ˡⁱᶠᵉ, dignity, and rights.”",
+    "after": "Tellingly, none of the major tech companies has been willing to sign the pledge to date."
+   },
+   {
+    "loc": 198,
+    "page": "p. 186",
+    "kind": "p",
+    "before": "Currently there are not even any industry-wide standards for social impact that fully account for the way in which algorithms are used to “allocate housing, healthcare, hiring, banking, social services as well as goods and service delivery.”°° Google’s AI ethics principles, created in the aftermath of the controversy over the company’s Pentagon contract, are a good start but focus too narrowly on military and surveillance technologies and, by relying on “widely accepted principles of international law and human rights,” they sidestep the common practice of governments surveilling their own citizens.",
+    "sentence": "Nor do these principles ensure independent and transparent review; they follow instead a pattern current in corporate governance that maintains “internal, secret processes” that preclude public accountability.°!",
+    "after": ""
+   },
+   {
+    "loc": 202,
+    "page": "p. 190",
+    "kind": "p",
+    "before": "With machine learning, systems can become more discriminatory over time, as they learn to interact with humans.",
+    "sentence": "Thus avoiding discrimination requires that we scrutinize how “systems operate in practice.” ”* This, in turn, requires transparency and accountability, which is why democratic oversight and engagement are vital.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "walton-technical-communication-after-the-social",
+  "title": "Technical Communication After the Social Justice Turn",
+  "authors": [
+   "Rebecca Walton",
+   "Kristen Moore",
+   "Natasha Jones"
+  ],
+  "year": 2019,
+  "uses": 2,
+  "input": "14eb7666c01f",
+  "candidates": [
+   {
+    "loc": 39,
+    "page": "p. 12",
+    "kind": "p",
+    "before": "that we engage.",
+    "sentence": "We do so in an effort to be transparent about the constraints",
+    "after": ""
+   },
+   {
+    "loc": 68,
+    "page": "p. 41",
+    "kind": "p",
+    "before": "Equitable procedural justice allows for difference of outcome even within fair procedures; that is, it relies on the sameness of procedures (e.g., everyone gets a reward for good work) not the sameness of goods (e.g., everyone’s reward for good work is $100).",
+    "sentence": "In the context of workplace procedures, an equitable perspective of fairness would allow for organizational decision making to vary, provided that the variation is transparent and that the variation is perceived as equitable (not necessarily equal) by workers.",
+    "after": "Compared to equality, then, equity has a greater margin of maneuverability; it can be envisioned and enacted in different ways in support of different values."
+   }
+  ]
+ },
+ {
+  "bookId": "manovich-cultural-analytics",
+  "title": "Cultural Analytics",
+  "authors": [
+   "Lev Manovich"
+  ],
+  "year": 2020,
+  "uses": 16,
+  "input": "219cb465a172",
+  "candidates": [
+   {
+    "loc": 66,
+    "page": "pp. 104–105",
+    "kind": "p",
+    "before": "But how accessible are these analog photographs today?",
+    "sentence": "What do histories of photography and collections in museums and archives make visible, and what remains opaque, out of focus, outside institutional frames?",
+    "after": ""
+   },
+   {
+    "loc": 85,
+    "page": "pp. 138–139",
+    "kind": "p",
+    "before": "But in industry applications, what matters is the speed and accuracy of automatic decisions and the ability to process larger and larger real-time data streams.",
+    "sentence": "Contemporary data science applications often sacrifice transparency for efficiency, accuracy, and performance.",
+    "after": "The models that can be understood by users are called interpretable; the models that cannot are called uninterpretable."
+   },
+   {
+    "loc": 86,
+    "page": "pp. 140–141",
+    "kind": "p",
+    "before": "And in general, do we want to live in a society in which numerous decisions are arrived at automatically without us being able to understand how it happens?",
+    "sentence": "Perhaps as a society we need to sacrifice speed and efficiency in favor of transparency, and only use fully interpretable models?",
+    "after": "(This problem may be solved in the future: many computer scientists are actively working on methods to reverse-engineer deep learning models to understand what and how they are learning.)"
+   },
+   {
+    "loc": 93,
+    "page": "pp. 153–154",
+    "kind": "p",
+    "before": "The geometries of pattern pieces will not tell us about visual impressions of their clothes or the experience wearing them.",
+    "sentence": "Such garments may have unique two-dimensional and three-dimensional textures, use ornaments, play with degrees of transparency, and so on.",
+    "after": "And many fashion designs are only fully “realized” when you wear them, with the garment taking on a particular shape and volume as you walk."
+   },
+   {
+    "loc": 94,
+    "page": "pp. 155–156",
+    "kind": "p",
+    "before": "Although the origins of natural languages are debated by sciences, many suggest that they developed somewhere between two hundred thousand and fifty thousand years ago.",
+    "sentence": "Natural languages cannot represent small differences on analog dimensions that define aesthetic artifacts and experiences such as color, texture, transparency, types of surfaces and finishes, visual and temporal rhythms, movement, speed, touch, sound, taste, and so on.",
+    "after": "In contrast, our senses capture such differences quite well."
+   },
+   {
+    "loc": 94,
+    "page": "pp. 155–156",
+    "kind": "p",
+    "before": "Designers of phones started to develop unique surface materials, colors, levels of glossiness of a finish, and surface roughness and waviness.",
+    "sentence": "As the phone moves closer and closer to becoming a pure screen or transparent surface, this obsession with sensualizing the remaining material part may be the last stage of phone design before the phone completely turns into screen—although we may also get different form factors in the future, in which the small material parts become even more aestheticized.",
+    "after": ""
+   },
+   {
+    "loc": 116,
+    "page": "pp. 195–196",
+    "kind": "p",
+    "before": "",
+    "sentence": "In comparison, human vision’s abilities to make quick comparisons among color hues, brightness levels, or levels of transparency are more limited.",
+    "after": "This is why visualization designers typically use these variables for secondary aspects of data."
+   },
+   {
+    "loc": 116,
+    "page": "pp. 195–196",
+    "kind": "p",
+    "before": "But if you try to do so for a larger number of values, it becomes more difficult to see patterns in a visualization.",
+    "sentence": "Similarly, if you want to represent values of a quantitative variable by using differences in color, tone, or transparency, you can do it successfully for a few dozen of values and sometimes maybe even a hundred, but not for a larger number.",
+    "after": "If you try to do this, you push beyond what human vision can easily process."
+   }
+  ]
+ },
+ {
+  "bookId": "dignazio-data-feminism-strong-ideas",
+  "title": "Data Feminism (Strong Ideas)",
+  "authors": [
+   "Catherine D'Ignazio",
+   "Lauren F. Klein"
+  ],
+  "year": 2020,
+  "uses": 23,
+  "input": "0d42de1429a7",
+  "candidates": [
+   {
+    "loc": 54,
+    "page": "PDF p. 54",
+    "kind": "p",
+    "before": "Taking action can itself take many forms, and in this chapter we offer four starting points: (1) Collect: Compiling counterdata—in the face of missing data or institutional neglect—offers a powerful starting point as we see in the example of the DGEI, or in María Salguero’s femicide maps discussed in chapter 1.",
+    "sentence": "(2) Analyze: Challenging power often requires demonstrating inequitable outcomes across groups, and new computational methods are being developed to audit opaque algorithms and hold institutions accountable.",
+    "after": "(3) Imagine: We cannot only focus on inequitable outcomes, because then we will never get to the root cause of injustice."
+   },
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "It represents a growing interdisciplinary effort—both critical and computational—to ensure that the ethical issues brought about by our increasing reliance on data-driven systems are identified and addressed.",
+    "sentence": "Thus far, the major trend has been to emphasize the issue of “bias,” and the values of “fairness, accountability, and transparency” in mitigating its effects.",
+    "after": "This is a promising development, especially for technical fields that have not historically foregrounded ethical issues, and as funding mechanisms for research on data and ethics proliferate."
+   },
+   {
+    "loc": 61,
+    "page": "PDF p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "In proposing this chart, we are not suggesting that ethics have no place in data science, that bias in datasets should not be addressed, or that issues of transparency should go ignored.",
+    "after": "Rather, the main point is that the concepts on the left are inadequate on their own to account for the root causes of structural oppression."
+   },
+   {
+    "loc": 62,
+    "page": "PDF p. 62",
+    "kind": "p",
+    "before": "The group explains in the playbook’s introduction, “We wanted to shift who gets to define problems around data collection, data privacy, and data security—from elites to impacted communities; shine a light on how communities have been confronting data-driven problems as well as how they wish to confront these problems; and forge an analysis of data and data-driven technologies from and with allied struggles.”",
+    "sentence": "In so doing, the ODB project demonstrates how co-liberation requires not only transparency of methods but also reflexivity: the ability to reflect on and take responsibility for one’s own position within the multiple, intersecting dimensions of the matrix of domination.",
+    "after": "Along the way, the scholars and organizers involved in the project decided to shift their research agenda, which had begun as a general project about data profiling and resistance, to surveillance, in response to the problems voiced by the communities themselves."
+   },
+   {
+    "loc": 121,
+    "page": "PDF p. 121",
+    "kind": "p",
+    "before": "This is called reflexivity, and we modeled this in the introduction to this book.",
+    "sentence": "You may have heard the phrase coined by David Weinberger, “transparency is the new objectivity.”",
+    "after": "We take this to mean that there is a way to build space for transparency plus reflexivity in data science, rather than undertaking projects that purport to be objective (but, as we’ve discussed, never really are)."
+   },
+   {
+    "loc": 121,
+    "page": "PDF p. 121",
+    "kind": "p",
+    "before": "You may have heard the phrase coined by David Weinberger, “transparency is the new objectivity.”",
+    "sentence": "We take this to mean that there is a way to build space for transparency plus reflexivity in data science, rather than undertaking projects that purport to be objective (but, as we’ve discussed, never really are).",
+    "after": "Transparency and reflexivity allow the people involved in any particular project to be explicit about the methods behind their project, as well as their own identities."
+   },
+   {
+    "loc": 138,
+    "page": "PDF p. 138",
+    "kind": "p",
+    "before": "It has been active in some form since the mid-2000s, when groups like the Open Knowledge Institute were founded and campaigns like Free Our Data from the Guardian originated to petition governments for free access to public records.",
+    "sentence": "The goals are good ones in theory: economic development by building apps and services on open data; faster scientific progress when researchers share knowledge; and greater transparency for journalists, citizens, and residents to be able to use public information to hold governments accountable.",
+    "after": "This final goal was a major part of the framing of former US president Obama’s well-known memorandum on transparency and open government."
+   },
+   {
+    "loc": 138,
+    "page": "PDF p. 138",
+    "kind": "p",
+    "before": "The goals are good ones in theory: economic development by building apps and services on open data; faster scientific progress when researchers share knowledge; and greater transparency for journalists, citizens, and residents to be able to use public information to hold governments accountable.",
+    "sentence": "This final goal was a major part of the framing of former US president Obama’s well-known memorandum on transparency and open government.",
+    "after": "On his very first day in office, Obama signed a memorandum that directed government agencies to make all data open by default."
+   }
+  ]
+ },
+ {
+  "bookId": "costanzachock-design-justice-community-led-practices-t",
+  "title": "Design Justice: Community-Led Practices to Build the Worlds",
+  "authors": [
+   "Sasha Costanza-Chock"
+  ],
+  "year": 2020,
+  "uses": 6,
+  "input": "b203a7dc92f3",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "PDF p. 21",
+    "kind": "p",
+    "before": "Most pragmatically, single-axis (in other words, nonintersectional) algorithmic bias audits are insufficient to ensure algorithmic fairness (let alone justice).",
+    "sentence": "While there is rapidly growing interest in algorithmic bias audits, especially in the fairness, accountability, and transparency in machine learning (FAT*) community, most are single-axis: they look for a biased distribution of error rates only according to a single variable, such as race or gender.",
+    "after": "This is an important advance, but it is essential that we develop a new norm of intersectional bias audits for machine learning systems."
+   },
+   {
+    "loc": 29,
+    "page": "PDF p. 29",
+    "kind": "p",
+    "before": "After the #QTPower event was over, it was possible to share some additional information, photos, and feedback via the event page, but even as the event organizers we had no way to broadcast a message about our next move to all attendees.",
+    "sentence": "Posts to the event discussion only appeared for some people, subject to the opaque decision making of Facebook’s News Feed algorithm.",
+    "after": "Of course, we had the option to pay Facebook a fee to make it more likely that protest attendees would find additional content from the mobilization in their feeds."
+   },
+   {
+    "loc": 42,
+    "page": "PDF p. 42",
+    "kind": "p",
+    "before": "",
+    "sentence": "Unfortunately, most current efforts to ensure algorithmic fairness, accountability, and transparency operate according to the logic of individualized equality, symmetrical treatment, color blindness, and gender blindness.",
+    "after": "The operating assumption is that a fair algorithm is one that shows no group bias in the distribution of true positives, false positives, true negatives, and false negatives."
+   },
+   {
+    "loc": 83,
+    "page": "PDF p. 83",
+    "kind": "p",
+    "before": "The next move was a call for solutions, followed by a selection of projects to be “incubated” on the path to becoming start-ups.",
+    "sentence": "We can read this is a move in the right direction: city government is becoming more transparent, more administrative data is being made available to the public, and administrators are actively seeking ideas from engaged publics about how to improve government services and city residents’ quality of life.",
+    "after": "Through such initiatives, city administrators signal that the public is invited to participate in decisionmaking on an ongoing basis, not only at the ballot box every few years."
+   },
+   {
+    "loc": 104,
+    "page": "PDF p. 104",
+    "kind": "p",
+    "before": "",
+    "sentence": "Although bringing CBOs into the design process from the beginning is a key accountability strategy, in the Codesign Studio we also know that a team that is trying to practice design justice needs to develop very clear, transparent, and explicit decision-making processes.",
+    "after": "One way to do this is to require a written working agreement or memorandum of understanding among all team members."
+   },
+   {
+    "loc": 125,
+    "page": "PDF p. 125",
+    "kind": "p",
+    "before": "FAT*.",
+    "sentence": "Fairness, Accountability, and Transparency.",
+    "after": "A conference about bias in machine learning, natural language processing, AI, and other computing processes."
+   }
+  ]
+ },
+ {
+  "bookId": "jr-distributed-blackness-african-american-c",
+  "title": "Distributed Blackness: African American Cybercultures",
+  "authors": [
+   "André L Brock Jr."
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "043044522ece",
+  "candidates": [
+   {
+    "loc": 60,
+    "page": "PDF p. 60",
+    "kind": "p",
+    "before": "",
+    "sentence": "Dorsey’s bon mot “Just type something and send it” (Sagolla, 2009) as a design principle demands that the client become as transparent to the process as possible.",
+    "after": "For SMS users, the Twitter short code remains “40404,” and the interface is a series of threaded messages organized by time received."
+   }
+  ]
+ },
+ {
+  "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+  "title": "#HashtagActivism: Networks of Race and Gender Justice",
+  "authors": [
+   "Sarah J. Jackson",
+   "Moya Bailey",
+   "Brooke Foucault Welles"
+  ],
+  "year": 2020,
+  "uses": 2,
+  "input": "93bf1256ab9a",
+  "candidates": [
+   {
+    "loc": 16,
+    "page": "PDF p. 16",
+    "kind": "p",
+    "before": "While the public waits for print journalists to narrativize national crises and controversies, ordinary people on the scene are able to tweet firsthand accounts.",
+    "sentence": "While politicians embed particular issues in opaque language and meaningless euphemisms in their public discourse, ordinary people are able to explicitly advocate using unrepentant and concise rhetoric on these same issues.",
+    "after": "Notably, Twitter has low financial and technological barriers to entry."
+   },
+   {
+    "loc": 52,
+    "page": "PDF p. 52",
+    "kind": "p",
+    "before": "",
+    "sentence": "In today’s popular media, Hollywood is notorious for casting cisgender, heterosexual actors as trans women, including Felicity Huffman in Transamerica (2005), Jared Leto in Dallas Buyers Club (2013), Jeffrey Tambor in Transparent (2014), and Eddie Redmayne in The Danish Girl (2015), drawing critique from trans and allied communities for how such casting continues to marginalize trans actors.",
+    "after": "The increasing visibility of trans women did not prevent the makers of the 2015 historical drama Stonewall, about the uprising that birthed the LGBTQ rights movement, from erasing the role of trans women of color in activism in 1960s Greenwich Village."
+   }
+  ]
+ },
+ {
+  "bookId": "mckinney-information-activism-a-queer-history-of",
+  "title": "Information Activism: A Queer History of Lesbian Media",
+  "authors": [
+   "Cait McKinney"
+  ],
+  "year": 2020,
+  "uses": 5,
+  "input": "a78f937bde2c",
+  "candidates": [
+   {
+    "loc": 110,
+    "page": "p. 106",
+    "kind": "p",
+    "before": "The circle consulted old periodicals at community archives and acquired personal collections from individual subscribers.",
+    "sentence": "They designed systems for their work, built out of deep community knowledge and a lesbian-feminist understanding of classification as a material, social, and ethical process that ought to be more transparent.",
+    "after": "The circle debated and revised their contentious descriptive terms and protocols with care, know- ing that their classification practices would shape the fin shed book’s user"
+   },
+   {
+    "loc": 134,
+    "page": "p. 130",
+    "kind": "p",
+    "before": "Indexes give readers opportunities to locate and engage in counterpublic discourse; they also facilitate efficient, categorical, and, one might say, “rational” forms of knowledge production through search retrieval.",
+    "sentence": "Straddling this tension, The Lesbian Periodicals Index and Black Lesbians address lesbian counterpublics who had been excluded from reading practices and left to “mumble” or “fantasize” their way through an opaque field of texts.",
+    "after": "However, bibliographies and indexes might offer lesbians legitimacy and respectability by facilitating entry to research and publishing’s “critical-rational discourse.”"
+   },
+   {
+    "loc": 135,
+    "page": "p. 131",
+    "kind": "p",
+    "before": "To the circle, categorizing materials was an inevitably value-laden process.",
+    "sentence": "As members of the counterpublics they served, these indexers tried to use accurate, community-specific language and be transparent about their own motivations and choices.",
+    "after": "Lesbian indexes are infrastructures for counterpublic history and research, designed with care for others to enliven."
+   },
+   {
+    "loc": 144,
+    "page": "p. 140",
+    "kind": "p",
+    "before": "",
+    "sentence": "For Potter, computing held out promising applications for indexing but was too time-consuming and opaque for an activist indexer working evenings and weekends.",
+    "after": ""
+   },
+   {
+    "loc": 154,
+    "page": "p. 150",
+    "kind": "p",
+    "before": "",
+    "sentence": "to resent wylb ur ’s opacity and expresses skepticism about whether the",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gray-intersectional-tech-black-users-in-digit",
+  "title": "Intersectional tech: Black users in digital gaming",
+  "authors": [
+   "Kishonna L. Gray"
+  ],
+  "year": 2020,
+  "uses": 1,
+  "input": "a466c747aadd",
+  "candidates": [
+   {
+    "loc": 43,
+    "page": "PDF p. 43",
+    "kind": "p",
+    "before": "Examining this long history of mediated black pain, from the plantation to the lynching era to Jim Crow to mass incarceration, the viewing audience becomes desensitized to black death.",
+    "sentence": "As George Lipsitz, David Roediger, David J. Leonard, Jessie Daniels, and other critical race and whiteness scholars have explored, “the possessive investment in whiteness,” color blindness, transparency, postracialism, and denial are the ideological glue that hold together this nation’s social center—white supremacy.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "tham-design-thinking-in-technical-communicati",
+  "title": "DESIGN THINKING IN TECHNICAL COMMUNICATION; Solving Problems",
+  "authors": [
+   "Jason Chew Kit Tham"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "b4794565ebbb",
+  "candidates": [
+   {
+    "loc": 96,
+    "page": "p. 75",
+    "kind": "p",
+    "before": "Before you design the workshop and approach your target community, you should first consider your own role and positionality as the design thinker in this project: What power and privilege (Walton et al., 2019) do you enact?",
+    "sentence": "How might you be transparent about these identities and let your community partners/participants learn about you?",
+    "after": "These questions can help designers and researchers see their own biases and goals in conjunction with the research agenda."
+   }
+  ]
+ },
+ {
+  "bookId": "steele-digital-black-feminism-critical-cultural",
+  "title": "Digital Black Feminism (Critical Cultural Communication)",
+  "authors": [
+   "Catherine Knight Steele"
+  ],
+  "year": 2021,
+  "uses": 2,
+  "input": "27dd14e0917a",
+  "candidates": [
+   {
+    "loc": 17,
+    "page": "PDF p. 17",
+    "kind": "p",
+    "before": "Using the tools we study and being a part of the communities we investigate are not hindrances or biases to overcome.",
+    "sentence": "Recognizing my position and operating transparently in that space, I use my relationship to Black feminism and Black feminist praxis and my participation in Black feminist online discursive communities as support rather than obstacles in defining digital Black feminism.",
+    "after": ""
+   },
+   {
+    "loc": 58,
+    "page": "PDF p. 58",
+    "kind": "p",
+    "before": "Because this is a Blogspot blog, Bennett could set controls to approve comments and delete those he deems unacceptable.",
+    "sentence": "However, the author chooses to leave the comments open, pushing for a transparent debate among opposing parties.",
+    "after": "Commenters, therefore, have no means to report abusive posts."
+   }
+  ]
+ },
+ {
+  "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+  "title": "Misogynoir Transformed: Black Women’s Digital Resistance",
+  "authors": [
+   "Moya Bailey"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "510caaa1327d",
+  "candidates": [
+   {
+    "loc": 21,
+    "page": "pp. 19–20",
+    "kind": "p",
+    "before": "",
+    "sentence": "“BWA” does not work for my purposes because it is opaque.",
+    "after": "The term opens possibilities of solidarity even as it makes the constituencies it serves more difficult to ascertain."
+   }
+  ]
+ },
+ {
+  "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+  "title": "The digital humanities coursebook: an introduction to",
+  "authors": [
+   "Johanna Drucker"
+  ],
+  "year": 2021,
+  "uses": 1,
+  "input": "68a7bfdfbfa2",
+  "candidates": [
+   {
+    "loc": 98,
+    "page": "p. 83",
+    "kind": "p",
+    "before": "",
+    "sentence": "The assumption that all data should be available, and that complete transparency is optimal, may not apply in all cases.",
+    "after": "(See Chapter 10 for discussion of access.)"
+   }
+  ]
+ },
+ {
+  "bookId": "mullaney-your-computer-is-on-fire",
+  "title": "Your Computer Is on Fire",
+  "authors": [
+   "Thomas S. Mullaney",
+   "Benjamin Peters",
+   "Mar Hicks",
+   "Kavita Philip"
+  ],
+  "year": 2021,
+  "uses": 8,
+  "input": "168c2360e3fb",
+  "candidates": [
+   {
+    "loc": 38,
+    "page": "pp. 62–63",
+    "kind": "p",
+    "before": "The resulting enmeshments of policy, tech, and operations have largely grown up over time and internally to the firms, which have simultaneously worked to render outward-facing traces of such human values and interventions invisible on its social media platforms and sites.",
+    "sentence": "I have described this phenomenon elsewhere as a “logic of opacity”:",
+    "after": ""
+   },
+   {
+    "loc": 38,
+    "page": "pp. 62–63",
+    "kind": "q",
+    "before": "",
+    "sentence": "Obfuscation and secrecy work together to form an operating logic of opacity around social media moderation.",
+    "after": "It is a logic that has left users typically giving little thought to the mechanisms that may or may not be in place to govern what appears, and what is removed, on a social media site."
+   },
+   {
+    "loc": 39,
+    "page": "pp. 64–65",
+    "kind": "p",
+    "before": "This sometimes-symbiosis-sometimes-conflict matters when it comes to social media.",
+    "sentence": "In addition to regulatory and legal concerns that vary greatly around the globe and are delineated by jurisdiction (as well as by less tangible but deeply important cultural and political norms), the speech that flows across social media platforms in the form of images, text postings, videos, and livestreams is subject to a vast patchwork of internal rules and other opaque policies decided by mid- and high-level employees but often implemented by a global workforce of precarious low-paid laborers.",
+    "after": "When algorithms and deep machine-learning-based tools may be present at some points in the system, even they are informed by the platform policies and the workers’ decisions, captured and then redeployed as AI."
+   },
+   {
+    "loc": 40,
+    "page": "pp. 66–67",
+    "kind": "p",
+    "before": "",
+    "sentence": "Movements to demand fairness, accountability, and transparency in algorithmic endeavors are gaining ground, not only in important works from social scientists who have traditionally critiqued social media platforms and digital life and its unequal distribution of power but also from others in disciplines such as computer science and engineering—the province of the makers of the tools themselves.",
+    "after": "Entire conferences, academic working groups, and cross-disciplinary and cross-sector institutes joining academe and industry have been constituted to tackle these issues and demand that they be addressed."
+   },
+   {
+    "loc": 49,
+    "page": "pp. 84–85",
+    "kind": "p",
+    "before": "It appears likely that Baran’s supervisors deprioritized his work because it did not have weight of the top-secret imprimatur: if so, it is bitter comment on how interagency collaboration often bloomed in secrecy, not open, cultures, since Baran deliberately chose to publish his research publicly in the hopes his designs would reach the Soviets and ensure mutual competitiveness.",
+    "sentence": "(Perhaps the limits of contemporary open-source politics—such as the radical transparency of WikiLeaks and the private cipher that is Julian Assange—follow the limits of Cold War mutual intelligibility.)",
+    "after": "AT&T, the near analogue to a state network monopoly at the time, also rejected Baran’s proposal to develop digital networks, fearing digital networks would bring them into competition against their own services."
+   },
+   {
+    "loc": 58,
+    "page": "pp. 98–99",
+    "kind": "p",
+    "before": "The notion of an invisible system that could move information instantaneously around the universe was thrilling to people who thought of industrial technology as slow and inefficient.",
+    "sentence": "The promise of the digital was in its clean, transparent, frictionless essence.",
+    "after": "Internet visionaries were inspired by the new information technologies’ ability to transcend the physical constraints and linear logics of the industrial age."
+   },
+   {
+    "loc": 205,
+    "page": "pp. 369–370",
+    "kind": "p",
+    "before": "These are conversations about language, history, and politics in the context of scientific and technological knowledge production and use.",
+    "sentence": "Scientists have too often assumed that language is transparent, and that conventional usages carry adequate meaning.",
+    "after": "Technologists have often read history only as a pastime."
+   },
+   {
+    "loc": 210,
+    "page": "pp. 380–381",
+    "kind": "p",
+    "before": "Behind every automated search algorithm toils a content moderator.",
+    "sentence": "Capital, run amok, produces social relations that are opaque to those who inhabit them, and, as every tech executive knows, AI is another word for investor capital.",
+    "after": ""
+   }
+  ]
+ },
+ {
+  "bookId": "gold-debates-in-the-digital-humanities-2023",
+  "title": "Debates in the Digital Humanities 2023",
+  "authors": [
+   "Matthew K. Gold",
+   "Lauren F. Klein"
+  ],
+  "year": 2023,
+  "uses": 23,
+  "input": "2d1b68f4e23e",
+  "candidates": [
+   {
+    "loc": 8,
+    "page": "pp. viii–x",
+    "kind": "p",
+    "before": "Consider the Visionary Futures Collective.",
+    "sentence": "It emerged during the pandemic with a focus on “increasing transparency in higher education; creating compassionate communities through shared vulnerability; and working collectively to shift institutional practices” so that the work of the humanities, and those who perform it, can truly thrive.",
+    "after": "Meanwhile, projects including the African American Digital and Experimental Humanities Initiative (AADHum) and the Digital Ethnic Futures Consortium (DEFCon) have developed intentionally expansive mentoring programs for both graduate students and faculty, so as to redistribute the opportunities and the resources that typically accrue at well-resourced research-oriented institutions."
+   },
+   {
+    "loc": 20,
+    "page": "pp. 16–17",
+    "kind": "p",
+    "before": "This demands conscious effort to reframe grant proposals so that they advance the humanist mission as much as launch new initiatives, tools, or projects.",
+    "sentence": "And because so much of the money from federal grants is already redistributed through indirect costs, we should advocate for more transparency about these allotments and push for humanities support from humanities grants.",
+    "after": "Some changes are already in the wind."
+   },
+   {
+    "loc": 28,
+    "page": "pp. 31–32",
+    "kind": "p",
+    "before": "",
+    "sentence": "Also in the 2010s, ethical and transparent labor grew as areas of DH research and practice.",
+    "after": "In addition to Terras and Nyhan’s studies of the punch card workers contributing to the Index Thomisticus, Alan Galey offered a corrective to DH “founding father” narratives, praising Teena Rochfort Smith as “the Ada Lovelace of the digital humanities” (effectively claiming Rochfort Smith as kin to the nineteenth-century mathematician now celebrated as a foremother of modern computing), and naming Rochfort Smith’s experimental visualization of textual variation in Hamlet as “a kind of late Victorian paper computer” (Galey 2015; Galey 2014, 26)."
+   },
+   {
+    "loc": 47,
+    "page": "p. 61",
+    "kind": "p",
+    "before": "",
+    "sentence": "Beyond UX/UI design confusion and opaque metadata settings, a further difficulty regarding implementing multidirectional standards is that the task often involves many-layered dependencies, so much so that one might speak of the “deep implementation” that is required throughout the entire codebase of libraries and extensions.",
+    "after": "An example of this is a recent update to the text-to-image (T2I) feature integrated into the popular DH transcription software Transkribus."
+   },
+   {
+    "loc": 83,
+    "page": "pp. 126–127",
+    "kind": "p",
+    "before": "I grapple with the ways that settler colonial values and interests are rendered not only normal and common sense, but attractive as formations of aesthetic sophistication, efficient and “catchy” information design and communication, good taste or cool style—and how contemporary data economies emerge from and contribute to the logics and looks of settler coloniality.",
+    "sentence": "Most recently, my work takes up the question of how transparency (in aesthetics and data practice) has become “the settler colonial version of justice” (Rault, 937).",
+    "after": "That is, within structures of settler coloniality, open data looks trustworthy."
+   },
+   {
+    "loc": 138,
+    "page": "pp. 221–222",
+    "kind": "p",
+    "before": "Even as she points to the potential of data visualization for “exposing creative, social and economic collaborations that may have previously been marginalized,” Porras cautions against the thoughtless or uncritical use of data-driven analyses (42).",
+    "sentence": "She furthermore argues that scholars who engage in these practices need to ground their approach in a thorough understanding of where their data came from and what it represents, as well as being “transparent about the limitations and biases of their datasets” (48).",
+    "after": "Moreover, she connects her critique to concerns specific to the field of Flemish art history and to her own research, noting, for example, the differences between the sources and datasets she has found in European institutions versus those she has found in Peru or the Philippines."
+   },
+   {
+    "loc": 190,
+    "page": "pp. 309–310",
+    "kind": "p",
+    "before": "We advocate for documentation that directly connects to a focus on process rather than on outputs or project completion, and for using documentation as a tool to make both the amounts and types of work that are being done visible and legible to those with institutional authority.",
+    "sentence": "Documentation in and of itself is not the end goal but rather a tool deployed intentionally to promote transparency and accountability in DH projects.",
+    "after": "Without transparency around labor and accountability between project members, digital humanities projects can and often will default to academic hierarchies that privilege research faculty at the cost of student workers, early career, non-tenure-line and contingent faculty, and staff."
+   },
+   {
+    "loc": 190,
+    "page": "pp. 309–310",
+    "kind": "p",
+    "before": "Documentation in and of itself is not the end goal but rather a tool deployed intentionally to promote transparency and accountability in DH projects.",
+    "sentence": "Without transparency around labor and accountability between project members, digital humanities projects can and often will default to academic hierarchies that privilege research faculty at the cost of student workers, early career, non-tenure-line and contingent faculty, and staff.",
+    "after": "Documentation has the potential to create space for more equitable collaboration across academic hierarchies, reveals exploitative practices that might otherwise be invisible, and distributes authority and credit more evenly."
+   }
+  ]
+ }
+]
