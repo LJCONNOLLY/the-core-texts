@@ -1,0 +1,369 @@
+{
+ "title": "Talking to Each Other: How the Core Texts Use Each Other",
+ "byline": "Sep 29, 2026 · @LJ",
+ "sections": [
+  {
+   "id": "relies",
+   "title": "Who Relies on the List Most",
+   "intro": [
+    "Among single-authored books, Rose, Hayles, and D'Ignazio and Klein lean hardest on other core authors, since each builds a central concept or method directly out of another listed thinker. Raw volume alone would put the two edited collections first (Debates 2023 with 105 citing passages, Bodies of Information with 97), but their citations are spread thinly across dozens of chapter authors, so no single argument depends on the list the way these books do."
+   ],
+   "columns": [
+    "Rank",
+    "Book",
+    "Citing passages",
+    "Leans most on",
+    "How the argument depends on them"
+   ],
+   "rows": [
+    {
+     "rank": 1,
+     "book": "Rose, Visual Methodologies",
+     "bookId": "rose-visual-methodologies-an-introduction-to",
+     "passages": 85,
+     "leansOn": "Foucault, Haraway",
+     "how": "Two whole methods chapters are Foucault's discourse and institution theory turned into steps; Haraway's situated vision becomes her rule for reflexivity."
+    },
+    {
+     "rank": 2,
+     "book": "Hayles, How We Became Posthuman",
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "passages": 26,
+     "leansOn": "Foucault, Haraway, Latour",
+     "how": "Her key distinction between \"the body\" and \"embodiment\" is built by critiquing Foucault; Haraway supplies \"informatics\"; Latour's \"never been modern\" becomes her closing claim that \"we have always been posthuman.\""
+    },
+    {
+     "rank": 3,
+     "book": "D'Ignazio and Klein, Data Feminism",
+     "bookId": "dignazio-data-feminism-strong-ideas",
+     "passages": 36,
+     "leansOn": "Haraway, Noble, Eubanks, Benjamin",
+     "how": "Haraway's \"god trick\" and situated knowledge are the theory of a whole chapter; Noble, Eubanks, and Benjamin supply most of the evidence of harm."
+    },
+    {
+     "rank": 4,
+     "book": "Gonzales, Designing Multilingual Experiences",
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "passages": 39,
+     "leansOn": "Walton, Moore, and Jones",
+     "how": "The \"social justice turn\" they named is the frame she positions the whole book inside and then extends into language."
+    },
+    {
+     "rank": 5,
+     "book": "Steele, Digital Black Feminism",
+     "bookId": "steele-digital-black-feminism-critical-cultural",
+     "passages": 26,
+     "leansOn": "Brock, Gray",
+     "how": "She defines digital Black feminism by starting from Brock's Black cyberculture and Gray's Black cyberfeminism and showing what each leaves out about Black women."
+    },
+    {
+     "rank": 6,
+     "book": "Vee, Coding Literacy",
+     "bookId": "vee-coding-literacy-how-computer-programming",
+     "passages": 38,
+     "leansOn": "Ong, Hayles",
+     "how": "Her comparison of programming to writing rests on Ong's claim that writing restructures thought, corrected by Hayles's account of code."
+    },
+    {
+     "rank": 7,
+     "book": "Nakamura, Digitizing Race",
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "passages": 37,
+     "leansOn": "Manovich, Haraway",
+     "how": "She borrows Manovich's tools for reading new media and turns them on the race and gender he ignored; Haraway's \"offshore woman\" frames women of color as objects of interactivity."
+    },
+    {
+     "rank": 8,
+     "book": "Walton, Moore, and Jones, Technical Communication After the Social Justice Turn",
+     "bookId": "walton-technical-communication-after-the-social",
+     "passages": 25,
+     "leansOn": "Ahmed, Noble",
+     "how": "Ahmed's accounts of privilege, strain, and the collective snap carry their chapters on privilege and coalition."
+    },
+    {
+     "rank": 9,
+     "book": "Chun, Updating to Remain the Same",
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "passages": 24,
+     "leansOn": "Foucault, Ahmed",
+     "how": "She tests Foucault's Panopticon and confessional against networks, and uses Ahmed's theory of hate to explain online shaming."
+    },
+    {
+     "rank": 10,
+     "book": "Ahmed, What's the Use?",
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "passages": 20,
+     "leansOn": "Foucault",
+     "how": "One chapter is built directly on Foucault's \"docility-utility\" and then carried into colonial schooling."
+    }
+   ],
+   "after": [
+    "At the other end, Latour, Ong, and Noble barely lean on the list at all. Latour and Ong mention Foucault once or twice in passing, and Noble cites only Brock, mostly as the colleague who prompted her first \"black girls\" search. Bailey, Jackson et al., Tham, Manovich, and Drucker also cite the list lightly, usually to position their work rather than to build it."
+   ]
+  },
+  {
+   "id": "overview",
+   "title": "Overview",
+   "intro": [
+    "Across the 30 books, three authors do most of the connecting work: Noble is cited by 15 other books, Foucault by 14, and Haraway by 11. Each is used in a different way."
+   ],
+   "roles": [
+    {
+     "who": "Foucault",
+     "text": "Foucault is mostly a foil. Hayles, Haraway, Chun, and Ahmed each borrow a Foucauldian concept (the Panopticon, biopolitics, the confessional, discipline) and then argue that it misses something: embodiment for Hayles, information for Haraway, networks and habit for Chun, and colonial history for Ahmed. Rose, Manovich, and McKinney are the exceptions, since they use Foucault as a working method for discourse, data, and archives."
+    },
+    {
+     "who": "Haraway",
+     "text": "Haraway's \"god trick\" and \"situated knowledges\" travel in a clear line from Rose (2001) through D'Ignazio and Klein's feminist data visualization work (cited in Losh and Wernimont, 2019, and developed in Data Feminism, 2020) to Debates (2023), turning a critique of vision into a method for feminist data work. Her cyborg is picked up separately by Hayles, Nakamura, Risam, and the queer and trans chapters in Bodies of Information."
+    },
+    {
+     "who": "Noble",
+     "text": "Noble works as shared evidence. After 2018, nearly every book that makes a claim about algorithmic harm cites her \"Black girls\" search example, usually alongside Benjamin and Eubanks."
+    }
+   ],
+   "clusters": "Two smaller clusters talk mostly among themselves. In technical communication, Walton, Moore, and Jones set the frame that Tham and Gonzales build on. In Black digital studies, Brock, Noble, Gray, Steele, Bailey, and Jackson et al. cite each other, and the later books (Steele, Gray) build on the earlier ones while naming what they leave out about Black women.",
+   "chart": {
+    "title": "Most-cited author",
+    "unit": "Books citing them",
+    "rows": [
+     {
+      "name": "Safiya Umoja Noble",
+      "count": 15
+     },
+     {
+      "name": "Michel Foucault",
+      "count": 14
+     },
+     {
+      "name": "Donna Haraway",
+      "count": 11
+     },
+     {
+      "name": "Bruno Latour",
+      "count": 8
+     },
+     {
+      "name": "Lisa Nakamura",
+      "count": 8
+     },
+     {
+      "name": "Ruha Benjamin",
+      "count": 8
+     },
+     {
+      "name": "Wendy Hui Kyong Chun",
+      "count": 7
+     },
+     {
+      "name": "Sara Ahmed",
+      "count": 7
+     }
+    ]
+   },
+   "note": "Many of these citations point to an author's other work rather than the book on the list: Foucault's Discipline and Punish and History of Sexuality more often than The Order of Things, Ahmed's Living a Feminist Life in Walton, Moore, and Jones, and Chun's earlier books in Nakamura and Brock."
+  },
+  {
+   "id": "p1966",
+   "title": "1966 to 1999: Ong, Haraway, Hayles, Latour",
+   "intro": "The earliest books on the list talk mostly to Foucault, and they tend to push against him rather than simply borrow from him. Foucault's The Order of Things (1966) names no one else on the list.",
+   "books": [
+    {
+     "label": "Ong, Orality and Literacy (1982)",
+     "bookId": "ong-orality-and-literacy-the-technologizing",
+     "text": "Ong uses Foucault only as an example of what he wants to correct. He groups Foucault with the \"textualists\" (Barthes, Derrida, Lacan) and, citing Cohen, says Foucault's archaeology is more interested in correcting modern views than in explaining the past on its own terms (p. 103). This establishes that textualist theory works almost entirely from printed texts and ignores historical continuity.",
+     "argument": "It feeds Ong's larger argument that writing and print are technologies that restructure thought, and he makes that case by showing that the theorists who study texts most closely are themselves shaped by print and cannot see the oral culture that came before it."
+    },
+    {
+     "label": "Haraway, Simians, Cyborgs, and Women (1991)",
+     "bookId": "haraway-simians-cyborgs-and-women-the-reinventio",
+     "text": "Haraway uses Foucault's idea of the \"incitement to discourse\" on sexuality (from The History of Sexuality, 1976) to establish that the mid-century \"gender identity\" paradigm grew out of normalizing, therapeutic life sciences (p. 132). She then goes further and argues that Foucault's biopolitics is \"a flaccid premonition of cyborg politics\" (p. 150) and that \"the cyborg is not subject to Foucault's biopolitics; the cyborg simulates politics\" (p. 163). She uses Hayles's early work on postmodernism (1987) to establish that information theory \"denaturalized\" text, context, and time, which lets her read the immune system as a postmodern object built from information and code (p. 207). She uses Latour (with Woolgar, 1979, and 1984) to establish that all scientific stories are \"multiply mediated\" and that science and technology are fresh sources of power (pp. 92, 165).",
+     "argument": "All three feed her larger argument that feminists need new tools for a world rebuilt through the social relations of science and technology, and she makes that case by treating Foucault's model of power over bodies as outdated once bodies become systems of information."
+    },
+    {
+     "label": "Hayles, How We Became Posthuman (1999)",
+     "bookId": "hayles-how-we-became-posthuman-virtual-bodies-i",
+     "text": "Hayles uses Foucault more than anyone else, and mostly as a foil. She credits his archaeology with showing that the body is shaped by discourse, but argues that his account of the Panopticon abstracts actual bodies into \"a universalized body worked upon in a uniform way\" (p. 125). She uses his reading of Linnaeus's taxonomies in The Order of Things to show how theory treats inscription as if its medium does not matter (p. 127). This establishes her key distinction between \"the body\" (an abstract, discursive norm) and \"embodiment\" (the specific, lived, material instance). She uses Haraway in a more generous way, borrowing her definition of \"informatics\" (p. 28), her cyborg as a figure that breaks the human/machine boundary (p. 60), and her feminist critique of mastery and objectivity (p. 179). She uses Latour's We Have Never Been Modern as a model for her own closing claim that \"we have always been posthuman\" (p. 181).",
+     "argument": "Together these feed her larger argument that cybernetics erased the body by treating information as separate from its material form, and she makes that case by taking Foucault's discourse analysis, correcting its disembodiment with Haraway's feminist materialism, and borrowing Latour's historical reframing to show that the posthuman was never a clean break."
+    },
+    {
+     "label": "Latour, Reassembling the Social (2005)",
+     "bookId": "latour-reassembling-the-social-an-introduction",
+     "text": "Latour mentions Foucault once, to set his own concept against the panopticon. He says the panopticon has \"remained a utopia\" that feeds \"total paranoia and total megalomania\" (p. 111). This establishes that total surveillance from one central point never exists in practice.",
+     "argument": "It feeds his larger argument that the social is made of traceable, local connections, which he makes by proposing the \"oligopticon\" instead: real sites that see a little, very well."
+    }
+   ]
+  },
+  {
+   "id": "p2001",
+   "title": "2001 to 2017: Rose, Nakamura, Chun, Vee",
+   "intro": "In this middle stretch, Foucault and Haraway become shared tools, and the list starts citing its own newer members (Hayles, Manovich, Chun, Nakamura).",
+   "books": [
+    {
+     "label": "Rose, Visual Methodologies (2001)",
+     "bookId": "rose-visual-methodologies-an-introduction-to",
+     "text": "Rose uses Foucault as the foundation for two of her methods chapters. She walks readers through his terms (discourse, discursive formation, power/knowledge, regime of truth) and uses Discipline and Punish to explain surveillance as a way of seeing: \"visibility is a trap\" (pp. 142 to 175). She borrows his split between an institution's \"apparatus\" and its \"technologies\" to organize her analysis of museums (p. 174). She also criticizes Foucauldian research for focusing on how institutions discipline people and not on how that discipline fails (p. 191). She uses Haraway's \"god-trick\" of seeing everything from nowhere to establish that ways of seeing carry power, since only a few institutions tied to \"militarism, capitalism, colonialism, and male supremacy\" get to look without being looked at (p. 5). She then turns Haraway into a method, using her call to become \"answerable for what we learn how to see\" (p. 12) as the basis for reflexivity. She also uses Haraway's Primate Visions reading of the American Museum of Natural History as a worked example of discourse analysis, while admitting Haraway's claims about the dioramas \"give me pause\" as somewhat ungrounded (p. 194).",
+     "argument": "Both feed her larger argument that images must be studied at the sites where they are produced, displayed, and seen, and she makes that case by turning Foucault's theory of power and Haraway's situated vision into concrete steps a researcher can follow."
+    },
+    {
+     "label": "Nakamura, Digitizing Race (2008)",
+     "bookId": "nakamura-digitizing-race-visual-cultures-of-the-i",
+     "text": "Nakamura uses Haraway's \"offshore woman\" in the \"integrated circuit\" to establish that women of color appear in digital culture as objects of interactivity rather than as its subjects (pp. 19, 105). She applies this to The Matrix films, noting that the Black and Latina women there fight and fly but never program. She also uses Haraway's later work to show that race has moved from something seen with the eye to something coded in genes and databases (pp. 96, 125). She uses Manovich more than any other listed author, and in two ways. First, she praises The Language of New Media and borrows his concepts of modularity, selection, and the \"myth of interactivity\" to read AIM buddy icons and web interfaces (pp. 16, 55, 161). Second, she criticizes him for treating interfaces as pure form and for ignoring race, gender, and the \"tacky\" amateur media that young people actually make (pp. 11, 68, 106). She uses Chun (her earlier work) to establish that the internet \"has been made oriental\" (p. 180).",
+     "argument": "Together these feed her larger argument that race is produced online through visual culture, and she makes that case by taking the formal tools of new media theory and applying them to the raced and gendered images those theorists ignored."
+    },
+    {
+     "label": "Chun, Updating to Remain the Same (2016)",
+     "bookId": "chun-updating-to-remain-the-same-habitual-new",
+     "text": "Chun uses Foucault's Panopticon to establish that our trust in transparency comes from Enlightenment ideas of discipline, then argues that the mobile, all-seeing Santa Claus is \"arguably a better model\" (p. 100). She uses his account of the confessional in The History of Sexuality to read online \"outing\" and notecard videos (pp. 141 to 155), but refuses to dismiss those videos as \"just another page in the History of Sexuality\" (p. 155). She uses Ahmed's The Cultural Politics of Emotion to establish that hatred builds community by aligning an \"I\" and a \"we\" against a hated other (p. 157), and pairs this with Nakamura's claim that trolling is a signal and not noise (p. 158). She then notes where Ahmed's model \"falls short\" for slut shaming (p. 158). She uses Latour's actor-network theory as one example of theories that treat networks and maps as ways to make the invisible visible, a hope she questions (pp. 43 to 49).",
+     "argument": "These feed her larger argument that new media matter most through habit and crisis, not novelty, and she makes that case by testing older theories of surveillance, confession, and emotion against what happens on networks."
+    },
+    {
+     "label": "Vee, Coding Literacy (2017)",
+     "bookId": "vee-coding-literacy-how-computer-programming",
+     "text": "Vee uses Ong more than any other listed author, but mainly to separate herself from him. She borrows his claim that writing is \"a technology that restructures thought\" and his point that writing \"does not take over immediately\" (pp. 19, 71), then argues that Ong, Goody, and McLuhan put \"too much pressure on the technologies themselves\" and that their \"great divide\" claims have been \"justifiably\" critiqued (pp. 71, 124). She uses Hayles to establish that code is a third layer above speech and writing, and she borrows Hayles's terms \"Regime of Computation\" and \"computational universe\" (pp. 82, 133). She uses Chun to establish that code is material and that source code is not the same as machine code (p. 18). She uses Noble to show that algorithms can naturalize racial and gender bias (p. 26) and Losh to warn that coding campaigns may turn education into a market product (p. 60).",
+     "argument": "Together these feed her larger argument that programming is becoming a literacy like writing, and she makes that case by keeping Ong's big comparison between writing and thought while replacing his technological determinism with a social and material account."
+    }
+   ]
+  },
+  {
+   "id": "p2018",
+   "title": "2018 to 2019: Noble, Risam, Losh and Wernimont, Benjamin, Walton/Moore/Jones, Ahmed",
+   "intro": "By 2018 the list starts citing its own recent members heavily, and Noble becomes the go-to example of algorithmic bias. Eubanks's Automating Inequality (2018) names no one else on the list.",
+   "books": [
+    {
+     "label": "Noble, Algorithms of Oppression (2018)",
+     "bookId": "noble-algorithms-of-oppression",
+     "text": "Noble uses only Brock. She credits him with sparking the project when he told her in 2009 to search \"black girls\" (p. 18). She then uses his claim that \"Whiteness as normality\" shapes information technology and that the Western internet \"represents and maintains White, masculine, bourgeois, heterosexual and Christian culture\" (p. 65). She uses his study of Blackbird, a browser built for Black users, to establish that culturally specific search tools are treated as an \"imposition\" on the internet's supposed universality (p. 98).",
+     "argument": "This feeds her larger argument that search engines reproduce racism and sexism, and she makes that case by using Brock's analysis of whiteness as the default in tech design to explain why Google's results are not neutral."
+    },
+    {
+     "label": "Risam, New Digital Worlds (2018)",
+     "bookId": "risam-new-digital-worlds-postcolonial-digital",
+     "text": "Risam uses Haraway's \"situated knowledges\" to establish that the Global North's DH practices are local, not universal (p. 12), and the cyborg to argue that the line between human and nonhuman is \"a false one\" (p. 126). She uses Hayles's posthuman subject as \"a material-informational entity\" to describe the human that DH studies (p. 121). She uses Foucault's idea of the archive's \"system of its enunciability\" to show how the digital record can repeat a colonial world-picture (p. 50). She uses Nakamura and Chun to establish that the internet was never a blank slate free of race (pp. 6, 36), and Philip's postcolonial computing as a model for decentering the Global North (p. 12). She criticizes Manovich's \"selfiecity\" for relying on Mechanical Turk workers whose demographics shape the data (p. 130) and Drucker (with Burdick et al.) for definitions of DH that build a false \"hack/yack\" binary (p. 52). She uses Latour's shift from \"critiquing to composing\" to resolve that binary (p. 58).",
+     "argument": "Together these feed her larger argument that DH must be postcolonial and intersectional, and she makes that case by combining feminist STS and new media critiques of race with a pointed critique of DH's own founding definitions and methods."
+    },
+    {
+     "label": "Losh and Wernimont (eds.), Bodies of Information (2019)",
+     "bookId": "losh-bodies-of-information",
+     "text": "This edited collection is where the list talks to itself the most, since many chapters cite other listed authors. The editors take the book's title from Hayles's account of how \"information lost its body\" (p. 16). Contributors use Haraway in many ways: the cyborg as a queer figure (p. 116), a \"view from somewhere\" against journalism's neutrality (p. 458), and a starting point for micha cárdenas's \"android goddess,\" which extends the debate between Haraway and Puar through trans women of color (p. 26). Contributors use D'Ignazio and Klein's feminist data visualization principles, including their reading of Haraway's \"God trick,\" to justify material and ephemeral data art (pp. 13 to 18). They use Drucker's \"speculative computing\" and \"aesthesis\" as a basis for queer DH methods (p. 118) and her Graphesis to theorize interfaces (p. 232). They use Risam's intersectional framework as the standard for inclusive DH (pp. 113, 370), and Bailey's \"All the Digital Humanists Are White\" and her ethics of collaboration and pay to guide feminist research practice (pp. 294, 419). They use Nakamura to make visible the women of color who build hardware and scan books (pp. 11, 252), and Foucault's History of Sexuality to show how Victorian categories controlled behavior (p. 160).",
+     "argument": "Together these feed the collection's larger argument that DH must account for bodies, labor, and difference, and it makes that case by gathering the feminist, queer, and race-critical work on the list into one set of tools for DH practice."
+    },
+    {
+     "label": "Benjamin, Race After Technology (2019)",
+     "bookId": "benjamin-race-after-technology",
+     "text": "Benjamin uses Noble to establish that biased search results come from \"a corporate logic of either willful neglect or a profit imperative\" (p. 44), and she borrows Noble's terms \"technological redlining\" (p. 147) and \"an app will not save us\" (p. 179). She uses Eubanks to show that automated welfare decisions \"are not magically fairer\" than human ones and that discrimination is simply displaced (p. 54). She uses Nakamura to challenge the model minority framing of Asian Americans and to show that racism is \"built into the tech industry\" (pp. 42, 59). She uses Foucault's \"visibility is a trap\" to explain surveillance of racialized groups (p. 111), and Haraway's idea of technologies as \"frozen moments\" of social relations (p. 65). She uses Costanza-Chock's \"design justice\" as a model for thinking about power in design (p. 175).",
+     "argument": "These feed her larger argument that racism works through technology and becomes hidden inside it, which she calls the \"New Jim Code.\" She makes that case by stacking evidence from Noble on search, Eubanks on welfare, and Nakamura on labor to show one pattern across many systems."
+    },
+    {
+     "label": "Walton, Moore, and Jones, Technical Communication After the Social Justice Turn (2019)",
+     "bookId": "walton-technical-communication-after-the-social",
+     "text": "Walton, Moore, and Jones use Ahmed's Living a Feminist Life (2017) more than anyone else. They borrow her idea of privilege as \"an energy-saving device\" (p. 84), her image of an ill-fitting garment to describe the \"strain\" of not matching the norm (p. 100), her account of norms as paths that give power \"directionality,\" and her \"collective snap\" as a model for coalition (p. 124). They use Noble to show that algorithms sit in the \"structural\" domain of power and to justify their own Black feminist approach (pp. 110, 115). They use Foucault's Discipline and Punish to explain the \"disciplinary\" domain, where procedures reproduce oppression (p. 116). They use Gonzales's work on translation and localization as a model of social justice work already happening in the field (pp. 6, 123).",
+     "argument": "These feed their larger argument that technical communication must \"recognize, reveal, reject, and replace\" oppression, and they make that case by mapping Ahmed's feminist theory, Noble's algorithm critique, and Foucault's discipline onto a framework of domains of power that technical communicators can act on."
+    },
+    {
+     "label": "Ahmed, What's the Use? (2019)",
+     "bookId": "ahmed-whats-the-use-on-the-uses-of-use",
+     "text": "Ahmed builds her chapter on education directly on Foucault's Discipline and Punish, borrowing his definition of discipline as a relation of \"docility-utility\" and his claim that in \"the correct use of the body... nothing must remain idle or useless\" (p. 104). She then notes a gap: Foucault discusses monitorial schools but never cites Bentham's \"Chrestomathia,\" a school designed on the same principle, and she takes the analysis \"in a direction that Foucault did not\" by tracing those schools into the colonies (p. 105). She also notes that in these schools the gaze runs differently, since students monitor each other rather than themselves (p. 122). She briefly uses Haraway's cyborg through Sarah Franklin's \"cyborg embryo\" (p. 203).",
+     "argument": "This feeds her larger argument that \"use\" is a technique for shaping bodies and worlds, and she makes that case by extending Foucault's discipline into the history of utilitarian education and empire."
+    }
+   ]
+  },
+  {
+   "id": "p2020",
+   "title": "2020: Manovich, D'Ignazio and Klein, Costanza-Chock, Brock, Jackson/Bailey/Welles, McKinney, Gray",
+   "intro": "The 2020 books cite each other as a network, with Noble, Benjamin, and Eubanks serving as the shared evidence base for claims about algorithmic harm.",
+   "books": [
+    {
+     "label": "Manovich, Cultural Analytics (2020)",
+     "bookId": "manovich-cultural-analytics",
+     "text": "Manovich uses Foucault more positively than most authors on the list. He argues that The Archaeology of Knowledge is \"very relevant for computational analysis\" because Foucault's idea of discourse lets a dataset of \"statements\" hold contradictions instead of one coherent pattern (pp. 124 to 125). He treats large samples of social media posts as Foucauldian archives and calls his project \"a partial archeology of data science.\" He also uses Foucault's claim that the eighteenth-century table was \"at once a technique of power and a procedure of knowledge\" (p. 131). He uses Latour's idea that any \"whole\" is now \"a provisional visualization which can be modified and reversed\" to describe interactive visualization as a new way of thinking (p. 203).",
+     "argument": "These feed his larger argument that computation can study culture at scale without flattening it, and he makes that case by borrowing Foucault's method for reading many contradictory statements and applying it to millions of images and posts."
+    },
+    {
+     "label": "D'Ignazio and Klein, Data Feminism (2020)",
+     "bookId": "dignazio-data-feminism-strong-ideas",
+     "text": "D'Ignazio and Klein use Haraway as a core theorist. They borrow her \"god trick of seeing everything from nowhere\" to argue that clean data visualizations hide the people and choices behind them (p. 73), her \"situated knowledge\" and \"feminist objectivity\" to argue that all knowledge is partial (p. 79), and her phrase \"stay with the trouble\" to describe how privileged researchers must keep learning (p. 68). They use Noble to show that biased search results are caused by a racist and sexist society, not just correlated with it (pp. 33, 139). They use Eubanks's Allegheny County child welfare model to show that data systems \"confuse parenting while poor with poor parenting\" and reflect a \"scarcity bias\" (p. 42). They use Benjamin's \"New Jim Code\" and \"imagined objectivity\" to show that fixing bias in a dataset is only a \"Band-Aid\" (pp. 56, 60). They use Costanza-Chock's shift from fairness to equity (p. 61), Ahmed's account of how some people \"take up spaces by screening out others\" to justify feminist citation (p. 163), and Hicks's history of 1970s women computer workers to frame the Google walkout (p. 176).",
+     "argument": "Together these feed their larger argument that data science must examine and challenge power, and they make that case by pairing Haraway's feminist epistemology with concrete case studies of harm drawn from Noble, Eubanks, and Benjamin."
+    },
+    {
+     "label": "Costanza-Chock, Design Justice (2020)",
+     "bookId": "costanzachock-design-justice-community-led-practices-t",
+     "text": "Costanza-Chock uses Benjamin most, borrowing her definition of \"discriminatory design\" through the example of the race-corrected spirometer and her \"New Jim Code\" to show that \"colorblind\" systems still reinforce white supremacy (pp. 32, 41). They use Noble to show that search algorithms reproduce the \"matrix of domination\" and borrow her call for \"black feminist technology studies\" (pp. 41, 117). They use Eubanks to show that welfare algorithms were built to roll back hard-won social programs (p. 41). They use D'Ignazio and Klein's \"Teach Data Like an Intersectional Feminist\" as a model for design pedagogy (p. 99). They use Brock's critical technocultural discourse analysis as a \"kindred\" approach that centers marginalized users (p. 117), Gray's #CiteHerWork as a model of proper attribution (p. 66), and Jackson, Bailey, and Welles on hashtag activism to show that stories about design matter (p. 66). They use Chun to argue that citizens should not be reduced to users (p. 84).",
+     "argument": "These feed their larger argument that design must be led by the communities most harmed by it, and they make that case by gathering the list's critiques of algorithms and data into one framework for design practice."
+    },
+    {
+     "label": "Brock, Distributed Blackness (2020)",
+     "bookId": "jr-distributed-blackness-african-american-c",
+     "text": "Brock uses Nakamura to establish that racism online is \"not a glitch but a feature\" (p. 84) and that trolling is a \"white masculinist\" pleasure practice (p. 25). He also uses her early work to show how cyberculture research once doubted that race could be \"authentic\" online, a doubt he faced in his own research (p. 56). He uses Chun's \"race as technology\" (2013), but says her focus on how whiteness builds technologies of race is \"not as necessary here\" since he wants to start from Black thought (p. 119). He uses Ahmed's view of affect as an orientation between bodies to support his idea of the \"libidinal\" in technology use (p. 15). He uses Steele's work on the barbershop to show that Black discourse has moved into digital spaces (p. 78) and Gray on game streaming (p. 80).",
+     "argument": "These feed his larger argument that Black online culture is a full technoculture, and he makes that case by accepting Nakamura's claim that racism is built into the internet while refusing to make oppression his starting point."
+    },
+    {
+     "label": "Jackson, Bailey, and Foucault Welles, #HashtagActivism (2020)",
+     "bookId": "jackson-hashtagactivism-networks-of-race-and-gen",
+     "text": "Jackson, Bailey, and Foucault Welles use Benjamin's \"Black Afterlife\" to show how hashtags like #SayHerName keep the dead present and mobilize movements (pp. 49, 86). They use Noble to establish that platforms absorb the racial and gender biases of their programmers (p. 103), and Costanza-Chock to caution that online advocacy alone cannot create social change (p. 101).",
+     "argument": "These feed their larger argument that marginalized groups use Twitter hashtags to build counterpublics, and they make that case by using Benjamin to explain what hashtags do for memory and using Noble and Costanza-Chock to mark the limits of the platform."
+    },
+    {
+     "label": "McKinney, Information Activism (2020)",
+     "bookId": "mckinney-information-activism-a-queer-history-of",
+     "text": "McKinney uses Ahmed in several ways. She borrows Ahmed's \"desire lines,\" the unofficial paths people wear into grass, to describe how lesbian indexes and bibliographies open new routes to marginalized knowledge (p. 114). She uses Ahmed's \"lesbian feminism of color\" (p. 23) and her claim that transfeminism \"most recalls the militant spirit of lesbian feminism\" (p. 24). She uses Foucault's Archaeology of Knowledge to define the archive as a \"discursive system\" or infrastructure (p. 14). She uses Nakamura's work on Navajo women who built microchips and on the digital afterlives of This Bridge Called My Back to show that feminist media labor happens behind the scenes (pp. 11, 178). She uses Chun to show that networks make egalitarian promises that hide control (p. 62) and that digital rhetoric confuses storage with memory (p. 212).",
+     "argument": "These feed her larger argument that lesbian feminists were information activists who built their own media infrastructures, and she makes that case by using Foucault to treat archives as infrastructure and Ahmed to explain how that infrastructure guided people toward each other."
+    },
+    {
+     "label": "Gray, Intersectional Tech (2020)",
+     "bookId": "gray-intersectional-tech-black-users-in-digit",
+     "text": "Gray uses Noble most, including her claim that \"algorithmic oppression is not just a glitch\" (p. 89), her framework of Black feminist technology studies (p. 24), and the Google Photos case to show how facial recognition fails darker-skinned people (p. 78). She uses Bailey's term \"misogynoir\" to name the hatred Black women face in gaming (pp. 19, 55). She uses Steele to show that Black oral traditions and intimate spaces like the kitchen table and beauty salon have moved online (p. 60). She uses Costanza-Chock's design justice, but argues that inclusive design \"alone\" cannot address histories of exclusion (p. 80). She uses Rose's feminist geography (from \"Women and Everyday Spaces\") to explain women's unease in public spaces (p. 87).",
+     "argument": "These feed her larger argument that Black women in gaming build intersectional counterpublics, and she makes that case by combining Noble's structural critique with Bailey and Steele's Black feminist concepts and applying them to a space that rarely talks about race."
+    }
+   ]
+  },
+  {
+   "id": "p2021",
+   "title": "2021 to 2023: Tham, Steele, Bailey, Drucker, Mullaney et al., Gonzales, Gold and Klein",
+   "intro": "The latest books use the list mostly as settled ground. They cite Noble, Benjamin, Walton/Moore/Jones, and Risam as established authorities and build new fields or methods on top of them.",
+   "books": [
+    {
+     "label": "Tham, Design Thinking in Technical Communication (2021)",
+     "bookId": "tham-design-thinking-in-technical-communicati",
+     "text": "Tham uses Walton, Moore, and Jones (the 2019 book and their 2016 \"Disrupting the Past to Disrupt the Future\") to establish that technical communicators are \"changemakers\" who should resist oppressive practices (pp. 59, 63). He borrows their call to \"disrupt the future\" as the closing charge of his book (p. 127), and uses their attention to \"power and privilege\" as a reflection step before a design workshop (p. 75). He uses Noble to show that human bias shapes technology design (p. 62).",
+     "argument": "These feed his larger argument that design thinking can serve social innovation in technical communication, and he makes that case by attaching the social justice turn's goals to a practical design process."
+    },
+    {
+     "label": "Steele, Digital Black Feminism (2021)",
+     "bookId": "steele-digital-black-feminism-critical-cultural",
+     "text": "Steele uses Brock most, and she builds on him while pushing past him. She borrows his definition of Black cyberculture as \"digital practice and artifacts informed by a Black aesthetic,\" calls it \"a valuable starting point,\" and then asserts that digital Black feminism is \"uniquely suited to undercut\" white men's cyberculture (pp. 41 to 42). She uses his reading of the hashtag as \"signifier, sign, and signified\" to explain Black Twitter (p. 80). She uses Gray's \"Black cyberfeminism\" as a better tool for Black women online, but argues it \"remains bound to the lineage of cyberfeminism that excludes Black women's voices\" (p. 18). She uses Noble's \"Black girls\" search as the starting example of algorithmic misogynoir (p. 11). She groups Noble, Benjamin, and Brock as a \"new genre\" on race and technology, then notes that this work often uses Black men as \"a proxy for Blackness\" (p. 13).",
+     "argument": "These feed her larger argument that Black women's digital practice is its own tradition, and she makes that case by using Brock and Gray as foundations while showing what each leaves out about Black women."
+    },
+    {
+     "label": "Bailey, Misogynoir Transformed (2021)",
+     "bookId": "bailey-misogynoir-transformed-black-womens-digi",
+     "text": "Bailey uses Noble's \"Black girls\" search findings to establish that the internet circulates old stereotypes of Black women faster and is not \"a democratizing force of good for all\" (pp. 21 to 23). She uses her own work with Jackson and Foucault Welles to show that marginalized people adapt Twitter and Tumblr to do more than their creators imagined (p. 154). She names Benjamin and Gray as scholars reimagining how communities could work with technologists (p. 182).",
+     "argument": "These feed her larger argument that Black women and nonbinary people turn digital tools against misogynoir, and she makes that case by setting Noble's evidence of harm against her own evidence of resistance."
+    },
+    {
+     "label": "Drucker, The Digital Humanities Coursebook (2021)",
+     "bookId": "drucker-the-digital-humanities-coursebook-an-int",
+     "text": "Drucker uses the list as teaching references. She presents Manovich's Cultural Analytics as a pioneering method for analyzing images at scale and assigns it as an exercise (pp. 121 to 126). She uses D'Ignazio and Klein to raise the question of \"whose values are embodied in the information design process\" (p. 99), Noble to show that search engines \"are far from neutral\" (p. 38), and Risam to point to critical race debates about digitization and exclusion (p. 6). She frames DH's central debate through Gold and Klein's Debates (p. 5).",
+     "argument": "These feed her larger aim of introducing DH methods to students, and she does so by pairing each technical method with a critical voice from the list."
+    },
+    {
+     "label": "Mullaney, Peters, Hicks, and Philip (eds.), Your Computer Is on Fire (2021)",
+     "bookId": "mullaney-your-computer-is-on-fire",
+     "text": "This collection uses Noble most, as its main evidence that platforms posing as neutral actually serve profit, and that trusting an ad company to be neutral \"fundamentally misunderstands our capitalist marketplace\" (pp. 21 to 22, 135). It uses Hayles's \"flickering signifier\" to explain how digital signs are built from long chains of code (p. 283) and Haraway's cyborg to describe the blurred line between humans and technology (p. 199).",
+     "argument": "These feed its larger argument that technology's failures are social and political, and the chapters make that case by drawing on Noble's critique of neutrality as the common thread."
+    },
+    {
+     "label": "Gonzales, Designing Multilingual Experiences in Technical Communication (2022)",
+     "bookId": "gonzales-designing-multilingual-experiences-in-te",
+     "text": "Gonzales cites Walton, Moore, and Jones more than any other listed authors, drawing on the 2019 book, their 2016 article, and related solo work such as Jones and Williams (2018). She uses their \"social justice turn\" to frame her call for the field to move away from \"damage-based\" multilingual research (p. 7). She borrows their attention to \"privilege, power, and positionality\" as a requirement for working with multilingual communities of color (pp. 48, 139), and their call for \"coalitions\" (p. 39). She uses Jones and Williams to argue that treating language as \"correct\" or \"incorrect\" turns documents into \"technologies of disenfranchisement\" (p. 173). She adopts Walton's emphasis on \"human dignity and human rights\" in human-centered design, while noting that UX practice often follows an \"extraction model\" (p. 48). She uses Noble to show that Google, in both Spanish and English, favors standard language ideologies (p. 69), and Benjamin's \"coded inequity\" masked as \"technological benevolence\" (p. 6).",
+     "argument": "These feed her larger argument that multilingual communities already hold expert communication practices, and she makes that case by extending the social justice turn from race and power into language itself."
+    },
+    {
+     "label": "Gold and Klein (eds.), Debates in the Digital Humanities 2023 (2023)",
+     "bookId": "gold-debates-in-the-digital-humanities-2023",
+     "text": "This collection has the most mentions on the list, since its many chapters draw on nearly everyone. One chapter uses Latour's actor-network theory and his \"Why Has Critique Run Out of Steam?\" and then reads Latour \"through Ahmed\" to argue that critique still has a future in DH (pp. 369 to 375). Others use Ahmed's work on complaint as \"diversity work\" (p. 316) and her \"queer phenomenology\" to argue that DH as a field has an orientation (p. 367). Several chapters use Risam's New Digital Worlds as the basis for Africana and postcolonial DH, quoting that \"local practices are good practices\" (pp. 240 to 245). Chapters use Bailey's collaboration with Janet Mock on #GirlsLikeUs, and Jackson, Bailey, and Foucault Welles's practice of letting \"hashtag users speak for themselves,\" as models for ethical social media research (pp. 283 to 285). Others use Drucker's \"Is There a 'Digital' Art History?\" and argue her distinction has been \"mischaracterized\" (p. 228). Chapters also use Noble and Benjamin as shared evidence that AI upholds white supremacy, while noting Benjamin's point that these tools \"can be retooled for solidarity\" (p. 197). They use D'Ignazio and Klein on invisible labor and structural oppression (p3p. 37, 168) and Haraway's \"god trick\" and standpoint for feminist data methods (pp. 109, 123).",
+     "argument": "Together these feed the collection's larger argument that DH must center justice, labor, and marginalized communities, and it makes that case by treating the list's critical works as the field's new foundation."
+    }
+   ]
+  }
+ ]
+}

@@ -82,3 +82,7 @@ export async function loadTermIndex() {
 export async function loadTerm(id) {
   return fetchJSON(`terms/${id}.json`);
 }
+
+export async function loadTalkingEssay() {
+  return fetchJSON('talking-essay.json');
+}
