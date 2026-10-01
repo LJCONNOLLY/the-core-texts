@@ -1,7 +1,13 @@
 import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import { loadIndex, loadTalking } from '../utils/data';
 import { highlightText } from '../utils/text';
+import TalkingEssay from './TalkingEssay';
+
+const TABS = [
+  { id: 'text', label: 'Connections in the text' },
+  { id: 'essay', label: 'How the Core Texts Use Each Other' },
+];
 
 const MODES = [
   { id: 'book', label: 'Who each book talks to' },
@@ -14,8 +20,10 @@ export default function TalkingToEachOther() {
   const [index, setIndex] = useState(null);
   const [talking, setTalking] = useState(null);
   const [error, setError] = useState(null);
+  const [params, setParams] = useSearchParams();
+  const view = params.get('view') === 'essay' ? 'essay' : 'text';
   const [mode, setMode] = useState('book');
-  const [sourceId, setSourceId] = useState(null);
+  const [sourceId, setSourceId] = useState(params.get('book'));
   const [authorName, setAuthorName] = useState(null);
 
   useEffect(() => {
@@ -23,7 +31,7 @@ export default function TalkingToEachOther() {
       .then(([idx, t]) => {
         setIndex(idx);
         setTalking(t);
-        setSourceId(booksByYear(t)[0]?.[0] || null);
+        setSourceId(id => (id && t.sources[id] ? id : booksByYear(t)[0]?.[0] || null));
       })
       .catch(e => setError(e.message));
   }, []);
@@ -70,7 +78,7 @@ export default function TalkingToEachOther() {
       title: titleOf(id),
       detail: `${src.year || 'n.d.'} • ${src.authors.join(' & ')} • ${src.mentions.length} mentions`,
       selected: id === sourceId,
-      onClick: () => setSourceId(id),
+      onClick: () => { setSourceId(id); setParams({ book: id }); },
     }));
   } else {
     const mentions = all.filter(m => m.author === selectedAuthor);
@@ -101,20 +109,32 @@ export default function TalkingToEachOther() {
         <p>Every place a book’s main text names another author on the core list, with the sentence before and after.</p>
       </div>
 
-      <div role="tablist" style={{ display: 'flex', borderBottom: '2px solid var(--border, #d9d9d9)', marginBottom: '1.25rem' }}>
-        <button
-          role="tab"
-          aria-selected="true"
-          style={{
-            padding: '0.6rem 1.1rem', marginBottom: '-2px', border: 'none', background: 'transparent',
-            borderBottom: '3px solid var(--coral)', color: 'var(--forest)', fontWeight: 700,
-            fontFamily: 'var(--font-heading)', fontSize: '1.15rem', cursor: 'default',
-          }}
-        >
-          Connections in the text
-        </button>
+      <div role="tablist" className="tt-tabs">
+        {TABS.map(t => (
+          <button
+            key={t.id}
+            role="tab"
+            aria-selected={view === t.id}
+            className={`tt-tab ${view === t.id ? 'on' : ''}`}
+            onClick={() => setParams(t.id === 'essay' ? { view: 'essay' } : {})}
+          >
+            {t.label}
+          </button>
+        ))}
       </div>
 
+      {view === 'essay' && (
+        <TalkingEssay
+          onShowPassages={id => {
+            setSourceId(id);
+            setMode('book');
+            setParams({ book: id });
+            window.scrollTo({ top: 0 });
+          }}
+        />
+      )}
+
+      {view === 'text' && (<>
       <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', flexWrap: 'wrap' }}>
         {MODES.map(m => (
           <button
@@ -200,6 +220,7 @@ export default function TalkingToEachOther() {
           )}
         </div>
       </div>
+      </>)}
     </div>
   );
 }
